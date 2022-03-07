@@ -118,96 +118,15 @@ include_once("includes/header.php");
         <div class="row">
             <div class="col-md-12">
                 <h2 class="top-head pt-5 mt-md-4 text-center pb-4">Courses</h2>
-                <!-- <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
-                    <div class="row">
-                        <div class="col-lg-4 col-12">
-                            <div class="codeimg mb-3 mb-md-0">
-                                <img src="images/full.jpg" class="img-fluid w-100" alt="" title="" />
-                            </div>
-                        </div>
-                     <div class="col-lg-8 col-12">
-                            <div class="row">
-                                <div class="col-lg-9 col-md-12">
-                                    <h2 class="course-tophead">RPA Developer Course</h2>
-                                    <p class="course-toppara">
-                                    Robot Process Automation (RPA) is automating mundane tasks using robots. Sounds intriguing, right? Well, robots are invigorating, and building one is a big achievement in itself. But the sad news is many students avoid RPA developer programs due to the sluggish ways of existing teaching methods. After all, who prefers learning about robots on the whiteboard?
-                                    </p>
-                                </div>
-                                <div class="col-lg-3 col-md-12 text-lg-end">
-                                    <div class="regbtn">
-                                        <a href="datascience.php" class="text-decoration-none">Know More</a>
-                                    </div>
-                                </div>
-                            </div> 
-                            <div class="row pt-md-5 pt-3 toysec">
-                                <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic4.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                60+ Hours <br />
-                                                Hands on Training
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 pt-4 pt-sm-0 pt-md-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic1-n.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                Work On <br />
-                                                Real World Projects
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                </div>
-                                 <div class="row pt-md-5 pb-3 toysec">
-                                <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic2.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                No Prior Coding <br />
-                                                Knowledge required
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic3-n.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                Instructor - Led <br />
-                                                Live Classes
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>                        
-                    </div>
-                    
-                </div> -->
                 <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
                     <div class="row">
-                        <div class="col-lg-4 col-12">
+                        <div class="col-lg-3 col-12">
                             <div class="codeimg mb-3 mb-md-0">
                                 <img src="images/data.jpg" class="img-fluid w-100" alt="" title="" />
                             </div>
                         </div>
-                        <div class="col-lg-8 col-12">
-                            <div class="row">
+                        <div class="col-lg-9 col-12">
+                            <div class="row align-items-center">
                                 <div class="col-lg-9 col-md-12">
                                     <h2 class="course-tophead">Full-Stack Developer</h2>
                                     <p class="course-toppara">
