@@ -54,7 +54,7 @@
 																	</a>
 																	<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 																			<li><a class="dropdown-item" href="fullstack.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
+																					<span class="img-sec me-3"><i class="fa-solid fa-browser"></i></span>
 																					Full Stack Developer 
 																					</a>
 																			</li>
