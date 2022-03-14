@@ -24,7 +24,7 @@ include_once("includes/header.php");
                 <div class="text-center text-md-end">
                     <img src="images/b1.png" class="img-fluid" alt="" title="">
                 </div>
-                <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Babu
+                <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
                     <div class="starrating pt-1">
                         <span><i class="fas fa-star"></i></span>
                         <span><i class="fas fa-star"></i></span>
@@ -107,6 +107,7 @@ include_once("includes/header.php");
                     <a href="" class="text-decoration-none">Register</a>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
