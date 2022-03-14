@@ -119,14 +119,15 @@ include_once("includes/header.php");
         <div class="row">
             <div class="col-md-12">
                 <h2 class="top-head pt-5 mt-md-4 text-center pb-4">Courses</h2>
+                <!-- Course #1 -->
                 <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
                     <div class="row">
-                        <div class="col-lg-3 col-12">
+                        <div class="col-lg-2 col-12">
                             <div class="codeimg mb-3 mb-md-0">
                                 <img src="images/data.jpg" class="img-fluid w-100" alt="" title="" />
                             </div>
                         </div>
-                        <div class="col-lg-9 col-12">
+                        <div class="col-lg-10 col-12">
                             <div class="row align-items-center">
                                 <div class="col-lg-9 col-md-12">
                                     <h2 class="course-tophead">Full-Stack Developer</h2>
@@ -145,7 +146,7 @@ include_once("includes/header.php");
                                     </div>
                                 </div>
                             </div> 
-                            <div class="row pt-md-5 pt-3 toysec">
+                            <div class="row pt-md-3 pt-3 toysec">
                                 <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
                                     <div class="row align-items-center">
                                         <div class="col-lg-3 col-md-3 col-2">
@@ -173,7 +174,7 @@ include_once("includes/header.php");
                                     </div>
                                 </div>
                             </div>
-                            <div class="row pt-md-5 pb-3 toysec">
+                            <div class="row pt-md-3 pb-3 toysec">
                                 <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
                                     <div class="row align-items-center">
                                         <div class="col-lg-3 col-md-3 col-2">
@@ -203,96 +204,94 @@ include_once("includes/header.php");
                             </div>
                         </div>                        
                     </div>
-                    
                 </div>
+                <!-- course#2 -->
                 <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
                     <div class="row">
-                        <div class="col-lg-4 col-12">
+                        <div class="col-lg-2 col-12">
                             <div class="codeimg mb-3 mb-md-0">
                                 <img src="images/full.jpg" class="img-fluid w-100" alt="" title="" />
                             </div>
                         </div>
-                     <div class="col-lg-8 col-12">
-                            <div class="row">
-                                <div class="col-lg-9 col-md-12">
-                                    <h2 class="course-tophead">Data Analytics program</h2>
-                                    <p class="course-toppara">
-                                        <ul>
-                                            <li class="course-toppara">Data is everywhere. The world runs on the insights gathered from data. </li>
-                                           <li class="course-toppara">Data analyzers find these insights. </li>
-                                           <li class="course-toppara">The Data analytics program is designed to teach you all that you need to learn about analyzing tons and tons of data that we generate. </li>
-                                           <li class="course-toppara">Data analysis has great scope in today’s age. Getting certified with our program in data analysis will allow you to pursue your career in various fields. </li>
-                                           <li class="course-toppara">There is also a huge demand in the country for data analytics, providing ample opportunities for all students. With our intriguing course you can learn to analyze data like a pro!</li>
-                                        </ul>
-                                    </p>
-                                </div>
-                                <div class="col-lg-3 col-md-12 text-lg-end">
-                                    <div class="regbtn">
-                                        <a href="datascience.php" class="text-decoration-none">Know More</a>
+                        <div class="col-lg-10 col-12">
+                                <div class="row align-items-center">
+                                    <div class="col-lg-9 col-md-12">
+                                        <h2 class="course-tophead">Data Analytics program</h2>
+                                        <p class="course-toppara">
+                                            <ul>
+                                                <li class="course-toppara">Data is everywhere. The world runs on the insights gathered from data. </li>
+                                            <li class="course-toppara">Data analyzers find these insights. </li>
+                                            <li class="course-toppara">The Data analytics program is designed to teach you all that you need to learn about analyzing tons and tons of data that we generate. </li>
+                                            <li class="course-toppara">Data analysis has great scope in today’s age. Getting certified with our program in data analysis will allow you to pursue your career in various fields. </li>
+                                            <li class="course-toppara">There is also a huge demand in the country for data analytics, providing ample opportunities for all students. With our intriguing course you can learn to analyze data like a pro!</li>
+                                            </ul>
+                                        </p>
                                     </div>
-                                </div>
-                            </div> 
-                            <div class="row pt-md-5 pt-3 toysec">
-                                <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic4.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                60+ Hours <br />
-                                                Hands on Training
-                                            </p>
+                                    <div class="col-lg-3 col-md-12 text-lg-end">
+                                        <div class="regbtn">
+                                            <a href="datascience.php" class="text-decoration-none">Know More</a>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 pt-4 pt-sm-0 pt-md-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic1-n.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                Work On <br />
-                                                Real World Projects
-                                            </p>
+                                </div> 
+                                <div class="row pt-md-3 pt-3 toysec">
+                                    <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-3 col-md-3 col-2">
+                                                <img src="images/ic4.png" class="img-fluid" alt="" title="" />
+                                            </div>
+                                            <div class="col-lg-9 col-md-9 col-10">
+                                                <p class="course-para mb-0">
+                                                    60+ Hours <br />
+                                                    Hands on Training
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                </div>
-                                 <div class="row pt-md-5 pb-3 toysec">
-                                <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic2.png" class="img-fluid" alt="" title="" />
-                                        </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                No Prior Coding <br />
-                                                Knowledge required
-                                            </p>
+                                    <div class="col-lg-6 col-md-6 pt-4 pt-sm-0 pt-md-0 col-sm-6">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-3 col-md-3 col-2">
+                                                <img src="images/ic1-n.png" class="img-fluid" alt="" title="" />
+                                            </div>
+                                            <div class="col-lg-9 col-md-9 col-10">
+                                                <p class="course-para mb-0">
+                                                    Work On <br />
+                                                    Real World Projects
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
-                                    <div class="row align-items-center">
-                                        <div class="col-lg-3 col-md-3 col-2">
-                                            <img src="images/ic3-n.png" class="img-fluid" alt="" title="" />
+                                <div class="row pt-md-3 pb-3 toysec">
+                                    <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-3 col-md-3 col-2">
+                                                <img src="images/ic2.png" class="img-fluid" alt="" title="" />
+                                            </div>
+                                            <div class="col-lg-9 col-md-9 col-10">
+                                                <p class="course-para mb-0">
+                                                    No Prior Coding <br />
+                                                    Knowledge required
+                                                </p>
+                                            </div>
                                         </div>
-                                        <div class="col-lg-9 col-md-9 col-10">
-                                            <p class="course-para mb-0">
-                                                Instructor - Led <br />
-                                                Live Classes
-                                            </p>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
+                                        <div class="row align-items-center">
+                                            <div class="col-lg-3 col-md-3 col-2">
+                                                <img src="images/ic3-n.png" class="img-fluid" alt="" title="" />
+                                            </div>
+                                            <div class="col-lg-9 col-md-9 col-10">
+                                                <p class="course-para mb-0">
+                                                    Instructor - Led <br />
+                                                    Live Classes
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>                        
-                    </div>
-                    
+                            </div>                        
+                        </div>    
                 </div>
-
                 <div class="cir-tri-pink d-none d-lg-block">
                     <img src="images/tri3.png" class="img-fluid" alt="" title="">
                 </div>
