@@ -54,12 +54,16 @@
 																	</a>
 																	<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 																			<li><a class="dropdown-item" href="fullstack.php">
-																					<span class="img-sec me-3"><i class="fa-solid fa-browser"></i></span>
+																					<span class="img-sec me-3">
+																						<i class="fas fa-code"></i>
+																					</span>
 																					Full Stack Developer 
 																					</a>
 																			</li>
 																			<li><a class="dropdown-item" href="datascience.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
+																					<span class="img-sec me-3">
+																					<i class="fas fa-chart-line"></i>
+																					</span>
 																					Data Science
 																					</a>
 																			</li>
@@ -77,17 +81,12 @@
 																	</a>
 																	<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 																			<li><a class="dropdown-item" href="blog-post.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
+																					<span class="img-sec me-3"><i class="fas fa-blog"></i></span>
 																					Blog Posts
 																					</a>
 																			</li>
-																			<li><a class="dropdown-item" href="guide.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
-																					Guide
-																					</a>
-																			</li>
 																			<li><a class="dropdown-item" href="roadmap.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
+																					<span class="img-sec me-3"><i class="fab fa-readme"></i></span>
 																					Roadmaps
 																					</a>
 																			</li>
@@ -97,14 +96,9 @@
 																	<a class="nav-link dropdown-toggle <?php if($page==6) echo 'active';  ?>" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 																			More
 																	</a>
-																	<ul class="dropdown-menu" aria-labelledby="navbarDropdown">                                        
-																			<li><a class="dropdown-item" href="events.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
-																					Events
-																					</a>
-																			</li>
+																	<ul class="dropdown-menu" aria-labelledby="navbarDropdown">                                       
 																			<li><a class="dropdown-item" href="hire.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
+																					<span class="img-sec me-3"><i class="fas fa-people-arrows"></i></span>
 																					Hire From us
 																					</a>
 																			</li>
