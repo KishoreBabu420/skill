@@ -102,13 +102,8 @@
 																					Hire From us
 																					</a>
 																			</li>
-																			<li><a class="dropdown-item" href="training.php">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
-																					Training
-																					</a>
-																			</li>
 																			<li><a class="dropdown-item" href="">
-																					<span class="img-sec me-3"><img  class="w-75" src="images/code.png"></span>
+																					<span class="img-sec me-3"><i class="fas fa-address-book"></i></span>
 																					Contact Us
 																					</a>
 																			</li>
