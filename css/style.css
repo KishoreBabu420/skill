@@ -53,6 +53,7 @@ body {
   width: 45px;
   height: 45px;
   line-height: 40px;
+  text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -396,7 +397,7 @@ right: 10px;
 
 .bbt img {
   border-top-left-radius: 15px;
-  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 
 .img-overblacklay::before {
@@ -433,7 +434,8 @@ right: 10px;
 #exampleModal-newtop-2,
 #exampleModal-newtop-3,
 #exampleModal-newtop-4,
-#exampleModal-newtop {
+#exampleModal-newtop,
+#exampleModal-newtopsed {
   z-index: 999999 !important;
 }
 
@@ -441,7 +443,8 @@ right: 10px;
 #exampleModal-newtop-2 .btn-close,
 #exampleModal-newtop-3 .btn-close,
 #exampleModal-newtop-4 .btn-close,
-#exampleModal-newtop .btn-close {
+#exampleModal-newtop .btn-close,
+#exampleModal-newtopsed .btn-close {
   float: right;
   background-color: #fff;
 }
@@ -450,7 +453,8 @@ right: 10px;
 #exampleModal-newtop-2 .modal-body,
 #exampleModal-newtop-3 .modal-body,
 #exampleModal-newtop-4 .modal-body,
-#exampleModal-newtop .modal-body {
+#exampleModal-newtop .modal-body,
+#exampleModal-newtopsed .modal-body {
   background: #1c2042;
 }
 
@@ -694,7 +698,7 @@ right: 10px;
 
 .course-toppara {
   color: #555;
-  font-size: 17px;
+  font-size: 20px;
   font-weight: 300;
   text-align: justify !important;
 }
@@ -2191,6 +2195,9 @@ header {
   .new-navdown {
     height: unset !important;
   }
+  .justify-content-around .school-para {
+    font-size: 16px !important;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -2210,7 +2217,7 @@ header {
     text-align: center;
   }
   /* .hirebtn-1 a {
-    width: unset!important;
+width: unset!important;
 } */
   .bg-willlearn .nav-tabs .nav-link {
     font-size: 18px !important;
@@ -2397,4 +2404,150 @@ header {
   color: #ff9900 !important;
   font-size: 20px !important;
   font-weight: 500;
+}
+
+/*  */
+
+.col-sec {
+  background: #f0eded !important;
+}
+
+.w-35 {
+  width: 35% !important;
+}
+
+.tabHeader {
+  color: #f80a6f;
+}
+
+.strivesec .nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #1c2042 !important;
+  transition: background-color 0.2s ease-in 0s;
+  width: 100%;
+  align-items: flex-start;
+  cursor: pointer;
+  border-left: 8px solid #f80a6f;
+  overflow: hidden;
+  border-radius: 4px 0px 0px 4px;
+  background-color: white;
+  -webkit-filter: drop-shadow(rgba(0, 0, 0, 0.2) 3px 3px 6px);
+  filter: drop-shadow(rgba(0, 0, 0, 0.2) 3px 3px 6px);
+}
+
+/* vision mission */
+
+.b-img img {
+  border-radius: 20px !important;
+}
+
+.vm-border {
+  border: 1px solid #e3e3e3;
+  border-radius: 20px;
+}
+
+.bg-ltleabt {
+  background: #1c2042;
+}
+
+.blueborder {
+  border: 1px solid #2699fb;
+  border-radius: 20px;
+}
+
+.blueborder span {
+  float: right;
+  background: #2699fb;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 50px;
+}
+
+/*  */
+
+.how-it-works.row .col-2::after {
+  content: '';
+  position: absolute;
+  z-index: 1;
+}
+
+.how-it-works.row .col-2.bottom::after {
+  height: 50%;
+  left: 50%;
+  top: 50%;
+}
+
+.how-it-works.row .col-2.full::after {
+  height: 100%;
+  left: calc(50% - 3px);
+}
+
+.how-it-works.row .col-2.top::after {
+  height: 50%;
+  left: 50%;
+  top: 0;
+}
+
+.timeline div {
+  padding: 0;
+  height: 340px;
+}
+
+.timeline.position-absolute {
+  position: absolute !important;
+  content: '';
+  top: 66%;
+  left: 5%;
+}
+
+.timeline hr {
+  border-top: 3px solid #ed8d8d;
+  margin: 0;
+  top: 167px;
+  position: relative;
+}
+
+.timeline hr {
+  opacity: unset !important;
+}
+
+.timeline .col-2 {
+  display: flex;
+  overflow: hidden;
+}
+
+.timeline .corner {
+  border: 3px solid #ed8d8d;
+  width: 100%;
+  position: relative;
+  border-radius: 15px;
+}
+
+.timeline .top-right {
+  left: 50%;
+  top: -50%;
+}
+
+.timeline .left-bottom {
+  left: -88%;
+  top: calc(50% - 3px);
+}
+
+.timeline .top-left {
+  left: -88%;
+  top: -50%;
+}
+
+.timeline .right-bottom {
+  left: 50%;
+  top: calc(50% - 3px);
+}
+
+.roadmapp img {
+  z-index: 9999 !important;
+}
+
+.tp-min-top {
+  margin-top: -20%;
+  position: relative !important;
 }
