@@ -9,7 +9,7 @@ include_once("includes/header.php");
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <!-- students section started ----  2 sections are there ///   web and mobile view   -->
-<section class="bg-schoolsec d-none d-xl-block" id="testimonials">
+<!-- <section class="bg-schoolsec d-none d-xl-block" id="testimonials">
     <div class="container">
         <div class="row pt-5">
             <div class="col-md-12 text-center pb-5">
@@ -22,7 +22,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s1.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"The programs at Skill Safari are excellent. The content material  and assistance that they provide is also superb. It is an exceptional platform to enrol for any program for online studies. I took the React JS front end developer course and I had a brilliant experience.Thank you, team!!"</p>
@@ -42,7 +42,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s3.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"Best location for studying MERN stack development for students from both coding and non-coding backgrounds. The cohort shape is truly fantastic as it is designed to suit the present day enterprise standard. I'm from an ECE background and did not have any basic coding skills however after 7 months with Skill Safari I got positioned in a business enterprise with a very good package. Thank you Team!!!"</p>
@@ -64,7 +64,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s2.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"I'm certainly glad to share that I have finished my "Fronted Development Internship Program" at Skill Safari. Thanks loads to the team Skill Safari for making it one of the most wonderful experiences to study and develop front-end web applications from scratch and additionally to enhance my skills. The mentors also are affable, and you may without problems contact them and ask any type of query. They fortuitously share their expertise with you." </p>
@@ -84,7 +84,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s4.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"Skill Safari is an exceptional online studying platform that I’m glad I came across. All the mentors are very easy to talk to and clarify our doubts very sincerely. Moreover, those mentors are not only with us throughout the cohort but are also available after the cohort to clear our doubts. I've learnt loads and look forward to studying greater cohorts under this platform in future.Thank you, Skill Safari!" </p>
@@ -110,7 +110,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s1.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"I am one of the college students who's related to the Skill Safari organization to study front end development. I am truly enlightened by their teachings. For anyone that's inquisitive about studying web development, this is an excellent choice." </p>
@@ -130,7 +130,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s3.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"Best online mode of studying with 24/7 mentor assist. It is simple to study and understand. Finishing cohorts was a pleasant experience with Skill Safari." </p>
@@ -152,7 +152,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s2.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"It was brilliant doing a web internship with Skill Safari. The subjects were without a doubt understood, and it is a brilliant platform to study new skills with minimal cost ." </p>
@@ -172,7 +172,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s4.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"I was glad to be part of the Skill Safari. They have skilled and expert trainers, it was a superb experience of online studying. Each doubt was clarified and additional training was provided along with doubt clarification sessions." </p>
@@ -198,7 +198,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s1.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"It's a superb platform for online cohorts, and I've found loads from Skill Safari. All the individuals who are a part of the front end development program, are definitely well-equipped." </p>
@@ -218,7 +218,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s3.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"The most important aspect I cherished studying with Skill Safari is that they made me realize that online cohorts are better than live training. I got a comfortable space where I could ask any and every doubt. Thank you guys." </p>
@@ -240,7 +240,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s2.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"It was a pleasant experience to begin the studying adventure with Skill Safari. Their trainers and mentors are excellent. The manner of coaching is commendable."</p>
@@ -260,7 +260,7 @@ include_once("includes/header.php");
                             <div class="bbt mb-5 new-sp">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <img src="images/s4.png" class="img-flui w-100" alt="" title="">
+                                        <img src="images/img.jpg"="img-flui w-100" alt="" title="">
                                     </div>
                                     <div class="col-md-8">
                                         <p class="school-para pt-4 pe-4">"This is the best internship for freshers. I got to learn all the aspects of web development and designing training"</p>
@@ -283,9 +283,9 @@ include_once("includes/header.php");
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<section class="bg-schoolsec d-block d-xl-none">
+<section class="bg-schoolsec">
     <div class="container">
         <div class="row pt-md-5">
             <div class="col-md-12 text-center pb-md-5">
@@ -296,10 +296,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">                        
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s1-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">"The programs at Skill Safari are excellent. The content material  and assistance that they provide is also superb. It is an exceptional platform to enrol for any program for online studies. I took the React JS front end developer course and I had a brilliant experience.Thank you, team!!" </p>
                                     <div class="starrating pt-1">
                                         <span><i class="fas fa-star"></i></span>
@@ -318,10 +318,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">"Best location for studying MERN stack development for students from both coding and non-coding backgrounds. The cohort shape is truly fantastic as it is designed to suit the present day enterprise standard. I'm from an ECE background and did not have any basic coding skills however after 7 months with Skill Safari I got positioned in a business enterprise with a very good package. Thank you Team!!!" </p>
                                     <div class="starrating pt-1">
                                         <span><i class="fas fa-star"></i></span>
@@ -340,10 +340,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">                        
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s1-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">"I'm certainly glad to share that I have finished my "Fronted Development Internship Program" at Skill Safari. Thanks loads to the team Skill Safari for making it one of the most wonderful experiences to study and develop front-end web applications from scratch and additionally to enhance my skills. The mentors also are affable, and you may without problems contact them and ask any type of query. They fortuitously share their expertise with you." </p>
                                     <div class="starrating pt-1">
                                         <span><i class="fas fa-star"></i></span>
@@ -362,10 +362,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">"Skill Safari is an exceptional online studying platform that I’m glad I came across. All the mentors are very easy to talk to and clarify our doubts very sincerely. Moreover, those mentors are not only with us throughout the cohort but are also available after the cohort to clear our doubts. I've learnt loads and look forward to studying greater cohorts under this platform in future.Thank you, Skill Safari!" </p>
                                     <div class="starrating pt-1">
                                         <span><i class="fas fa-star"></i></span>
@@ -384,10 +384,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">"I am one of the college students who's related to the Skill Safari organization to study front end development. I am truly enlightened by their teachings. For anyone that's inquisitive about studying web development, this is an excellent choice." </p>
                                     <div class="starrating pt-1">
                                         <span><i class="fas fa-star"></i></span>
@@ -406,10 +406,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                         "Best online mode of studying with 24/7 mentor assist. It is simple to study and understand. Finishing cohorts was a pleasant experience with Skill Safari." 
                                     </p>
@@ -430,10 +430,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                     "It was brilliant doing a web internship with Skill Safari. The subjects were without a doubt understood, and it is a brilliant platform to study new skills with minimal cost ." 
                                     </p>
@@ -454,10 +454,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                    
                                         "I was glad to be part of the Skill Safari. They have skilled and expert trainers, it was a superb experience of online studying. Each doubt was clarified and additional training was provided along with doubt clarification sessions."
@@ -480,10 +480,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                    
                                     "It's a superb platform for online cohorts, and I've found loads from Skill Safari. All the individuals who are a part of the front end development program, are definitely well-equipped." 
@@ -506,10 +506,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                    
                                     "The most important aspect I cherished studying with Skill Safari is that they made me realize that online cohorts are better than live training. I got a comfortable space where I could ask any and every doubt. Thank you guys." 
@@ -532,10 +532,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                    
                                     "It was a pleasant experience to begin the studying adventure with Skill Safari. Their trainers and mentors are excellent. The manner of coaching is commendable."
@@ -558,10 +558,10 @@ include_once("includes/header.php");
                     <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                         <div class="bbt mb-5">
                             <div class="row">
-                                <div class="col-xl-4">
-                                    <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                <div class="col-xl-12">
+                                    <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                 </div>
-                                <div class="col-xl-8 ps-4 pe-4">
+                                <div class="col-xl-12 ps-4 pe-4">
                                     <p class="school-para pt-4">
                                    
                                     "This is the best internship for freshers. I got to learn all the aspects of web development and designing training" 

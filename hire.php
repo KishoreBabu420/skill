@@ -14,23 +14,267 @@ include_once("includes/header.php");
     <div class="container">
         <div class="row pt-5 pb-5">
             <div class="col-md-6 text-center text-md-start">
-                <h1 class="top-head pt-lg-5">Hire from us</h1>
-                <p class="school-para pt-3">We are an e-learning platform that provides skill enhancement modules that consider the needs of the students and the ever-changing requirements of the corporate world. But what happens once you choose to hire our skilled students? Your company soars high. With our arsenal of talented students trained with cutting-edge technological equipment and a lively community for learning and building, we will provide you with the buzzing working environment you need.  </p>
+                <h1 class="top-head pt-lg-5">Bridging the gap between companies and skilled resources</h1>
+                <p class="school-para pt-3">Skill Safari is a technology-enabled skill development company. Provide services for MNCs and startups in the area of Employee skill development, Train and Hire model, Project management.  </p>
                 <div class="regbtn mb-5">
-                    <a href="" class="text-decoration-none">Hire Now</a>
+                    <a href="" class="text-decoration-none">Know More</a>
                 </div>
             </div>
             <div class="col-md-6 pb-5">
-                <img src="images/ab3.jpg" class="img-fluid" alt="" title="">
+                <img src="images/ab3-new.png" class="img-fluid w-100" alt="" title="" style="background: #1c2042;">
             </div>
         </div>
     </div>
 </section>
 <!-- hire banner section ended -->
 
+<section class=" mt-md-5 mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-fluid" src="images/title-2-8.png" alt="">
+            </div>
+            <div class="col-md-6 ">
+                <h1 class="top-head text-center text-md-start">Train and Hire Model</h1>
+                <p class="school-para pt-3 text-center text-md-start">
+                Best-suited hiring strategy for mass recruiters. We will take
+                complete ownership of hiring and training the next batch of
+                hustlers who can join your company.
+                </p>            
+                <div class="row col-sec mt-4 justify-content-around p-3">
+                    <div class="col-md-4 col-4">
+                        <div>
+                            <img class="img-fluid w-35" src="images/custom-rec.png" alt="custom">
+                        </div>
+                        <div class="pt-3">
+                            <p class="school-para mb-0 w-75">Customized recruitment</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-4">
+                        <div>
+                            <img class="img-fluid w-35" src="images/end-to-end.png">
+                        </div>
+                        <div class="pt-3">
+                            <p class="school-para mb-0 w-75">End to End training</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-4">
+                        <div>
+                            <img class="img-fluid w-35" src="images/ready-deploy.png">
+                        </div>
+                        <div class="pt-3">
+                            <p class="school-para mb-0 w-75">Easy Deployment</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class=" mt-md-5 mb-5 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 order-md-2">
+                <img src="images/title-3-8.png" alt="" width="100%">
+            </div>
+            <div class="col-lg-6 order-md-1 pt-4 pt-md-0">
+                <h3 class="top-head text-center text-md-start">No Cost Hiring</h3>
+                <p class="school-para pt-3 text-center text-md-start">
+                You are building your team one rockstar at a time? We got you
+                covered. We have directly trained candidates on a wide range of
+                technologies like Full Stack Development, UIUX Design, Data
+                Science, and Many More.
+                </p>
+                <div class="row col-sec mt-4 justify-content-around p-3">
+                    <div class="col-4">
+                        <div>
+                        <img class="img-fluid w-35" src="images/no_payment.png">
+                        </div>
+                        <div class="pt-3">
+                        <p class="school-para mb-0 w-75">No Payment whatsoever</p>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div>
+                        <img class="img-fluid w-35" src="images/ready-deploy.png">
+                        </div>
+                        <div class="pt-3">
+                        <p class="school-para mb-0 w-75">Candidates ready for deployment</p>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div>
+                        <img class="img-fluid w-35" src="images/bootcamp-model.png">
+                        </div>
+                        <div class="pt-3">
+                        <p class="school-para mb-0 w-75">Trained in Bootcamp model</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class=" mt-md-5 mb-5 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-fluid" src="images/title-4-8.png" alt="">
+            </div>
+            <div class="col-md-6">
+                <h1 class="top-head text-center text-md-start">Corporate Training</h1>
+                <p class="school-para pt-3 text-center text-md-start">
+                We can help you upskill your current team. Our master trainers are experienced in delivering some of the most amazing CSR and product training. We provide both hard skills and soft skills training. 
+                </p>            
+                <div class="row col-sec mt-4 justify-content-around p-3">
+                    <div class="col-4">
+                        <div>
+                            <img class="img-fluid w-35" src="images/custom-training-model.png" alt="custom">
+                        </div>
+                        <div class="pt-3">
+                            <p class="school-para mb-0 w-75">Customized recruitment</p>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div>
+                            <img class="img-fluid w-35" src="images/objective.png">
+                        </div>
+                        <div class="pt-3">
+                            <p class="school-para mb-0 w-75">End to End training</p>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div>
+                            <img class="img-fluid w-35" src="images/industry-experts.png">
+                        </div>
+                        <div class="pt-3">
+                            <p class="school-para mb-0 w-75">Easy Deployment</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="strivesec mt-5 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mb-5 text-center text-md-start">
+                    <h6>Know more about our services</h6>
+                    <h3>
+                        We strive to provide the best service for our corporate partners.
+                    </h3>
+                </div>
+                <div class="mt-4 d-lg-block d-none">
+                    <div class="d-flex align-items-start">
+                        <div class="nav flex-column nav-pills me-3 col-lg-4" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <div class="nav-link tabdiv active p-4 mb-3" id="v-pills-trainhire-tab" data-bs-toggle="pill" data-bs-target="#v-pills-trainhire" type="button" role="tab" aria-controls="v-pills-trainhire" aria-selected="true">
+                                <h5 class="tabHeader">Train and Hire model</h5>
+                                <p class="mb-0">
+                                We will help you build your team by supporting you in all the training and hiring activities.
+                                </p>
+                            </div>
+                            <div class="nav-link tabdiv p-4 mb-3" id="v-pills-nocost-tab" data-bs-toggle="pill" data-bs-target="#v-pills-nocost" type="button" role="tab" aria-controls="v-pills-nocost" aria-selected="false">
+                                <h5 class="tabHeader">No Cost Hiring</h5>
+                                <p class="mb-0">
+                                Perfect for budding startups with limited hustlers. Fully
+                                trained and ready to deploy.
+                                </p>
+                            </div>
+                            <div class="nav-link tabdiv p-4 mb-3" id="v-pills-corporatetrain-tab" data-bs-toggle="pill" data-bs-target="#v-pills-corporatetrain" type="button" role="tab" aria-controls="v-pills-corporatetrain" aria-selected="false">
+                                <h5 class="tabHeader">Corporate Training</h5>
+                                <p class="mb-0">
+                                We will help you up-skill your existing team and help them
+                                adopt the latest industry trends
+                                </p>
+                            </div>
+                        </div>
+                        <div class="tab-content col-lg-8" id="v-pills-tabContent">
+                            <div class="tab-pane fade active show" id="v-pills-trainhire" role="tabpanel" aria-labelledby="v-pills-trainhire-tab">
+                                <div class="row justify-content-center">
+                                <img style="width: 90%" class="tabImage" src="images/train-and-hire-desktop.png" alt="hiring">
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-nocost" role="tabpanel" aria-labelledby="v-pills-nocost-tab">
+                                <div class="row justify-content-center">
+                                <img class="tabImage" style="width: 90%" src="images/no-cost-hiring-desktop.png" alt="hiring">
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-corporatetrain" role="tabpanel" aria-labelledby="v-pills-corporatetrain-tab">
+                                <div class="row justify-content-center">
+                                <img class="tabImage" style="width: 90%" src="images/corporate-desktop.png" alt="hiring">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- mobile view -->
+                <div class="d-md-block d-lg-none">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="trainhire">
+                                <div class="accordion-button tabdiv" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <h5 class="tabHeader">Train and Hire</h5>
+                                </div>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="trainhire" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                <p>
+                                    We will help you build your team by supporting you in all
+                                    the training and hiring activities.
+                                </p>
+                                <img class="tabmobileImg img-fluid" src="images/train-and-hire-mobile.png" alt="hiring">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="nocost">
+                                <div class="accordion-button tabdiv collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <h5 class="tabHeader">No Cost Hiring</h5>
+                                </div>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="nocost" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                <p>
+                                    Perfect for budding startups with limited hustlers. Fully
+                                    trained and ready to deploy.
+                                </p>
+                                <img class="tabmobileImg img-fluid" src="images/no-cost-hiring-mobile.png" alt="hiring">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="corporatetrain">
+                                <div class="accordion-button tabdiv collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <h5 class="tabHeader">Corporate Training</h5>
+                                </div>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="corporatetrain" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                <p>
+                                    We will help you up-skill your existing team and help them
+                                    adopt the latest industry trends
+                                </p>
+                                <img class="tabmobileImg img-fluid" src="images/corporate-mobile.png" alt="hiring">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-5 regbtn ">
+                <a href="" class="text-decoration-none buttoncc" target="1">Get in touch with us</a>
+                </div>
+            </div>
+      </div>
+    </div>
+</section>
 
 <!-- partners section started -->
-<section class="bg-partners">
+<!-- <section class="bg-partners">
     <div class="container">
         <div class="row pt-5 pb-5">
             <div class="col-md-12 text-center pt-4">
@@ -80,12 +324,12 @@ include_once("includes/header.php");
         
         </div>
     </div>
-</section>
+</section> -->
 <!-- partners section ended -->
 
 
 <!-- recuriters section started -->
-<section class="bg-recurit">
+<section class="bg-recurit mt-5">
     <div class="container pt-4 pb-5">
         <div class="row pt-5">
             <div class="col-md-6">
@@ -268,6 +512,51 @@ include_once("includes/header.php");
                     </div>
                 </div>
             </div>
+            <div class="col-md-12 mt-lg-5 pt-5 pb-md-5 mb-5 mb-md-0">
+                <div class="regbtn text-center" >
+                    <a href="" data-bs-toggle="modal" data-bs-target="#exampleModal-newtopsed" class="text-decoration-none">Hire Now</a>
+                </div>
+                <div class="modal fade" id="exampleModal-newtopsed" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
+                                    <h1 class="trainingform-head pb-3">I'm Interested</h1>
+
+                                    <form>
+                                        <div class="mb-3">
+                                            <label for="exampleInputEmail1" class="form-label">Full Name*</label>
+
+                                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your Full Name" />
+                                        </div>                                        
+
+                                        <div class="mb-3">
+                                            <label for="exampleInputEmail1" class="form-label">Email*</label>
+
+                                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your email ID" />
+                                        </div>
+
+                                        <div class="mb-3">
+                                            <label for="exampleInputEmail1" class="form-label">What are looking for ?</label>
+                                            <select class="form-select" aria-label="Default select example">
+                                                <option selected>Select one of the below</option>
+                                                <option value="1">Train and Hire Model</option>
+                                                <option value="2">No Cost Hiring</option>
+                                                <option value="3">Corporate Training</option>
+                                            </select>
+                                        </div>
+                                    </form>
+
+                                    <div class="callbackbtn mt-3">
+                                        <a href="" class="text-decoration-none">Request A Callback</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -275,7 +564,7 @@ include_once("includes/header.php");
 
 
 <!-- hiring process section started -->
-<section class="bg-studtrained">
+<!-- <section class="bg-studtrained">
     <div class="container">
         <div class="row pt-lg-5 pb-lg-5">
             <div class="col-md-12 text-center pb-md-5 pb-4">
@@ -301,7 +590,7 @@ include_once("includes/header.php");
                         </div>
                     </div>
                 </div>
-                <!--  -->
+                
                 <div class="row align-items-center">
                     <div class="col-md-2 col-2 p-0">
                         <div class="stud-trainbox shadow text-center">
@@ -320,7 +609,7 @@ include_once("includes/header.php");
                         </div>
                     </div>
                 </div>
-                <!--  -->
+                
                 <div class="row align-items-center">
                     <div class="col-md-2 col-2 p-0">
                         <div class="stud-trainbox shadow text-center">
@@ -336,7 +625,7 @@ include_once("includes/header.php");
             </div>
             <div class="col-md-6 pt-3 pt-md-0">
                 <img src="images/ab4.jpg" class="img-fluid w-100" alt="" title="">
-            </div>
+            </div> 
             <div class="col-md-12 mt-lg-5 pt-5 pb-md-5 mb-5 mb-md-0">
                 <div class="regbtn text-center">
                     <a href="" class="text-decoration-none">Hire Now</a>
@@ -344,10 +633,55 @@ include_once("includes/header.php");
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- hiring process section ended -->
 
 <?php 
 include_once("includes/footer.php");
 ?>
  
+<!-- styles -->
+@media(max-width:767px){
+    .justify-content-around .school-para {
+        font-size: 16px!important;
+    }
+}
+
+.col-sec {
+    background: #f0eded!important;
+}
+
+.w-35 {
+    width: 35%!important;
+}
+
+.tabHeader {
+    color: #f80a6f;
+}
+
+.strivesec .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #1c2042 !important;
+    transition: background-color 0.2s ease-in 0s;
+    width: 100%;
+    align-items: flex-start;
+    cursor: pointer;
+    border-left: 8px solid #f80a6f;
+    overflow: hidden;
+    border-radius: 4px 0px 0px 4px;
+    background-color: white;
+    filter: drop-shadow(rgba(0, 0, 0, 0.2) 3px 3px 6px);
+}
+
+#exampleModal-newtopsed {
+    z-index: 999999!important;
+}
+
+#exampleModal-newtopsed .btn-close {
+    float: right;
+    background-color: #fff;
+}
+
+#exampleModal-newtopsed .modal-body {
+    background: #1c2042;
+}

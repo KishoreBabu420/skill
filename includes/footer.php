@@ -69,10 +69,10 @@
             <div class="col-md col-sm-4 col-6 pt-md-0 pt-4">                
                 <h6 class="footer-linkheads">Company</h6>
                 <ul class="list-group">
-                    <li class="list-group-item"><a class="text-decoration-none" href="">About Us</a></li>
+                    <li class="list-group-item"><a class="text-decoration-none" href="vm.php">About Us</a></li>
                     <li class="list-group-item"><a class="text-decoration-none" href="hire.php">Hire From Us</a></li>
                     <li class="list-group-item"><a class="text-decoration-none" href="training.php">Corporate Training</a></li>
-                    <li class="list-group-item"><a class="text-decoration-none" href="">Our Team</a></li>
+                    <li class="list-group-item"><a class="text-decoration-none" href="companyprofile.php">Our Team</a></li>
                     <li class="list-group-item"><a class="text-decoration-none" href="index.php#specialist">Industry Specialist</a></li>
                 </ul>
             </div>
@@ -156,10 +156,10 @@
                     items: 2
                 },
                 992: {
-                    items: 2
+                    items: 3
                 },
                 1030: {
-                    items: 2
+                    items: 3
                 }
             }
         });
@@ -177,7 +177,7 @@
                     items: 1
                 },
                 768: {
-                    items: 2
+                    items: 1
                 },
                 992: {
                     items: 2
