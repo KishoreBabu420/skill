@@ -761,19 +761,19 @@ right: 10px;
 }
 
 .bg-partners {
-  background: #dfe9fb;
+  background: #cfd6e4;
 }
 
-.bg-partners img {
+/* .bg-partners img {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
   transition: 0.5s all ease-in-out;
-}
+} */
 
-.bg-partners img:hover {
+/* .bg-partners img:hover {
   -webkit-filter: grayscale(0);
   filter: grayscale(0);
-}
+} */
 
 .trained-box {
   border: 1px solid #faf6ed;
