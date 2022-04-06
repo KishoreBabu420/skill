@@ -616,7 +616,7 @@ include_once("includes/header.php");
 												>Week <span class="pinky">02</span></span
 											>
 
-											<p class="school-para mb-0">Fundamental of Web Development</p>
+											<p class="school-para mb-0">Fundamentals of Web Development</p>
 										</button>
 
 										<button
@@ -721,25 +721,6 @@ include_once("includes/header.php");
 														Adding Media, Tables, Forms to HTML
 													</li>
 												</ul>
-
-												<h6 class="pt-3 fw-bold">What You Will Learn : CSS 3</h6>
-
-												<ul>
-													<li class="school-para">Projects you will do</li>
-
-													<li class="school-para">Being the copy-cat</li>
-
-													<li class="school-para">
-														In this project, you will replicate (copy) one page of a
-														very famous website.
-													</li>
-
-													<li class="school-para">
-														Add on: You get a cheat sheet of popular keyboard
-														shortcuts of Figma which will boost your speed of
-														designing.
-													</li>
-												</ul>
 											</div>
 										</div>
 
@@ -755,28 +736,16 @@ include_once("includes/header.php");
 												<h6 class="pt-5 fw-bold">What You Will Learn</h6>
 
 												<ul>
-													<li class="school-para">Introduction to Colours</li>
+													<li class="school-para">Introduction to CSS Box Model</li>
 
-													<li class="school-para">Introduction to Typography</li>
+													<li class="school-para">Introduction to Typography & Colors</li>
 
-													<li class="school-para">Introduction to Iconography</li>
+													<li class="school-para">Display Float and Positions</li>
+													<li class="school-para">Responsive Web Design using CSS Flexbox and CSS Grid System</li>
+											
+													<li class="school-para">Work with CSS Animations and Transitions</li>
 												</ul>
 
-												<h6 class="pt-5 fw-bold">Projects you will do</h6>
-
-												<ul>
-													<li class="school-para">A visual revamp</li>
-
-													<li class="school-para">
-														In this project, you will use your understanding and eye
-														to visually revamp a webpage.
-													</li>
-
-													<li class="school-para">
-														You will get the opportunity to apply the fundamentals
-														of colors typography and iconography in this.
-													</li>
-												</ul>
 											</div>
 										</div>
 
@@ -787,260 +756,18 @@ include_once("includes/header.php");
 											aria-labelledby="v-pills-week04-tab"
 										>
 											<div class="right-newcont">
-												<span class="new-cont fw-bold">Week 03</span>
+												<span class="new-cont fw-bold">Week 04</span>
 
-												<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-												<ul>
-													<li class="school-para">Introduction to Colours</li>
-
-													<li class="school-para">Introduction to Typography</li>
-
-													<li class="school-para">Introduction to Iconography</li>
-												</ul>
-
-												<h6 class="pt-5 fw-bold">Projects you will do</h6>
+												<h6 class="pt-5 fw-bold">Apply your knowledge</h6>
 
 												<ul>
-													<li class="school-para">A visual revamp</li>
+													<li class="school-para">Building a Web Develope Portfolio using HTML & CSS</li>
 
-													<li class="school-para">
-														In this project, you will use your understanding and eye
-														to visually revamp a webpage.
-													</li>
+													<li class="school-para">Design and Develop a Local Restaurant Website</li>
 
-													<li class="school-para">
-														You will get the opportunity to apply the fundamentals
-														of colors typography and iconography in this.
-													</li>
+													<li class="school-para">Design and Develop a Insurance Sales Website</li>
 												</ul>
 											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="row mob-faq">
-							<div class="accordion" id="accordionExample">
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewOne">
-										<button
-											class="accordion-button"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewOne"
-											aria-expanded="true"
-											aria-controls="collapseNewOne"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">
-													Week 01 <br />
-													Understanding and Building Mood Boards!
-												</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewOne"
-										class="accordion-collapse collapse show"
-										aria-labelledby="headingNewOne"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-											<ul>
-												<li class="school-para">
-													UI Design and why it matters and how is it different from
-													UX design (Is it?)
-												</li>
-
-												<li class="school-para">The skills needed for UI Design</li>
-
-												<li class="school-para">Finding inspiration</li>
-
-												<li class="school-para">What is Mood Board</li>
-
-												<li class="school-para">How to Create Mood Board</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewTwo">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewTwo"
-											aria-expanded="true"
-											aria-controls="collapseNewTwo"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">
-													Week 02 <br />
-													Introduction to Figma
-												</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewTwo"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewTwo"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-											<ul>
-												<li class="school-para">Frames</li>
-
-												<li class="school-para">Grids</li>
-
-												<li class="school-para">Tools</li>
-
-												<li class="school-para">
-													Basic shapes and boolean operations
-												</li>
-
-												<li class="school-para">
-													Essential keyboard shortcuts to speed up your workflow
-												</li>
-											</ul>
-
-											<h6 class="pt-5 fw-bold">Projects you will do</h6>
-
-											<ul>
-												<li class="school-para">Projects you will do</li>
-
-												<li class="school-para">Being the copy-cat</li>
-
-												<li class="school-para">
-													In this project, you will replicate (copy) one page of a
-													very famous website.
-												</li>
-
-												<li class="school-para">
-													Add on: You get a cheat sheet of popular keyboard
-													shortcuts of Figma which will boost your speed of
-													designing.
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewThree">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewThree"
-											aria-expanded="true"
-											aria-controls="collapseNewThree"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">
-													Week 03 <br />
-													The holy trinity of Visual Design
-												</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewThree"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewThree"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-											<ul>
-												<li class="school-para">Introduction to Colours</li>
-
-												<li class="school-para">Introduction to Typography</li>
-
-												<li class="school-para">Introduction to Iconography</li>
-											</ul>
-
-											<h6 class="pt-5 fw-bold">Projects you will do</h6>
-
-											<ul>
-												<li class="school-para">A visual revamp</li>
-
-												<li class="school-para">
-													In this project, you will use your understanding and eye
-													to visually revamp a webpage.
-												</li>
-
-												<li class="school-para">
-													You will get the opportunity to apply the fundamentals of
-													colors typography and iconography in this.
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewFour">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewFour"
-											aria-expanded="true"
-											aria-controls="collapseNewFour"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">
-													Week 04 <br />
-													Designing for Mobile Devices
-												</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewFour"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewFour"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-											<ul>
-												<li class="school-para">Introduction to Colours</li>
-
-												<li class="school-para">Introduction to Typography</li>
-
-												<li class="school-para">Introduction to Iconography</li>
-											</ul>
-
-											<h6 class="pt-5 fw-bold">Projects you will do</h6>
-
-											<ul>
-												<li class="school-para">A visual revamp</li>
-
-												<li class="school-para">
-													In this project, you will use your understanding and eye
-													to visually revamp a webpage.
-												</li>
-
-												<li class="school-para">
-													You will get the opportunity to apply the fundamentals of
-													colors typography and iconography in this.
-												</li>
-											</ul>
 										</div>
 									</div>
 								</div>
@@ -1076,8 +803,7 @@ include_once("includes/header.php");
 											<span class="new-font">Week 01</span>
 
 											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
+												JavaScript Fundamentals
 											</p>
 										</button>
 
@@ -3761,41 +3487,6 @@ include_once("includes/header.php");
     </div>
 </section>
 <!-- scrolling section ended-->
-
-
-<!-- <section class="bg-land-sec">
-    <div class="container-fluid p-0">
-        <div class="row">
-            <div class="col-md-12">
-                <div id="third1" class="dark-text">
-                    <div class="story-1">
-                        <div class="text-start ps-5 up-content" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInDown;">
-                            <h2 class="text-left">Content Management System (CMS)</h2>
-
-                            <p class="text-white pt-3">
-                                Wordpress and Drupal would be the best examples. Usingthe CMS users must be able to design a web page using the drag and drop method. Usersshould be ableto add textual or media content into placeholders that
-                                are attached to locations on the web page using drag and drop method.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="third1" class="dark-text">
-                    <div class="story-2">
-                        <div class="text-start ps-5 up-content" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInDown;">
-                            <h2 class="text-left">Personal Portfolio</h2>
-
-                            <p class="text-white pt-3">
-                                A Portfoliois a collection of documentsor a sample of work that you have done. Maintained as hard copies as well online, portfolio are an important aspect of your professional career. A portfolio will
-                                showcase your execution and finished product. It is a great way to showcase your skills and experience that you have.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <section class="bg-bannerslider-sec">
     <div class="container">
