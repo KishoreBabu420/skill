@@ -434,40 +434,55 @@ include_once("includes/testimony.php");
                 <h2 class="top-head text-purple">Companies that Hired our Students</h2>
             </div>
         </div>
-       
-        <div class="row row-cols row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 justify-content-sm-center align-items-center">
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p1.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p2.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p3.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p4.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p5.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>                  
-        </div>
-
         <div class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
             <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p1.png" class="img-fluid w-75" alt="" title=""></a>
+                <a href=""><img src="images/O.png" class="img-fluid" alt="" title=""></a>
             </div>
             <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p2.png" class="img-fluid w-75" alt="" title=""></a>
+                <a href=""><img src="images/origmi.png" class="img-fluid" alt="" title=""></a>
             </div>
             <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p3.png" class="img-fluid w-75" alt="" title=""></a>
+                <a href=""><img src="images/Starterlab.png" class="img-fluid" alt="" title=""></a>
             </div>
             <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p4.png" class="img-fluid w-75" alt="" title=""></a>
+                <a href=""><img src="images/Triangle.png" class="img-fluid" alt="" title=""></a>
             </div>
             <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p5.png" class="img-fluid w-75" alt="" title=""></a>
+                <a href=""><img src="images/vaeso.png" class="img-fluid" alt="" title=""></a>
+            </div>
+        </div>
+        <div class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/A.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/alpha.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/Bewell.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/contus.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/Dafidy.png" class="img-fluid" alt="" title=""></a>
+            </div>
+        </div>
+        <div class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/draup.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/elhaa.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/F.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/ghar.png" class="img-fluid" alt="" title=""></a>
+            </div>
+            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
+                <a href=""><img src="images/Idrive.png" class="img-fluid" alt="" title=""></a>
             </div>
         </div>
 
