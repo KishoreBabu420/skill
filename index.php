@@ -505,12 +505,12 @@ include_once("includes/testimony.php");
             </div>
             <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
                 <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    <img src="images/t1.png" class="img-fluid" alt="" title="">
+                    <img src="images/kishore.png" class="img-fluid" alt="" title="">
                     <div class="middle">
-                        <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                        <div class="text"><a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"></i></a></div>
                     </div>
-                    <h3 class="trained-head pt-md-3 pt-3">Elon Musk</h3>
-                    <h6 class="trained-dest pb-3">Tesla Motors</h6>
+                    <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela</h3>
+                    <h6 class="trained-dest pb-3">Skill Safari</h6>
                 </div>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -520,15 +520,15 @@ include_once("includes/testimony.php");
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                <div class="row">
                                    <div class="col-md-4">
-                                    <img src="images/t1.png" class="img-fluid" alt="" title="">
+                                    <img src="images/kishore.png" class="img-fluid" alt="" title="">
                                    </div>
                                    <div class="col-md-8 text-center text-md-start">
-                                        <h3 class="trained-head pt-md-3 pt-3">Elon Musk - <span class="trained-dest">Tesla Motors</span> </h3>
-                                        <div><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                                        <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill Safari</span> </h3>
+                                        <div><a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"></i></a></div>
                                         
                                    </div>
                                    <div class="col-md-12 text-center text-md-start">
-                                   <p class="pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto soluta. Enim molestiae voluptate exercitationem suscipit impedit consectetur!</p>
+                                   <p class="pt-4">Kishore is a highly motivated and ambitious individual with over 6 years of work experience. I have worked in the education and operation heavy industries and have taken up various roles that required me to build and market innovative products, with the core objective of helping businesses grow.</p>
                                    </div>
                                </div>
                             </div>                        
@@ -538,12 +538,12 @@ include_once("includes/testimony.php");
             </div>
             <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
                 <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-                    <img src="images/t2.png" class="img-fluid" alt="" title="">
+                    <img src="images/Sathish.png" class="img-fluid" alt="" title="">
                     <div class="middle">
                         <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
                     </div>
-                    <h3 class="trained-head pt-md-3 pt-3">MS Dhoni</h3>
-                    <h6 class="trained-dest pb-3">Seven</h6>
+                    <h3 class="trained-head pt-md-3 pt-3">Sathish</h3>
+                    <h6 class="trained-dest pb-3">Skill Safari</h6>
                 </div>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -553,10 +553,10 @@ include_once("includes/testimony.php");
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                <div class="row">
                                    <div class="col-md-4">
-                                    <img src="images/t2.png" class="img-fluid" alt="" title="">
+                                    <img src="images/Sathish.png" class="img-fluid" alt="" title="">
                                    </div>
                                    <div class="col-md-8 text-center text-md-start">
-                                        <h3 class="trained-head pt-md-3 pt-3">MS Dhoni - <span class="trained-dest">Seven</span> </h3>
+                                        <h3 class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill Safari</span> </h3>
                                         <div><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
                                         
                                    </div>
