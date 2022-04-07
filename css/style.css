@@ -3,7 +3,7 @@ body {
   font-family: 'Outfit', sans-serif !important;
   font-size: 16px;
   font-weight: 500;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
@@ -1846,7 +1846,9 @@ header {
 }
 
 .coursepg-header {
+  overflow-x: hidden;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .new-topscrolllist li a {
@@ -2550,4 +2552,25 @@ width: unset!important;
 .tp-min-top {
   margin-top: -20%;
   position: relative !important;
+}
+
+.bg-smallicon-sec {
+  margin-top: -3.5rem;
+}
+
+.bg-criteria__content {
+  background: #fef4e5;
+}
+
+.criteria__card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  color: #fb8700;
+  width: 95%;
+  padding: 1rem;
 }

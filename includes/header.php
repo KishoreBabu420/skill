@@ -34,7 +34,7 @@
 											<img src="images/logo.png" class="img-fluid" alt="" title="">
 									</a>
 							</div>
-							<div class="col-lg-6 col-md-5">
+							<div class="col-lg-6 col-md-9">
 									<nav class="navbar navbar-expand-md navbar-light">
 											<div class="container-fluid">
 													<a class="navbar-brand d-block d-md-none" href="index.php">
@@ -155,7 +155,7 @@
 											</div>
 									</nav>
 							</div>
-							<div class="col-lg-3 col-md-4  d-none d-md-block">
+							<div class="col-lg-3 col-md-4 d-none d-lg-block">
 									<div class="regbtn text-md-end text-center">
 											<a href="" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#exampleModal-newtop-2">Request a Callback</a>
 									</div>
