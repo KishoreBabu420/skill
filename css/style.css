@@ -233,7 +233,7 @@ right: 10px;
 }
 
 .banner-head {
-  font-size: 60px;
+  font-size: 48px;
   padding-top: 20%;
   font-weight: bold;
 }
@@ -294,7 +294,7 @@ right: 10px;
 }
 
 .top-head {
-  font-size: 50px;
+  font-size: 36px;
   font-weight: 600;
 }
 
@@ -501,6 +501,7 @@ right: 10px;
   justify-content: center;
   border-radius: 6px;
   color: #fb8700;
+  margin-right: 1rem;
 }
 
 .circle-small {
@@ -712,11 +713,12 @@ right: 10px;
   border: 2px solid #f8f1e4;
   padding: 0;
   border-radius: 15px;
+  margin-bottom: 1rem;
 }
 
 .school-para {
   color: #555;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 300;
   text-align: justify !important;
 }
@@ -1216,7 +1218,7 @@ right: 10px;
 
 .trainingform-head {
   color: #1c2042;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: bold;
 }
 
@@ -2571,6 +2573,6 @@ width: unset!important;
   justify-content: center;
   border-radius: 6px;
   color: #fb8700;
-  width: 95%;
+  width: 100%;
   padding: 1rem;
 }

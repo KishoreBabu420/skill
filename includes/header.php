@@ -17,11 +17,10 @@
 	<title><?php echo $title; ?></title>
 	<link rel="icon" type="image/png" href="images/favicon.png">
 	<link rel="stylesheet" href="css/style.css">
-	<link href="css/font-awesome-min.css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
 	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
-
+	<script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 </head>
 
 <body>

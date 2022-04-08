@@ -180,10 +180,10 @@
                     items: 1
                 },
                 992: {
-                    items: 2
+                    items: 1
                 },
                 1030: {
-                    items: 2
+                    items: 1
                 }
             }
         });
@@ -271,7 +271,7 @@
 
 if(document.getElementById('days')){
     
-     const second = 1000,
+    const second = 1000,
     minute = second * 60,
     hour = minute * 60,
     day = hour * 24;
@@ -345,19 +345,15 @@ function hasScrolled() {
 <script>
     $(document).ready(function() {
    $(window).scroll(function() {
-       if($('.coursepg-header')){
-           
-                  var headerH = $('.coursepg-header').outerHeight(true);
-      
+       if($('.coursepg-header')){  
+         var headerH = $('.coursepg-header').outerHeight(true);
 //this will calculate header's full height, with borders, margins, paddings
        var scrollVal = $(this).scrollTop();
         if ( scrollVal > headerH ) {
             $('#subnav').css({'position':'fixed','top' :'0px','opacity':'1','height':'96px'});
         } else {
             $('#subnav').css({'position':'static','top':'0px','opacity':'0','height':'96px'});
-        }
-        
-        
+        }    
        }
 
     });
