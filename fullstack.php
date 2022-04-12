@@ -3540,7 +3540,7 @@ include_once("includes/header.php");
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 <h1 class="top-head-faq mb-0">
-                                    Who is eligible for this course?
+									Who is a Full-Stack Developer?
                                 </h1>
                             </button>
                         </h2>
@@ -3548,7 +3548,7 @@ include_once("includes/header.php");
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p class="school-para mb-0">
-                                    Anyone who is passionate about learning Full Stack Development. Engineering graduated specialized in CS/IT/ECE/EEE and BCA/MCA Graduates.
+								A person who knows to develop both the frontend and backend portions of a web application alongside hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
                                 </p>
                             </div>
                         </div>
@@ -3558,14 +3558,14 @@ include_once("includes/header.php");
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                 <h1 class="top-head-faq mb-0">
-                                    What will be asked in the Admission Test?
+								Why do companies hire Full-Stack Developers?
                                 </h1>
                             </button>
                         </h2>
 
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <p class="school-para mb-0">We will check if you have the urge to learn new things and have a decent hold on written communication. The test will also cover Pattern Recognition and Logical Reasoning.</p>
+                                <p class="school-para mb-0">Companies prefer developers who can be work-efficient and as well as cost-efficient. A Full-Stack developer can help with the whole design structure and he also knows to provide input on any levels as need be.</p>
                             </div>
                         </div>
                     </div>
@@ -3574,7 +3574,7 @@ include_once("includes/header.php");
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                                 <h1 class="top-head-faq mb-0">
-                                    Who is a Full-stack developer?
+								What are the skill sets of a Full-Stack Developer?
                                 </h1>
                             </button>
                         </h2>
@@ -3582,7 +3582,7 @@ include_once("includes/header.php");
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p class="school-para mb-0">
-                                    A person who knows to develop both frontend and backend portion of an application.
+								A Full-Stack Developer major with front-end technology development languages like HTML5, CSS3, JavaScript, Bootstrap and should know at least one server-side programming language, basic design ability, server management, Version Control System (VCS), and knowledge of web services or API.
                                 </p>
                             </div>
                         </div>
@@ -3592,7 +3592,7 @@ include_once("includes/header.php");
                         <h2 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                 <h1 class="top-head-faq mb-0">
-                                    Why companies hire a full-stack developer?
+								Why React Framework is taught or preferred in this course?
                                 </h1>
                             </button>
                         </h2>
@@ -3600,8 +3600,7 @@ include_once("includes/header.php");
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p class="school-para mb-0">
-                                    A full-stack developer can help with the whole design structure and he also knows to provide input on any levels as need be. A person who knows to develop both frontend and backend portion of an
-                                    application
+								React Framework is the most in-demand and most preferred by a lot of developers and software companies. React Framework is beginner-friendly and has a lot of pre-equipped components. So React framework is the preferred framework for JavaScript.
                                 </p>
                             </div>
                         </div>
@@ -3611,7 +3610,7 @@ include_once("includes/header.php");
                         <h2 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
                                 <h1 class="top-head-faq mb-0">
-                                    What are the skill sets of a full-stack developer?
+								What is MERN Stack Web Development?
                                 </h1>
                             </button>
                         </h2>
@@ -3619,8 +3618,7 @@ include_once("includes/header.php");
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p class="school-para mb-0">
-                                    A full-stack developer major with front-end technology development languages and should know at least one server-side programming language, basic design ability, server management, version control system
-                                    (VCS), and knowledge of web services or API.
+								The term MERN Stack is abbreviated as MongoDB, ExpressJS, ReactJS, NodeJS. MERN is a Full-Stack, It follows a 3-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB)
                                 </p>
                             </div>
                         </div>
@@ -3630,7 +3628,7 @@ include_once("includes/header.php");
                         <h2 class="accordion-header" id="headingSix">
                             <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
                                 <h1 class="top-head-faq mb-0">
-                                    How does a full-stack developer involve in a project?
+								Who is eligible for this program?
                                 </h1>
                             </button>
                         </h2>
@@ -3638,12 +3636,193 @@ include_once("includes/header.php");
                         <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <p class="school-para mb-0">
-                                    A full-stack developer will give architecture and implementation from user requirements coordinating with the client. Writes front-end and back-end code for the application. Monitors the performance and
-                                    creates test codes. Troubleshoot the application with a fast and accurate resolution.
+								<strong>Academic Qualification</strong>: You can apply if you have either completed your graduation in any stream after 2015 or currently pursuing in your final year.</br>
+								<strong>English proficiency</strong>: This program’s mode of delivery is in English; you should be able to follow instructions in English.</br>
+								<strong>Interest & Commitment</strong>: Anyone who is passionate about learning Full Stack Development. You should be able to commit a minimum of 2-3 hours of program commitment on weekdays and a few more hours on Weekends for Assignments and Projects completion.</br>
+								<strong>Available to work after the program</strong>: The objective of this program is to skill up and get placed, hence you should be available to take a job after completion of this program.</br>
+
                                 </p>
                             </div>
                         </div>
                     </div>
+
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                                <h1 class="top-head-faq mb-0">
+								What are the selection criteria for this full-stack developer program?                                </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								The major evaluation procedures enrolment process is the efforts a student will be able to put during this program.
+								<ul>
+									<li>Basic Aptitude Assessment</li>
+									<li>Commitment Check with a Counsel Interview</li>
+									<li>Basic English communication skills</li>
+									<li>Academic background and document check</li>
+								</ul>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+                                <h1 class="top-head-faq mb-0">
+								What are logistics required for this program?
+                                </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+									Minimum 1 Mbps download speed.
+								<ul>
+									<li>Minimum Computer Hardware Specs - </li>
+									<li>1 GHz Processor</li>
+									<li>4 GB RAM</li>
+									<li>128 GB Hard Drive</li>
+									<li>Microphone</li>
+									<li>Webcam</li>
+									<li>Smart Mobile Phone for Skill Safari App Access</li>
+									</ul>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+                                <h1 class="top-head-faq mb-0">
+								What is the duration of the program?
+                                </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								The program duration takes on an average of 7 months. If you are not able to complete the program within the stipulated time, after the one-on-one review, we may consider batch shifting or program extensions based on the discussion.                       
+							</p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
+                                <h1 class="top-head-faq mb-0">
+								Will there be any possibility that the program might be extended beyond the given stipulated time?  </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								The program will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or personal reasons, we may extend the dates. However, this would be done with a proper intimation to the batch and based on the custom plan the progress will be intimated to all the students. We do this to ensure that none of the candidates are missed out on the pace of the program.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
+                                <h1 class="top-head-faq mb-0">
+								What will be asked in the Admission Test?
+							    </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								Skill Safari Alchemyst Admission Test:
+								SAST tests general aptitude, general vocational aptitude, professional intelligence, and professional aptitude are tested with our Differential Aptitude Test (DAT).</br>
+
+								</br>
+								No. of Questions: 30</br>
+								Total Duration: 45 mins</br>
+								Pass Percentage: 40%</br>
+								</br>
+								Areas include:</br>
+								Numerical/Mathematical Ability - 15 Questions</br>
+								Analytical Reasoning - 5 Questions</br>
+								Data Arrangements - 5 Questions</br>
+								Data Interpretation - 5 Questions</br>
+								</br>
+								Note: Below 40%, you will not be accepted for the program for this batch. You may re-apply for the next batch.
+
+							</p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
+                                <h1 class="top-head-faq mb-0">
+								How does a Full-Stack developer involve in a project?
+							    </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								A Full-Stack developer will give architecture and implementation from user  requirements coordinating with the client. Writes front-end and back-end code for the application. Monitors the performance and creates test codes. Troubleshoot the application with a fast and accurate resolution.
+							</p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThirteen" aria-expanded="true" aria-controls="collapseThirteen">
+                                <h1 class="top-head-faq mb-0">
+								What are the essential front-end technologies for a Full-Stack Developer?                                </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								HTML5, CSS3 and JavaScript are essential front-end languages. The knowledge of third-party libraries like jQuery, LESS, Angular and React JS is desirable.                                </p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourteen" aria-expanded="true" aria-controls="collapseFourteen">
+                                <h1 class="top-head-faq mb-0">
+								What are the essential development languages for a Full-Stack Developer?                                </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								A Full-Stack Developer doesn’t want to know all the programming languages. Knowing at least one server-side programming language like Python, JavaScript, Ruby, etc.                                </p>
+                            </div>
+                        </div>
+                    </div>
+					<div class="accordion-item mb-3 p-4">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
+                                <h1 class="top-head-faq mb-0">
+								What does our Full-Stack Developer program teach you?                                </h1>
+                            </button>
+                        </h2>
+
+                        <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <p class="school-para mb-0">
+								The Full-Stack Developer program enables you to build an interactive and responsive application using both front-end and back-end technologies. It covers the fundamentals of JavaScript and Advanced JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS. Also, it provides knowledge to test and deploy code and store data using MongoDB.                                </p>
+                            </div>
+                        </div>
+                    </div>
+					
                 </div>
 
                 <div class="cir-dot-yellow d-none d-lg-block">

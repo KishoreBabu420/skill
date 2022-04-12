@@ -71,15 +71,15 @@ include_once("includes/header.php");
                         <img src="images/i1.png" class="img-fluid" alt="" title="">
                     </div>
                     <div class="col-md-10 pb-md-5 mb-md-3 pb-3">
-                        <h2 class="orange-head">Placement assistance</h2>
-                        <p class="para-top">We want you to become a success story with not just quality <b> education </b> but much more. We provide <b>placement assistance</b> to ensure that you do not have to spend too much time frantically looking for jobs.</p>
+                        <h2 class="orange-head">Placement Assurance</h2>
+                        <p class="para-top">We want you to become a success story with not just quality <b> education </b> but much more. We provide <b>placement assurance</b> to ensure that you do not have to spend too much time frantically looking for jobs.</p>
                     </div>
                     <div class="col-md-2 pb-3 pb-md-0 text-lg-center">
                         <img src="images/i3.png" class="img-fluid" alt="" title="">
                     </div>
                     <div class="col-md-10 pb-3">
-                        <h2 class="rose-head">Wide network</h2>
-                        <p class="para-top">We have a wide network of students worldwide to ensure that you always have the vital support you need.</p>
+                        <h2 class="rose-head">Wide Network</h2>
+                        <p class="para-top">We have a wide network of companies PAN India to ensure that you always have the support you need to get placed in top product based companies with upto 4 LPA to 20 LPA.</p>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@ include_once("includes/header.php");
                         <img src="images/i4.png" class="img-fluid" alt="" title="">
                     </div>
                     <div class="col-md-10 pb-md-5 mb-md-3 pb-3">
-                        <h2 class="blue-head">Mentorship support</h2>
+                        <h2 class="blue-head">Mentorship Support</h2>
                         <p class="para-top">We promise you guidance from only the best. Our handpicked team of mentors provide you with the perfect direction to excel in your dreams while helping you learn all the tricks of the trade.</p>
                     </div>
                     <div class="col-md-2 pb-3 pb-md-0 text-lg-center">
@@ -97,8 +97,8 @@ include_once("includes/header.php");
                     </div>
                     <div class="col-md-10 pb-3">
                        
-                        <h2 class="pink-head">Upfront fees</h2>
-                        <p class="para-top">The best thing about joining Skill Safari cohorts is paying only after placement. We believe in practical education and charge zero upfront fees.</p>
+                        <h2 class="pink-head">ISA - Income Share Agreement</h2>
+                        <p class="para-top">The best thing about joining Skill Safari cohorts is paying after placement. We believe in outcome-based education and with a part upfront fees.</p>
                     </div>
                 </div>
             </div>
@@ -118,7 +118,7 @@ include_once("includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="top-head pt-5 mt-md-4 text-center pb-4">Courses</h2>
+                <h2 class="top-head pt-5 mt-md-4 text-center pb-4">Training Programs</h2>
                 <!-- Course #1 -->
                 <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
                     <div class="row">
@@ -130,12 +130,12 @@ include_once("includes/header.php");
                         <div class="col-lg-10 col-12">
                             <div class="row align-items-center">
                                 <div class="col-lg-9 col-md-12">
-                                    <h2 class="course-tophead">Full-Stack Developer</h2>
+                                    <h2 class="course-tophead">Full-Stack Developer Course</h2>
                                     <p class="course-toppara">
                                         <ul>
                                             <li class="course-toppara">A full-stack developer is someone who can code and handle both the front and back ends of websites and applications with ease.</li>
-                                           <li class="course-toppara">Learn technical and business skills for front-end developers.</li>
-                                           <li class="course-toppara">Gather insight about different technologies. </li>
+                                           <li class="course-toppara">With this Full Stack Developer Course, learn technical and business skills.</li>
+                                           <!-- <li class="course-toppara">Gather insight about different technologies. </li> -->
                                            <li class="course-toppara">Our mentors are masters in the field themselves and offer a hands-on learning experience you will revel in.</li>
                                         </ul>
                                     </p>
@@ -154,7 +154,7 @@ include_once("includes/header.php");
                                         </div>
                                         <div class="col-lg-9 col-md-9 col-10">
                                             <p class="course-para mb-0">
-                                                60+ Hours <br />
+                                                100+ Hours <br />
                                                 Hands on Training
                                             </p>
                                         </div>
@@ -216,13 +216,11 @@ include_once("includes/header.php");
                         <div class="col-lg-10 col-12">
                                 <div class="row align-items-center">
                                     <div class="col-lg-9 col-md-12">
-                                        <h2 class="course-tophead">Data Analytics program</h2>
+                                        <h2 class="course-tophead">Data Analytics Course</h2>
                                         <p class="course-toppara">
                                             <ul>
-                                                <li class="course-toppara">Data is everywhere. The world runs on the insights gathered from data. </li>
-                                            <li class="course-toppara">Data analyzers find these insights. </li>
-                                            <li class="course-toppara">The Data analytics program is designed to teach you all that you need to learn about analyzing tons and tons of data that we generate. </li>
-                                            <li class="course-toppara">Data analysis has great scope in today’s age. Getting certified with our program in data analysis will allow you to pursue your career in various fields. </li>
+                                            <li class="course-toppara">The Data analytics course is designed to teach you all that you need to learn about analyzing tons and tons of data that we generate. </li>
+                                            <li class="course-toppara">Data analytics has great scope in today’s age. Getting certified with our program in data analytics will allow you to pursue your career in various fields. </li>
                                             <li class="course-toppara">There is also a huge demand in the country for data analytics, providing ample opportunities for all students. With our intriguing course you can learn to analyze data like a pro!</li>
                                             </ul>
                                         </p>
@@ -241,7 +239,7 @@ include_once("includes/header.php");
                                             </div>
                                             <div class="col-lg-9 col-md-9 col-10">
                                                 <p class="course-para mb-0">
-                                                    60+ Hours <br />
+                                                    100+ Hours <br />
                                                     Hands on Training
                                                 </p>
                                             </div>
@@ -540,7 +538,7 @@ include_once("includes/testimony.php");
                 <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                     <img src="images/Sathish.png" class="img-fluid" alt="" title="">
                     <div class="middle">
-                        <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                        <div class="text"><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i class="fa fa-linkedin"></i></a></div>
                     </div>
                     <h3 class="trained-head pt-md-3 pt-3">Sathish</h3>
                     <h6 class="trained-dest pb-3">Skill Safari</h6>
@@ -557,7 +555,7 @@ include_once("includes/testimony.php");
                                    </div>
                                    <div class="col-md-8 text-center text-md-start">
                                         <h3 class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill Safari</span> </h3>
-                                        <div><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                                        <div><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i class="fa fa-linkedin"></i></a></div>
                                         
                                    </div>
                                    <div class="col-md-12 text-center text-md-start">
@@ -571,7 +569,7 @@ include_once("includes/testimony.php");
             </div>
             <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
                 <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                    <img src="images/t3.png" class="img-fluid" alt="" title="">
+                    <img src="images/k2.png" class="img-fluid" alt="" title="">
                     <div class="middle">
                         <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
                     </div>
@@ -586,7 +584,7 @@ include_once("includes/testimony.php");
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                <div class="row">
                                    <div class="col-md-4">
-                                    <img src="images/t3.png" class="img-fluid" alt="" title="">
+                                    <img src="images/k2.png" class="img-fluid" alt="" title="">
                                    </div>
                                    <div class="col-md-8 text-center text-md-start">
                                         <h3 class="trained-head pt-md-3 pt-3">Jay Shetty - <span class="trained-dest">IntG</span> </h3>
