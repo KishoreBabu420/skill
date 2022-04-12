@@ -236,7 +236,7 @@ $('a[href="#pricing"]').click(function () {
 });
 
 //Home TYpe OBL,
-let typed = new Types('#obl-principles', {
+let typed = new Typed('.obl-principles', {
   strings: [
     'Learn and Earn Community',
     'Collaborative Learning',
