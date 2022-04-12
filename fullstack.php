@@ -14,29 +14,29 @@ include_once("includes/header.php");
 
 
 <section class="coursepg-header">
-	<div  id="subnav" class="bg-white new-navdown shadow w-100">
-		<div class="container">
-			<div class="row">
-					<div class="col-md-12">
-							<h3 class="top-coursepgscrollhead mb-0 pt-2">Career in FullStack Developer</h3>
-					</div>
-					<div class="col-md-10 p-0">                
-							<ul class="list-group list-group-horizontal pb-2 new-topscrolllist">
-									<li class="list-group-item"><a class="text-decoration-none" href="#cd">Course Details</a></li>
-									<li class="list-group-item"><a class="text-decoration-none" href="#why">Why Full Stack Developer</a></li>
-									<li class="list-group-item"><a class="text-decoration-none" href="#criteria">Minimum Criteria</a></li>
-									<li class="list-group-item"><a class="text-decoration-none" href="#curriculum">Curriculum</a></li>
-									<li class="list-group-item"><a class="text-decoration-none" href="#pricing">Pricing</a></li>
-							</ul>                        
-					</div>
-					<div class="col-md-2 d-none d-md-block">
-							<div class="regbtn">
-									<a href="" class="text-decoration-none">Apply Now</a>
-							</div>
-					</div>
-			</div>
-		</div>
-	</div>
+    <div  id="subnav" class="bg-white new-navdown shadow w-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="top-coursepgscrollhead mb-0 pt-2">Career in FullStack Developer</h3>
+                </div>
+                <div class="col-md-10 p-0">                
+                    <ul class="list-group list-group-horizontal pb-2 new-topscrolllist">
+                        <li class="list-group-item"><a class="text-decoration-none" href="#cd">Course Details</a></li>
+                        <li class="list-group-item"><a class="text-decoration-none" href="#why">Why Full Stack Developer</a></li>
+                        <li class="list-group-item"><a class="text-decoration-none" href="#criteria">Minimum Criteria</a></li>
+                        <li class="list-group-item"><a class="text-decoration-none" href="#curriculum">Curriculum</a></li>
+                        <li class="list-group-item"><a class="text-decoration-none" href="#pricing">Pricing</a></li>
+                    </ul>                        
+                </div>
+                <div class="col-md-2 d-none d-md-block">
+                    <div class="regbtn">
+                        <a href="" class="text-decoration-none">Apply Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>       
 
 <!-- top-space -->
@@ -470,1941 +470,1322 @@ include_once("includes/header.php");
 
 <!-- criteria started -->
 <section class="bg-criteria" id="criteria">
-	<div class="container pt-md-5">
-			<div class="row pt-md-0 pt-5 justify-content-center">
-					<div class="col-md-12 pb-5 text-center">
-							<h1 class="text-center top-head">Minimum Criteria</h1>
-							<p class="school-para text-center">You should meet the following requirements to be eligible for this course.</p>
-					</div>           
-					<div class="col-lg-4 col-md-6 mb-5">
-							<div class="row">
-									<div class="col-md-2 col-2">
-											<div class="criteria-box">
-											<i class="fas fa-id-card"></i>
-											</div>
-									</div>
-									<div class="col-md-10 col-10">
-											<h5 class="criteriaboxhead">Qualification</h5>
-											<p class="criteriaboxpara">Cleared 12th Standard, Ready To Take a Job Immediately After Course Finishes</p>
-									</div>
-							</div>
-					</div>
-					<div class="col-lg-4 col-md-6 mb-5">
-							<div class="row">
-									<div class="col-md-2 col-2">
-											<div class="criteria-box">
-											<i class="far fa-address-card"></i>
-											</div>
-									</div>
-									<div class="col-md-10 col-10">
-											<h5 class="criteriaboxhead">ID</h5>
-											<p class="criteriaboxpara">Valid PAN Card and Aadhar Card</p>
-									</div>
-							</div>
-					</div>
-					<div class="col-lg-4 col-md-6 mb-5">
-							<div class="row">
-									<div class="col-md-2 col-2">
-											<div class="criteria-box">
-											<i class="fas fa-globe"></i>
-											</div>
-									</div>
-									<div class="col-md-10 col-10">
-											<h5 class="criteriaboxhead">Hardware</h5>
-											<p class="criteriaboxpara">A laptop, uninterrupted internet connection</p>
-									</div>
-							</div>
-					</div>
-					<div class="col-lg-4 col-md-6 mb-5">
-							<div class="row">
-									<div class="col-md-2 col-2">
-											<div class="criteria-box">
-											<i class="far fa-user"></i>
-											</div>
-									</div>
-									<div class="col-md-10 col-10">
-											<h5 class="criteriaboxhead">Age</h5>
-											<p class="criteriaboxpara">Min. 18 yrs, Max. 28 yrs</p>
-									</div>
-							</div>
-					</div>
-					<div class="col-lg-4 col-md-6 mb-5">
-							<div class="row">
-									<div class="col-md-2 col-2">
-											<div class="criteria-box">
-											<i class="fas fa-satellite-dish"></i>
-											</div>
-									</div>
-									<div class="col-md-10 col-10">
-											<h5 class="criteriaboxhead">Communication Skills</h5>
-											<p class="criteriaboxpara">Basic English - speaking, reading and writing</p>
-									</div>
-							</div>
-					</div>
-			</div>
-	</div>
+    <div class="container pt-md-5">
+        <div class="row pt-md-0 pt-5 justify-content-center">
+            <div class="col-md-12 pb-5 text-center">
+                <h1 class="text-center top-head">Minimum Criteria</h1>
+                <p class="school-para text-center">You should meet the following requirements to be eligible for this course.</p>
+            </div>           
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="row">
+                    <div class="col-md-2 col-2">
+                        <div class="criteria-box">
+                        <i class="fas fa-id-card"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-10">
+                        <h5 class="criteriaboxhead">Qualification</h5>
+                        <p class="criteriaboxpara">Cleared 12th Standard, Ready To Take a Job Immediately After Course Finishes</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="row">
+                    <div class="col-md-2 col-2">
+                        <div class="criteria-box">
+                        <i class="far fa-address-card"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-10">
+                        <h5 class="criteriaboxhead">ID</h5>
+                        <p class="criteriaboxpara">Valid PAN Card and Aadhar Card</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="row">
+                    <div class="col-md-2 col-2">
+                        <div class="criteria-box">
+                        <i class="fas fa-globe"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-10">
+                        <h5 class="criteriaboxhead">Hardware</h5>
+                        <p class="criteriaboxpara">A laptop, uninterrupted internet connection</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="row">
+                    <div class="col-md-2 col-2">
+                        <div class="criteria-box">
+                        <i class="far fa-user"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-10">
+                        <h5 class="criteriaboxhead">Age</h5>
+                        <p class="criteriaboxpara">Min. 18 yrs, Max. 28 yrs</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5">
+                <div class="row">
+                    <div class="col-md-2 col-2">
+                        <div class="criteria-box">
+                        <i class="fas fa-satellite-dish"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-10">
+                        <h5 class="criteriaboxhead">Communication Skills</h5>
+                        <p class="criteriaboxpara">Basic English - speaking, reading and writing</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 <!-- criteriaa ended -->
 
 <!-- month week section started -->
 
 <section class="bg-willlearn" id="curriculum">
-	<div class="container">
-		<div class="row pt-md-2 pb-md-5 justify-content-center">
-			<div class="col-md-12 pt-5">
-				<h1 class="text-center top-head">Curriculum</h1>
-				<nav class="pt-3">
-						<div class="nav nav-tabs" id="nav-tab" role="tablist">
-								<button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Month 01</button>
-
-								<button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Month 02</button>
-
-								<button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Month 03</button>
-
-								<button class="nav-link" id="nav-new1-tab" data-bs-toggle="tab" data-bs-target="#nav-new1" type="button" role="tab" aria-controls="nav-new1" aria-selected="false">Month 04</button>
-
-								<button class="nav-link" id="nav-new2-tab" data-bs-toggle="tab" data-bs-target="#nav-new2" type="button" role="tab" aria-controls="nav-new2" aria-selected="false">Month 05</button>
-						</div>
-				</nav>
-				<div class="tab-content pt-5" id="nav-tabContent">
-					<!-- Month#1 -->
-					<div
-						class="tab-pane fade show active w-100x"
-						id="nav-home"
-						role="tabpanel"
-						aria-labelledby="nav-home-tab"
-					>
-						<div class="row md-show">
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div
-										class="nav flex-column nav-pills me-3 w-100"
-										id="v-pills-tab"
-										role="tablist"
-										aria-orientation="vertical"
-									>
-										<button
-											class="nav-link active"
-											id="v-pills-week01-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week01"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week01"
-											aria-selected="true"
-										>
-											<span class="new-font"
-												>Week <span class="pinky">01</span></span
-											>
-
-											<p class="school-para mb-0">
-												Introduction to Web Development
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week02-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week02"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week02"
-											aria-selected="false"
-										>
-											<span class="new-font"
-												>Week <span class="pinky">02</span></span
-											>
-
-											<p class="school-para mb-0">Fundamentals of Web Development</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week03-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week03"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week03"
-											aria-selected="false"
-										>
-											<span class="new-font"
-												>Week <span class="pinky">03</span></span
-											>
-
-											<p class="school-para mb-0">
-												Introduction to CSS 3
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week04-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week04"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week04"
-											aria-selected="false"
-										>
-											<span class="new-font"
-												>Week <span class="pinky">04 </span></span
-											>
-
-											<p class="school-para mb-0">Building Real World websites</p>
-										</button>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div class="tab-content" id="v-pills-tabContent">
-										<div
-											class="tab-pane fade show active"
-											id="v-pills-week01"
-											role="tabpanel"
-											aria-labelledby="v-pills-week01-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont fw-bold">Week 01</span>
-
-												<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-												<ul>
-													<li class="school-para">
-														Introduction and Community Guidelines
-													</li>
-
-													<li class="school-para">
-														3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack
-													</li>
-
-													<li class="school-para">Installation of Software: 
-														<ul>
-															<li class="school-para">Git & Terminal Setup</li>
-															<li class="school-para">VS Code & Extensions</li>
-															<li class="school-para">Google Chrome & Extensions</li>
-														</ul>
-													</li>
-
-													<li class="school-para">Introduction to Git & GitHub</li>
-
-													<li class="school-para">Working with GitHub issues & Pull Requests</li>
-												</ul>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week02"
-											role="tabpanel"
-											aria-labelledby="v-pills-week02-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont fw-bold">Week 02</span>
-
-												<h6 class="pt-5 fw-bold">What You Will Learn : HTML 5</h6>
-
-												<ul>
-													<li class="school-para">Introduction to Web and HTML & CSS</li>
-
-													<li class="school-para">HTML Boiler Plate</li>
-
-													<li class="school-para">Writing Semantic HTML</li>
-
-													<li class="school-para">
-														Working with Text, Lists, Links in HTML
-													</li>
-
-													<li class="school-para">
-														Adding Media, Tables, Forms to HTML
-													</li>
-												</ul>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week03"
-											role="tabpanel"
-											aria-labelledby="v-pills-week03-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont fw-bold">Week 03</span>
-
-												<h6 class="pt-5 fw-bold">What You Will Learn</h6>
-
-												<ul>
-													<li class="school-para">Introduction to CSS Box Model</li>
-
-													<li class="school-para">Introduction to Typography & Colors</li>
-
-													<li class="school-para">Display Float and Positions</li>
-													<li class="school-para">Responsive Web Design using CSS Flexbox and CSS Grid System</li>
-											
-													<li class="school-para">Work with CSS Animations and Transitions</li>
-												</ul>
-
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week04"
-											role="tabpanel"
-											aria-labelledby="v-pills-week04-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont fw-bold">Week 04</span>
-
-												<h6 class="pt-5 fw-bold">Apply your knowledge</h6>
-
-												<ul>
-													<li class="school-para">Building a Web Develope Portfolio using HTML & CSS</li>
-
-													<li class="school-para">Design and Develop a Local Restaurant Website</li>
-
-													<li class="school-para">Design and Develop a Insurance Sales Website</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!--Month#2  -->
-					<div
-						class="tab-pane fade"
-						id="nav-profile"
-						role="tabpanel"
-						aria-labelledby="nav-profile-tab"
-					>
-						<div class="row md-show">
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div
-										class="nav flex-column nav-pills me-3"
-										id="v-pills-tab"
-										role="tablist"
-										aria-orientation="vertical"
-									>
-										<button
-											class="nav-link active"
-											id="v-pills-week01-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week01"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week01"
-											aria-selected="true"
-										>
-											<span class="new-font">Week 01</span>
-
-											<p class="school-para mb-0">
-												JavaScript Fundamentals
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week02-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week02"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week02"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 02</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week03-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week03"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week03"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 03</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week04-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week04"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week04"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 04 </span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div class="tab-content" id="v-pills-tabContent">
-										<div
-											class="tab-pane fade show active"
-											id="v-pills-week01"
-											role="tabpanel"
-											aria-labelledby="v-pills-week01-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week02"
-											role="tabpanel"
-											aria-labelledby="v-pills-week02-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week03"
-											role="tabpanel"
-											aria-labelledby="v-pills-week03-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week04"
-											role="tabpanel"
-											aria-labelledby="v-pills-week04-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="row mob-faq">
-							<div class="accordion" id="accordionExample">
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewOne">
-										<button
-											class="accordion-button"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewOne"
-											aria-expanded="true"
-											aria-controls="collapseNewOne"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewOne"
-										class="accordion-collapse collapse show"
-										aria-labelledby="headingNewOne"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewTwo">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewTwo"
-											aria-expanded="true"
-											aria-controls="collapseNewTwo"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewTwo"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewTwo"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewThree">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewThree"
-											aria-expanded="true"
-											aria-controls="collapseNewThree"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewThree"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewThree"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewFour">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewFour"
-											aria-expanded="true"
-											aria-controls="collapseNewFour"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewFour"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewFour"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!--Month#3  -->
-					<div
-						class="tab-pane fade"
-						id="nav-contact"
-						role="tabpanel"
-						aria-labelledby="nav-contact-tab"
-					>
-						<div class="row md-show">
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div
-										class="nav flex-column nav-pills me-3"
-										id="v-pills-tab"
-										role="tablist"
-										aria-orientation="vertical"
-									>
-										<button
-											class="nav-link active"
-											id="v-pills-week01-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week01"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week01"
-											aria-selected="true"
-										>
-											<span class="new-font">Week 01</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week02-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week02"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week02"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 02</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week03-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week03"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week03"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 03</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week04-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week04"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week04"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 04 </span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div class="tab-content" id="v-pills-tabContent">
-										<div
-											class="tab-pane fade show active"
-											id="v-pills-week01"
-											role="tabpanel"
-											aria-labelledby="v-pills-week01-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week02"
-											role="tabpanel"
-											aria-labelledby="v-pills-week02-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week03"
-											role="tabpanel"
-											aria-labelledby="v-pills-week03-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week04"
-											role="tabpanel"
-											aria-labelledby="v-pills-week04-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="row mob-faq">
-							<div class="accordion" id="accordionExample">
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewOne">
-										<button
-											class="accordion-button"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewOne"
-											aria-expanded="true"
-											aria-controls="collapseNewOne"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewOne"
-										class="accordion-collapse collapse show"
-										aria-labelledby="headingNewOne"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewTwo">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewTwo"
-											aria-expanded="true"
-											aria-controls="collapseNewTwo"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewTwo"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewTwo"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewThree">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewThree"
-											aria-expanded="true"
-											aria-controls="collapseNewThree"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewThree"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewThree"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewFour">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewFour"
-											aria-expanded="true"
-											aria-controls="collapseNewFour"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewFour"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewFour"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Month#4 -->
-					<div
-						class="tab-pane fade"
-						id="nav-new1"
-						role="tabpanel"
-						aria-labelledby="nav-new1-tab"
-					>
-						<div class="row md-show">
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div
-										class="nav flex-column nav-pills me-3"
-										id="v-pills-tab"
-										role="tablist"
-										aria-orientation="vertical"
-									>
-										<button
-											class="nav-link active"
-											id="v-pills-week01-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week01"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week01"
-											aria-selected="true"
-										>
-											<span class="new-font">Week 01</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week02-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week02"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week02"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 02</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week03-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week03"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week03"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 03</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week04-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week04"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week04"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 04 </span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div class="tab-content" id="v-pills-tabContent">
-										<div
-											class="tab-pane fade show active"
-											id="v-pills-week01"
-											role="tabpanel"
-											aria-labelledby="v-pills-week01-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week02"
-											role="tabpanel"
-											aria-labelledby="v-pills-week02-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week03"
-											role="tabpanel"
-											aria-labelledby="v-pills-week03-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week04"
-											role="tabpanel"
-											aria-labelledby="v-pills-week04-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="row mob-faq">
-							<div class="accordion" id="accordionExample">
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewOne">
-										<button
-											class="accordion-button"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewOne"
-											aria-expanded="true"
-											aria-controls="collapseNewOne"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewOne"
-										class="accordion-collapse collapse show"
-										aria-labelledby="headingNewOne"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewTwo">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewTwo"
-											aria-expanded="true"
-											aria-controls="collapseNewTwo"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewTwo"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewTwo"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewThree">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewThree"
-											aria-expanded="true"
-											aria-controls="collapseNewThree"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewThree"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewThree"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewFour">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewFour"
-											aria-expanded="true"
-											aria-controls="collapseNewFour"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewFour"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewFour"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- Month#5 -->
-					<div
-						class="tab-pane fade"
-						id="nav-new2"
-						role="tabpanel"
-						aria-labelledby="nav-new2-tab"
-					>
-						<div class="row md-show">
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div
-										class="nav flex-column nav-pills me-3"
-										id="v-pills-tab"
-										role="tablist"
-										aria-orientation="vertical"
-									>
-										<button
-											class="nav-link active"
-											id="v-pills-week01-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week01"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week01"
-											aria-selected="true"
-										>
-											<span class="new-font">Week 01</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week02-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week02"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week02"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 02</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week03-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week03"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week03"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 03</span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-
-										<button
-											class="nav-link"
-											id="v-pills-week04-tab"
-											data-bs-toggle="pill"
-											data-bs-target="#v-pills-week04"
-											type="button"
-											role="tab"
-											aria-controls="v-pills-week04"
-											aria-selected="false"
-										>
-											<span class="new-font">Week 04 </span>
-
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-												Ducimus quos facilis porro voluptatem?
-											</p>
-										</button>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-6">
-								<div class="d-flex align-items-start pt-4 align-self-stretch">
-									<div class="tab-content" id="v-pills-tabContent">
-										<div
-											class="tab-pane fade show active"
-											id="v-pills-week01"
-											role="tabpanel"
-											aria-labelledby="v-pills-week01-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week02"
-											role="tabpanel"
-											aria-labelledby="v-pills-week02-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week03"
-											role="tabpanel"
-											aria-labelledby="v-pills-week03-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-
-										<div
-											class="tab-pane fade"
-											id="v-pills-week04"
-											role="tabpanel"
-											aria-labelledby="v-pills-week04-tab"
-										>
-											<div class="right-newcont">
-												<span class="new-cont">Week 01</span>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-
-												<p class="school-para pt-3">
-													Lorem ipsum dolor sit amet consectetur adipisicing elit.
-													Mollitia eum modi, itaque expedita dolores, minus sint,
-													doloribus dolorem iste enim nisi. Dolorem reiciendis non
-													cupiditate voluptas dolorum labore voluptatum rerum.
-												</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="row mob-faq">
-							<div class="accordion" id="accordionExample">
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewOne">
-										<button
-											class="accordion-button"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewOne"
-											aria-expanded="true"
-											aria-controls="collapseNewOne"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewOne"
-										class="accordion-collapse collapse show"
-										aria-labelledby="headingNewOne"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewTwo">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewTwo"
-											aria-expanded="true"
-											aria-controls="collapseNewTwo"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewTwo"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewTwo"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewThree">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewThree"
-											aria-expanded="true"
-											aria-controls="collapseNewThree"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewThree"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewThree"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-
-								<div class="accordion-item p-2">
-									<h2 class="accordion-header" id="headingNewFour">
-										<button
-											class="accordion-button collapsed"
-											type="button"
-											data-bs-toggle="collapse"
-											data-bs-target="#collapseNewFour"
-											aria-expanded="true"
-											aria-controls="collapseNewFour"
-										>
-											<h1 class="top-head-faq mb-0">
-												<span class="new-font">Week 01</span>
-											</h1>
-										</button>
-									</h2>
-
-									<div
-										id="collapseNewFour"
-										class="accordion-collapse collapse"
-										aria-labelledby="headingNewFour"
-										data-bs-parent="#accordionExample"
-									>
-										<div class="accordion-body">
-											<p class="school-para mb-0">
-												Lorem ipsum dolor sit amet consectetur adipisicing elit.
-												Nulla labore illum, eligendi adipisci mollitia a recusandae
-												magni facere eveniet! Eveniet laudantium esse possimus,
-												facere veniam aliquid atque tempore. Necessitatibus,
-												voluptatibus.
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-8 pt-5 pb-5">
-					<div class="row justify-content-center align-items-center">
-							<div class="col-lg-5 col-md-7 col-12 mb-4 mb-md-0 text-md text-center">
-									<div class="trans-btn">
-											<a href="" class="text-decoration-none">Download Curriculum</a>
-									</div>
-							</div>
-
-							<div class="col-lg-4 col-md-5 col-12 text-md-start text-center">
-									<div class="regbtn">
-									<a href="" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#exampleModal-newtop">I'm Interested</a>
-									</div>
-
-									<!-- modal -->
-									<div class="modal fade" id="exampleModal-newtop" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-											<div class="modal-dialog">
-													<div class="modal-content">
-															<div class="modal-body">
-																	<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-																	<div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
-																			<h1 class="trainingform-head pb-3">I'm Interested</h1>
-
-																			<form>
-																					<div class="mb-3">
-																							<label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-																							<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your Full Name">
-																					</div>
-
-																					<div class="mb-3">
-																							<label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-																							<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your Phone Number">
-																					</div>
-
-																					<div class="mb-3">
-																							<label for="exampleInputEmail1" class="form-label">Email*</label>
-
-																							<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your email ID">
-																					</div>
-																			</form>
-
-																			<div class="callbackbtn mt-3">
-																					<a href="" class="text-decoration-none">Request A Callback</a>
-																			</div>
-																	</div>
-															</div>
-													</div>
-											</div>
-									</div>
-							</div>
-					</div>
-			</div>
-		</div>
-  </div>
+    <div class="container">
+        <div class="row pt-md-2 pb-md-5 justify-content-center">
+            <div class="col-md-12 pt-5">
+                <h1 class="text-center top-head">Curriculum</h1>
+
+                <nav class="pt-3">
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                        <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Month 01</button>
+
+                        <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Month 02</button>
+
+                        <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Month 03</button>
+
+                        <button class="nav-link" id="nav-new1-tab" data-bs-toggle="tab" data-bs-target="#nav-new1" type="button" role="tab" aria-controls="nav-new1" aria-selected="false">Month 04</button>
+
+                        <button class="nav-link" id="nav-new2-tab" data-bs-toggle="tab" data-bs-target="#nav-new2" type="button" role="tab" aria-controls="nav-new2" aria-selected="false">Month 05</button>
+                    </div>
+                </nav>
+
+                <div class="tab-content pt-5" id="nav-tabContent">
+                    <div class="tab-pane fade show active w-100x" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="row md-show">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="nav flex-column nav-pills me-3 w-100" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                        <button class="nav-link active" id="v-pills-week01-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week01" type="button" role="tab" aria-controls="v-pills-week01" aria-selected="true">
+                                            <span class="new-font">Week <span class="pinky">01</span></span>
+
+                                            <p class="school-para mb-0">Understanding and Building Mood Boards!</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week02-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week02" type="button" role="tab" aria-controls="v-pills-week02" aria-selected="false">
+                                            <span class="new-font">Week <span class="pinky">02</span></span>
+
+                                            <p class="school-para mb-0">Introduction to Figma</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week03-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week03" type="button" role="tab" aria-controls="v-pills-week03" aria-selected="false">
+                                            <span class="new-font">Week <span class="pinky">03</span></span>
+
+                                            <p class="school-para mb-0">The holy trinity of Visual Design</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week04-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week04" type="button" role="tab" aria-controls="v-pills-week04" aria-selected="false">
+                                            <span class="new-font">Week <span class="pinky">04 </span></span>
+
+                                            <p class="school-para mb-0">Designing for Mobile Devices</p>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="tab-content" id="v-pills-tabContent">
+                                        <div class="tab-pane fade show active" id="v-pills-week01" role="tabpanel" aria-labelledby="v-pills-week01-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont fw-bold">Week 01</span>
+
+                                                <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                                <ul>
+                                                    <li class="school-para">UI Design and why it matters and how is it different from UX design (Is it?)</li>
+
+                                                    <li class="school-para">The skills needed for UI Design</li>
+
+                                                    <li class="school-para">Finding inspiration</li>
+
+                                                    <li class="school-para">What is Mood Board</li>
+
+                                                    <li class="school-para">How to Create Mood Board</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week02" role="tabpanel" aria-labelledby="v-pills-week02-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont fw-bold">Week 02</span>
+
+                                                <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                                <ul>
+                                                    <li class="school-para">Frames</li>
+
+                                                    <li class="school-para">Grids</li>
+
+                                                    <li class="school-para">Tools</li>
+
+                                                    <li class="school-para">Basic shapes and boolean operations</li>
+
+                                                    <li class="school-para">Essential keyboard shortcuts to speed up your workflow</li>
+                                                </ul>
+
+                                                <h6 class="pt-5 fw-bold">Projects you will do</h6>
+
+                                                <ul>
+                                                    <li class="school-para">Projects you will do</li>
+
+                                                    <li class="school-para">Being the copy-cat</li>
+
+                                                    <li class="school-para">In this project, you will replicate (copy) one page of a very famous website.</li>
+
+                                                    <li class="school-para">Add on: You get a cheat sheet of popular keyboard shortcuts of Figma which will boost your speed of designing.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week03" role="tabpanel" aria-labelledby="v-pills-week03-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont fw-bold">Week 03</span>
+
+                                                <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                                <ul>
+                                                    <li class="school-para">Introduction to Colours</li>
+
+                                                    <li class="school-para">Introduction to Typography</li>
+
+                                                    <li class="school-para">Introduction to Iconography</li>
+                                                </ul>
+
+                                                <h6 class="pt-5 fw-bold">Projects you will do</h6>
+
+                                                <ul>
+                                                    <li class="school-para">A visual revamp</li>
+
+                                                    <li class="school-para">In this project, you will use your understanding and eye to visually revamp a webpage.</li>
+
+                                                    <li class="school-para">You will get the opportunity to apply the fundamentals of colors typography and iconography in this.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week04" role="tabpanel" aria-labelledby="v-pills-week04-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont fw-bold">Week 03</span>
+
+                                                <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                                <ul>
+                                                    <li class="school-para">Introduction to Colours</li>
+
+                                                    <li class="school-para">Introduction to Typography</li>
+
+                                                    <li class="school-para">Introduction to Iconography</li>
+                                                </ul>
+
+                                                <h6 class="pt-5 fw-bold">Projects you will do</h6>
+
+                                                <ul>
+                                                    <li class="school-para">A visual revamp</li>
+
+                                                    <li class="school-para">In this project, you will use your understanding and eye to visually revamp a webpage.</li>
+
+                                                    <li class="school-para">You will get the opportunity to apply the fundamentals of colors typography and iconography in this.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mob-faq">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewOne" aria-expanded="true" aria-controls="collapseNewOne">
+                                            <h1 class="top-head-faq mb-0">
+                                                <span class="new-font">
+                                                    Week 01 <br />
+                                                    Understanding and Building Mood Boards!
+                                                </span>
+                                            </h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewOne" class="accordion-collapse collapse show" aria-labelledby="headingNewOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                            <ul>
+                                                <li class="school-para">UI Design and why it matters and how is it different from UX design (Is it?)</li>
+
+                                                <li class="school-para">The skills needed for UI Design</li>
+
+                                                <li class="school-para">Finding inspiration</li>
+
+                                                <li class="school-para">What is Mood Board</li>
+
+                                                <li class="school-para">How to Create Mood Board</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewTwo" aria-expanded="true" aria-controls="collapseNewTwo">
+                                            <h1 class="top-head-faq mb-0">
+                                                <span class="new-font">
+                                                    Week 02 <br />
+                                                    Introduction to Figma
+                                                </span>
+                                            </h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewTwo" class="accordion-collapse collapse" aria-labelledby="headingNewTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                            <ul>
+                                                <li class="school-para">Frames</li>
+
+                                                <li class="school-para">Grids</li>
+
+                                                <li class="school-para">Tools</li>
+
+                                                <li class="school-para">Basic shapes and boolean operations</li>
+
+                                                <li class="school-para">Essential keyboard shortcuts to speed up your workflow</li>
+                                            </ul>
+
+                                            <h6 class="pt-5 fw-bold">Projects you will do</h6>
+
+                                            <ul>
+                                                <li class="school-para">Projects you will do</li>
+
+                                                <li class="school-para">Being the copy-cat</li>
+
+                                                <li class="school-para">In this project, you will replicate (copy) one page of a very famous website.</li>
+
+                                                <li class="school-para">Add on: You get a cheat sheet of popular keyboard shortcuts of Figma which will boost your speed of designing.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewThree" aria-expanded="true" aria-controls="collapseNewThree">
+                                            <h1 class="top-head-faq mb-0">
+                                                <span class="new-font">
+                                                    Week 03 <br />
+                                                    The holy trinity of Visual Design
+                                                </span>
+                                            </h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewThree" class="accordion-collapse collapse" aria-labelledby="headingNewThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                            <ul>
+                                                <li class="school-para">Introduction to Colours</li>
+
+                                                <li class="school-para">Introduction to Typography</li>
+
+                                                <li class="school-para">Introduction to Iconography</li>
+                                            </ul>
+
+                                            <h6 class="pt-5 fw-bold">Projects you will do</h6>
+
+                                            <ul>
+                                                <li class="school-para">A visual revamp</li>
+
+                                                <li class="school-para">In this project, you will use your understanding and eye to visually revamp a webpage.</li>
+
+                                                <li class="school-para">You will get the opportunity to apply the fundamentals of colors typography and iconography in this.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewFour" aria-expanded="true" aria-controls="collapseNewFour">
+                                            <h1 class="top-head-faq mb-0">
+                                                <span class="new-font">
+                                                    Week 04 <br />
+                                                    Designing for Mobile Devices
+                                                </span>
+                                            </h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewFour" class="accordion-collapse collapse" aria-labelledby="headingNewFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <h6 class="pt-5 fw-bold">What You Will Learn</h6>
+
+                                            <ul>
+                                                <li class="school-para">Introduction to Colours</li>
+
+                                                <li class="school-para">Introduction to Typography</li>
+
+                                                <li class="school-para">Introduction to Iconography</li>
+                                            </ul>
+
+                                            <h6 class="pt-5 fw-bold">Projects you will do</h6>
+
+                                            <ul>
+                                                <li class="school-para">A visual revamp</li>
+
+                                                <li class="school-para">In this project, you will use your understanding and eye to visually revamp a webpage.</li>
+
+                                                <li class="school-para">You will get the opportunity to apply the fundamentals of colors typography and iconography in this.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="row md-show">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                        <button class="nav-link active" id="v-pills-week01-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week01" type="button" role="tab" aria-controls="v-pills-week01" aria-selected="true">
+                                            <span class="new-font">Week 01</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week02-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week02" type="button" role="tab" aria-controls="v-pills-week02" aria-selected="false">
+                                            <span class="new-font">Week 02</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week03-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week03" type="button" role="tab" aria-controls="v-pills-week03" aria-selected="false">
+                                            <span class="new-font">Week 03</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week04-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week04" type="button" role="tab" aria-controls="v-pills-week04" aria-selected="false">
+                                            <span class="new-font">Week 04 </span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="tab-content" id="v-pills-tabContent">
+                                        <div class="tab-pane fade show active" id="v-pills-week01" role="tabpanel" aria-labelledby="v-pills-week01-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week02" role="tabpanel" aria-labelledby="v-pills-week02-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week03" role="tabpanel" aria-labelledby="v-pills-week03-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week04" role="tabpanel" aria-labelledby="v-pills-week04-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mob-faq">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewOne" aria-expanded="true" aria-controls="collapseNewOne">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewOne" class="accordion-collapse collapse show" aria-labelledby="headingNewOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewTwo" aria-expanded="true" aria-controls="collapseNewTwo">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewTwo" class="accordion-collapse collapse" aria-labelledby="headingNewTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewThree" aria-expanded="true" aria-controls="collapseNewThree">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewThree" class="accordion-collapse collapse" aria-labelledby="headingNewThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewFour" aria-expanded="true" aria-controls="collapseNewFour">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewFour" class="accordion-collapse collapse" aria-labelledby="headingNewFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                        <div class="row md-show">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                        <button class="nav-link active" id="v-pills-week01-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week01" type="button" role="tab" aria-controls="v-pills-week01" aria-selected="true">
+                                            <span class="new-font">Week 01</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week02-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week02" type="button" role="tab" aria-controls="v-pills-week02" aria-selected="false">
+                                            <span class="new-font">Week 02</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week03-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week03" type="button" role="tab" aria-controls="v-pills-week03" aria-selected="false">
+                                            <span class="new-font">Week 03</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week04-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week04" type="button" role="tab" aria-controls="v-pills-week04" aria-selected="false">
+                                            <span class="new-font">Week 04 </span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="tab-content" id="v-pills-tabContent">
+                                        <div class="tab-pane fade show active" id="v-pills-week01" role="tabpanel" aria-labelledby="v-pills-week01-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week02" role="tabpanel" aria-labelledby="v-pills-week02-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week03" role="tabpanel" aria-labelledby="v-pills-week03-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week04" role="tabpanel" aria-labelledby="v-pills-week04-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mob-faq">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewOne" aria-expanded="true" aria-controls="collapseNewOne">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewOne" class="accordion-collapse collapse show" aria-labelledby="headingNewOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewTwo" aria-expanded="true" aria-controls="collapseNewTwo">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewTwo" class="accordion-collapse collapse" aria-labelledby="headingNewTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewThree" aria-expanded="true" aria-controls="collapseNewThree">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewThree" class="accordion-collapse collapse" aria-labelledby="headingNewThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewFour" aria-expanded="true" aria-controls="collapseNewFour">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewFour" class="accordion-collapse collapse" aria-labelledby="headingNewFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="nav-new1" role="tabpanel" aria-labelledby="nav-new1-tab">
+                        <div class="row md-show">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                        <button class="nav-link active" id="v-pills-week01-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week01" type="button" role="tab" aria-controls="v-pills-week01" aria-selected="true">
+                                            <span class="new-font">Week 01</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week02-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week02" type="button" role="tab" aria-controls="v-pills-week02" aria-selected="false">
+                                            <span class="new-font">Week 02</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week03-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week03" type="button" role="tab" aria-controls="v-pills-week03" aria-selected="false">
+                                            <span class="new-font">Week 03</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week04-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week04" type="button" role="tab" aria-controls="v-pills-week04" aria-selected="false">
+                                            <span class="new-font">Week 04 </span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="tab-content" id="v-pills-tabContent">
+                                        <div class="tab-pane fade show active" id="v-pills-week01" role="tabpanel" aria-labelledby="v-pills-week01-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week02" role="tabpanel" aria-labelledby="v-pills-week02-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week03" role="tabpanel" aria-labelledby="v-pills-week03-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week04" role="tabpanel" aria-labelledby="v-pills-week04-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mob-faq">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewOne" aria-expanded="true" aria-controls="collapseNewOne">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewOne" class="accordion-collapse collapse show" aria-labelledby="headingNewOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewTwo" aria-expanded="true" aria-controls="collapseNewTwo">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewTwo" class="accordion-collapse collapse" aria-labelledby="headingNewTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewThree" aria-expanded="true" aria-controls="collapseNewThree">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewThree" class="accordion-collapse collapse" aria-labelledby="headingNewThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewFour" aria-expanded="true" aria-controls="collapseNewFour">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewFour" class="accordion-collapse collapse" aria-labelledby="headingNewFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="nav-new2" role="tabpanel" aria-labelledby="nav-new2-tab">
+                        <div class="row md-show">
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                        <button class="nav-link active" id="v-pills-week01-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week01" type="button" role="tab" aria-controls="v-pills-week01" aria-selected="true">
+                                            <span class="new-font">Week 01</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week02-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week02" type="button" role="tab" aria-controls="v-pills-week02" aria-selected="false">
+                                            <span class="new-font">Week 02</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week03-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week03" type="button" role="tab" aria-controls="v-pills-week03" aria-selected="false">
+                                            <span class="new-font">Week 03</span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+
+                                        <button class="nav-link" id="v-pills-week04-tab" data-bs-toggle="pill" data-bs-target="#v-pills-week04" type="button" role="tab" aria-controls="v-pills-week04" aria-selected="false">
+                                            <span class="new-font">Week 04 </span>
+
+                                            <p class="school-para mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quos facilis porro voluptatem?</p>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="d-flex align-items-start pt-4 align-self-stretch">
+                                    <div class="tab-content" id="v-pills-tabContent">
+                                        <div class="tab-pane fade show active" id="v-pills-week01" role="tabpanel" aria-labelledby="v-pills-week01-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week02" role="tabpanel" aria-labelledby="v-pills-week02-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week03" role="tabpanel" aria-labelledby="v-pills-week03-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="v-pills-week04" role="tabpanel" aria-labelledby="v-pills-week04-tab">
+                                            <div class="right-newcont">
+                                                <span class="new-cont">Week 01</span>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+
+                                                <p class="school-para pt-3">
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia eum modi, itaque expedita dolores, minus sint, doloribus dolorem iste enim nisi. Dolorem reiciendis non cupiditate
+                                                    voluptas dolorum labore voluptatum rerum.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row mob-faq">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewOne" aria-expanded="true" aria-controls="collapseNewOne">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewOne" class="accordion-collapse collapse show" aria-labelledby="headingNewOne" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewTwo" aria-expanded="true" aria-controls="collapseNewTwo">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewTwo" class="accordion-collapse collapse" aria-labelledby="headingNewTwo" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewThree" aria-expanded="true" aria-controls="collapseNewThree">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewThree" class="accordion-collapse collapse" aria-labelledby="headingNewThree" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="accordion-item p-2">
+                                    <h2 class="accordion-header" id="headingNewFour">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewFour" aria-expanded="true" aria-controls="collapseNewFour">
+                                            <h1 class="top-head-faq mb-0"><span class="new-font">Week 01</span></h1>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapseNewFour" class="accordion-collapse collapse" aria-labelledby="headingNewFour" data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            <p class="school-para mb-0">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla labore illum, eligendi adipisci mollitia a recusandae magni facere eveniet! Eveniet laudantium esse possimus, facere veniam
+                                                aliquid atque tempore. Necessitatibus, voluptatibus.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-8 pt-5 pb-5">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-lg-5 col-md-7 col-12 mb-4 mb-md-0 text-md text-center">
+                        <div class="trans-btn">
+                            <a href="" class="text-decoration-none">Download Curriculum</a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-5 col-12 text-md-start text-center">
+                        <div class="regbtn">
+                        <a href="" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#exampleModal-newtop">I'm Interested</a>
+                        </div>
+
+                        <!-- modal -->
+                        <div class="modal fade" id="exampleModal-newtop" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
+                                            <h1 class="trainingform-head pb-3">I'm Interested</h1>
+
+                                            <form>
+                                                <div class="mb-3">
+                                                    <label for="exampleInputEmail1" class="form-label">Full Name*</label>
+
+                                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your Full Name">
+                                                </div>
+
+                                                <div class="mb-3">
+                                                    <label for="exampleInputEmail1" class="form-label">Phone*</label>
+
+                                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your Phone Number">
+                                                </div>
+
+                                                <div class="mb-3">
+                                                    <label for="exampleInputEmail1" class="form-label">Email*</label>
+
+                                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Your email ID">
+                                                </div>
+                                            </form>
+
+                                            <div class="callbackbtn mt-3">
+                                                <a href="" class="text-decoration-none">Request A Callback</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <!-- month week section ended -->
@@ -2504,429 +1885,9 @@ include_once("includes/header.php");
                         </div>
 
                          <!-- 2nd section -->
-                         <section class="bg-schoolsec d-none d-lg-block" id="testimonials">
-                            <div class="container">
-                                <div class="row pt-5">
-                                    <div class="col-md-12 pb-5">
-                                        <h1 class="top-head">Hear From Our Students</h1>
-                                    </div>
 
-                                    <div id="owl-demo" class="owl-carousel owl-theme">
-                                        <div class="item bg-white mt-md-3 pb-5 ps-4 pe-4">
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s1-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
 
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "The programs at Skill Safari are excellent. The content material  and assistance that they provide is also superb. It is an exceptional platform to enrol for any program for online studies. I took the React JS front end developer course and I had a brilliant experience.Thank you, team!!" 
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.7/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Vinothini Ravi</h6>
-
-                                                                <p class="studentdest pt-1">Freshworks, Chennai</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s3-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "Best location for studying MERN stack development for students from both coding and non-coding backgrounds. The cohort shape is truly fantastic as it is designed to suit the present day enterprise standard. I'm from an ECE background and did not have any basic coding skills however after 7 months with Skill Safari I got positioned in a business enterprise with a very good package. Thank you Team!!!" 
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.5/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Jayashree Murali</h6>
-
-                                                                <p class="studentdest pt-1">TCS, Kochi</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>                                               
-                                            </div>
-                                        </div>
-                                        <div class="item bg-white mt-md-3 pb-5 ps-4 pe-4">
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s1-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "I'm certainly glad to share that I have finished my "Fronted Development Internship Program" at Skill Safari. Thanks loads to the team Skill Safari for making it one of the most wonderful experiences to study and develop front-end web applications from scratch and additionally to enhance my skills. The mentors also are affable, and you may without problems contact them and ask any type of query. They fortuitously share their expertise with you." 
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.7/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Varshini S M.</h6>
-
-                                                                <p class="studentdest pt-1">Freshworks, Chennai</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s3-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "Skill Safari is an exceptional online studying platform that I’m glad I came across. All the mentors are very easy to talk to and clarify our doubts very sincerely. Moreover, those mentors are not only with us throughout the cohort but are also available after the cohort to clear our doubts. I've learnt loads and look forward to studying greater cohorts under this platform in future.Thank you, Skill Safari!"                                                                 </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.5/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Prem Sri.</h6>
-
-                                                                <p class="studentdest pt-1">TCS, Kochi</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>                                               
-                                            </div>
-                                        </div> 
-                                        <div class="item bg-white mt-md-3 pb-5 ps-4 pe-4">
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s1-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "I am one of the college students who's related to the Skill Safari organization to study front end development. I am truly enlightened by their teachings. For anyone that's inquisitive about studying web development, this is an excellent choice."  
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.7/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Sushmitha GP Harithas</h6>
-
-                                                                <p class="studentdest pt-1">Freshworks, Chennai</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s3-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "Best online mode of studying with 24/7 mentor assist. It is simple to study and understand. Finishing cohorts was a pleasant experience with Skill Safari."                                                                  </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.5/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Sindhu Indukuri.</h6>
-
-                                                                <p class="studentdest pt-1">TCS, Kochi</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>                                               
-                                            </div>
-                                        </div>
-                                        <div class="item bg-white mt-md-3 pb-5 ps-4 pe-4">
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s1-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "It was brilliant doing a web internship with Skill Safari. The subjects were without a doubt understood, and it is a brilliant platform to study new skills with minimal cost ." 
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.7/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Bharat Kumar.</h6>
-
-                                                                <p class="studentdest pt-1">Freshworks, Chennai</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s3-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "I was glad to be part of the Skill Safari. They have skilled and expert trainers, it was a superb experience of online studying. Each doubt was clarified and additional training was provided along with doubt clarification sessions." </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.5/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Pallavi S.</h6>
-
-                                                                <p class="studentdest pt-1">TCS, Kochi</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>                                               
-                                            </div>
-                                        </div> 
-                                        <div class="item bg-white mt-md-3 pb-5 ps-4 pe-4">
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s1-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "It's a superb platform for online cohorts, and I've found loads from Skill Safari. All the individuals who are a part of the front end development program, are definitely well-equipped." 
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.7/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Harika Prathipati.</h6>
-
-                                                                <p class="studentdest pt-1">Freshworks, Chennai</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s3-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "The most important aspect I cherished studying with Skill Safari is that they made me realize that online cohorts are better than live training. I got a comfortable space where I could ask any and every doubt. Thank you guys."  </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.5/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">T Dharshini</h6>
-
-                                                                <p class="studentdest pt-1">TCS, Kochi</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>                                               
-                                            </div>
-                                        </div>
-                                        <div class="item bg-white mt-md-3 pb-5 ps-4 pe-4">
-                                            <div class="row">
-                                                <div class="col-md-12">
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s1-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "It was a pleasant experience to begin the studying adventure with Skill Safari. Their trainers and mentors are excellent. The manner of coaching is commendable."
-                                                                </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.7/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0">Karthik K.</h6>
-
-                                                                <p class="studentdest pt-1">Freshworks, Chennai</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="bbt mb-5">
-                                                        <div class="row">
-                                                            <div class="col-md-4">
-                                                                <img src="images/s3-new1.png" class="img-flui w-100" alt="" title="" />
-                                                            </div>
-
-                                                            <div class="col-md-8">
-                                                                <p class="school-para pt-4 pe-4">
-                                                                "This is the best internship for freshers. I got to learn all the aspects of web development and designing training"   </p>
-
-                                                                <div class="starrating pt-1">
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star"></i></span>
-
-                                                                    <span><i class="fas fa-star-half"></i> </span>
-
-                                                                    <span class="rating">4.5/5</span>
-                                                                </div>
-
-                                                                <h6 class="studentname pt-3 mb-0"> Priyank Patel.</h6>
-
-                                                                <p class="studentdest pt-1">TCS, Kochi</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>                                               
-                                            </div>
-                                        </div>                                        
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-
-                        <section class="bg-schoolsec d-block d-lg-none">
+                        <section class="bg-schoolsec">
                             <div class="container">
                                 <div class="row pt-5">
                                     <div class="col-md-12 text-center pb-5">
@@ -2938,10 +1899,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">                        
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s1-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">"The programs at Skill Safari are excellent. The content material  and assistance that they provide is also superb. It is an exceptional platform to enrol for any program for online studies. I took the React JS front end developer course and I had a brilliant experience.Thank you, team!!" </p>
                                                             <div class="starrating pt-1">
                                                                 <span><i class="fas fa-star"></i></span>
@@ -2960,10 +1921,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">"Best location for studying MERN stack development for students from both coding and non-coding backgrounds. The cohort shape is truly fantastic as it is designed to suit the present day enterprise standard. I'm from an ECE background and did not have any basic coding skills however after 7 months with Skill Safari I got positioned in a business enterprise with a very good package. Thank you Team!!!" </p>
                                                             <div class="starrating pt-1">
                                                                 <span><i class="fas fa-star"></i></span>
@@ -2982,10 +1943,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">                        
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s1-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">"I'm certainly glad to share that I have finished my "Fronted Development Internship Program" at Skill Safari. Thanks loads to the team Skill Safari for making it one of the most wonderful experiences to study and develop front-end web applications from scratch and additionally to enhance my skills. The mentors also are affable, and you may without problems contact them and ask any type of query. They fortuitously share their expertise with you." </p>
                                                             <div class="starrating pt-1">
                                                                 <span><i class="fas fa-star"></i></span>
@@ -3004,10 +1965,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">"Skill Safari is an exceptional online studying platform that I’m glad I came across. All the mentors are very easy to talk to and clarify our doubts very sincerely. Moreover, those mentors are not only with us throughout the cohort but are also available after the cohort to clear our doubts. I've learnt loads and look forward to studying greater cohorts under this platform in future.Thank you, Skill Safari!" </p>
                                                             <div class="starrating pt-1">
                                                                 <span><i class="fas fa-star"></i></span>
@@ -3026,10 +1987,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">"I am one of the college students who's related to the Skill Safari organization to study front end development. I am truly enlightened by their teachings. For anyone that's inquisitive about studying web development, this is an excellent choice." </p>
                                                             <div class="starrating pt-1">
                                                                 <span><i class="fas fa-star"></i></span>
@@ -3048,10 +2009,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                                 "Best online mode of studying with 24/7 mentor assist. It is simple to study and understand. Finishing cohorts was a pleasant experience with Skill Safari." 
                                                             </p>
@@ -3072,10 +2033,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                             "It was brilliant doing a web internship with Skill Safari. The subjects were without a doubt understood, and it is a brilliant platform to study new skills with minimal cost ." 
                                                             </p>
@@ -3096,10 +2057,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                         
                                                                 "I was glad to be part of the Skill Safari. They have skilled and expert trainers, it was a superb experience of online studying. Each doubt was clarified and additional training was provided along with doubt clarification sessions."
@@ -3122,10 +2083,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                         
                                                             "It's a superb platform for online cohorts, and I've found loads from Skill Safari. All the individuals who are a part of the front end development program, are definitely well-equipped." 
@@ -3148,10 +2109,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                         
                                                             "The most important aspect I cherished studying with Skill Safari is that they made me realize that online cohorts are better than live training. I got a comfortable space where I could ask any and every doubt. Thank you guys." 
@@ -3174,10 +2135,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                         
                                                             "It was a pleasant experience to begin the studying adventure with Skill Safari. Their trainers and mentors are excellent. The manner of coaching is commendable."
@@ -3200,10 +2161,10 @@ include_once("includes/header.php");
                                             <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
                                                 <div class="bbt mb-5">
                                                     <div class="row">
-                                                        <div class="col-xl-4">
-                                                            <img src="images/s3-1.png" class="img-flui w-100" alt="" title="">
+                                                        <div class="col-xl-12">
+                                                            <img src="images/img.jpg" class="img-flui w-100" alt="" title="">
                                                         </div>
-                                                        <div class="col-xl-8 ps-4 pe-4">
+                                                        <div class="col-xl-12 ps-4 pe-4">
                                                             <p class="school-para pt-4">
                                                         
                                                             "This is the best internship for freshers. I got to learn all the aspects of web development and designing training" 
@@ -3487,6 +2448,41 @@ include_once("includes/header.php");
     </div>
 </section>
 <!-- scrolling section ended-->
+
+
+<!-- <section class="bg-land-sec">
+    <div class="container-fluid p-0">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="third1" class="dark-text">
+                    <div class="story-1">
+                        <div class="text-start ps-5 up-content" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInDown;">
+                            <h2 class="text-left">Content Management System (CMS)</h2>
+
+                            <p class="text-white pt-3">
+                                Wordpress and Drupal would be the best examples. Usingthe CMS users must be able to design a web page using the drag and drop method. Usersshould be ableto add textual or media content into placeholders that
+                                are attached to locations on the web page using drag and drop method.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="third1" class="dark-text">
+                    <div class="story-2">
+                        <div class="text-start ps-5 up-content" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInDown;">
+                            <h2 class="text-left">Personal Portfolio</h2>
+
+                            <p class="text-white pt-3">
+                                A Portfoliois a collection of documentsor a sample of work that you have done. Maintained as hard copies as well online, portfolio are an important aspect of your professional career. A portfolio will
+                                showcase your execution and finished product. It is a great way to showcase your skills and experience that you have.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
 
 <section class="bg-bannerslider-sec">
     <div class="container">
