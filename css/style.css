@@ -722,7 +722,9 @@ right: 10px;
   border-radius: 15px;
   margin-bottom: 1rem;
 }
-
+.eventheaderimage{
+  width: 50%!important;
+}
 .school-para {
   color: #555;
   font-size: 16px;

@@ -12,20 +12,20 @@ include_once("includes/header.php");
     <div class="container">
         <div class="row pt-5">
             <div class="col-xl-6 text-center text-md-start">
-                <h4 class="date-sec"><span>STARTS 15TH APR 2022</span></h4>
-                <h1 class="top-head  pt-3">How to get recruited in Top Product Based Companies in 2022</h1>
+                <h4 class="date-sec"><span>STARTS 16TH APR 2022</span></h4>
+                <h1 class="top-head  pt-3">Build a Quiz Application LIVE </h1>
                 <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
                   <strike style="color:#888;font-size:14px;">₹ 1000</strike>₹ Free
                     
                     </div>
-                <p class="school-para pt-3">Join the LIVE webinar and learn the practices and preps to get recruited in TOP Product-based companies. Also Learn the importance of DSA in getting a job at Product Based Companies along with Ms.Anusha G, DSA Instructor and Expert Data Scientist and our Co-Founder Mr.Naveen Chandran.</p>
+                <p class="school-para pt-3">Join us LIVE and learn the practices and preps to become a Full Stack Developer and learn how “To build a Quiz Application” with Node.JS in this workshop. At the end of the workshop, you will already have developed an application all by yourself, so there will be enough proof of whether you can code or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
                 <div class="regbtn mb-5">
-                    <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1312576643" class="text-decoration-none">Register</a>
+                    <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775" class="text-decoration-none">Register</a>
                 </div>
             </div>
             <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
-                <div >
-                    <img class="w-100"  src="images/eventHeader2.png" alt="Fullstack Event">
+                <div>
+                    <img class="w-100"  src="images/eventHeader1.png" alt="Fullstack Event">
                 </div>
             </div>
             <div class="col-lg-12">
@@ -34,7 +34,7 @@ include_once("includes/header.php");
                         <div class="mini-boxevents w-100 shadow">
                             <i class="fas fa-clock"></i>
                             <h6 class="small-highlight pt-2">Date</h6>
-                            <h3 class="mini-boxhead">15th April 2022</h3>
+                            <h3 class="mini-boxhead">16th April 2022</h3>
                         </div>
                     </div>
                     <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -48,7 +48,7 @@ include_once("includes/header.php");
                         <div class="mini-boxevents w-100 shadow">
                             <i class="fas fa-video"></i>
                             <h6 class="small-highlight pt-2">Time</h6>
-                            <h3 class="mini-boxhead">7PM to 9PM</h3>
+                            <h3 class="mini-boxhead">6PM to 8PM</h3>
                         </div>
                     </div>
                     <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -154,8 +154,8 @@ include_once("includes/header.php");
                         </div>                        
                     </div>
                     <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Importance of Data Structures and Algorithms:</h6>
-                        <p class="school-para">Why Data Structures & Algorithms tested in Recruitment? </p>
+                        <h6 class="timeline-head">Who is a Full Stack Web Developer?</h6>
+                        <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -173,8 +173,8 @@ include_once("includes/header.php");
                         </div>                        
                     </div>
                     <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Learning Methodology for DSA</h6>
-                        <p class="school-para">How to prepare & practice DSA?</p>
+                        <h6 class="timeline-head">Roadmap to become a Full Stack Web Developer</h6>
+                        <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn different technologies, frameworks, libraries and VCS</p>
                     </div>
                 </div>
                 <div class="row">
@@ -192,8 +192,8 @@ include_once("includes/header.php");
                         </div>                        
                     </div>
                     <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Which topics to learn? (Learning Path)</h6>
-                        <p class="school-para">How to learn concepts of Trees, graphs and algorithms in DSA?</p>
+                        <h6 class="timeline-head">Try building your application</h6>
+                        <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an application is developed and launched.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -212,7 +212,7 @@ include_once("includes/header.php");
                     </div>
                     <div class="col-md-10 col-10">
                         <h6 class="timeline-head">Brief Introduction of courses offered by Skill Safari</h6>
-                        <p class="school-para">Get to know our Job Guaranteed Skill-Up cohorts </p>
+                        <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
                     </div>
                 </div>
                 
@@ -223,7 +223,7 @@ include_once("includes/header.php");
             </div>
             <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
                 <div class="regbtn text-center">
-                    <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1312576643" class="text-decoration-none">Register</a>
+                    <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775" class="text-decoration-none">Register</a>
                 </div>
             </div>
         </div>
@@ -284,7 +284,7 @@ include_once("includes/header.php");
                 </ul>
                 <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
                 <div class="regbtn">
-                    <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1312576643" class="text-decoration-none" target="_blank" >Apply Now</a>
+                    <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775" class="text-decoration-none" target="_blank" >Apply Now</a>
                 </div>
             </div>
         </div>
@@ -302,14 +302,13 @@ include_once("includes/header.php");
                 <div class="trainee-box bg-white shadow">
                     <div class="row align-items-center">
                         <div class="col-md-4 text-center timg">
-                            <img src="images/Anusha.png" class="img-fluid" alt="" title="">
-                            <h6 class="trainee-headtitle text-center pt-3 mb-0">Anusha G</h6>
-                            <p class="school-para text-center pt-2">Data Scientist & ML/DL Expert </p>
-                            <p class="school-para text-center">IIT Bombay Alumni </p>
+                            <img src="images/kishore.png" class="img-fluid" alt="" title="">
+                            <h6 class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</h6>
+                            <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
 
                         </div>
                         <div class="col-md-8">
-                            <p class="ft-16 text-justify">Experienced Data Scientist and ML/DL Expert and an IIT Bombay Alumnus will be sharing her rich experience in the field of Software development Industry trends and skills sought in the year 2022. She is an experienced Software Developer and DSA Specialist in top product-based companies and currently she working as a Data Scientist and Educator</p>
+                            <p class="ft-16 text-justify">Kishore is a highly motivated and ambitious individual with over 6 years of work experience. I have worked in the education and operation heavy industries and have taken up various roles that required me to build and market innovative products, with the core objective of helping businesses grow.</p>
                         </div>
                     </div>
                 </div>           
@@ -394,7 +393,7 @@ include_once("includes/header.php");
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <p class="school-para mb-0">You will learn the importance of DSA in getting a job at Product Based Companies. Also, you’ll get a fair insight into a Software Developer in a Corporate.</p>
+                            <p class="school-para mb-0">Learn the practices and preps to become a Full Stack Developer and learn how “To build a Quiz Application” with Node.JS in this workshop.</p>
                         </div>
                         </div>
                     </div>
