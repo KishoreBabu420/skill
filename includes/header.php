@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html>
-    
+<html>  
     <?php 
-            if($description==""){
-                $description = 'Skill Safari';
-            }
+			if($description==""){
+					$description = 'Skill Safari';
+			}
+			$url = 'https://demo.skillsafari.in';
+			$customCSS =  $url . '/css/style.css';
+			$bootstrapCSS = $url . '/css/bootstrap.min.css';
+			$owlCarouselCSS = $url . '/css/owl.carousel.css';
+			$owlThemeCSS = $url . '/css/owl.theme.default.min.css';
     ?>
 
 <head>
@@ -16,15 +20,15 @@
 	<meta name="robots" content="index, follow">
 	<title><?php echo $title; ?></title>
 	<link rel="icon" type="image/png" href="images/favicon.png">
-	<link rel="stylesheet" href="css/style.css">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-	<link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo $customCSS; ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo $bootstrapCSS; ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo $owlCarouselCSS; ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo $owlThemeCSS; ?>">
 	<script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
-    <!-- Header section started -->
+  <!-- Header section started -->
 	<header class="bg-header nav-down shadow w-100  bg-white">
 			<div class="container">
 					<div class="row align-items-center pt-3 pb-3">
@@ -201,6 +205,4 @@
 					</div>
 			</div>
 	</header>
-    
-   
-    <!-- Header section ended -->
+  <!-- Header section ended -->
