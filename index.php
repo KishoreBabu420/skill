@@ -14,10 +14,12 @@ include_once("includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1 class="banner-head text-md-start text-center">Learn the Modern Way with Skill Safari</h1>
-                <p class="banner-para pt-3">We often have a burning desire to learn something new but are preoccupied with providing for ourselves. With Skill Safari's enhancement cohorts, you can earn and learn both simultaneously. </p>
+                <h1 class="banner-head text-md-start text-center">Full Stack Developer program with placement assured Cohort with Skill Safari -</h1>
+                <h2 class="banner-sub-head text-md-start text-center"><span class="obl-principles"></span></h2>
+                <p class="banner-para pt-3">Reform your career with Skill Safari’s Live Cohort Program Now!</p>
+                <p class="banner-para pt-3">Get Rs.4 to 20 LPA after completing the program</p>
                 <div class="regbtn mt-4 text-md-start text-center">
-                    <a href="fullstack.php" class="text-decoration-none">Explore Courses</a>
+                    <a href="fullstack.php" class="text-decoration-none">Explore More</a>
                 </div>
             </div>
             <div class="col-md-6  pt-5">
@@ -102,23 +104,16 @@ include_once("includes/header.php");
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 text-center mt-md-5">
-                <div class="regbtn">
-                    <a href="" class="text-decoration-none">Register</a>
-                </div>
-            </div>
-
         </div>
     </div>
 </section>
 <!-- sucess story section ended -->
 
 <!-- courses section started -->
-<section class="bg-coursesdisplay position-relative">
+<section class="bg-coursesdisplay position-relative pt-5">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="top-head pt-5 mt-md-4 text-center pb-4">Training Programs</h2>
                 <!-- Course #1 -->
                 <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
                     <div class="row">
@@ -204,91 +199,6 @@ include_once("includes/header.php");
                             </div>
                         </div>                        
                     </div>
-                </div>
-                <!-- course#2 -->
-                <div class="courses-box bg-white shadow p-2 p-md-4 ps-md-5 pe-md-5 mb-5">
-                    <div class="row">
-                        <div class="col-lg-2 col-12">
-                            <div class="codeimg mb-3 mb-md-0">
-                                <img src="images/full.jpg" class="img-fluid w-100" alt="" title="" />
-                            </div>
-                        </div>
-                        <div class="col-lg-10 col-12">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-9 col-md-12">
-                                        <h2 class="course-tophead">Data Analytics Course</h2>
-                                        <p class="course-toppara">
-                                            <ul>
-                                            <li class="course-toppara">The Data analytics course is designed to teach you all that you need to learn about analyzing tons and tons of data that we generate. </li>
-                                            <li class="course-toppara">Data analytics has great scope in today’s age. Getting certified with our program in data analytics will allow you to pursue your career in various fields. </li>
-                                            <li class="course-toppara">There is also a huge demand in the country for data analytics, providing ample opportunities for all students. With our intriguing course you can learn to analyze data like a pro!</li>
-                                            </ul>
-                                        </p>
-                                    </div>
-                                    <div class="col-lg-3 col-md-12 text-lg-end">
-                                        <div class="regbtn">
-                                            <a href="datascience.php" class="text-decoration-none">Know More</a>
-                                        </div>
-                                    </div>
-                                </div> 
-                                <div class="row pt-md-3 pt-3 toysec">
-                                    <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
-                                        <div class="row align-items-center">
-                                            <div class="col-lg-3 col-md-3 col-2">
-                                                <img src="images/ic4.png" class="img-fluid" alt="" title="" />
-                                            </div>
-                                            <div class="col-lg-9 col-md-9 col-10">
-                                                <p class="course-para mb-0">
-                                                    100+ Hours <br />
-                                                    Hands on Training
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 pt-4 pt-sm-0 pt-md-0 col-sm-6">
-                                        <div class="row align-items-center">
-                                            <div class="col-lg-3 col-md-3 col-2">
-                                                <img src="images/ic1-n.png" class="img-fluid" alt="" title="" />
-                                            </div>
-                                            <div class="col-lg-9 col-md-9 col-10">
-                                                <p class="course-para mb-0">
-                                                    Work On <br />
-                                                    Real World Projects
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row pt-md-3 pb-3 toysec">
-                                    <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
-                                        <div class="row align-items-center">
-                                            <div class="col-lg-3 col-md-3 col-2">
-                                                <img src="images/ic2.png" class="img-fluid" alt="" title="" />
-                                            </div>
-                                            <div class="col-lg-9 col-md-9 col-10">
-                                                <p class="course-para mb-0">
-                                                    No Prior Coding <br />
-                                                    Knowledge required
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
-                                        <div class="row align-items-center">
-                                            <div class="col-lg-3 col-md-3 col-2">
-                                                <img src="images/ic3-n.png" class="img-fluid" alt="" title="" />
-                                            </div>
-                                            <div class="col-lg-9 col-md-9 col-10">
-                                                <p class="course-para mb-0">
-                                                    Instructor - Led <br />
-                                                    Live Classes
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                        
-                        </div>    
                 </div>
                 <div class="cir-tri-pink d-none d-lg-block">
                     <img src="images/tri3.png" class="img-fluid" alt="" title="">
@@ -492,7 +402,6 @@ include_once("includes/testimony.php");
     </div>
 </section>
 <!-- partners section ended -->
-
 
 <!-- trained section started -->
 <section class="bg-trained position-relative" id="specialist">
@@ -723,7 +632,6 @@ include_once("includes/testimony.php");
 </section>
 <!-- community section ended -->
 
-
 <section class="bg-lineball">
     <div class="container-fluid p-0">
         <div class="row">
@@ -732,17 +640,12 @@ include_once("includes/testimony.php");
     </div>
 </section>
 
-
-
 <!-- numver section started -->
 <section class="bg-number-count">
     <div class="container">
         <div class="row pt-md-5 mt-5 align-items-center">
             <div class="col-md-4 text-center text-md-start">
                 <h2 class="top-head">We Let<br>The Numbers<br> Speak For Us</h2>
-                <div class="regbtn mt-4">
-                    <a href="datascience.php" class="text-decoration-none">Explore courses</a>
-                </div>
             </div>
             <div class="col-md-8 pt-5 pt-md-0">
                 <div class="row">

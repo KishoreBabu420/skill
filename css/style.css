@@ -233,8 +233,15 @@ right: 10px;
 }
 
 .banner-head {
-  font-size: 48px;
+  font-size: 38px;
+  line-height: 1.5;
   padding-top: 20%;
+  font-weight: bold;
+}
+
+.banner-sub-head {
+  font-size: 36px;
+  padding-top: 2%;
   font-weight: bold;
 }
 
