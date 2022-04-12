@@ -114,10 +114,10 @@
       <!-- footer section ended -->
       <!-- bootstrap -->
       <script src="<?php echo $bootstrapJS; ?>"></script>
-      <script src="<?php echo $parsleyJS; ?>"></script>
       <!-- carousel -->
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
       <script src="<?php echo $owlCarouselJS; ?>" type="text/javascript"></script>
+      <script src="<?php echo $parsleyJS; ?>"></script>
       <script src="<?php echo $customJS; ?>"></script>
     </body>
 </html>

@@ -14,7 +14,7 @@ include_once("includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h1 class="banner-head text-md-start text-center">Learn the Modern Way with Skill Safari</h1>
+                <h1 class="banner-head text-md-start text-center">Full Stack Developer program with placement assured Cohort with Skill Safari -</h1>
                 <p class="banner-para pt-3">We often have a burning desire to learn something new but are preoccupied with providing for ourselves. With Skill Safari's enhancement cohorts, you can earn and learn both simultaneously. </p>
                 <div class="regbtn mt-4 text-md-start text-center">
                     <a href="fullstack.php" class="text-decoration-none">Explore Courses</a>
