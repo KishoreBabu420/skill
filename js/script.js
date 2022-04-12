@@ -245,7 +245,7 @@ let typed = new Typed('.obl-principles', {
     'Goal-Based Learning',
     'Build Networking',
   ],
-  typeSpeed: 200,
-  backSpeed: 200,
+  typeSpeed: 100,
+  backSpeed: 100,
   loop: true,
 });
