@@ -234,3 +234,18 @@ $('a[href="#curriculum"]').click(function () {
 $('a[href="#pricing"]').click(function () {
   $('#pricing').css('padding-top', '100px');
 });
+
+//Home TYpe OBL,
+let typed = new Types('#obl-principles', {
+  strings: [
+    'Learn and Earn Community',
+    'Collaborative Learning',
+    'Real-Time Learning',
+    'Accountability',
+    'Goal-Based Learning',
+    'Build Networking',
+  ],
+  typeSpeed: 200,
+  backSpeed: 200,
+  loop: true,
+});
