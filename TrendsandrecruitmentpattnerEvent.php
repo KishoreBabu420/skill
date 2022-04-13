@@ -18,14 +18,14 @@ include_once("includes/header.php");
                   <strike style="color:#888;font-size:14px;">₹ 1000</strike>₹ Free
                     
                     </div>
-                <p class="school-para pt-3">Technology today is evolving at a rapid pace. What does this mean for you? It is not only technology trends and emerging technologies that are evolving, a lot more has changed this year due to the outbreak of COVID-19 making IT professionals realize that their role will not stay the same in the contactless world tomorrow. It means staying with current emerging technologies and the latest technology trends. And it means keeping your eyes on the future to know which skills you’ll need to know to secure a safe job tomorrow and even learn how to get there.</p>
+                <p class="school-para pt-3">Technology today is evolving at a rapid pace. What does it mean? It's not only the technology trends and emerging technologies that are evolving, even a lot more has been changed during this pandemic outbreak which makes the IT professionals realize that their role will not be the same in the rapidly changing contactless world tomorrow. Staying with current emerging technologies and the latest trends means to keep your eyes on the future to know the skills required to get a safe secure job for tomorrow and learn to get in there.</p>
                 <div class="regbtn mb-5">
                     <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775" class="text-decoration-none">Register</a>
                 </div>
             </div>
             <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
                 <div>
-                    <img class="w-100"  src="images/eventHeader1.png" alt="Fullstack Event">
+                    <img class="w-100"  src="images/eventHeader3.png" alt="Fullstack Event">
                 </div>
             </div>
             <div class="col-lg-12">
@@ -303,17 +303,17 @@ include_once("includes/header.php");
                     <div class="row align-items-center">
                         <div class="col-md-4 text-center timg">
                             <img src="images/kishore.png" class="img-fluid" alt="" title="">
-                            <h6 class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</h6>
-                            <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
+                            <h6 class="trainee-headtitle text-center pt-3 mb-0">Shalini Kannan</h6>
+                            <p class="school-para text-center pt-2">Associate - Corporate Relations </p>
 
                         </div>
                         <div class="col-md-8">
-                            <p class="ft-16 text-justify">Kishore is a highly motivated and ambitious individual with over 6 years of work experience. I have worked in the education and operation heavy industries and have taken up various roles that required me to build and market innovative products, with the core objective of helping businesses grow.</p>
+                            <p class="ft-16 text-justify">Shalini Kannan is an Associate Corporate Relations specializing in Finance and Human resources. She is well trained with new HR tech trends, such as self-service, wellness apps, and people analytics tools. A strong believer in the power of positive thinking in the workplace. She is a powerful force and uses her positive attitude and tireless energy to encourage others to work hard and succeed.</p>
                         </div>
                     </div>
                 </div>           
             </div>
-            <div class="col-lg-8 pb-md-5">
+            <!-- <div class="col-lg-8 pb-md-5">
                 <div class="trainee-box bg-white shadow">
                     <div class="row align-items-center">
                         <div class="col-md-4 text-center timg">
@@ -326,7 +326,7 @@ include_once("includes/header.php");
                         </div>
                     </div>
                 </div>           
-            </div>
+            </div> -->
         </div>
     </div>  
 </section>

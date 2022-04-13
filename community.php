@@ -14,9 +14,19 @@ include_once("includes/header.php");
         <div class="row pt-5 pb-md-5">
             <div class="col-md-6 text-center text-md-start">
                 <!-- <h1 class="top-head pt-lg-5">Lorem Ipsum <br> Dolor sit amet</h1> -->
-                <p class="school-para pt-lg-5  pt-3">A vibrant community is the key to one’s overall development. Join the community at Skill Safari and become part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything to keep your mind busy. We also have you covered for the latest news in technology along with getting you new insights about what companies and recruiters are looking for in their candidates. So what are you waiting for? Join the adventure now!  </p>
+                <p class="school-para pt-lg-5  pt-3">A vibrant community is a key to one’s overall development. Join the Discord community at Skill Safari and become part of the hundreds of activities we have for you.</p>
+                <p class="school-para pt-lg-5  pt-3">Join Skill Safari’s Discord Community and get access to all of these things:</p>
+                <ul>
+                    <li>Coding Challenges, Hackathons and Codathons</li>
+                    <li>Latest Technology News Updates</li>
+                    <li>Industry Updates</li>
+                    <li>Latest Recruitments and Internship Updates</li>
+                    <li>Skill Safari Events and Challenges</li>
+                    <li>Giveaways and Freebies for active people</li>
+                
+                </ul>
                 <div class="regbtn mb-5 mt-lg-5">
-                    <a href="" class="text-decoration-none">Join Community</a>
+                   <p>So what are you waiting for? </p> <a href="" class="text-decoration-none">Join Community</a>
                 </div>
             </div>
             <div class="col-md-6 pb-5">
@@ -30,8 +40,12 @@ include_once("includes/header.php");
             </div>
             <div class="col-md-6 text-center text-md-start">
                 <!-- <h1 class="top-head pt-lg-5 pt-3">Lorem Ipsum <br> Dolor sit amet</h1> -->
-                <p class="school-para pt-3">Join us at Skill Safari as we usher in the new era of e-learning, where bookish knowledge is not the king. We are here to provide you with interesting lectures that make you think and help you build a new and better future. Want to change the way you learn? Become a part of the Skill Safari community and become part of a new era of e-learning and growth.</p>
-
+                <p class="school-para pt-3">
+                Join us at Skill Safari as we usher in the new era of e-learning, where bookish knowledge is not the king. We are here to provide you with interesting learnable tasks and events that make you think and help you build a new and better future. <br>
+                <br>
+                Want to change the way you learn? Become a part of the Skill Safari community and become part of a new era of e-learning and growth. 
+                </p>
+                <h3>“We create thinkers that have the potential to change the world. So, why wait? Join us for the ride now!”</h3>
                 <p class="school-para">What do we have for our community?</p>
                 <ul>
                     <li class="school-para">We provide regular tasks, coding challenges, study materials etc.</li>

@@ -95,7 +95,7 @@ include_once("includes/header.php");
                         <p class="para-top">We promise you guidance from only the best. Our handpicked team of mentors provide you with the perfect direction to excel in your dreams while helping you learn all the tricks of the trade.</p>
                     </div>
                     <div class="col-md-2 pb-3 pb-md-0 text-lg-center">
-                        <img src="images/i2.png" class="img-fluid" alt="" title="">
+                        <img src="images/ISA.png" class="img-fluid" alt="" title="">
                     </div>
                     <div class="col-md-10 pb-3">
                        
@@ -240,7 +240,7 @@ include_once("includes/testimony.php");
                             <div class="row">
                                 <div class="col-md-8 col-8">
                                     <h6 class="event-minisec pt-3">Next Session on 15/04/2022</h6>
-                                    <h3 class="event-boxhead pt-3">Sales <br> Workshop</h3>
+                                    <h3 class="event-boxhead pt-3">DSA <br> Workshop</h3>
                                     <p class="school-para">Anusha G<br>Data Scientist & ML/DL Expert</p>
                                 </div>
                                 <div class="col-md-4 col-4 text-end pt-3">
@@ -274,8 +274,8 @@ include_once("includes/testimony.php");
                             <div class="row">
                                 <div class="col-md-8 col-8">
                                     <h6 class="event-minisec pt-3">Next Session on 16/04/2022</h6>
-                                    <h3 class="event-boxhead pt-3">Sales <br> Workshop</h3>
-                                    <p class="school-para">Mohit Ahuja <br>Ex – Zomato, Curefit, RadYes</p>
+                                    <h3 class="event-boxhead pt-3">Build Quiz App <br> Workshop</h3>
+                                    <p class="school-para">Kishore Kammela<br>Principal Instructor & Head - Operations, Skill Safari</p>
                                 </div>
                                 <div class="col-md-4 col-4 text-end pt-3">
                                     <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1000</span><br>₹ Free</div>
@@ -298,17 +298,17 @@ include_once("includes/testimony.php");
                 <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">                    
                     <div class="event-boxlay">
                         <div class="position-relative img-overblacklay">
-                            <img src="images/event3.jpg" class="img-fluid" alt="" title="">
+                            <img src="images/eventbanner3.jpg" class="img-fluid" alt="" title="">
                             <div class="top-small-strip">
-                                <h5 class="mb-0">15 seats left</h5>
+                                <h5 class="mb-0">150 seats left</h5>
                             </div>
                         </div>
                         <div class="ps-3 pe-3 pt-2">
                             <div class="row">
                                 <div class="col-md-8 col-8">
                                     <h6 class="event-minisec pt-3">Next Session on 09/01/2022</h6>
-                                    <h3 class="event-boxhead pt-3">Sales <br> Workshop</h3>
-                                    <p class="school-para">Mohit Ahuja <br>Ex – Zomato, Curefit, RadYes</p>
+                                    <h3 class="event-boxhead pt-3">Industry Trends <br> Workshop</h3>
+                                    <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
                                 </div>
                                 <div class="col-md-4 col-4 text-end pt-3">
                                     <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1290</span><br>₹ 1000</div>
@@ -318,7 +318,7 @@ include_once("includes/testimony.php");
                             <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                                     <div class="regbtn">
-                                        <a href="events.php" class="text-decoration-none">Know More</a>
+                                        <a href="TrendsandrecruitmentpattnerEvent.php" class="text-decoration-none">Know More</a>
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-12">
@@ -480,10 +480,10 @@ include_once("includes/testimony.php");
                 <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                     <img src="images/k2.png" class="img-fluid" alt="" title="">
                     <div class="middle">
-                        <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                        <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i class="fa fa-linkedin"></i></a></div>
                     </div>
-                    <h3 class="trained-head pt-md-3 pt-3">Jay Shetty</h3>
-                    <h6 class="trained-dest pb-3">IntG</h6>
+                    <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
+                    <h6 class="trained-dest pb-3">Skill Safari</h6>
                 </div>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -496,12 +496,12 @@ include_once("includes/testimony.php");
                                     <img src="images/k2.png" class="img-fluid" alt="" title="">
                                    </div>
                                    <div class="col-md-8 text-center text-md-start">
-                                        <h3 class="trained-head pt-md-3 pt-3">Jay Shetty - <span class="trained-dest">IntG</span> </h3>
-                                        <div><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                                        <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span> </h3>
+                                        <div><a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i class="fa fa-linkedin"></i></a></div>
                                         
                                    </div>
                                    <div class="col-md-12 text-center text-md-start">
-                                   <p class="pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto soluta. Enim molestiae voluptate exercitationem suscipit impedit consectetur!</p>
+                                   <p class="pt-4">Kiran brings energy, passion and drive to a team, and works tirelessly to meet his own challenging deadlines. Kiran's analytical background, desire to learn, ability to bring simplicity to complex issues and his determination to succeed means he's a great asset to any organisation. He has always been a great sounding board and has a unique blend of running both sales teams and support organisations. Kiran has always conducted himself and the business with a high standard of integrity and I would have no hesitation in recommending Kiran for future endeavours.</p>
                                    </div>
                                </div>
                             </div>                        
@@ -511,12 +511,12 @@ include_once("includes/testimony.php");
             </div>
             <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
                 <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                    <img src="images/t4.png" class="img-fluid" alt="" title="">
+                    <img src="images/trainer3.png" class="img-fluid" alt="" title="">
                     <div class="middle">
                         <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
                     </div>
-                    <h3 class="trained-head pt-md-3 pt-3">Sundar P</h3>
-                    <h6 class="trained-dest pb-3">Google</h6>
+                    <h3 class="trained-head pt-md-3 pt-3">Dilip</h3>
+                    <h6 class="trained-dest pb-3">Paypal</h6>
                 </div>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -526,15 +526,15 @@ include_once("includes/testimony.php");
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                <div class="row">
                                    <div class="col-md-4">
-                                    <img src="images/t4.png" class="img-fluid" alt="" title="">
+                                    <img src="images/trainer3.png" class="img-fluid" alt="" title="">
                                    </div>
                                    <div class="col-md-8 text-center text-md-start">
-                                        <h3 class="trained-head pt-md-3 pt-3">Sundar P - <span class="trained-dest">Google</span> </h3>
+                                        <h3 class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span> </h3>
                                         <div><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
                                         
                                    </div>
                                    <div class="col-md-12 text-center text-md-start">
-                                   <p class="pt-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto soluta. Enim molestiae voluptate exercitationem suscipit impedit consectetur!</p>
+                                   <p class="pt-4">Mr.Dilip is having 8 years of experience in Mobile QA engineer currently working with Paypal, Bengaluru. Apart from work I absolutely love engaging myself in social service activities (part of NGO), writing tech articles on medium and presenting tech talks.</p>
                                    </div>
                                </div>
                             </div>                        
