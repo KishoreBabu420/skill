@@ -718,12 +718,12 @@ right: 10px;
 
 .bbt {
   border: 2px solid #f8f1e4;
-  padding: 0;
+  padding: 1rem;
   border-radius: 15px;
   margin-bottom: 1rem;
 }
-.eventheaderimage{
-  width: 50%!important;
+.eventheaderimage {
+  width: 50% !important;
 }
 .school-para {
   color: #555;
