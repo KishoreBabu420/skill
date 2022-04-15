@@ -51,7 +51,7 @@ $('#owl-demo-mob').owlCarousel({
 $('#owl-demo-mobnew').owlCarousel({
   loop: true,
   nav: true,
-  dots: true,
+  dots: false,
   autoplayTimeout: 8000,
   autoplay: true,
   responsive: {
