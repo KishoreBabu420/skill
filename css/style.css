@@ -688,17 +688,21 @@ right: 10px;
 }
 
 .pricerangedis {
-  font-size: 24px;
+  font-size: 30px;
+  display: inline-block;
 }
 
 .pricerangedis del {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: normal;
 }
 
 .pricerangedis span sup {
-  font-size: 12px;
+  font-size: 14px;
   color: #ca317d;
+  display: inline-block;
+  padding: 8px;
+  border: 2px solid #ca317d;
 }
 
 .reachhint a:hover {

@@ -829,7 +829,7 @@ include_once("includes/header.php");
                   </p>
                   <h2 class="pricerangedis fw-bold pt-4">
                     <del> Rs.1,00,000</del>
-                    <span>Rs. 40,000 &nbsp; <sup>60% Off</sup></span>
+                    <span>Rs. 40,000<sup>60% Off</sup></span>
                   </h2>
                 </div>
               </div>
