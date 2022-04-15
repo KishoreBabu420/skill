@@ -302,7 +302,7 @@ include_once("includes/header.php");
                 <div class="trainee-box bg-white shadow">
                     <div class="row align-items-center">
                         <div class="col-md-4 text-center timg">
-                            <img src="images/kishore.png" class="img-fluid" alt="" title="">
+                            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png" class="img-fluid" alt="" title="">
                             <h6 class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</h6>
                             <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
 
