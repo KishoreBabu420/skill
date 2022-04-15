@@ -828,27 +828,42 @@ include_once("includes/header.php");
                     If you are paying upfront,
                   </p>
                   <h2 class="pricerangedis fw-bold pt-4">
-                    <del> Rs.1,00,000</del>
-                    <span>Rs. 40,000<sup>60% Off</sup></span>
+                    <del> ₹1,00,000</del>
+                    <span>₹40,000<sup>60% Off</sup></span>
                   </h2>
                 </div>
               </div>
               <div class="tab-pane fade" id="pills-paylater1" role="tabpanel" aria-labelledby="pills-paylater1-tab">
                 <div class="fullbox-border p-4">
-                  <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                  <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui temporibus
-                    aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam, voluptates
-                    nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                  <p class="para-newcont pt-3">Our fees plan follows an Income Sharing Agreement (ISA) model through
+                    which 80% tuition fees is paid after getting a job and 20% you pay as an upfront fee or in EMIs.
+                    Total fees is capped and remain the same even if you get a higher package. </p>
+                  <ul class="list-group pricing-list">
+                    <li class="list-group-item d-flex justify-content-between align-items-center lh-condensed px-2">
+                      <div><strong>Program Fee</strong></div>
+                      <span class="pricerangedis fw-bold"> ₹95,000</span>
+                    </li>
+                    <li class="list-group-item flex-column lh-condensed bg-light px-2">
+                      <div class="d-flex justify-content-between w-100">
+                        <div><strong>Pay just</strong></div>
+                        <div class="font-weight-bold">
+                          <span class="pricerangedis">₹25,000 &nbsp;</span><br>
+                        </div>
+                      </div>
+                      <small class="text-muted mb-1">Pay the balance ₹ 70,000/- only if you get the job.</small>
+                    </li>
+                  </ul>
                 </div>
               </div>
               <div class="tab-pane fade" id="pills-payemi1" role="tabpanel" aria-labelledby="pills-payemi1-tab">
                 <div class="fullbox-border p-4">
-                  <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                  <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui temporibus
-                    aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam, voluptates
-                    nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                  <p class="para-newcont pt-3">Alchemyst Full Stack Developer Program offers you value for money skills
+                    at affordable pricing with a few flexible options also. You can split and pay up to 12 EMIs with 0%
+                    extra interest whatsoever.</p>
+                  <h2 class="pricerangedis fw-bold pt-4">
+                    <del> ₹1,00,000</del>
+                    <span>₹60,000<sup>40% Off</sup></span>
+                  </h2>
                 </div>
               </div>
             </div>
@@ -864,12 +879,17 @@ include_once("includes/header.php");
                 <div id="collapseOne-newly1" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                    <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui
-                      temporibus aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam,
-                      voluptates nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.
+                    <p class="para-newcont pt-3">
+                      Alchemyst Full Stack Developer Program offers you value for money skills
+                      at affordable pricing with a few flexible options also.
+                      <br />
+                      <br />
+                      If you are paying upfront,
                     </p>
-                    <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                    <h2 class="pricerangedis fw-bold pt-4">
+                      <del> ₹1,00,000</del>
+                      <span>₹40,000<sup>60% Off</sup></span>
+                    </h2>
                   </div>
                 </div>
               </div>
@@ -884,12 +904,24 @@ include_once("includes/header.php");
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <div class="accordion-body">
-                      <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                      <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui
-                        temporibus aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum
-                        veniam, voluptates nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi
-                        voluptatem.</p>
-                      <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                      <p class="para-newcont pt-3">Our fees plan follows an Income Sharing Agreement (ISA) model through
+                        which 80% tuition fees is paid after getting a job and 20% you pay as an upfront fee or in EMIs.
+                        Total fees is capped and remain the same even if you get a higher package. </p>
+                      <ul class="list-group pricing-list">
+                        <li class="list-group-item d-flex justify-content-between align-items-center lh-condensed px-2">
+                          <div><strong>Program Fee</strong></div>
+                          <span class="pricerangedis fw-bold"> ₹95,000</span>
+                        </li>
+                        <li class="list-group-item flex-column lh-condensed bg-light px-2">
+                          <div class="d-flex justify-content-between w-100">
+                            <div><strong>Pay just</strong></div>
+                            <div class="font-weight-bold">
+                              <span class="pricerangedis">₹25,000 &nbsp;</span><br>
+                            </div>
+                          </div>
+                          <small class="text-muted mb-1">Pay the balance ₹ 70,000/- only if you get the job.</small>
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -905,12 +937,15 @@ include_once("includes/header.php");
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <div class="accordion-body">
-                      <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                      <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui
-                        temporibus aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum
-                        veniam, voluptates nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi
-                        voluptatem.</p>
-                      <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                      <p class="para-newcont pt-3">Alchemyst Full Stack Developer Program offers you value for money
+                        skills
+                        at affordable pricing with a few flexible options also. You can split and pay up to 12 EMIs with
+                        0%
+                        extra interest whatsoever.</p>
+                      <h2 class="pricerangedis fw-bold pt-4">
+                        <del> ₹1,00,000</del>
+                        <span>₹60,000<sup>40% Off</sup></span>
+                      </h2>
                     </div>
                   </div>
                 </div>
@@ -1343,8 +1378,8 @@ include_once("includes/header.php");
         <h2 class="text-white top-head">Still Got Questions?</h2>
 
         <p class="para-top text-white text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero nihil, accusantium expedita placeat cupiditate
-          labore quisquam odit incidunt facere dolores non sunt quidem! Ut placeat, a sunt molestiae aliquid molestias!
+          Become a job-ready Full Stack Web Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
+          how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
           <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 p-0">
