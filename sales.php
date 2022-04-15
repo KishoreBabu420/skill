@@ -154,7 +154,7 @@ include_once("includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Job Guarantee</h5>
+          <h5 class="icontitle-head pt-3">100% Placement Assurance</h5>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -168,7 +168,7 @@ include_once("includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">7 Months</h5>
+          <h5 class="icontitle-head pt-3">6 Months Live Cohort</h5>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -182,67 +182,7 @@ include_once("includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">5 Lakhs Min Offer</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <rect fill="none" height="24" width="24"></rect>
-                <path
-                  d="M6.5,2c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S5.4,2,6.5,2z M15.5,9.5c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S17.83,8,17,8S15.5,8.67,15.5,9.5z M18.5,12h-2.84c-0.58,0.01-1.14,0.32-1.45,0.86l-0.92,1.32L9.72,8C9.35,7.37,8.69,7.01,8.01,7H5 C3.9,7,3,7.9,3,9v6h1.5v7h5V11.61L12.03,16h2.2L15,14.9V22h4v-5h1v-3.5C20,12.68,19.33,12,18.5,12z">
-                </path>
-              </g>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">Personal Mentorship</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="svelte-14adm9j"
-              style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"
-                fill="currentColor"></path>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">IIT & IIM Mentors</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <path
-                  d="M20,4v12H8V4H20 M20,2H8C6.9,2,6,2.9,6,4v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z M12.47,14 L9,10.5l1.4-1.41l2.07,2.08L17.6,6L19,7.41L12.47,14z M4,6H2v14c0,1.1,0.9,2,2,2h14v-2H4V6z">
-                </path>
-                <path d="M0,0h24v24H0V0z" fill="none"></path>
-              </g>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">Capstone Projects</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z">
-              </path>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">English</h5>
+          <h5 class="icontitle-head pt-3">Avg. CTC of 5 LPA</h5>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -263,9 +203,71 @@ include_once("includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Online Classes</h5>
+          <h5 class="icontitle-head pt-3">Live Interactive Sessions
+          </h5>
         </div>
       </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <rect fill="none" height="24" width="24"></rect>
+                <path
+                  d="M6.5,2c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S5.4,2,6.5,2z M15.5,9.5c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S17.83,8,17,8S15.5,8.67,15.5,9.5z M18.5,12h-2.84c-0.58,0.01-1.14,0.32-1.45,0.86l-0.92,1.32L9.72,8C9.35,7.37,8.69,7.01,8.01,7H5 C3.9,7,3,7.9,3,9v6h1.5v7h5V11.61L12.03,16h2.2L15,14.9V22h4v-5h1v-3.5C20,12.68,19.33,12,18.5,12z">
+                </path>
+              </g>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">1-1 Personal Mentorship</h5>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="svelte-14adm9j"
+              style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"
+                fill="currentColor"></path>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">Curriculum designed by Industry Experts</h5>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <path
+                  d="M20,4v12H8V4H20 M20,2H8C6.9,2,6,2.9,6,4v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z M12.47,14 L9,10.5l1.4-1.41l2.07,2.08L17.6,6L19,7.41L12.47,14z M4,6H2v14c0,1.1,0.9,2,2,2h14v-2H4V6z">
+                </path>
+                <path d="M0,0h24v24H0V0z" fill="none"></path>
+              </g>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">Real-World Projects and Code Reviews</h5>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z">
+              </path>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">Placement readiness training and Mock Interviews</h5>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
@@ -819,10 +821,17 @@ include_once("includes/header.php");
                 aria-labelledby="pills-paynow1-tab">
                 <div class="fullbox-border p-4">
                   <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                  <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui temporibus
-                    aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam, voluptates
-                    nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                  <p class="para-newcont pt-3">
+                    Alchemyst Full Stack Developer Program offers you value for money skills
+                    at affordable pricing with a few flexible options also.
+                    <br />
+                    If you are paying upfront,
+                    slashed Rs. 40,000 + 18% GST with flat 60% discount
+                  </p>
+                  <h2 class="pricerangedis fw-bold pt-4">
+                    <del> Rs.1,00,000 + 18% GST</del>
+                    <span>Rs. 40,000 + 18% GST with flat 60% discount</span>
+                  </h2>
                 </div>
               </div>
               <div class="tab-pane fade" id="pills-paylater1" role="tabpanel" aria-labelledby="pills-paylater1-tab">

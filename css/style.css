@@ -688,7 +688,16 @@ right: 10px;
 }
 
 .pricerangedis {
-  font-size: 35px;
+  font-size: 24px;
+}
+
+.pricerangedis del {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.pricerangedis del {
+  font-size: 16px;
 }
 
 .reachhint a:hover {
