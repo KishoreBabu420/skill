@@ -692,12 +692,13 @@ right: 10px;
 }
 
 .pricerangedis del {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
 }
 
-.pricerangedis del {
-  font-size: 16px;
+.pricerangedis span sup {
+  font-size: 12px;
+  color: #ca317d;
 }
 
 .reachhint a:hover {

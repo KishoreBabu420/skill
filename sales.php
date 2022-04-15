@@ -820,17 +820,16 @@ include_once("includes/header.php");
               <div class="tab-pane fade show active" id="pills-paynow1" role="tabpanel"
                 aria-labelledby="pills-paynow1-tab">
                 <div class="fullbox-border p-4">
-                  <h2 class="heading-new fw-bold">Full Stack Developer</h2>
                   <p class="para-newcont pt-3">
                     Alchemyst Full Stack Developer Program offers you value for money skills
                     at affordable pricing with a few flexible options also.
                     <br />
+                    <br />
                     If you are paying upfront,
-                    slashed Rs. 40,000 + 18% GST with flat 60% discount
                   </p>
                   <h2 class="pricerangedis fw-bold pt-4">
-                    <del> Rs.1,00,000 + 18% GST</del>
-                    <span>Rs. 40,000 + 18% GST with flat 60% discount</span>
+                    <del> Rs.1,00,000</del>
+                    <span>Rs. 40,000 &nbsp; <sup>60% Off</sup></span>
                   </h2>
                 </div>
               </div>
