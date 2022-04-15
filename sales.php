@@ -14,12 +14,7 @@ include_once("includes/header.php");
 
 <!-- top-space -->
 
-<!-- <section class="top-pagespace"></section> -->
-
-<!-- <section class="top-pagespace"></section> -->
-
 <!-- hire banner section started -->
-
 <section class="bg-hire bg-coursepg position-relative pt-5 mt-5">
   <div class="container">
     <div class="row py-md-4 align-items-center">
@@ -27,7 +22,7 @@ include_once("includes/header.php");
         <div class="row align-items-center my-3">
           <div class="col-md-3 d-none d-md-block">
             <div class="icon-scourse text-center">
-              <img src="images/code.png" class="img-fluid w-100" alt="" title="" />
+              <i class="fas fa-code"></i>
             </div>
           </div>
           <div class="col-md-9">
@@ -130,9 +125,7 @@ include_once("includes/header.php");
     </div>
   </div>
 </section>
-
 <!-- hire banner section ended -->
-
 <section class="bg-smallicon-sec active" id="cd">
   <div class="container">
     <div class="row align-items-center pt-md-3 justify-content-center">
@@ -276,7 +269,6 @@ include_once("includes/header.php");
     </div>
   </div>
 </section>
-
 <!-- criteria started -->
 <section class="bg-criteria mx-3 mx-md-0" id="criteria">
   <div class="container pt-md-5 mx-auto ">
@@ -432,9 +424,6 @@ include_once("includes/header.php");
           </div>
         </div>
       </div>
-
-
-
       <div class="col-md-6 pt-5 pb-5">
         <div class="callbackbtn">
           <a href="" class="text-decoration-none">Download Curriculum</a>
@@ -561,7 +550,9 @@ include_once("includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                      <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -585,7 +576,9 @@ include_once("includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
@@ -615,7 +608,9 @@ include_once("includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-                      <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -640,7 +635,9 @@ include_once("includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
@@ -670,7 +667,9 @@ include_once("includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                      <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -695,7 +694,9 @@ include_once("includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
@@ -727,7 +728,9 @@ include_once("includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center " data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                      <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -751,7 +754,9 @@ include_once("includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
