@@ -5,7 +5,6 @@ $keywords = "";
 $page = 5;
 include_once("includes/header.php");
 ?>
-
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <!-- hire banner section started -->
@@ -63,8 +62,6 @@ include_once("includes/header.php");
   </div>
 </section>
 <!-- hire banner section ended -->
-
-
 <!-- community section started -->
 <section class="bg-community">
   <div class="container">
@@ -139,7 +136,6 @@ include_once("includes/header.php");
   </div>
 </section>
 <!-- community section ended -->
-
 <section class="bg-lineball">
   <div class="container-fluid p-0">
     <div class="row">
@@ -147,47 +143,6 @@ include_once("includes/header.php");
     </div>
   </div>
 </section>
-
-
-
-<!-- numver section started -->
-<!-- <section class="bg-number-count">
-    <div class="container">
-        <div class="row pt-md-5 mt-5">
-            <div class="col-md-5 text-center text-md-start">
-                <h1 class="top-head">We Let<br>The Numbers<br> To Speak Louder</h1>
-                <div class="regbtn mt-4">
-                    <a href="courses.php" class="text-decoration-none">Explore courses</a>
-                </div>
-            </div>
-            <div class="col-md-7 pt-5 pt-md-0">
-                <div class="row">
-                    <div class="col-md-6 col-6 mb-5">
-                        <h1 class="orange-text-num">10,000+</h1>
-                        <p class="school-para">Lorem ipsum dolor sit amet <br> consectetur, adipisicing elit.</p>
-                    </div>
-                    <div class="col-md-6 col-6 mb-5">
-                        <h1 class="blue-text-num">5Million+</h1>
-                        <p class="school-para">Lorem ipsum dolor sit amet <br> consectetur, adipisicing elit.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-6 mb-5">
-                        <h1 class="darkblue-text-num">4.7/5</h1>
-                        <p class="school-para">Lorem ipsum dolor sit amet <br> consectetur, adipisicing elit.</p>
-                    </div>
-                    <div class="col-md-6 col-6 mb-5">
-                        <h1 class="pink-text-num">14,000+</h1>
-                        <p class="school-para">Lorem ipsum dolor sit amet <br> consectetur, adipisicing elit.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- numver section ended -->
-
-
 <?php 
 include_once("includes/footer.php");
 ?>
