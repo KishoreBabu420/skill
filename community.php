@@ -68,13 +68,13 @@ include_once("includes/header.php");
 <!-- community section started -->
 <section class="bg-community">
   <div class="container">
-    <div class="row pt-5 mx-auto">
+    <div class="row pt-5 mx-auto align-items-center">
       <div class="col-lg-4 col-md-12">
         <img src="images/discord.jpg" class="img-fluid w-100" alt="" title="">
       </div>
       <div class="col-lg-8 col-md-12">
-        <h1 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h1>
-        <div class="row pt-5">
+        <h2 class="top-head pt-4 text-center">Join Now Our Discord Community</h2>
+        <div class="row pt-2">
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
@@ -82,7 +82,7 @@ include_once("includes/header.php");
                   <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
                 </div>
               </div>
-              <div class="col-md-9 col-sm-9">
+              <div class="col-md-9 col-sm-9 col-9">
                 <p class="school-para">We provide regular tasks, coding challenges, study materials etc.
                 </p>
               </div>
@@ -95,7 +95,7 @@ include_once("includes/header.php");
                   <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
                 </div>
               </div>
-              <div class="col-md-9 col-sm-9">
+              <div class="col-md-9 col-sm-9 col-9">
                 <p class="school-para">Get the latest news about recruiters and companies
                 </p>
               </div>
@@ -108,7 +108,7 @@ include_once("includes/header.php");
                   <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
                 </div>
               </div>
-              <div class="col-md-9 col-sm-9">
+              <div class="col-md-9 col-sm-9 col-9">
                 <p class="school-para">Stay in check with all the tech developments happening around you.
                 </p>
               </div>
@@ -121,7 +121,7 @@ include_once("includes/header.php");
                   <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
                 </div>
               </div>
-              <div class="col-md-9 col-sm-9">
+              <div class="col-md-9 col-sm-9 col-9">
                 <p class="school-para">We have ebooks, giveaways and a lot more to keep your minds buzzing with ideas.
                 </p>
               </div>
