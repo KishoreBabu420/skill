@@ -45,17 +45,8 @@ include_once("includes/header.php");
                 <br>
                 Want to change the way you learn? Become a part of the Skill Safari community and become part of a new era of e-learning and growth. 
                 </p>
-                <h3>“We create thinkers that have the potential to change the world. So, why wait? Join us for the ride now!”</h3>
-                <p class="school-para">What do we have for our community?</p>
-                <ul>
-                    <li class="school-para">We provide regular tasks, coding challenges, study materials etc.</li>
-                    <li class="school-para">Get the latest news about recruiters and companies</li>
-                    <li class="school-para">Stay in check with all the tech developments happening around you.</li>
-                    <li class="school-para">We have ebooks, giveaways and a lot more to keep your minds buzzing with ideas.</li>
-                </ul>              
-
-                <p class="school-para">We create thinkers that have the potential to change the world. So, why wait? Join us for the ride now! 
-                </p>
+                <p>“We create thinkers that have the potential to change the world. So, why wait? Join us for the ride now!”</p>
+                
                 <div class="regbtn mb-5 mt-lg-5">
                     <a href="" class="text-decoration-none">Join Community</a>
                 </div>
@@ -204,7 +195,7 @@ include_once("includes/header.php");
                                 </div>
                             </div>
                             <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. s
+                                <p class="school-para">We provide regular tasks, coding challenges, study materials etc.
                                 </p>
                             </div>
                         </div>
@@ -217,7 +208,7 @@ include_once("includes/header.php");
                                 </div>
                             </div>
                             <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, ssit amet consectetur adipisicing elit. 
+                                <p class="school-para">Get the latest news about recruiters and companies 
                                 </p>
                             </div>
                         </div>
@@ -230,7 +221,7 @@ include_once("includes/header.php");
                                 </div>
                             </div>
                             <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. s
+                                <p class="school-para">Stay in check with all the tech developments happening around you.
                                 </p>
                             </div>
                         </div>
@@ -243,7 +234,7 @@ include_once("includes/header.php");
                                 </div>
                             </div>
                             <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, ssit amet consectetur adipisicing elit. 
+                                <p class="school-para">We have ebooks, giveaways and a lot more to keep your minds buzzing with ideas.
                                 </p>
                             </div>
                         </div>
