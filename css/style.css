@@ -104,7 +104,8 @@ body {
   background-position: bottom;
 }
 
-.regbtn a {
+.regbtn a,
+.regbtn button {
   display: inline-block;
   border: none;
   text-align: center;
@@ -155,7 +156,7 @@ body {
   transition: 0.5s all ease-in-out;
 }
 
-/* .regbtn a:after,
+/* .regbtn a, .regbtn button:after,
 .hirebtn a:after,
 .reqcallbtn a:after,
 .trans-btn a:after {
@@ -173,7 +174,8 @@ color: #222;
   font-size: 18px;
 }
 
-.regbtn a:hover,
+.regbtn a,
+.regbtn button:hover,
 .hirebtn a:hover,
 .trans-btn a:hover,
 .whatsappbtn a:hover {
@@ -187,7 +189,7 @@ color: #222;
   color: #fff !important;
 }
 
-/* .regbtn a:hover:after,
+/* .regbtn a, .regbtn button:hover:after,
 .hirebtn a:hover:after,
 .reqcallbtn a:hover:after,
 .trans-btn a:hover:after {
@@ -2285,7 +2287,8 @@ width: unset!important;
     padding-right: 10px !important;
     padding-left: 10px !important;
   }
-  .regbtn a {
+  .regbtn a,
+  .regbtn button {
     padding: 10px 20px !important;
   }
   .bg-lineball {
