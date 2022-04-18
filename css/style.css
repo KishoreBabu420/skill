@@ -104,7 +104,7 @@ body {
   background-position: bottom;
 }
 
-.regbtn a,
+regbtn a,
 .regbtn button {
   display: inline-block;
   border: none;
@@ -156,25 +156,11 @@ body {
   transition: 0.5s all ease-in-out;
 }
 
-/* .regbtn a, .regbtn button:after,
-.hirebtn a:after,
-.reqcallbtn a:after,
-.trans-btn a:after {
-content: "»";
-position: absolute;
-opacity: 0;
-top: -3px;
-right: -20px;
-transition: 0.5s;
-font-size: 32px;
-color: #222;
-} */
-
 .top-para {
   font-size: 18px;
 }
 
-.regbtn a,
+.regbtn a:hover,
 .regbtn button:hover,
 .hirebtn a:hover,
 .trans-btn a:hover,
@@ -188,14 +174,6 @@ color: #222;
 .reqcallbtn a:after {
   color: #fff !important;
 }
-
-/* .regbtn a, .regbtn button:hover:after,
-.hirebtn a:hover:after,
-.reqcallbtn a:hover:after,
-.trans-btn a:hover:after {
-opacity: 1;
-right: 10px;
-} */
 
 .hirebtn a {
   display: inline-block;
@@ -2287,7 +2265,7 @@ width: unset!important;
     padding-right: 10px !important;
     padding-left: 10px !important;
   }
-  .regbtn a,
+  regbtn a,
   .regbtn button {
     padding: 10px 20px !important;
   }
