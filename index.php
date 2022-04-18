@@ -317,12 +317,12 @@ include_once("includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 09/01/2022</h6>
+                  <h6 class="event-minisec pt-3">Next Session on 21/04/2022</h6>
                   <h3 class="event-boxhead pt-3">Industry Trends <br> Workshop</h3>
                   <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
-                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1290</span><br>₹ 1000</div>
+                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1290</span><br>₹ Free</div>
                 </div>
               </div>
 

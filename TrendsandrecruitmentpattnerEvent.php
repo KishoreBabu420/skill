@@ -12,8 +12,8 @@ include_once("includes/header.php");
     <div class="container">
         <div class="row pt-5">
             <div class="col-xl-6 text-center text-md-start">
-                <h4 class="date-sec"><span>STARTS 20TH APR 2022</span></h4>
-                <h1 class="top-head  pt-3">Industry Trends and Recruitment Patterns in 2022. </h1>
+                <h4 class="date-sec"><span>STARTS 21TH APR 2022</span></h4>
+                <h1 class="top-head  pt-3">Industry Trends and Recruitment Patterns in 2022 </h1>
                 <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
                   <strike style="color:#888;font-size:14px;">₹ 1000</strike>₹ Free
                     
@@ -34,7 +34,7 @@ include_once("includes/header.php");
                         <div class="mini-boxevents w-100 shadow">
                             <i class="fas fa-clock"></i>
                             <h6 class="small-highlight pt-2">Date</h6>
-                            <h3 class="mini-boxhead">20th April 2022</h3>
+                            <h3 class="mini-boxhead">21th April 2022</h3>
                         </div>
                     </div>
                     <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -154,8 +154,8 @@ include_once("includes/header.php");
                         </div>                        
                     </div>
                     <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Who is a Full Stack Web Developer?</h6>
-                        <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.</p>
+                        <h6 class="timeline-head">Trending Technologies</h6>
+                        <!-- <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.</p> -->
                     </div>
                 </div>
                 <div class="row">
@@ -173,8 +173,8 @@ include_once("includes/header.php");
                         </div>                        
                     </div>
                     <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Roadmap to become a Full Stack Web Developer</h6>
-                        <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn different technologies, frameworks, libraries and VCS</p>
+                        <h6 class="timeline-head">Recruitment Patterns</h6>
+                        <!-- <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn different technologies, frameworks, libraries and VCS</p> -->
                     </div>
                 </div>
                 <div class="row">
@@ -192,18 +192,18 @@ include_once("includes/header.php");
                         </div>                        
                     </div>
                     <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Try building your application</h6>
-                        <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an application is developed and launched.</p>
+                        <h6 class="timeline-head">A promising career path</h6>
+                        <!-- <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an application is developed and launched.</p> -->
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-2 col-2">
                         <div class="text-center pt-2 pb-2">
                             <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
                         </div>
                     </div>
                 </div>
-                <!--  -->
+                
                 <div class="row align-items-center">
                     <div class="col-md-2 col-2 p-0">
                         <div class="stud-trainbox shadow text-center">
@@ -214,7 +214,7 @@ include_once("includes/header.php");
                         <h6 class="timeline-head">Brief Introduction of courses offered by Skill Safari</h6>
                         <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
                     </div>
-                </div>
+                </div> -->
                 
                 
             </div>
@@ -302,7 +302,7 @@ include_once("includes/header.php");
                 <div class="trainee-box bg-white shadow">
                     <div class="row align-items-center">
                         <div class="col-md-4 text-center timg">
-                            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png" class="img-fluid" alt="" title="">
+                            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004278/website/trainers/shalini_xu5lue.png" class="img-fluid" alt="" title="">
                             <h6 class="trainee-headtitle text-center pt-3 mb-0">Shalini Kannan</h6>
                             <p class="school-para text-center pt-2">Associate - Corporate Relations </p>
 
@@ -393,7 +393,7 @@ include_once("includes/header.php");
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <p class="school-para mb-0">Learn the practices and preps to become a Full Stack Developer and learn how “To build a Quiz Application” with Node.JS in this workshop.</p>
+                            <p class="school-para mb-0">Industry Trends and Recruitment Patterns in 2022.</p>
                         </div>
                         </div>
                     </div>
