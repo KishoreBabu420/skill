@@ -20,7 +20,7 @@
       <div class="col-md col-sm-4 col-6 pt-md-0 pt-4">
         <h6 class="footer-linkheads">Courses</h6>
         <ul class="list-group">
-          <li class="list-group-item"><a class="text-decoration-none" href="fullstack.php">Full Stack Developers</a>
+          <li class="list-group-item"><a class="text-decoration-none" href="fullstack.php">Full Stack Development</a>
           </li>
           <li class="list-group-item"><a class="text-decoration-none" href="datascience.php">Data Analytics program</a>
           </li>

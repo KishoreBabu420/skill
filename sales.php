@@ -394,29 +394,29 @@ include_once("includes/header.php");
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 1-5</h4>
-            <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development uisng
-              HTML, CSS Version Control System using Git, GitHub. </p>
+            <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development using
+              HTML, CSS. Version Control using Git & GitHub. </p>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 6-10</h4>
             <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and Algorithms,
-              JavaScript on the browser</p>
+              JavaScript on the browser.</p>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 11-15</h4>
             <p>Advanced JavaScript, Working with DOM API & LocalStorage, Introduction to React and React Ecosystem, UI
-              Libraries, Deployment & Unit Testing,</p>
+              Libraries, Deployment & Unit Testing.</p>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 16-20</h4>
             <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
-              Passport.js </p>
+              Passport.js. </p>
           </div>
         </div>
         <div class="col-12 col-md-6">
@@ -564,7 +564,7 @@ include_once("includes/header.php");
 
                       <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela</h3>
 
-                      <h6 class="trained-dest pb-3">Tesla Motors</h6>
+                      <h6 class="trained-dest pb-3">Skill Safari</h6>
                     </div>
 
                     <!-- Modal -->
