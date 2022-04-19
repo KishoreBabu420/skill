@@ -1,5 +1,5 @@
 <?php 
-  $url = 'https://demo.skillsafari.in';
+  $url = 'https://skillsafari.in';
   $customJS =  $url . '/js/script.js';
   $bootstrapJS = $url . '/js/bootstrap.bundle.min.js ';
   $owlCarouselJS = $url . '/js/owl.carousel.js';
