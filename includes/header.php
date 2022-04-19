@@ -4,7 +4,7 @@
 			if($description==""){
 					$description = 'Skill Safari';
 			}
-			$url = 'https://skillsafari.in';
+			$url = 'https://www.skillsafari.in';
 			$customCSS =  $url . '/css/style.css';
 			$bootstrapCSS = $url . '/css/bootstrap.min.css';
 			$owlCarouselCSS = $url . '/css/owl.carousel.css';
