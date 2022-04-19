@@ -76,12 +76,6 @@
                       </li>
                     </ul>
                   </li>
-                  <!-- <li class="nav-item">
-																<a class="nav-link <?php if($page==4) echo 'active';  ?>" href="#">About</a>
-															</li>
-															<li class="nav-item">
-																<a class="nav-link <?php if($page==5) echo 'active';  ?>" href="community.php">Community</a>
-															</li> -->
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page==3) echo 'active';  ?>" href=""
                       id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -117,53 +111,6 @@
                         </a>
                       </li>
                     </ul>
-                  </li>
-                  <li class="nav-item regbtn d-block d-md-none">
-                    <a href="" class="text-decoration-none" data-bs-toggle="modal"
-                      data-bs-target="#exampleModal-newtop-1">I'm Interested</a>
-
-
-                    <!-- Modal -->
-                    <div class="modal fade" id="exampleModal-newtop-1" tabindex="-1" aria-labelledby="exampleModalLabel"
-                      aria-hidden="true">
-                      <div class="modal-dialog">
-                        <div class="modal-content">
-                          <div class="modal-body">
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                            <div class="training-form bg-white shadow mt-4 pt-md-4 pb-md-4 p-md-5 p-3">
-                              <h3 class="trainingform-head pb-3">I'm Interested</h3>
-
-                              <form>
-                                <div class="mb-3">
-                                  <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-                                  <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" placeholder="Enter Your Full Name" />
-                                </div>
-
-                                <div class="mb-3">
-                                  <label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-                                  <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" placeholder="Enter Your Phone Number" />
-                                </div>
-
-                                <div class="mb-3">m
-                                  <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-                                  <input type="email" class="form-control" id="exampleInputEmail1"
-                                    aria-describedby="emailHelp" placeholder="Enter Your email ID" />
-                                </div>
-                              </form>
-
-                              <div class="callbackbtn mt-3">
-                                <a href="" class="text-decoration-none">Request A Callback</a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
                   </li>
               </div>
             </div>
