@@ -116,54 +116,6 @@
             </div>
           </nav>
         </div>
-        <div class="col-lg-3 col-md-4 d-none d-lg-block">
-          <div class="regbtn text-md-end text-center">
-            <a href="" class="text-decoration-none" data-bs-toggle="modal"
-              data-bs-target="#exampleModal-newtop-2">Request a Callback</a>
-          </div>
-
-          <!-- Modal -->
-          <div class="modal fade" id="exampleModal-newtop-2" tabindex="-1" aria-labelledby="exampleModalLabel"
-            aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  <div class="training-form bg-white shadow pt-md-4 pb-md-4 p-md-5 p-3">
-                    <h3 class="trainingform-head pb-3">I'm Interested</h3>
-
-                    <form>
-                      <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                          placeholder="Enter Your Full Name" />
-                      </div>
-
-                      <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                          placeholder="Enter Your Phone Number" />
-                      </div>
-
-                      <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                          placeholder="Enter Your email ID" />
-                      </div>
-                    </form>
-
-                    <div class="callbackbtn mt-3">
-                      <a href="" class="text-decoration-none">Request A Callback</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
     </div>
