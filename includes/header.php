@@ -33,14 +33,14 @@
     <div class="container">
       <div class="row align-items-center pt-3 pb-3">
         <div class="col-md-3 d-none d-md-block">
-          <a href="index.php">
+          <a href="/">
             <img src="images/logo.png" class="img-fluid" alt="" title="">
           </a>
         </div>
         <div class="col-lg-6 col-md-9">
           <nav class="navbar navbar-expand-md navbar-light">
             <div class="container-fluid">
-              <a class="navbar-brand d-block d-md-none" href="index.php">
+              <a class="navbar-brand d-block d-md-none" href="/">
                 <img src="images/logo.png" class="img-fluid" alt="" title="">
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -52,7 +52,8 @@
                 <ul class="navbar-nav  mb-lg-0 m-auto">
                   <li class="nav-item">
                     <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
-                      href="index.php">Home</a>
+                      href="../fullstack-web-developer">Full
+                      Stack Developer</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page==2) echo 'active';  ?>" href=""

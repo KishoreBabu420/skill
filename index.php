@@ -2,7 +2,7 @@
 $title = "Skill Safari";
 $description = "";
 $keywords = "";
-$page = 1;
+$page = "";
 include_once("includes/header.php");
 ?>
 

@@ -6,20 +6,15 @@ $description = "";
 
 $keywords = "";
 
-$page = 2;
+$page = 1;
 
-include_once("../../includes/header.php");
+include_once("../includes/header.php");
 
 ?>
 
 <!-- top-space -->
 
-<!-- <section class="top-pagespace"></section> -->
-
-<!-- <section class="top-pagespace"></section> -->
-
 <!-- hire banner section started -->
-
 <section class="bg-hire bg-coursepg position-relative pt-5 mt-5">
   <div class="container">
     <div class="row py-md-4 align-items-center">
@@ -27,7 +22,7 @@ include_once("../../includes/header.php");
         <div class="row align-items-center my-3">
           <div class="col-md-3 d-none d-md-block">
             <div class="icon-scourse text-center">
-              <img src="images/code.png" class="img-fluid w-100" alt="" title="" />
+              <i class="fas fa-code"></i>
             </div>
           </div>
           <div class="col-md-9">
@@ -130,9 +125,7 @@ include_once("../../includes/header.php");
     </div>
   </div>
 </section>
-
 <!-- hire banner section ended -->
-
 <section class="bg-smallicon-sec active" id="cd">
   <div class="container">
     <div class="row align-items-center pt-md-3 justify-content-center">
@@ -161,7 +154,7 @@ include_once("../../includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Job Guarantee</h5>
+          <h5 class="icontitle-head pt-3">100% Placement Assurance</h5>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -175,7 +168,7 @@ include_once("../../includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">7 Months</h5>
+          <h5 class="icontitle-head pt-3">6 Months Live Cohort</h5>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -189,67 +182,7 @@ include_once("../../includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">5 Lakhs Min Offer</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <rect fill="none" height="24" width="24"></rect>
-                <path
-                  d="M6.5,2c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S5.4,2,6.5,2z M15.5,9.5c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S17.83,8,17,8S15.5,8.67,15.5,9.5z M18.5,12h-2.84c-0.58,0.01-1.14,0.32-1.45,0.86l-0.92,1.32L9.72,8C9.35,7.37,8.69,7.01,8.01,7H5 C3.9,7,3,7.9,3,9v6h1.5v7h5V11.61L12.03,16h2.2L15,14.9V22h4v-5h1v-3.5C20,12.68,19.33,12,18.5,12z">
-                </path>
-              </g>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">Personal Mentorship</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="svelte-14adm9j"
-              style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"
-                fill="currentColor"></path>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">IIT & IIM Mentors</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <path
-                  d="M20,4v12H8V4H20 M20,2H8C6.9,2,6,2.9,6,4v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z M12.47,14 L9,10.5l1.4-1.41l2.07,2.08L17.6,6L19,7.41L12.47,14z M4,6H2v14c0,1.1,0.9,2,2,2h14v-2H4V6z">
-                </path>
-                <path d="M0,0h24v24H0V0z" fill="none"></path>
-              </g>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">Capstone Projects</h5>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z">
-              </path>
-            </svg>
-          </div>
-          <h5 class="icontitle-head pt-3">English</h5>
+          <h5 class="icontitle-head pt-3">Avg. CTC of 5 LPA</h5>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -270,13 +203,74 @@ include_once("../../includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Online Classes</h5>
+          <h5 class="icontitle-head pt-3">Live Interactive Sessions
+          </h5>
         </div>
       </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <rect fill="none" height="24" width="24"></rect>
+                <path
+                  d="M6.5,2c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S5.4,2,6.5,2z M15.5,9.5c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S17.83,8,17,8S15.5,8.67,15.5,9.5z M18.5,12h-2.84c-0.58,0.01-1.14,0.32-1.45,0.86l-0.92,1.32L9.72,8C9.35,7.37,8.69,7.01,8.01,7H5 C3.9,7,3,7.9,3,9v6h1.5v7h5V11.61L12.03,16h2.2L15,14.9V22h4v-5h1v-3.5C20,12.68,19.33,12,18.5,12z">
+                </path>
+              </g>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">1-1 Personal Mentorship</h5>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="svelte-14adm9j"
+              style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"
+                fill="currentColor"></path>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">Curriculum designed by Industry Experts</h5>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <path
+                  d="M20,4v12H8V4H20 M20,2H8C6.9,2,6,2.9,6,4v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z M12.47,14 L9,10.5l1.4-1.41l2.07,2.08L17.6,6L19,7.41L12.47,14z M4,6H2v14c0,1.1,0.9,2,2,2h14v-2H4V6z">
+                </path>
+                <path d="M0,0h24v24H0V0z" fill="none"></path>
+              </g>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">Real-World Projects and Code Reviews</h5>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z">
+              </path>
+            </svg>
+          </div>
+          <h5 class="icontitle-head pt-3">Placement readiness training and Mock Interviews</h5>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
-
 <!-- criteria started -->
 <section class="bg-criteria mx-3 mx-md-0" id="criteria">
   <div class="container pt-md-5 mx-auto ">
@@ -400,29 +394,29 @@ include_once("../../includes/header.php");
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 1-5</h4>
-            <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development uisng
-              HTML, CSS Version Control System using Git, GitHub. </p>
+            <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development using
+              HTML, CSS. Version Control using Git & GitHub. </p>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 6-10</h4>
             <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and Algorithms,
-              JavaScript on the browser</p>
+              JavaScript on the browser.</p>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 11-15</h4>
             <p>Advanced JavaScript, Working with DOM API & LocalStorage, Introduction to React and React Ecosystem, UI
-              Libraries, Deployment & Unit Testing,</p>
+              Libraries, Deployment & Unit Testing.</p>
           </div>
         </div>
         <div class="col-12 col-md-6">
           <div class="row m-2">
             <h4>Week 16-20</h4>
             <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
-              Passport.js </p>
+              Passport.js. </p>
           </div>
         </div>
         <div class="col-12 col-md-6">
@@ -432,9 +426,6 @@ include_once("../../includes/header.php");
           </div>
         </div>
       </div>
-
-
-
       <div class="col-md-6 pt-5 pb-5">
         <div class="callbackbtn">
           <a href="" class="text-decoration-none">Download Curriculum</a>
@@ -561,17 +552,19 @@ include_once("../../includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                      <img src="images/t1.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
-                          <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
+                          <a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"></i></a>
                         </div>
                       </div>
 
-                      <h3 class="trained-head pt-md-3 pt-3">Elon Musk</h3>
+                      <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela</h3>
 
-                      <h6 class="trained-dest pb-3">Tesla Motors</h6>
+                      <h6 class="trained-dest pb-3">Skill Safari</h6>
                     </div>
 
                     <!-- Modal -->
@@ -585,24 +578,27 @@ include_once("../../includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="images/t1.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
-                                <h3 class="trained-head pt-md-3 pt-3">Elon Musk - <span class="trained-dest">Tesla
-                                    Motors</span></h3>
+                                <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill
+                                    Safari</span></h3>
 
                                 <div>
-                                  <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
+                                  <a href="https://www.linkedin.com/in/kskishorebabu/"><i
+                                      class="fa fa-linkedin"></i></a>
                                 </div>
                               </div>
 
                               <div class="col-md-12 text-center text-md-start">
                                 <p class="pt-4">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores
-                                  placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto
-                                  soluta. Enim molestiae
-                                  voluptate exercitationem suscipit impedit consectetur!
+                                  Kishore is a highly motivated and ambitious individual with over 6 years of work
+                                  experience. I have worked in the education and operation heavy industries and have
+                                  taken up various roles that required me to build and market innovative products, with
+                                  the core objective of helping businesses grow.
                                 </p>
                               </div>
                             </div>
@@ -614,17 +610,20 @@ include_once("../../includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-                      <img src="images/t2.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
-                          <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
+                          <a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i
+                              class="fa fa-linkedin"></i></a>
                         </div>
                       </div>
 
-                      <h3 class="trained-head pt-md-3 pt-3">MS Dhoni</h3>
+                      <h3 class="trained-head pt-md-3 pt-3">Sathish</h3>
 
-                      <h6 class="trained-dest pb-3">Seven</h6>
+                      <h6 class="trained-dest pb-3">Skill Safari</h6>
                     </div>
 
                     <!-- Modal -->
@@ -638,15 +637,18 @@ include_once("../../includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="images/t2.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
-                                <h3 class="trained-head pt-md-3 pt-3">MS Dhoni - <span class="trained-dest">Seven</span>
-                                </h3>
+                                <h3 class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill
+                                    Safari</span></h3>
 
                                 <div>
-                                  <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
+                                  <a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i
+                                      class="fa fa-linkedin"></i></a>
                                 </div>
                               </div>
 
@@ -667,17 +669,20 @@ include_once("../../includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                      <img src="images/t3.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
-                          <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
+                          <a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i
+                              class="fa fa-linkedin"></i></a>
                         </div>
                       </div>
 
-                      <h3 class="trained-head pt-md-3 pt-3">Jay Shetty</h3>
+                      <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
 
-                      <h6 class="trained-dest pb-3">IntG</h6>
+                      <h6 class="trained-dest pb-3">Skill Safari</h6>
                     </div>
 
                     <!-- Modal -->
@@ -691,24 +696,29 @@ include_once("../../includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="images/t3.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
-                                <h3 class="trained-head pt-md-3 pt-3">Jay Shetty - <span
-                                    class="trained-dest">IntG</span></h3>
+                                <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill
+                                    Safari</span></h3>
 
                                 <div>
-                                  <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
+                                  <a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i
+                                      class="fa fa-linkedin"></i></a>
                                 </div>
                               </div>
 
                               <div class="col-md-12 text-center text-md-start">
-                                <p class="pt-4">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores
-                                  placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto
-                                  soluta. Enim molestiae
-                                  voluptate exercitationem suscipit impedit consectetur!
+                                <p class="pt-4">Kiran brings energy, passion and drive to a team, and works tirelessly
+                                  to meet his own challenging deadlines. Kiran's analytical background, desire to learn,
+                                  ability to bring simplicity to complex issues and his determination to succeed means
+                                  he's a great asset to any organisation. He has always been a great sounding board and
+                                  has a unique blend of running both sales teams and support organisations. Kiran has
+                                  always conducted himself and the business with a high standard of integrity and I
+                                  would have no hesitation in recommending Kiran for future endeavours.
                                 </p>
                               </div>
                             </div>
@@ -720,7 +730,9 @@ include_once("../../includes/header.php");
 
                   <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center " data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                      <img src="images/t4.png" class="img-fluid w-100" alt="" title="" />
+                      <img
+                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
+                        class="img-fluid w-100" alt="" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -728,9 +740,9 @@ include_once("../../includes/header.php");
                         </div>
                       </div>
 
-                      <h3 class="trained-head pt-md-3 pt-3">Sundar P</h3>
+                      <h3 class="trained-head pt-md-3 pt-3">Dilip</h3>
 
-                      <h6 class="trained-dest pb-3">Google</h6>
+                      <h6 class="trained-dest pb-3">Paypal</h6>
                     </div>
 
                     <!-- Modal -->
@@ -744,12 +756,14 @@ include_once("../../includes/header.php");
 
                             <div class="row">
                               <div class="col-md-4">
-                                <img src="images/t4.png" class="img-fluid" alt="" title="" />
+                                <img
+                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
+                                  class="img-fluid" alt="" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
-                                <h3 class="trained-head pt-md-3 pt-3">Sundar P - <span
-                                    class="trained-dest">Google</span></h3>
+                                <h3 class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span>
+                                </h3>
 
                                 <div>
                                   <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
@@ -758,10 +772,9 @@ include_once("../../includes/header.php");
 
                               <div class="col-md-12 text-center text-md-start">
                                 <p class="pt-4">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores
-                                  placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto
-                                  soluta. Enim molestiae
-                                  voluptate exercitationem suscipit impedit consectetur!
+                                  Mr.Dilip is having 8 years of experience in Mobile QA engineer currently working with
+                                  Paypal, Bengaluru. Apart from work I absolutely love engaging myself in social service
+                                  activities (part of NGO), writing tech articles on medium and presenting tech talks.
                                 </p>
                               </div>
                             </div>
@@ -775,9 +788,9 @@ include_once("../../includes/header.php");
                     <img src="images/tri3.png" class="img-fluid" alt="" title="" />
                   </div>
 
-                  <div class="cir-tri-blue d-none d-lg-block">
-                    <img src="images/tri2.png" class="img-fluid" alt="" title="" />
-                  </div>
+                  <!-- <div class="cir-tri-blue d-none d-lg-block">
+														<img src="images/tri2.png" class="img-fluid" alt="" title="" />
+												</div> -->
 
                   <div class="cir-tri-yellow d-none d-lg-block">
                     <img src="images/tri1.png" class="img-fluid" alt="" title="" />
@@ -807,29 +820,50 @@ include_once("../../includes/header.php");
               <div class="tab-pane fade show active" id="pills-paynow1" role="tabpanel"
                 aria-labelledby="pills-paynow1-tab">
                 <div class="fullbox-border p-4">
-                  <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                  <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui temporibus
-                    aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam, voluptates
-                    nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                  <p class="para-newcont pt-3">
+                    Alchemyst Full Stack Developer Program offers you value for money skills
+                    at affordable pricing with a few flexible options also.
+                    <br />
+                    <br />
+                    If you are paying upfront,
+                  </p>
+                  <h2 class="pricerangedis fw-bold pt-4">
+                    <del> ₹1,00,000</del>
+                    <span>₹40,000<sup>60% Off</sup></span>
+                  </h2>
                 </div>
               </div>
               <div class="tab-pane fade" id="pills-paylater1" role="tabpanel" aria-labelledby="pills-paylater1-tab">
                 <div class="fullbox-border p-4">
-                  <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                  <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui temporibus
-                    aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam, voluptates
-                    nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                  <p class="para-newcont pt-3">Our fees plan follows an Income Sharing Agreement (ISA) model through
+                    which 80% tuition fees is paid after getting a job and 20% you pay as an upfront fee or in EMIs.
+                    Total fees is capped and remain the same even if you get a higher package. </p>
+                  <ul class="list-group pricing-list">
+                    <li class="list-group-item d-flex justify-content-between align-items-center lh-condensed px-2">
+                      <div><strong>Program Fee</strong></div>
+                      <span class="pricerangedis fw-bold"> ₹95,000</span>
+                    </li>
+                    <li class="list-group-item flex-column lh-condensed bg-light px-2">
+                      <div class="d-flex justify-content-between w-100">
+                        <div><strong>Pay just</strong></div>
+                        <div class="font-weight-bold">
+                          <span class="pricerangedis">₹25,000 &nbsp;</span><br>
+                        </div>
+                      </div>
+                      <small class="text-muted mb-1">Pay the balance ₹ 70,000/- only if you get the job.</small>
+                    </li>
+                  </ul>
                 </div>
               </div>
               <div class="tab-pane fade" id="pills-payemi1" role="tabpanel" aria-labelledby="pills-payemi1-tab">
                 <div class="fullbox-border p-4">
-                  <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                  <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui temporibus
-                    aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam, voluptates
-                    nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                  <p class="para-newcont pt-3">Alchemyst Full Stack Developer Program offers you value for money skills
+                    at affordable pricing with a few flexible options also. You can split and pay up to 12 EMIs with 0%
+                    extra interest whatsoever.</p>
+                  <h2 class="pricerangedis fw-bold pt-4">
+                    <del> ₹1,00,000</del>
+                    <span>₹60,000<sup>40% Off</sup></span>
+                  </h2>
                 </div>
               </div>
             </div>
@@ -845,12 +879,17 @@ include_once("../../includes/header.php");
                 <div id="collapseOne-newly1" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                    <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui
-                      temporibus aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum veniam,
-                      voluptates nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi voluptatem.
+                    <p class="para-newcont pt-3">
+                      Alchemyst Full Stack Developer Program offers you value for money skills
+                      at affordable pricing with a few flexible options also.
+                      <br />
+                      <br />
+                      If you are paying upfront,
                     </p>
-                    <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                    <h2 class="pricerangedis fw-bold pt-4">
+                      <del> ₹1,00,000</del>
+                      <span>₹40,000<sup>60% Off</sup></span>
+                    </h2>
                   </div>
                 </div>
               </div>
@@ -865,12 +904,24 @@ include_once("../../includes/header.php");
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <div class="accordion-body">
-                      <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                      <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui
-                        temporibus aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum
-                        veniam, voluptates nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi
-                        voluptatem.</p>
-                      <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                      <p class="para-newcont pt-3">Our fees plan follows an Income Sharing Agreement (ISA) model through
+                        which 80% tuition fees is paid after getting a job and 20% you pay as an upfront fee or in EMIs.
+                        Total fees is capped and remain the same even if you get a higher package. </p>
+                      <ul class="list-group pricing-list">
+                        <li class="list-group-item d-flex justify-content-between align-items-center lh-condensed px-2">
+                          <div><strong>Program Fee</strong></div>
+                          <span class="pricerangedis fw-bold"> ₹95,000</span>
+                        </li>
+                        <li class="list-group-item flex-column lh-condensed bg-light px-2">
+                          <div class="d-flex justify-content-between w-100">
+                            <div><strong>Pay just</strong></div>
+                            <div class="font-weight-bold">
+                              <span class="pricerangedis">₹25,000 &nbsp;</span><br>
+                            </div>
+                          </div>
+                          <small class="text-muted mb-1">Pay the balance ₹ 70,000/- only if you get the job.</small>
+                        </li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -886,12 +937,15 @@ include_once("../../includes/header.php");
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
                     <div class="accordion-body">
-                      <h2 class="heading-new fw-bold">Full Stack Developer</h2>
-                      <p class="para-newcont pt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui
-                        temporibus aspernatur aliquid repellendus nobis assumenda. Voluptate laboriosam ipsa, cum
-                        veniam, voluptates nihil, repudiandae dolorem corporis perspiciatis sapiente error excepturi
-                        voluptatem.</p>
-                      <h2 class="pricerangedis fw-bold pt-4">Rs.16825</h2>
+                      <p class="para-newcont pt-3">Alchemyst Full Stack Developer Program offers you value for money
+                        skills
+                        at affordable pricing with a few flexible options also. You can split and pay up to 12 EMIs with
+                        0%
+                        extra interest whatsoever.</p>
+                      <h2 class="pricerangedis fw-bold pt-4">
+                        <del> ₹1,00,000</del>
+                        <span>₹60,000<sup>40% Off</sup></span>
+                      </h2>
                     </div>
                   </div>
                 </div>
@@ -1304,7 +1358,9 @@ include_once("../../includes/header.php");
   </div>
 </section>
 
+
 <!-- faq section ended -->
+
 <section class="bg-lineball">
   <div class="container-fluid p-0">
     <div class="row">
@@ -1314,6 +1370,7 @@ include_once("../../includes/header.php");
 </section>
 
 <!-- callback section started -->
+
 <section class="bg-callback mt-md-4">
   <div class="container">
     <div class="row  pt-5 pb-5">
@@ -1321,8 +1378,8 @@ include_once("../../includes/header.php");
         <h2 class="text-white top-head">Still Got Questions?</h2>
 
         <p class="para-top text-white text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero nihil, accusantium expedita placeat cupiditate
-          labore quisquam odit incidunt facere dolores non sunt quidem! Ut placeat, a sunt molestiae aliquid molestias!
+          Become a job-ready Full Stack Web Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
+          how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
           <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 p-0">
@@ -1347,6 +1404,6 @@ include_once("../../includes/header.php");
 
 <?php 
 
-include_once("../../includes/footer.php");
+include_once("../includes/footer.php");
 
 ?>
