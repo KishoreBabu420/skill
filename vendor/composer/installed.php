@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '72c7a7f9495c6904b34785d7247b045afdfa8c0d',
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '72c7a7f9495c6904b34785d7247b045afdfa8c0d',
+            'dev_requirement' => false,
+        ),
+        'google/apiclient' => array(
+            'pretty_version' => 'v1.1.9',
+            'version' => '1.1.9.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../google/apiclient',
+            'aliases' => array(),
+            'reference' => '19d7d735ee4cff0f8c14a234b5094b99d00ef278',
+            'dev_requirement' => false,
+        ),
+        'rapidwebltd/php-google-contacts-v3-api' => array(
+            'pretty_version' => 'v2.0.0',
+            'version' => '2.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../rapidwebltd/php-google-contacts-v3-api',
+            'aliases' => array(),
+            'reference' => '5efb7edc75a96bb264896c438335ef64578dcfd3',
+            'dev_requirement' => false,
+        ),
+    ),
+);
