@@ -5,13 +5,13 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v2
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.0
-      with:
-        server: ${{ SECRETS.FTP_SERVER }}
-        username: ${{ SECRETS.FTP_USERNAME }}
-        password: ${{ SECRETS.FTP_PASSWORD }}
-        server-dir: /public_html/
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v2
+
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server: ${{ SECRETS.FTP_SERVER }}
+          username: ${{ SECRETS.FTP_USERNAME }}
+          password: ${{ SECRETS.FTP_PASSWORD }}
+          server-dir: /home/u211584494/domains/skillsafari.in/public_html
