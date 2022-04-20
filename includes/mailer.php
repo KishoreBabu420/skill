@@ -1,7 +1,7 @@
 <?php
 
 
-define('ADMIN_MAIL',"manoj@prismberry.com");
+define('ADMIN_MAIL',"kishore@skillsafari.in");
 
 
     contactForm();

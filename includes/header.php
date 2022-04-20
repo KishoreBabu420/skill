@@ -52,8 +52,15 @@
                 <ul class="navbar-nav  mb-lg-0 m-auto">
                   <li class="nav-item">
                     <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
-                      href="https://www.skillsafari.in/full-stack-developer/">Full
+                      href="https://www.skillsafari.in/fullstack-web-developer/">Full
                       Stack Developer</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
+                      href="https://www.skillsafari.in/hire-from-us">Hire from us</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="https://blog.skillsafari.in/" target="_blank">Blog</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page==9) echo 'active';  ?>" href=""
@@ -82,42 +89,6 @@
                             <i class="fas fa-chart-line"></i>
                           </span>
                           Product Companies
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle <?php if($page==3) echo 'active';  ?>" href=""
-                      id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Resources
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="blog-post.php">
-                          <span class="img-sec me-3"><i class="fas fa-blog"></i></span>
-                          Blog Posts
-                        </a>
-                      </li>
-                      <li><a class="dropdown-item" href="roadmap.php">
-                          <span class="img-sec me-3"><i class="fab fa-readme"></i></span>
-                          Roadmaps
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle <?php if($page==6) echo 'active';  ?>" href=""
-                      id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      More
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="hire.php">
-                          <span class="img-sec me-3"><i class="fas fa-people-arrows"></i></span>
-                          Hire From us
-                        </a>
-                      </li>
-                      <li><a class="dropdown-item" href="">
-                          <span class="img-sec me-3"><i class="fas fa-address-book"></i></span>
-                          Contact Us
                         </a>
                       </li>
                     </ul>
