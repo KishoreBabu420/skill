@@ -29,7 +29,7 @@
 
 <body>
   <!-- Header section started -->
-  <header class="bg-header nav-down shadow w-100  bg-white">
+  <header class="bg-header nav-down shadow w-100 bg-white">
     <div class="container">
       <div class="row align-items-center pt-3 pb-3">
         <div class="col-md-3 d-none d-md-block">
@@ -52,27 +52,36 @@
                 <ul class="navbar-nav  mb-lg-0 m-auto">
                   <li class="nav-item">
                     <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
-                      href="../fullstack-web-developer">Full
+                      href="https://www.skillsafari.in/full-stack-developer/">Full
                       Stack Developer</a>
                   </li>
                   <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle <?php if($page==2) echo 'active';  ?>" href=""
+                    <a class="nav-link dropdown-toggle <?php if($page==9) echo 'active';  ?>" href=""
                       id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Courses
+                      Events
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="fullstack.php">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/events/build-a-nodejs-quiz-application">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
-                          Full Stack Developer
+                          Quiz Application
                         </a>
                       </li>
-                      <li><a class="dropdown-item" href="datascience.php">
+                      <li><a class="dropdown-item"
+                          href="https://skillsafari.in/events/know-about-industry-trends-and-recruitment-patterns">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Data Science
+                          Recruitment Trends
+                        </a>
+                      </li>
+                      <li><a class="dropdown-item"
+                          href="https://skillsafari.in/events/how-to-get-recruited-in-top-product-based-companies">
+                          <span class="img-sec me-3">
+                            <i class="fas fa-chart-line"></i>
+                          </span>
+                          Product Companies
                         </a>
                       </li>
                     </ul>
