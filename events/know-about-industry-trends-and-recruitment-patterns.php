@@ -31,7 +31,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
-          <img class="w-100" src="images/eventHeader3.png" alt="Fullstack Event">
+          <img class="w-100" src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeadet3_uz3fuz.png" alt="Fullstack Event">
         </div>
       </div>
       <div class="col-lg-12">

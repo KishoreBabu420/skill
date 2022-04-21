@@ -242,7 +242,7 @@ include_once("includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/getplaced.jpg" class="img-fluid" alt="" title="">
+              <img src="images/top-product-baced-companies.webp" class="img-fluid" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">30 seats left</h5>
               </div>
@@ -276,7 +276,7 @@ include_once("includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/quizevent1.jpg" class="img-fluid" alt="" title="">
+              <img src="images/quiz-application.webp" class="img-fluid" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">23 seats left</h5>
               </div>
@@ -309,7 +309,7 @@ include_once("includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/eventbanner3.jpg" class="img-fluid" alt="" title="">
+              <img src="images/trends.webp" class="img-fluid" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">150 seats left</h5>
               </div>
