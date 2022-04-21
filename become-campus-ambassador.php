@@ -259,26 +259,6 @@ include_once("includes/header.php");
     </div>
 </section>
 
-
-
 <?php 
 include_once("includes/footer.php");
 ?>
- 
-<!-- styles -->
-.bg-ltleabt {
-    background: #1c2042;
-}
-
-.blueborder {
-    border: 1px solid #2699fb;
-    border-radius: 20px;
-}
-
-.blueborder span {
-    float: right;
-    background: #2699fb;
-    color: #fff;
-    padding: 6px 10px;
-    border-radius: 50px;
-}
