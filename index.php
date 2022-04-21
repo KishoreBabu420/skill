@@ -614,64 +614,10 @@ include_once("includes/testimony.php");
       <div class="col-lg-8 col-md-12">
         <h2 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h2>
         <div class="row pt-md-5 align-items-center">
-          <!-- <div class="col-md-6 pb-md-5">
-                        <div class="row align-items-center">
-                            <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                                <div class="community-iconbox shadow text-center p-3">
-                                    <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
-                                </div>
-                            </div>
-                            <div class="col-md-9 col-sm-9 p-md-0">
-                                <p class="school-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. s
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 pb-md-5">
-                        <div class="row align-items-center">
-                            <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                                <div class="community-iconbox shadow text-center p-3">
-                                    <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
-                                </div>
-                            </div>
-                            <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, ssit amet consectetur adipisicing elit. 
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 pb-md-5">
-                        <div class="row align-items-center">
-                            <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                                <div class="community-iconbox shadow text-center p-3">
-                                    <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
-                                </div>
-                            </div>
-                            <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. s
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 pb-md-5">
-                        <div class="row align-items-center">
-                            <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                                <div class="community-iconbox shadow text-center p-3">
-                                    <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
-                                </div>
-                            </div>
-                            <div class="col-md-9 col-sm-9">
-                                <p class="school-para">Lorem ipsum dolor, ssit amet consectetur adipisicing elit. 
-                                </p>
-                            </div>
-                        </div>
-                    </div> -->
-          <p class="course-toppara">
-            A vibrant community is the key to one’s overall development. Join the community at Skill Safari and become
-            part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
-            to keep your mind busy. We also have you covered for the latest news in technology along with getting you
-            new insights about what companies and recruiters are looking for in their candidates. So what are you
-            waiting for? Join the adventure now!
+          part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
+          to keep your mind busy. We also have you covered for the latest news in technology along with getting you
+          new insights about what companies and recruiters are looking for in their candidates. So what are you
+          waiting for? Join the adventure now!
           <div class="col-md-12 text-center  mt-4">
             <div class="discordbtn text-center ">
               <a href="community.php" class="text-decoration-none"><img src="images/baba.png" class="img-fluid me-1">
