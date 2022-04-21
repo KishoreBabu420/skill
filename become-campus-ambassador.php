@@ -17,7 +17,7 @@ include_once("includes/header.php");
                 <h1 class="top-head pt-lg-5">Skill Safari Campus Ambassador Program </h1>
                 <p class="school-para pt-3">Are you always buzzing with energy and driven by ambition? Are you one of those who is always at the frontline, be it any activity, fest or an event on the campus? You’ve come to the right place. <span class="fw-bold">We are looking for you!</span></p>  
                 <div class="regbtn mb-5 mt-4">
-                    <a href="fullstack.php" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#exampleModal-newtop">Apply Now</a>
+                    <a href="fullstack-web-developer" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#exampleModal-newtop">Apply Now</a>
                 </div>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal-newtop" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">

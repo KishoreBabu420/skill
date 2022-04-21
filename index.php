@@ -20,7 +20,7 @@ include_once("includes/header.php");
         <p class="banner-para pt-3">Reform your career with Skill Safari Live Cohort Program Now!</p>
         <p class="banner-para pt-3">Get Rs.4 to 20 LPA after completing the program</p>
         <div class="regbtn mt-4 text-md-start text-center">
-          <button><a href="fullstack.php" class="text-decoration-none text-light">Explore More</a> </button>
+          <button><a href="fullstack-web-developer" class="text-decoration-none text-light">Learn More</a> </button>
         </div>
       </div>
       <div class="col-md-6  pt-5">
@@ -148,7 +148,7 @@ include_once("includes/header.php");
                 </div>
                 <div class="col-lg-3 col-md-12 text-lg-end">
                   <div class="regbtn">
-                    <a href="fullstack.php" class="text-decoration-none">Know More</a>
+                    <a href="fullstack-web-developer" class="text-decoration-none">Know More</a>
                   </div>
                 </div>
               </div>
