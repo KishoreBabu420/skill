@@ -18,7 +18,7 @@ include_once("includes/header.php");
         <p class="school-para pt-3">Kick start your career in web development and design and discover new growth
           opportunities with the best online mentors.</p>
         <div class="regbtn mb-5 mt-4">
-          <a href="fullstack.php" class="text-decoration-none">Explore Courses</a>
+          <a href="fullstack-web-developer" class="text-decoration-none">Explore Courses</a>
         </div>
       </div>
       <div class="col-md-7 pb-5 b-img">
