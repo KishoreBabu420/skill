@@ -732,7 +732,7 @@ body {
   color: #555;
   font-size: 16px;
   font-weight: 300;
-  text-align: justify !important;
+  text-align: initial  !important;
 }
 
 .studentname {
