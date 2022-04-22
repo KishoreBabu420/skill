@@ -10,7 +10,7 @@
   <div class="container">
     <div class="row pt-5 mx-auto">
       <div class="col-md-4">
-        <img src="images/logo.png" class="img-fluid" alt="" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png" class="img-fluid" alt="" title="">
         <div class="footer-para pt-3">
           <p class="school-para w-75">Join us at Skill Safari as we rush into the new era of e-learning, where boring
             classroom education is not the ruler. We are here to provide you with knowledge and skills that make you
