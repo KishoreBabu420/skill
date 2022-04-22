@@ -5,7 +5,7 @@ $('#owl-demo').owlCarousel({
   dots: true,
   autoplayTimeout: 10000,
   autoplay: false,
-  onmouseover: true,
+  autoplayHoverPause: true,
   responsive: {
     0: {
       items: 1,
@@ -31,6 +31,7 @@ $('#owl-demo-mob').owlCarousel({
   dots: true,
   autoplayTimeout: 8000,
   autoplay: true,
+  autoplayHoverPause: true,
   responsive: {
     0: {
       items: 1,
@@ -55,6 +56,7 @@ $('#owl-demo-mobnew').owlCarousel({
   dots: false,
   autoplayTimeout: 8000,
   autoplay: true,
+  autoplayHoverPause: true,
   responsive: {
     0: {
       items: 1,
@@ -79,6 +81,7 @@ $('#owl-bannerslider').owlCarousel({
   dots: true,
   autoplayTimeout: 8000,
   autoplay: true,
+  autoplayHoverPause: true,
   responsive: {
     0: {
       items: 1,
@@ -104,6 +107,7 @@ $('#owl-events').owlCarousel({
   dots: true,
   autoplayTimeout: 8000,
   autoplay: true,
+  autoplayHoverPause: true,
   responsive: {
     0: {
       items: 1,
@@ -129,6 +133,7 @@ $('#owl-recurit').owlCarousel({
   dots: true,
   autoplayTimeout: 8000,
   autoplay: true,
+  autoplayHoverPause: true,
   responsive: {
     0: {
       items: 1,

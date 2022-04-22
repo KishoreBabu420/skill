@@ -84,7 +84,7 @@ include_once("includes/header.php");
           <div class="col-md-10 pb-3">
             <h2 class="rose-head">Wide Network</h2>
             <p class="para-top">We have a wide network of companies PAN India to ensure that you always have the support
-              you need to get placed in top product based companies with upto 4 LPA to 20 LPA.</p>
+              you need to get placed in top product based companies.</p>
           </div>
         </div>
       </div>
@@ -495,7 +495,10 @@ include_once("includes/testimony.php");
 
                   </div>
                   <div class="col-md-12 text-center text-md-start">
-                    <p class="pt-4">Satish comes with 10+ years of experience in IT and education field. He has worked as Principal Instructor in various big technical Institutions and Ed-Tech Companies before joining Skill Safari as a Principal Instructor. He is not only a Principal Instructor for Skill Safari but also the content quality manager. Satish is a pure art of the skill in Web Development.</p>
+                    <p class="pt-4">Satish comes with 10+ years of experience in IT and education field. He has worked
+                      as Principal Instructor in various big technical Institutions and Ed-Tech Companies before joining
+                      Skill Safari as a Principal Instructor. He is not only a Principal Instructor for Skill Safari but
+                      also the content quality manager. Satish is a pure art of the skill in Web Development.</p>
                   </div>
                 </div>
               </div>
