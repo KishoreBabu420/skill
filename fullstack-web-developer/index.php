@@ -654,10 +654,7 @@ include_once("../includes/header.php");
 
                               <div class="col-md-12 text-center text-md-start">
                                 <p class="pt-4">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur modi asperiores
-                                  placeat ex molestiae atque sed iste aspernatur expedita maxime. Fugiat, architecto
-                                  soluta. Enim molestiae
-                                  voluptate exercitationem suscipit impedit consectetur!
+                                Satish comes with 10+ years of experience in IT and education field. He has worked as Principal Instructor in various big technical Institutions and Ed-Tech Companies before joining Skill Safari as a Principal Instructor. He is not only a Principal Instructor for Skill Safari but also the content quality manager. Satish is a pure art of the skill in Web Development.
                                 </p>
                               </div>
                             </div>
