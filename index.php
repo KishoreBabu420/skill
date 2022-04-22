@@ -12,13 +12,11 @@ include_once("includes/header.php");
 <!-- banner section started -->
 <section class="bg-banner">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-md-6">
-        <h1 class="banner-head text-md-start text-center">Full Stack Developer program with placement assured Cohort
-          with Skill Safari - </h1>
+        <h1 class="banner-head text-md-start text-center">Full Stack Developer Program with Placement Assurance
+        </h1>
         <h2 class="banner-sub-head text-md-start text-center"><span class="obl-principles"></span></h2>
-        <p class="banner-para pt-3">Reform your career with Skill Safari Live Cohort Program Now!</p>
-        <p class="banner-para pt-3">Get Rs.4 to 20 LPA after completing the program</p>
         <div class="regbtn mt-4 text-md-start text-center">
           <button><a href="fullstack-web-developer" class="text-decoration-none text-light">Learn More</a> </button>
         </div>
@@ -242,7 +240,7 @@ include_once("includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/top-product-baced-companies.webp" class="img-fluid" alt="" title="">
+              <img src="images/getplaced.jpg" class="img-fluid" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">30 seats left</h5>
               </div>
@@ -276,7 +274,7 @@ include_once("includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/quiz-application.webp" class="img-fluid" alt="" title="">
+              <img src="images/quizevent1.jpg" class="img-fluid" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">23 seats left</h5>
               </div>
@@ -309,7 +307,7 @@ include_once("includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/trends.webp" class="img-fluid" alt="" title="">
+              <img src="images/eventbanner3.jpg" class="img-fluid" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">150 seats left</h5>
               </div>
@@ -684,7 +682,25 @@ include_once("includes/testimony.php");
     </div>
   </div>
 </section>
+
 <!-- numver section ended -->
 <?php 
 include_once("includes/footer.php");
 ?>
+
+<script>
+//Home TYpe OBL,
+let typed = new Typed('.obl-principles', {
+  strings: [
+    'Learn and Earn Community',
+    'Collaborative Learning',
+    'Real-Time Learning',
+    'Accountability',
+    'Goal-Based Learning',
+    'Build Network',
+  ],
+  typeSpeed: 50,
+  backSpeed: 50,
+  loop: true,
+});
+</script>
