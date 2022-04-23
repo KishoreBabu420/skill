@@ -471,7 +471,7 @@ include_once("includes/header.php");
         </div>
       </div>
     </div>
-    <div class="row pb-md-5">
+    <div class="row pb-md-5 justify-content-center">
       <div class="col-12 pb-5 text-center">
         <h1 class="top-head">Our innovative and fun approach </h1>
         <p class="top-para text-grey">It helps us support our student's careers, which looks a little like this: </p>
@@ -515,18 +515,15 @@ include_once("includes/header.php");
           step. We offer one of the best skill enhancement courses in.
         </p>
       </div>
-      <div class="col-md-6 pt-4 pt-md-0">
+      <div class="col-md-4 pt-4 pt-md-0">
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">Full-stack (MERN) development <span class="text-end"><i
-                class="fas fa-long-arrow-alt-right text-end"></i></span></h4>
+          <h4 class="mb-0"> Full-stack (MERN) development </h4>
         </div>
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">Front end Development <span class="text-end"><i
-                class="fas fa-long-arrow-alt-right text-end"></i></span></h4>
+          <h4 class="mb-0">Front end Development </h4>
         </div>
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">UX/UI design<span class="text-end"><i
-                class="fas fa-long-arrow-alt-right text-end"></i></span></h4>
+          <h4 class="mb-0">UX/UI design ></h4>
         </div>
       </div>
       <div class="col-md-8 text-center pt-5 mt-5">
