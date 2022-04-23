@@ -10,7 +10,8 @@
   <div class="container">
     <div class="row pt-5 mx-auto">
       <div class="col-md-4">
-        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png" class="img-fluid" alt="" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
+          class="img-fluid" alt="" title="">
         <div class="footer-para pt-3">
           <p class="school-para w-75">Join us at Skill Safari as we rush into the new era of e-learning, where boring
             classroom education is not the ruler. We are here to provide you with knowledge and skills that make you
@@ -20,7 +21,8 @@
       <div class="col-md col-sm-4 col-6 pt-md-0 pt-4">
         <h6 class="footer-linkheads">Courses</h6>
         <ul class="list-group">
-          <li class="list-group-item"><a class="text-decoration-none" href="fullstack-web-developer">Full Stack Development</a>
+          <li class="list-group-item"><a class="text-decoration-none"
+              href="https://www.skillsafari.in/fullstack-web-developer/">Full Stack Development</a>
           </li>
         </ul>
       </div>

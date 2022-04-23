@@ -19,7 +19,8 @@
   <meta name="description" itemprop="description" content="<?php echo $description; ?>">
   <meta name="robots" content="index, follow">
   <title><?php echo $title; ?></title>
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png"
+    href="https://res.cloudinary.com/skill-safari/image/upload/v1632810869/website/ssfavicon_vspiah.png">
   <link rel="stylesheet" type="text/css" href="<?php echo $customCSS; ?>">
   <link rel="stylesheet" type="text/css" href="<?php echo $bootstrapCSS; ?>">
   <link rel="stylesheet" type="text/css" href="<?php echo $owlCarouselCSS; ?>">
