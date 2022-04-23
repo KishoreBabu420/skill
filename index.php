@@ -200,15 +200,8 @@ include_once("includes/header.php");
             </div>
           </div>
         </div>
-        <div class="cir-tri-pink d-none d-lg-block">
-          <img src="images/tri3.png" class="img-fluid" alt="" title="">
-        </div>
-        <div class="cir-tri-blue d-none d-lg-block">
-          <img src="images/tri2.png" class="img-fluid" alt="" title="">
-        </div>
       </div>
     </div>
-  </div>
 </section>
 
 <!-- courses section ended -->
@@ -338,7 +331,6 @@ include_once("./includes/testimony.php");
 <?php 
 include_once("./includes/partners.php");
 ?>
-
 <!-- partners section ended -->
 
 <!-- trained section started -->
@@ -515,15 +507,6 @@ include_once("./includes/partners.php");
           </div>
         </div>
       </div>
-      <div class="cir-tri-pink d-none d-lg-block">
-        <img src="images/tri3.png" class="img-fluid" alt="" title="">
-      </div>
-      <div class="cir-tri-blue d-none d-lg-block">
-        <img src="images/tri2.png" class="img-fluid" alt="" title="">
-      </div>
-      <div class="cir-tri-yellow d-none d-lg-block">
-        <img src="images/tri1.png" class="img-fluid" alt="" title="">
-      </div>
     </div>
   </div>
 </section>
@@ -532,14 +515,14 @@ include_once("./includes/partners.php");
 <!-- community section started -->
 <section class="bg-community">
   <div class="container">
-    <div class="row pt-5">
+    <div class="row pt-5 align-items-center">
       <div class="col-lg-4 col-md-12">
         <img src="images/discord.jpg" class="img-fluid w-100" alt="" title="">
       </div>
-      <div class="col-lg-8 col-md-12">
+      <div class="col-lg-8 col-md-12 p-4">
         <h2 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h2>
         <div class="row pt-md-5 align-items-center">
-          part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
+          Part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
           to keep your mind busy. We also have you covered for the latest news in technology along with getting you
           new insights about what companies and recruiters are looking for in their candidates. So what are you
           waiting for? Join the adventure now!

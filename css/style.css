@@ -102,6 +102,7 @@ body {
 .bg-lineball {
   background: url('../images/lineball.png') no-repeat;
   background-position: bottom;
+  overflow: hidden !important;
 }
 
 .regbtn a,
@@ -253,27 +254,6 @@ body {
 
 .starrating .rating {
   color: #222 !important;
-}
-
-.tri-1 img {
-  position: absolute;
-  content: '';
-  top: -150px;
-  left: 53px;
-}
-
-.tri-2 img {
-  position: absolute;
-  content: '';
-  top: -340px;
-  right: 93px;
-}
-
-.tri-3 img {
-  position: absolute;
-  content: '';
-  top: -220px;
-  right: 53px;
 }
 
 .bg-successlay {
@@ -1738,41 +1718,6 @@ body {
   bottom: -40px;
   left: 0;
   right: 0;
-}
-
-.cir-tri-pink {
-  position: absolute;
-  content: '';
-  top: 40px;
-  left: 900px;
-}
-
-.cir-tri-blue {
-  position: absolute;
-  content: '';
-  top: 180px;
-  left: 200px;
-}
-
-.cir-tri-yellow {
-  position: absolute;
-  content: '';
-  top: 280px;
-  left: 635px;
-}
-
-.bg-coursesdisplay .cir-tri-pink {
-  position: absolute;
-  content: '';
-  top: 40px;
-  left: 900px;
-}
-
-.bg-coursesdisplay .cir-tri-blue {
-  position: absolute;
-  content: '';
-  top: 280px;
-  left: 60px;
 }
 
 .mob-faq {
