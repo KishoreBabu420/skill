@@ -654,7 +654,11 @@ include_once("../includes/header.php");
 
                               <div class="col-md-12 text-center text-md-start">
                                 <p class="pt-4">
-                                Satish comes with 10+ years of experience in IT and education field. He has worked as Principal Instructor in various big technical Institutions and Ed-Tech Companies before joining Skill Safari as a Principal Instructor. He is not only a Principal Instructor for Skill Safari but also the content quality manager. Satish is a pure art of the skill in Web Development.
+                                  Satish comes with 10+ years of experience in IT and education field. He has worked as
+                                  Principal Instructor in various big technical Institutions and Ed-Tech Companies
+                                  before joining Skill Safari as a Principal Instructor. He is not only a Principal
+                                  Instructor for Skill Safari but also the content quality manager. Satish is a pure art
+                                  of the skill in Web Development.
                                 </p>
                               </div>
                             </div>
@@ -826,7 +830,7 @@ include_once("../includes/header.php");
                   </p>
                   <h2 class="pricerangedis fw-bold pt-4">
                     <del> ₹1,00,000</del>
-                    <span>₹40,000<sup>60% Off</sup></span>
+                    <span>₹40,000<sup>60% Off</sup> <small>+18% GST</small></span>
                   </h2>
                 </div>
               </div>

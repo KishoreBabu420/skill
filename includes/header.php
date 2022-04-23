@@ -34,14 +34,17 @@
       <div class="row align-items-center pt-3 pb-3">
         <div class="col-md-3 d-none d-md-block">
           <a href="/">
-            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png" class="img-fluid" alt="" title="">
+            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
+              class="img-fluid" alt="" title="">
           </a>
         </div>
         <div class="col-lg-6 col-md-9">
           <nav class="navbar navbar-expand-md navbar-light">
             <div class="container-fluid">
               <a class="navbar-brand d-block d-md-none" href="/">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png" class="img-fluid" alt="" title="">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
+                  class="img-fluid" alt="" title="">
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -56,8 +59,8 @@
                       Stack Developer</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
-                      href="https://www.skillsafari.in/hire-from-us">Hire from us</a>
+                    <a class="nav-link" aria-current="page" href="https://www.skillsafari.in/hire-from-us">Hire from
+                      us</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="https://blog.skillsafari.in/" target="_blank">Blog</a>
