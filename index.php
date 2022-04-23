@@ -35,15 +35,6 @@ include_once("includes/header.php");
             <span class="rating">4.7/5</span>
           </div>
         </div>
-        <div class="tri-1 position-relative">
-          <img src="images/tri1.png" class="img-fluid" alt="" title="">
-        </div>
-        <div class="tri-2 position-relative">
-          <img src="images/tri2.png" class="img-fluid" alt="" title="">
-        </div>
-        <div class="tri-3 position-relative">
-          <img src="images/tri3.png" class="img-fluid" alt="" title="">
-        </div>
       </div>
     </div>
   </div>
@@ -224,7 +215,7 @@ include_once("includes/header.php");
 
 
 <?php 
-include_once("includes/testimony.php");
+include_once("./includes/testimony.php");
 ?>
 
 <!-- students section ended -->
@@ -344,75 +335,10 @@ include_once("includes/testimony.php");
 <!-- events section ended -->
 
 <!-- partners section started -->
-<section class="bg-partners">
-  <div class="container">
-    <div class="row pt-5 pb-5">
-      <div class="col-md-12 text-center pt-md-4">
-        <h2 class="top-head text-purple">Companies that Hired our Students</h2>
-      </div>
-    </div>
-    <div
-      class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/O.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/origmi.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/Starterlab.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/Triangle.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/vaeso.png" class="img-fluid" alt="" title=""></a>
-      </div>
-    </div>
-    <div
-      class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/A.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/alpha.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/Bewell.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/contus.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/Dafidy.png" class="img-fluid" alt="" title=""></a>
-      </div>
-    </div>
-    <div
-      class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/draup.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/elhaa.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/F.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/ghar.png" class="img-fluid" alt="" title=""></a>
-      </div>
-      <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-        <a href=""><img src="images/Idrive.png" class="img-fluid" alt="" title=""></a>
-      </div>
-    </div>
+<?php 
+include_once("./includes/partners.php");
+?>
 
-    <div class="hirebtn text-center mt-md-5 pt-4 pb-5 mb-5">
-      <a href="hire.php" class="text-white text-decoration-none">Hire From Us</a>
-    </div>
-
-  </div>
-  </div>
-</section>
 <!-- partners section ended -->
 
 <!-- trained section started -->

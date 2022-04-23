@@ -724,6 +724,7 @@ body {
   padding: 1rem;
   border-radius: 15px;
   margin-bottom: 1rem;
+  min-height: 34rem;
 }
 .eventheaderimage {
   width: 50% !important;
@@ -732,7 +733,7 @@ body {
   color: #555;
   font-size: 16px;
   font-weight: 300;
-  text-align: initial  !important;
+  text-align: initial !important;
 }
 
 .studentname {
@@ -775,7 +776,7 @@ body {
 }
 
 .bg-partners {
-  background: #cfd6e4;
+  background: #e8f3fa;
 }
 
 /* .bg-partners img {
