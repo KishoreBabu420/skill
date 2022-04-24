@@ -16,7 +16,7 @@ include_once("includes/header.php");
       <div class="col-md-6 text-center text-md-start">
         <h1 class="top-head pt-lg-5">Bridging the gap between companies and skilled resources</h1>
         <p class="school-para pt-3">Skill Safari is a technology-enabled skill development company. Provide services for
-          MNCs and startups in the area of Employee skill development, Train and Hire model, Project management. </p>
+          MNCs and startups in the area of Employee skill development, Train and Hire model and Project management. </p>
         <div class="regbtn mb-5">
           <a href="" class="text-decoration-none">Know More</a>
         </div>
@@ -161,7 +161,7 @@ include_once("includes/header.php");
   </div>
 </section>
 
-<section class="strivesec mt-5 pt-5">
+<section class="strivesec my-5 pt-5">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -223,65 +223,6 @@ include_once("includes/header.php");
             </div>
           </div>
         </div>
-        <!-- mobile view -->
-        <div class="d-md-block d-lg-none">
-          <div class="accordion" id="accordionExample">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="trainhire">
-                <div class="accordion-button tabdiv" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <h5 class="tabHeader">Train and Hire</h5>
-                </div>
-              </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="trainhire"
-                data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p>
-                    We will help you build your team by supporting you in all
-                    the training and hiring activities.
-                  </p>
-                  <img class="tabmobileImg img-fluid" src="images/train-and-hire-mobile.png" alt="hiring">
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="nocost">
-                <div class="accordion-button tabdiv collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  <h5 class="tabHeader">No Cost Hiring</h5>
-                </div>
-              </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="nocost"
-                data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p>
-                    Perfect for budding startups with limited hustlers. Fully
-                    trained and ready to deploy.
-                  </p>
-                  <img class="tabmobileImg img-fluid" src="images/no-cost-hiring-mobile.png" alt="hiring">
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="corporatetrain">
-                <div class="accordion-button tabdiv collapsed" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  <h5 class="tabHeader">Corporate Training</h5>
-                </div>
-              </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="corporatetrain"
-                data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p>
-                    We will help you up-skill your existing team and help them
-                    adopt the latest industry trends
-                  </p>
-                  <img class="tabmobileImg img-fluid" src="images/corporate-mobile.png" alt="hiring">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
         <div class="text-center mt-5 regbtn ">
           <a href="" class="text-decoration-none buttoncc" target="1">Get in touch with us</a>
         </div>
@@ -291,74 +232,25 @@ include_once("includes/header.php");
 </section>
 
 <!-- partners section started -->
-<!-- <section class="bg-partners">
-    <div class="container">
-        <div class="row pt-5 pb-5">
-            <div class="col-md-12 text-center pt-4">
-                <h1 class="top-head text-purple">Companies that Hired our Students</h1>
-            </div>
-        </div>
-       
-        <div class="row row-cols row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 justify-content-sm-center align-items-center">
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p1.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p2.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p3.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p4.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p5.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>                  
-        </div>
-
-        <div class="row row-cols-2 row-cols-sm-3 pb-sm-3 row-cols-lg-5 g-2 g-lg-3 pt-md-5 mt-md-2 justify-content-sm-center">
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p1.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p2.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p3.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p4.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-            <div class="col-md col-sm col-12 pb-4 pb-md-0 text-center">
-                <a href=""><img src="images/p5.png" class="img-fluid w-75" alt="" title=""></a>
-            </div>
-        </div>
-
-        <div class="hirebtn text-center mt-md-5 pt-4 pb-5 mb-5">
-            <a href="hire.php" class="text-white text-decoration-none">Hire From Us</a>
-        </div>
-        
-        </div>
-    </div>
-</section> -->
+<?php 
+include_once("./includes/partners.php");
+?>
 <!-- partners section ended -->
-
 
 <!-- recuriters section started -->
 <section class="bg-recurit mt-5">
   <div class="container pt-4 pb-5">
     <div class="row pt-5">
-      <div class="col-md-6">
+      <div class="col-md-5">
         <img src="images/ab5.jpg" class="img-fluid" alt="" title="">
       </div>
-      <div class="col-md-6 pt-4 pt-md-0">
-        <h1 class="top-head">What <br> Recruiters Says?</h1>
+      <div class="col-md-7 pt-4 pt-md-0">
+        <h1 class="top-head">What <br> Recruiters Say?</h1>
         <div id="owl-recurit" class="owl-carousel owl-theme">
           <div class="item pt-4 w-100 ps-4 pe-4">
             <p class="school-para">"The programs at Skill Safari are excellent. The content material and assistance that
               they provide is also superb. It is an exceptional platform to enrol for any program for online studies. I
-              took the React JS front end developer course and I had a brilliant experience.Thank you, team!!"</p>
+              took the React JSd developer course and I had a brilliant experience.Thank you, team!!"</p>
             <div class="starrating pt-3">
               <span><i class="fas fa-star"></i></span>
               <span><i class="fas fa-star"></i></span>
@@ -374,7 +266,7 @@ include_once("includes/header.php");
             <p class="school-para">"Best location for studying MERN stack development for students from both coding and
               non-coding backgrounds. The cohort shape is truly fantastic as it is designed to suit the present day
               enterprise standard. I'm from an ECE background and did not have any basic coding skills however after 7
-              months with Skill Safari I got positioned in a business enterprise with a very good package. Thank you
+              months with Skill Safari I got positioned in a business enterprise with a very good package. Thank you,
               Team!!!"</p>
             <div class="starrating pt-3">
               <span><i class="fas fa-star"></i></span>
@@ -388,9 +280,10 @@ include_once("includes/header.php");
             <p class="studentdest pt-1">Freshworks, Chennai</p>
           </div>
           <div class="item pt-4 w-100 ps-4 pe-4">
-            <p class="school-para">"I'm certainly glad to share that I have finished my "Fronted Development Internship
+            <p class="school-para">"I'm certainly glad to share that I have finished my "Front End Web Development
+              Internship
               Program" at Skill Safari. Thanks loads to the team Skill Safari for making it one of the most wonderful
-              experiences to study and develop front-end web applications from scratch and additionally to enhance my
+              experiences to study and develop Front End web applications from scratch and additionally to enhance my
               skills. The mentors also are affable, and you may without problems contact them and ask any type of query.
               They fortuitously share their expertise with you." </p>
             <div class="starrating pt-3">
@@ -423,7 +316,7 @@ include_once("includes/header.php");
           </div>
           <div class="item pt-4 w-100 ps-4 pe-4">
             <p class="school-para">
-              "I am one of the college students who's related to the Skill Safari organization to study front end
+              "I am one of the college students who's related to the Skill Safari organization to study Front End Web
               development. I am truly enlightened by their teachings. For anyone that's inquisitive about studying web
               development, this is an excellent choice."
             </p>
@@ -490,7 +383,7 @@ include_once("includes/header.php");
           <div class="item pt-4 w-100 ps-4 pe-4">
             <p class="school-para">
               "It's a superb platform for online cohorts, and I've found loads from Skill Safari. All the individuals
-              who are a part of the front end development program, are definitely well-equipped."
+              who are a part of the Front End Web development program, are definitely well-equipped."
             </p>
             <div class="starrating pt-3">
               <span><i class="fas fa-star"></i></span>
@@ -506,8 +399,8 @@ include_once("includes/header.php");
           <div class="item pt-4 w-100 ps-4 pe-4">
             <p class="school-para">
               "The most important aspect I cherished studying with Skill Safari is that they made me realize that online
-              cohorts are better than live training. I got a comfortable space where I could ask any and every doubt.
-              Thank you guys."
+              cohorts are better than live training. I got a comfortable space where I could ask any doubt.
+              Thank you, guys."
             </p>
             <div class="starrating pt-3">
               <span><i class="fas fa-star"></i></span>
@@ -554,58 +447,15 @@ include_once("includes/header.php");
           </div>
         </div>
       </div>
-      <div class="col-md-12 mt-lg-5 pt-5 pb-md-5 mb-5 mb-md-0">
+      <div class="col-md-12 mt-lg-5 pt-5 pb-md-3 mb-3 mb-md-0">
         <div class="regbtn text-center">
-          <a href="" data-bs-toggle="modal" data-bs-target="#exampleModal-newtopsed" class="text-decoration-none">Hire
+          <a href="#" class="text-decoration-none">Hire
             Now</a>
-        </div>
-        <div class="modal fade" id="exampleModal-newtopsed" tabindex="-1" aria-labelledby="exampleModalLabel"
-          aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
-                  <h1 class="trainingform-head pb-3">I'm Interested</h1>
-
-                  <form>
-                    <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                        placeholder="Enter Your Full Name" />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                        placeholder="Enter Your email ID" />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">What are looking for ?</label>
-                      <select class="form-select" aria-label="Default select example">
-                        <option selected>Select one of the below</option>
-                        <option value="1">Train and Hire Model</option>
-                        <option value="2">No Cost Hiring</option>
-                        <option value="3">Corporate Training</option>
-                      </select>
-                    </div>
-                  </form>
-
-                  <div class="callbackbtn mt-3">
-                    <a href="" class="text-decoration-none">Request A Callback</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
   </div>
 </section>
 <?php 
-include_once("includes/footer.php");
+include_once("./includes/footer.php");
 ?>
