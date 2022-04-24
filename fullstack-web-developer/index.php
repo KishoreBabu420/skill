@@ -27,17 +27,19 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-9">
             <h1 class="top-head-new pt-3">
-              Full Stack Web Development Bootcamp
+              Alchemyst MERN Stack Developer Course
             </h1>
           </div>
         </div>
         <ul class="mx-3">
           <li class="course-toppara my-1">100% Placement Guarantee</li>
-          <li class="course-toppara my-1">Pay 80% fee after you get placement of 4 - 8LPA</li>
-          <li class="course-toppara my-1">No coding background required, only passion for learning is enough.</li>
+          <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
+          <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
         </ul>
         <p class="school-para pt-3 d-none d-md-block">
-          Develop the skills & practical experience which increases the chances of hiring managers to call you with a
+          Develop the skills & practical experience which will increase the chances of hiring managers to calling you
+          with
+          a
           job offer. Crack technical rounds with confidence.
         </p>
       </div>
@@ -78,9 +80,6 @@ include_once("../includes/header.php");
             job offer. Crack technical rounds with confidence.
           </p>
         </div>
-      </div>
-      <div class="cir-dot-blue d-none d-lg-block">
-        <img src="images/bluecircle.png" class="img-fluid" alt="" title="" />
       </div>
     </div>
   </div>
@@ -452,7 +451,7 @@ include_once("../includes/header.php");
                   </div>
                   <div class="col-md-12">
                     <div id="owl-demo-mobnew" class="owl-carousel owl-theme">
-                      <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
+                      <div class="item bg-white mt-3 pb-2 ps-md-2 pe-md-2">
                         <div class="bbt">
                           <div class="row">
                             <div class="col-xl-12">
@@ -479,7 +478,7 @@ include_once("../includes/header.php");
                           </div>
                         </div>
                       </div>
-                      <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
+                      <div class="item bg-white mt-3 pb-2 ps-md-2 pe-md-2">
                         <div class="bbt">
                           <div class="row">
                             <div class="col-xl-12">
@@ -507,7 +506,7 @@ include_once("../includes/header.php");
                           </div>
                         </div>
                       </div>
-                      <div class="item bg-white mt-3 pb-5 ps-md-2 pe-md-2">
+                      <div class="item bg-white mt-3 pb-2 ps-md-2 pe-md-2">
                         <div class="bbt">
                           <div class="row">
                             <div class="col-xl-12">
@@ -542,7 +541,7 @@ include_once("../includes/header.php");
             <!-- 3rd section -->
             <section class="bg-trained position-relative" id="specialist">
               <div class="container">
-                <div class="row pt-md-3 pb-md-3">
+                <div class="row pt-md-3 pb-md-3 justify-content-center">
                   <div class="col-md-12  pt-2 pb-2 mb-2">
                     <h2 class="top-head">
                       Get Trained By <br />
@@ -550,7 +549,7 @@ include_once("../includes/header.php");
                     </h2>
                   </div>
 
-                  <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
+                  <div class="col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
@@ -607,8 +606,7 @@ include_once("../includes/header.php");
                       </div>
                     </div>
                   </div>
-
-                  <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
+                  <div class="col-md-3 col-sm-6 col-12 mb-4">
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
@@ -666,135 +664,6 @@ include_once("../includes/header.php");
                         </div>
                       </div>
                     </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
-                    <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-                      <img
-                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-                        class="img-fluid w-100" alt="" title="" />
-
-                      <div class="middle">
-                        <div class="text">
-                          <a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i
-                              class="fa fa-linkedin"></i></a>
-                        </div>
-                      </div>
-
-                      <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
-
-                      <h6 class="trained-dest pb-3">Skill Safari</h6>
-                    </div>
-
-                    <!-- Modal -->
-
-                    <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel"
-                      aria-hidden="true">
-                      <div class="modal-dialog">
-                        <div class="modal-content">
-                          <div class="modal-body">
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-
-                            <div class="row">
-                              <div class="col-md-4">
-                                <img
-                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-                                  class="img-fluid" alt="" title="" />
-                              </div>
-
-                              <div class="col-md-8 text-center text-md-start">
-                                <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill
-                                    Safari</span></h3>
-
-                                <div>
-                                  <a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i
-                                      class="fa fa-linkedin"></i></a>
-                                </div>
-                              </div>
-
-                              <div class="col-md-12 text-center text-md-start">
-                                <p class="pt-4">Kiran brings energy, passion and drive to a team, and works tirelessly
-                                  to meet his own challenging deadlines. Kiran's analytical background, desire to learn,
-                                  ability to bring simplicity to complex issues and his determination to succeed means
-                                  he's a great asset to any organisation. He has always been a great sounding board and
-                                  has a unique blend of running both sales teams and support organisations. Kiran has
-                                  always conducted himself and the business with a high standard of integrity and I
-                                  would have no hesitation in recommending Kiran for future endeavours.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-3 col-sm-6 col-12 mb-4">
-                    <div class="trained-box text-center " data-bs-toggle="modal" data-bs-target="#exampleModal3">
-                      <img
-                        src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
-                        class="img-fluid w-100" alt="" title="" />
-
-                      <div class="middle">
-                        <div class="text">
-                          <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
-                        </div>
-                      </div>
-
-                      <h3 class="trained-head pt-md-3 pt-3">Dilip</h3>
-
-                      <h6 class="trained-dest pb-3">Paypal</h6>
-                    </div>
-
-                    <!-- Modal -->
-
-                    <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel"
-                      aria-hidden="true">
-                      <div class="modal-dialog">
-                        <div class="modal-content">
-                          <div class="modal-body">
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-
-                            <div class="row">
-                              <div class="col-md-4">
-                                <img
-                                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
-                                  class="img-fluid" alt="" title="" />
-                              </div>
-
-                              <div class="col-md-8 text-center text-md-start">
-                                <h3 class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span>
-                                </h3>
-
-                                <div>
-                                  <a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a>
-                                </div>
-                              </div>
-
-                              <div class="col-md-12 text-center text-md-start">
-                                <p class="pt-4">
-                                  Mr.Dilip is having 8 years of experience in Mobile QA engineer currently working with
-                                  Paypal, Bengaluru. Apart from work I absolutely love engaging myself in social service
-                                  activities (part of NGO), writing tech articles on medium and presenting tech talks.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="cir-tri-pink d-none d-lg-block">
-                    <img src="images/tri3.png" class="img-fluid" alt="" title="" />
-                  </div>
-
-                  <!-- <div class="cir-tri-blue d-none d-lg-block">
-														<img src="images/tri2.png" class="img-fluid" alt="" title="" />
-												</div> -->
-
-                  <div class="cir-tri-yellow d-none d-lg-block">
-                    <img src="images/tri1.png" class="img-fluid" alt="" title="" />
                   </div>
                 </div>
               </div>
@@ -996,7 +865,6 @@ include_once("../includes/header.php");
     <div classs="row pt-md-5">
       <div class="col-md-12 pt-md-5">
         <h1 class="top-head text-center pb-4 pt-4 pt-md-0">FAQ</h1>
-
         <div class="accordion" id="accordionExample">
           <div class="accordion-item mb-3 p-4">
             <h2 class="accordion-header" id="headingOne">
@@ -1034,7 +902,7 @@ include_once("../includes/header.php");
               <div class="accordion-body">
                 <p class="school-para mb-0">Companies prefer developers who can be work-efficient and as well as
                   cost-efficient. A Full-Stack developer can help with the whole design structure and he also knows to
-                  provide input on any levels as need be.</p>
+                  provide input on any level as need be.</p>
               </div>
             </div>
           </div>
@@ -1147,7 +1015,8 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The major evaluation procedures enrolment process is the efforts a student will be able to put during
+                  The major evaluation procedures enrolment process is the efforts a student will be able to put in
+                  during
                   this program.
                 <ul>
                   <li>Basic Aptitude Assessment</li>
@@ -1345,14 +1214,6 @@ include_once("../includes/header.php");
             </div>
           </div>
 
-        </div>
-
-        <div class="cir-dot-yellow d-none d-lg-block">
-          <img src="images/dotyellow.png" class="img-fluid" alt="" title="" />
-        </div>
-
-        <div class="cir-dot-blue d-none d-lg-block">
-          <img src="images/bluecircle.png" class="img-fluid" alt="" title="" />
         </div>
       </div>
     </div>
