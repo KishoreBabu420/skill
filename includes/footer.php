@@ -8,17 +8,17 @@
 <!-- footer section started -->
 <footer class="bg-footer shadow position-relative">
   <div class="container">
-    <div class="row pt-5 mx-auto">
+    <div class="row pt-5 mx-auto justify-content-center">
       <div class="col-md-4">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
           class="img-fluid" alt="" title="">
         <div class="footer-para pt-3">
-          <p class="school-para w-75">Join us at Skill Safari as we rush into the new era of e-learning, where boring
+          <p class="school-para">Join us at Skill Safari as we rush into the new era of e-learning, where boring
             classroom education is not the ruler. We are here to provide you with knowledge and skills that make you
             think and help you build a new and better future. </p>
         </div>
       </div>
-      <div class="col-md col-sm-4 col-6 pt-md-0 pt-4">
+      <div class="col-md col-sm-4 offset-lg-1 col-6 pt-md-0 pt-4">
         <h6 class="footer-linkheads">Courses</h6>
         <ul class="list-group">
           <li class="list-group-item"><a class="text-decoration-none"
@@ -41,7 +41,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-md col-sm-4 col-6 pt-md-0 pt-4">
+      <div class="col-md col-sm-3 col-6 pt-md-0 pt-4">
         <h6 class="footer-linkheads">Company</h6>
         <ul class="list-group">
           <li class="list-group-item"><a class="text-decoration-none" href="https://skillsafari.in/about-us">About
@@ -51,9 +51,9 @@
         </ul>
       </div>
     </div>
-    <div class="row pb-5 align-items-center mx-auto">
+    <div class="row pt-3 pb-5">
       <div class="col-lg-4 col-md-6 socailicon">
-        <ul class="list-group list-group-horizontal">
+        <ul class="list-group list-group-horizontal text-center">
           <li class="list-group-item">
             <a href="https://www.facebook.com/SkillSafari.in/" target="_blank">
               <i class="shadow fab fa-facebook-f facebook"></i>
@@ -82,16 +82,10 @@
         </ul>
       </div>
     </div>
-    <div class="row pb-5 align-items-center mx-auto">
+    <div class="row pb-5 mx-auto">
       <div class="col-12 text-center pt-md-0 pt-4">
         <p class="copyrights pb-0 mb-0 text-center"> Copyright<sup>©</sup> 2022 Skill Safari All Rights Reserved.</p>
       </div>
-    </div>
-    <div class="cir-dot-yellow d-none d-lg-block">
-      <img src="images/dotyellow.png" class="img-fluid" alt="" title="">
-    </div>
-    <div class="cir-dot-blue d-none d-lg-block">
-      <img src="images/bluecircle.png" class="img-fluid" alt="" title="">
     </div>
   </div>
 </footer>
