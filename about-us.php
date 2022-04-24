@@ -18,7 +18,7 @@ include_once("includes/header.php");
         <p class="school-para pt-3">Kick start your career in web development and design and discover new growth
           opportunities with the best online mentors.</p>
         <div class="regbtn mb-5 mt-4">
-          <a href="fullstack-web-developer" class="text-decoration-none">Explore Courses</a>
+          <a href="fullstack-web-developer" class="text-decoration-none">Explore More</a>
         </div>
       </div>
       <div class="col-md-7 pb-5 b-img">
@@ -37,11 +37,13 @@ include_once("includes/header.php");
       <div class="col-md-12 ">
         <h2 class="top-head text-white text-center">But first, let us tell you a little about who we are </h2>
         <p class="para-top pt-4">Skill Safari is a skill enhancement and training company that set out to nurture the
-          skills of young students and reskill professionals in web development and design. We are an eLearning platform
+          skills of young students and Re-Skill professionals in web development and design. We are an E-Learning
+          platform
           that offers some of the most engaging learning modules that meet the latest technology and industry
           requirements.</p>
-        <p class="para-top pt-3">We offer unique online and amine courses and workshops with hands-on experience and
-          extensive guidance. We set out on this skill devebpmentjoumey with the viskin to build a large gig economy by
+        <p class="para-top pt-3">We offer unique online and offline courses and workshops with hands-on experience and
+          extensive guidance. We set out on this skill development journey with the vision to build a large gig economy
+          by
           providing world-class training to technology aspirants and creating a learn and earn community at Skill
           Safari. </p>
       </div>
@@ -54,7 +56,7 @@ include_once("includes/header.php");
 <!-- mission update -->
 <section class="bg-ourmission">
   <div class="container pt-md-5 pb-5">
-    <div class="row pt-5 pb-5">
+    <div class="row pt-5 pb-5 align-items-center">
       <div class="col-md-3 text-center text-md-start">
         <h2 class="top-head pt-4 pt-lg-0">Our mission is to </h2>
         <img src="images/targetarrow.png" class="img-fluid d-none d-md-block" alt="" title="">
@@ -64,7 +66,7 @@ include_once("includes/header.php");
           <div class="col-md-6 d-flex align-self-stretch mb-4">
             <div class="blueborder p-4">
               <p class="school-para">
-                Utilise cuffing-edge technology to offer you the best learning experience.
+                Utilize cutting-edge technology to offer you the best learning experience.
               </p>
             </div>
           </div>
@@ -78,8 +80,8 @@ include_once("includes/header.php");
           <div class="col-md-6 d-flex align-self-stretch mb-4">
             <div class="blueborder p-4">
               <p class="school-para">
-                To evolve learning content periodically and use the OBL strategy to cater to learners from the 1,-12
-                Market. the Upskilling and Reskilling Market.
+                To evolve learning content periodically and use the OBL strategy to cater learners from the 1,-12
+                Market. the Up-Skilling and Re -Skilling Market.
               </p>
             </div>
           </div>
@@ -104,7 +106,6 @@ include_once("includes/header.php");
         <h1 class="top-head pt-lg-5 text-center">Retracing our steps into the past </h1>
         <p class="top-para text-grey">Here's a brief timeline to show you exactly how we grew into what we are today.
         </p>
-
         <div class="d-block d-md-none">
           <div class="timeline-events mt-5 mb-3">
             <div class="img-wra">
@@ -113,7 +114,7 @@ include_once("includes/header.php");
             </div>
             <div class="bg-white shadow mb-3 p-4 rounded">
               <p class="school-para">
-                A group of three sharp-witted land suited) individuals endeavoured on a journey to bring change and
+                A group of three sharp-witted land suited individuals endeavoured on a journey to bring change and
                 bridge the skill gap between institutes and and Earn community.</p>
               <p class="school-para">We started small by acquiring our first client and successfully impacted <span
                   style="color:#de4045;font-weight:bold;">200</span> students with our great learning approach. In the
@@ -190,8 +191,8 @@ include_once("includes/header.php");
                             <img src="images/cir1.png" class="img-fluid" alt="" title=""> -->
               <div class="bg-white shadow mb-3 p-4 rounded">
                 <p class="school-para text-start">
-                  A group of three sharp-witted land suited) individuals endeavoured on a journey to bring change and
-                  bridge the skill gap between institutes and and Earn community.</p>
+                  A group of three sharp-witted land suited individuals endeavoured on a journey to bring change and
+                  bridge the skill gap between institutes and Earn community.</p>
               </div>
               <!-- </div> -->
             </div>
@@ -199,7 +200,7 @@ include_once("includes/header.php");
               <div class="bg-white shadow mb-3 p-4 rounded">
                 <p class="school-para text-start">We started small by acquiring our first client and successfully
                   impacted <span style="color:#de4045;font-weight:bold;">200</span> students with our great learning
-                  approach. In the blink an eye, we had <span style="color:#de4045;font-weight:bold;">15</span>
+                  approach. In the blink of an eye, we had <span style="color:#de4045;font-weight:bold;">15</span>
                   institutional clients under our belt and were impacting <span
                     style="color:#de4045;font-weight:bold;">2000+</span> students by the end of the year. </p>
               </div>
@@ -326,7 +327,7 @@ include_once("includes/header.php");
 
 <section class="bg-ltleabt">
   <div class="container pt-md-5 pb-5">
-    <div class="row pt-5 pb-5">
+    <div class="row pt-5 pb-5 align-items-center">
       <div class="col-md-5 text-center text-md-start">
         <h2 class="top-head text-white pt-4 pt-lg-0">Now, you might be wondering why you need Skill Safari </h2>
         <div class="text-center "><img src="images/pliline.png" class="img-fluid text-end"></div>
@@ -359,18 +360,18 @@ include_once("includes/header.php");
         </div>
       </div>
     </div>
-    <div class="row pt-md-5 pb-5">
+    <div class="row pt-md-5 pb-5 align-items-center">
       <div class="col-md-5">
         <h2 class="top-head text-white pt-lg-0 mb-0">So, here's what we offer </h2>
         <div class="text-center d-none d-md-block"><img src="images/pliline1.png" class="img-fluid text-end"></div>
       </div>
       <div class="col-md-7 pt-4 pt-md-0">
         <h4 style="color:#fbbf40;">Quality content</h4>
-        <p class="school-para pe-md-4 text-white pt-2">that guarantees success and is up to date with the kitesf tech
+        <p class="school-para pe-md-4 text-white pt-2">that guarantees success and is up to date with the right tech
           developments.</p>
         <h4 style="color:#fbbf40;" class="pt-4">Live interactive sessions</h4>
-        <p class="school-para pe-md-4 text-white pt-2">with expert guides that allow students to participate and have
-          fun while they learn. </p>
+        <p class="school-para pe-md-4 text-white pt-2">with expert guidance the students can participate and have fun
+          while they learn.</p>
         <h4 style="color:#fbbf40;" class="pt-4">Encouraging mentors</h4>
         <p class="school-para pe-md-4 text-white pt-2"> who give you personalised feedback and build a long-term
           relationship with you to support your growth. </p>
@@ -465,7 +466,7 @@ include_once("includes/header.php");
           </div>
           <h4 class="text-center">Networking </h4>
           <p class="school-para pt-3">
-            We expose our students to me complexity and open-ended meaning of development, allowing ahem to take their
+            We expose our students to complexity and open-ended meaning of development, allowing them to take their
             own approach to solve problems and create interdisciplinary connections.
           </p>
         </div>
@@ -496,7 +497,7 @@ include_once("includes/header.php");
       <div class="col-md-4 mb-5 text-center">
         <img src="images/sc4.png" class="img-fluid pe-md-5">
         <h2 class="fw-bold pt-4 pe-md-5">Portfolio And Profile Building </h2>
-        <p class="school-para pt-3 pe-md-5">Students will learn to create attractive GitHub and Linkedln prof les and
+        <p class="school-para pt-3 pe-md-5">Students will learn to create attractive GitHub and Linkedin profiles and
           get ready for interviews. </p>
       </div>
       <div class="col-md-4 mb-5 text-center">
@@ -510,23 +511,23 @@ include_once("includes/header.php");
       <div class="col-md-6">
         <h2 class="top-head pt-lg-0 pe-md-5">We believe in innovation and growth </h2>
         <p class="school-para pt-3 pe-md-5">
-          Skill Safari is an eLearning platform that is well versed with the latest technology and industry
+          Skill Safari is an E-Learning platform that is well versed with the latest technology and industry
           requirements. We design our various skill enhancement training modules to make them engaging and fun at every
           step. We offer one of the best skill enhancement courses in.
         </p>
       </div>
       <div class="col-md-4 pt-4 pt-md-0">
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0"> Full-stack (MERN) development </h4>
+          <h4 class="mb-0"> Full Stack (MERN) Web development </h4>
         </div>
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">Front end Development </h4>
+          <h4 class="mb-0">Front End Web Development </h4>
         </div>
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">UX/UI design ></h4>
+          <h4 class="mb-0">Product Design</h4>
         </div>
       </div>
-      <div class="col-md-8 text-center pt-5 mt-5">
+      <div class="col-md-8 text-center pt-5 mt-5 d-none">
         <p class="school-para text-center">
           When it comes to proving our outcomes in just a year, we helped over 100 of our alumni kick start their
           careers in leading companies in India. Don't believe us? <br> Then here's a glimpse of what they had to say
