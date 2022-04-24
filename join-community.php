@@ -44,7 +44,7 @@ include_once("includes/header.php");
       <div class="col-md-6 text-start">
         <!-- <h1 class="top-head pt-lg-5 pt-3">Lorem Ipsum <br> Dolor sit amet</h1> -->
         <p class="school-para pt-3">
-          Join us at Skill Safari as we usher in the new era of e-learning, where bookish knowledge is not the king. We
+          Join us at Skill Safari as we enter in the new era of e-learning, where bookish knowledge is not the king. We
           are here to provide you with interesting learnable tasks and events that make you think and help you build a
           new and better future. <br>
           <br>
@@ -80,7 +80,7 @@ include_once("includes/header.php");
                 </div>
               </div>
               <div class="col-md-9 col-sm-9 col-9">
-                <p class="school-para">We provide regular tasks, coding challenges, study materials etc.
+                <p class="school-para">We provide regular tasks, coding challenges, study materials, etc.
                 </p>
               </div>
             </div>
@@ -119,7 +119,7 @@ include_once("includes/header.php");
                 </div>
               </div>
               <div class="col-md-9 col-sm-9 col-9">
-                <p class="school-para">We have ebooks, giveaways and a lot more to keep your minds buzzing with ideas.
+                <p class="school-para">We have eBooks, giveaways, and a lot more to keep your minds buzzing with ideas.
                 </p>
               </div>
             </div>
