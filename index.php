@@ -60,7 +60,7 @@ include_once("includes/header.php");
         <p class="top-para text-white">We want to see you succeed, and to achieve your goals, we ensure the best from us
           reaches you while offering:</p>
       </div>
-      <div class="col-md-6 mb-2 px-4">
+      <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
             <img src="images/i1.png" class="img-fluid" Loading="lazy" alt="" title="">
@@ -73,7 +73,7 @@ include_once("includes/header.php");
           </div>
         </div>
       </div>
-      <div class="col-md-6 mb-2 px-4">
+      <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
             <img src="images/i3.png" class="img-fluid" Loading="lazy" alt="" title="">
@@ -86,7 +86,7 @@ include_once("includes/header.php");
           </div>
         </div>
       </div>
-      <div class="col-md-6 mb-2 px-4">
+      <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
             <img src="images/i4.png" class="img-fluid" Loading="lazy" alt="" title="">
@@ -99,7 +99,7 @@ include_once("includes/header.php");
           </div>
         </div>
       </div>
-      <div class="col-md-6 mb-2 px-4">
+      <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
             <img src="images/ISA.png" class="img-fluid" Loading="lazy" alt="" title="">
@@ -133,7 +133,7 @@ include_once("includes/header.php");
             <div class="col-lg-10 col-12">
               <div class="row align-items-center">
                 <div class="col-lg-9 col-md-12">
-                  <h2 class="course-tophead">Full-Stack Developer Course</h2>
+                  <h2 class="course-tophead">Alchemyst MERN Stack Developer Course</h2>
                   <p class="course-toppara">
                   <ul>
                     <li class="course-toppara">A full-stack developer is someone who can code and handle both the front
@@ -256,7 +256,8 @@ include_once("./includes/testimony.php");
               <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                   <div class="regbtn">
-                    <a href="webinargetplaced.php" class="text-decoration-none">Know More</a>
+                    <a href="./events/how-to-get-recruited-in-top-product-based-companies"
+                      class="text-decoration-none">Know More</a>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
@@ -289,7 +290,7 @@ include_once("./includes/testimony.php");
               <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                   <div class="regbtn">
-                    <a href="quizapplicationevent.php" class="text-decoration-none">Know More</a>
+                    <a href="./events/build-a-nodejs-quiz-application" class="text-decoration-none">Know More</a>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
@@ -322,7 +323,8 @@ include_once("./includes/testimony.php");
               <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                   <div class="regbtn">
-                    <a href="TrendsandrecruitmentpattnerEvent.php" class="text-decoration-none">Know More</a>
+                    <a href="./events/know-about-industry-trends-and-recruitment-patterns"
+                      class="text-decoration-none">Know More</a>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
@@ -347,11 +349,11 @@ include_once("./includes/partners.php");
 <!-- trained section started -->
 <section class="bg-trained position-relative" id="specialist">
   <div class="container">
-    <div class="row pt-md-5 pb-md-5">
+    <div class="row pt-md-5 pb-md-5 justify-content-center">
       <div class="col-md-12 text-center pt-2 pb-5 mb-2">
         <h2 class="top-head">Get Trained By <br> Industry Specialist</h2>
       </div>
-      <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
+      <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
@@ -393,7 +395,7 @@ include_once("./includes/partners.php");
           </div>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
+      <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
@@ -424,10 +426,12 @@ include_once("./includes/partners.php");
 
                   </div>
                   <div class="col-md-12 text-center text-md-start">
-                    <p class="pt-4">Satish comes with 10+ years of experience in IT and education field. He has worked
-                      as Principal Instructor in various big technical Institutions and Ed-Tech Companies before joining
+                    <p class="pt-4">Sathish comes with 10+ years of experience in the IT and education field. He has
+                      worked
+                      as a Principal Instructor in various big technical Institutions and Ed-Tech Companies before
+                      joining
                       Skill Safari as a Principal Instructor. He is not only a Principal Instructor for Skill Safari but
-                      also the content quality manager. Satish is a pure art of the skill in Web Development.</p>
+                      also a content quality manager. Sathish is a pure art of skill in Web Development.</p>
                   </div>
                 </div>
               </div>
@@ -435,7 +439,7 @@ include_once("./includes/partners.php");
           </div>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
+      <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
             class="img-fluid" Loading="lazy" alt="" title="">
@@ -467,12 +471,12 @@ include_once("./includes/partners.php");
                   </div>
                   <div class="col-md-12 text-center text-md-start">
                     <p class="pt-4">Kiran brings energy, passion and drive to a team, and works tirelessly to meet his
-                      own challenging deadlines. Kiran's analytical background, desire to learn, ability to bring
+                      own challenging own deadlines. Kiran's analytical background, desire to learn, ability to bring
                       simplicity to complex issues and his determination to succeed means he's a great asset to any
-                      organisation. He has always been a great sounding board and has a unique blend of running both
-                      sales teams and support organisations. Kiran has always conducted himself and the business with a
+                      organization. He has always been a great sounding board and has a unique blend of running both
+                      sales teams and support organizations. Kiran has always conducted himself and the business with a
                       high standard of integrity and I would have no hesitation in recommending Kiran for future
-                      endeavours.</p>
+                      endeavour.</p>
                   </div>
                 </div>
               </div>
@@ -480,7 +484,7 @@ include_once("./includes/partners.php");
           </div>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 col-12 mb-4 mb-md-0">
+      <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal3">
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
             class="img-fluid" Loading="lazy" alt="" title="">
@@ -539,7 +543,7 @@ include_once("./includes/partners.php");
           waiting for? Join the adventure now!
           <div class="col-md-12 text-center  mt-4">
             <div class="discordbtn text-center ">
-              <a href="community.php" class="text-decoration-none"><img src="images/baba.png" Loading="lazy"
+              <a href="./join-community" class="text-decoration-none"><img src="images/baba.png" Loading="lazy"
                   class="img-fluid me-1">
                 Join Our Discord</a>
             </div>
@@ -586,7 +590,7 @@ include_once("./includes/partners.php");
               experience in teaching. They spend their time crafting the students to create a better future.</p>
           </div>
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="pink-text-num">4.6/5 rating</h3>
+            <h3 class="pink-text-num">4.6 out of 5 rating</h3>
             <p class="school-para">How have our students rated us? 4.6 out 5, that is how good we are according to our
               students.</p>
           </div>
