@@ -241,7 +241,7 @@ include_once("./includes/partners.php");
 <!-- partners section ended -->
 
 <!-- recuriters section started -->
-<section class="bg-recurit mt-5">
+<!-- <section class="bg-recurit mt-5">
   <div class="container pt-4 pb-5">
     <div class="row pt-5">
       <div class="col-md-5">
@@ -458,7 +458,7 @@ include_once("./includes/partners.php");
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <?php 
 include_once("./includes/footer.php");
 ?>
