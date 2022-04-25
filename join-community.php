@@ -8,8 +8,8 @@ include_once("includes/header.php");
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <!-- hire banner section started -->
-<section class="bannersection">
-  <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/community_banner_o6fsey.jpg" alt="Learn & earn community">
+<section>
+  <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/community_banner_o6fsey.jpg" class="bannersectionimg" alt="Learn & earn community">
 </section>
 <section class="bg-hire">
   <div class="container">
