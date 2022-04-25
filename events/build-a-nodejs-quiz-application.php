@@ -28,7 +28,9 @@ include_once("../includes/header.php");
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
-          <img class="w-100" src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader1_wejqx8.png" alt="Fullstack Event">
+          <img class="w-100"
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader1_wejqx8.png"
+            alt="Fullstack Event">
         </div>
       </div>
       <div class="col-lg-12">
@@ -149,16 +151,15 @@ include_once("../includes/header.php");
 
       <div class="col-md-6 ps-5">
         <div class="row align-items-center">
-          <h1 class="top-head pb-3">Key Takeaways</h1>
-
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-            <span><i class="fas fa-comet"></i></span>
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
             <h6 class="timeline-head">Who is a Full Stack Web Developer?</h6>
-            <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.</p>
+            <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.
+            </p>
           </div>
         </div>
         <div class="row">
@@ -172,7 +173,7 @@ include_once("../includes/header.php");
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -192,7 +193,7 @@ include_once("../includes/header.php");
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -212,7 +213,7 @@ include_once("../includes/header.php");
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -220,8 +221,6 @@ include_once("../includes/header.php");
             <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
           </div>
         </div>
-
-
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="images/ab4.jpg" class="img-fluid w-100" alt="" title="">

@@ -1085,8 +1085,13 @@ body {
 
 .stud-trainbox {
   background: #fff;
-  padding: 15px;
+  padding: 18px;
   border-radius: 15px;
+}
+
+.stud-trainbox i {
+  color: #ff9900;
+  font-size: 2.25rem;
 }
 
 .bg-faq .accordion-button {
