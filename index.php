@@ -141,7 +141,7 @@ include_once("includes/header.php");
                     <li class="course-toppara">With this Full Stack Developer Course, learn technical and business
                       skills.</li>
                     <!-- <li class="course-toppara">Gather insight about different technologies. </li> -->
-                    <li class="course-toppara">Our mentors are masters in the field themselves and offer a hands-on
+                    <li class="course-toppara">Our mentors are masters in the field and offer a hands-on
                       learning experience you will revel in.</li>
                   </ul>
                   </p>
