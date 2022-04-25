@@ -60,7 +60,7 @@
                       Stack Developer</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="https://www.skillsafari.in/hire-from-us">Hire from
+                    <a class="nav-link <?php if($page==2) echo 'active';  ?>" aria-current="page" href="https://www.skillsafari.in/hire-from-us">Hire from
                       us</a>
                   </li>
                   <li class="nav-item">
