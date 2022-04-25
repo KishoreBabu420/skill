@@ -66,12 +66,6 @@ include_once("../includes/header.php");
         </div>
 
       </div>
-      <div class="cir-dot-blue d-none d-lg-block">
-        <img src="images/bluecircle.png" class="img-fluid" alt="" title="">
-      </div>
-      <div class="cir-dot-pink d-none d-lg-block">
-        <img src="images/pinkcircle.png" class="img-fluid" alt="" title="">
-      </div>
     </div>
     <div class="row justify-content-center pb-5">
       <div class="col-xl-8 col-md-12 col-11 bbs">
@@ -148,7 +142,6 @@ include_once("../includes/header.php");
           </ul>
         </div>
       </div>
-
       <div class="col-md-6 ps-5">
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
@@ -493,13 +486,6 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </div>
-
-        <div class="cir-dot-yellow d-none d-lg-block">
-          <img src="images/dotyellow.png" class="img-fluid" alt="" title="">
-        </div>
-        <div class="cir-dot-blue d-none d-lg-block">
-          <img src="images/bluecircle.png" class="img-fluid" alt="" title="">
         </div>
       </div>
     </div>

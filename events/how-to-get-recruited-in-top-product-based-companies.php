@@ -28,7 +28,9 @@ include_once("../includes/header.php");
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
-          <img class="w-100" src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader2_eedsha.png" alt="Fullstack Event">
+          <img class="w-100"
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader2_eedsha.png"
+            alt="Fullstack Event">
         </div>
       </div>
       <div class="col-lg-12">
@@ -63,12 +65,6 @@ include_once("../includes/header.php");
           </div>
         </div>
 
-      </div>
-      <div class="cir-dot-blue d-none d-lg-block">
-        <img src="images/bluecircle.png" class="img-fluid" alt="" title="">
-      </div>
-      <div class="cir-dot-pink d-none d-lg-block">
-        <img src="images/pinkcircle.png" class="img-fluid" alt="" title="">
       </div>
     </div>
     <div class="row justify-content-center pb-5">
@@ -491,13 +487,6 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </div>
-
-        <div class="cir-dot-yellow d-none d-lg-block">
-          <img src="images/dotyellow.png" class="img-fluid" alt="" title="">
-        </div>
-        <div class="cir-dot-blue d-none d-lg-block">
-          <img src="images/bluecircle.png" class="img-fluid" alt="" title="">
         </div>
       </div>
     </div>
