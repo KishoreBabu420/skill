@@ -10,7 +10,7 @@ include_once("includes/header.php");
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <section>
-  <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/Campus_amb_banner_exmzpt.jpg" class="bannersectionimg" alt="Learn & earn community">
+  <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/Campus_amb_banner_exmzpt.jpg" class="bannersectionimg" alt="Learn & earn community">
 </section>
 <!-- hire banner section started -->
 <section class="bg-hire">
@@ -68,7 +68,7 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-7 pb-5 b-img">
-        <img src="images/ca.jpg" class="img-fluid w-100" alt="" title="">
+        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894994/website/community%20and%20campus%20ambassador/ca_mltpdq.jpg" class="img-fluid w-100" alt="" title="">
       </div>
     </div>
   </div>
@@ -91,7 +91,7 @@ include_once("includes/header.php");
                   resume</p>
               </div>
               <div class="col-md-3 col-12 text-md-end text-center order-md-2 order-1">
-                <img src="images/perks1.png" class="img-fluid">
+                <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894797/website/community%20and%20campus%20ambassador/perks1_fxld47.png" class="img-fluid">
               </div>
             </div>
           </div>
@@ -102,7 +102,7 @@ include_once("includes/header.php");
           <div class="col-md-6">
             <div class="row text-white align-items-center">
               <div class="col-md-3 col-12 text-md-start text-center">
-                <img src="images/perks2.png" class="img-fluid">
+                <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894797/website/community%20and%20campus%20ambassador/perks2_yrrp6e.png" class="img-fluid">
               </div>
               <div class="col-md-9 text-center text-md-start">
                 <h4 style="color:#fbbf40;">Rewards and Incentives</h4>
@@ -121,7 +121,7 @@ include_once("includes/header.php");
                   build meaningful connections for your professional network</p>
               </div>
               <div class="col-md-3 col-12 text-md-end text-center order-md-2 order-1">
-                <img src="images/perks3.png" class="img-fluid">
+                <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894797/website/community%20and%20campus%20ambassador/perks3_djmuez.png" class="img-fluid">
               </div>
             </div>
           </div>
@@ -132,7 +132,7 @@ include_once("includes/header.php");
           <div class="col-md-6">
             <div class="row text-white align-items-center">
               <div class="col-md-3 col-12 text-md-start text-center">
-                <img src="images/perks4.png" class="img-fluid">
+                <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894797/website/community%20and%20campus%20ambassador/perks4_hrdckq.png" class="img-fluid">
               </div>
               <div class="col-md-9 text-center text-md-start">
                 <h4 style="color:#fbbf40;">One of a kind Mentorship Program</h4>
@@ -151,7 +151,7 @@ include_once("includes/header.php");
                   pre-placement interview with Paytm</p>
               </div>
               <div class="col-md-3 col-12 text-md-end text-center order-md-2 order-1">
-                <img src="images/perks5.png" class="img-fluid">
+                <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894797/website/community%20and%20campus%20ambassador/perks5_lddact.png" class="img-fluid">
               </div>
             </div>
           </div>
@@ -172,7 +172,7 @@ include_once("includes/header.php");
       <div class="col-md-3 mb-4 mb-md-0 align-self-stretch d-flex">
         <div class="rounded-2 p-4" style="background:#74affc;">
           <div class="text-center pb-4">
-            <img src="images/ap1.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894829/website/community%20and%20campus%20ambassador/ap1_orec4f.png" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <p class="school-para text-white text-center">Introduce your college student/peers with Skill Safari</p>
         </div>
@@ -180,7 +180,7 @@ include_once("includes/header.php");
       <div class="col-md-3 mb-4 mb-md-0 align-self-stretch d-flex">
         <div class="rounded-2 p-4" style="background:#ffc342;">
           <div class="text-center pb-4">
-            <img src="images/ap2.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894829/website/community%20and%20campus%20ambassador/ap2_xarb7v.png" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <p class="school-para text-white text-center">Share posters, videos and other relevant information provided to
             you on college groups and personal messages, Facebook friends and Instagram and WhatsApp stories</p>
@@ -189,7 +189,7 @@ include_once("includes/header.php");
       <div class="col-md-3 mb-4 mb-md-0 align-self-stretch d-flex">
         <div class="rounded-2 p-4" style="background:#f5916d;">
           <div class="text-center pb-4">
-            <img src="images/ap3.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894829/website/community%20and%20campus%20ambassador/ap3_zoxtf1.png" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <p class="school-para text-white text-center">Increasing the outreach on all courses & Events organized by
             Skill Safari by liking and sharing it</p>
@@ -198,7 +198,7 @@ include_once("includes/header.php");
       <div class="col-md-3 mb-4 mb-md-0 align-self-stretch d-flex">
         <div class="rounded-2 p-4" style="background:#9c94f8;">
           <div class="text-center pb-4">
-            <img src="images/ap4.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894829/website/community%20and%20campus%20ambassador/ap4_pvhua9.png" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <p class="school-para text-white text-center">Get registrations for the courses from your college & city</p>
         </div>
@@ -212,7 +212,7 @@ include_once("includes/header.php");
     <div class="row pt-5 pb-5">
       <div class="col-md-4 text-center text-md-start">
         <h2 class="top-head text-white pt-4 pt-lg-0">Learning opportunities </h2>
-        <img src="images/targetarrow.png" class="img-fluid d-none d-md-block" alt="" title="">
+        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650894854/website/community%20and%20campus%20ambassador/targetarrow_w8qhl3.png" class="img-fluid d-none d-md-block" alt="" title="">
       </div>
       <div class="col-md-8 pt-4 pt-md-0">
         <div class="row">
