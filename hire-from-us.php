@@ -25,7 +25,7 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-6 pb-5">
-        <img src="images/ab3-new.png" class="img-fluid w-100" alt="" title="" style="background: #1c2042;">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/ab3-new_vzo5sb.png" class="img-fluid w-100" alt="" title="" >
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img class="img-fluid" src="images/title-2-8.png" alt="">
+        <img class="img-fluid" src="https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-2-8_etla7v.png" alt="">
       </div>
       <div class="col-md-6 ">
         <h1 class="top-head text-center text-md-start">Train and Hire Model</h1>
@@ -80,7 +80,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row">
       <div class="col-lg-6 order-md-2">
-        <img src="images/title-3-8.png" alt="" width="100%">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-3-8_ckyzag.png" alt="" width="100%">
       </div>
       <div class="col-lg-6 order-md-1 pt-4 pt-md-0">
         <h3 class="top-head text-center text-md-start">No Cost Hiring</h3>
@@ -125,7 +125,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img class="img-fluid" src="images/title-4-8.png" alt="">
+        <img class="img-fluid" src="https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-4-8_tkjgga.png" alt="">
       </div>
       <div class="col-md-6">
         <h1 class="top-head text-center text-md-start">Corporate Training</h1>
