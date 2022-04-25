@@ -153,7 +153,7 @@ include_once("../includes/header.php");
 
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+            <span><i class="fas fa-comet"></i></span>
             </div>
           </div>
           <div class="col-md-10 col-10">

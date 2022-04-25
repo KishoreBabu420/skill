@@ -270,7 +270,7 @@ include_once("./includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/quizevent1.jpg" class="img-fluid" Loading="lazy" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/quizevent1_mrbc3y.jpg" class="img-fluid" Loading="lazy" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">23 seats left</h5>
               </div>
@@ -303,7 +303,7 @@ include_once("./includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img src="images/eventbanner3.jpg" class="img-fluid" Loading="lazy" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/trends_gyrr82.webp" class="img-fluid" Loading="lazy" alt="" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">150 seats left</h5>
               </div>
