@@ -1,14 +1,17 @@
 <?php 
 $title = "Skill Safari";
 $description = "";
-$keywords = "";
-$page = 9;
+$keywords = "no cost hiring";
+$page = 2;
 include_once("includes/header.php");
 ?>
 
 
 <!-- top-space -->
 <section class="top-pagespace"></section>
+<section>
+  <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/hire_banner_qzhoaj.jpg" class="bannersectionimg" alt="Learn & earn community">
+</section>
 <!-- hire banner section started -->
 <section class="bg-hire">
   <div class="container">
