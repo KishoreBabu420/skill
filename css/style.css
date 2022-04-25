@@ -758,6 +758,10 @@ body {
   background: #e8f3fa;
 }
 
+.bannersection{
+  width: 100 !important;
+}
+
 /* .bg-partners img {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
