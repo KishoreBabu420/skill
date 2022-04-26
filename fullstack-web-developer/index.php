@@ -415,7 +415,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Selvakumar1_ee7za7.jpg"
-                                class="img-flui w-100" alt="" title="">
+                                class="img-flui w-100" alt="full stack developer course " title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"Now I have a good exposure on building a website and
@@ -442,7 +442,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Krishnakumar1_ansdoa.jpg"
-                                class="img-fluid w-100" alt="" title="">
+                                class="img-fluid w-100" alt="full stack developer course " title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"I was amazed with the kinds of technology that is out there
@@ -470,7 +470,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Aniket1_mlb3xx.jpg"
-                                class="img-flui w-100" alt="" title="">
+                                class="img-flui w-100" alt="full stack developer course with placement" title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"Skillsafari is an awesome skill development platform. I have
@@ -511,7 +511,7 @@ include_once("../includes/header.php");
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                        class="img-fluid w-100" alt="" title="" />
+                        class="img-fluid w-100" alt="full stack developer course with placement" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -537,7 +537,7 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                                  class="img-fluid" alt="" title="" />
+                                  class="img-fluid" alt="full stack developer course with placement guarantee" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
@@ -568,7 +568,7 @@ include_once("../includes/header.php");
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                        class="img-fluid w-100" alt="" title="" />
+                        class="img-fluid w-100" alt="full stack developer course with placement guarantee" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -595,7 +595,7 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                                  class="img-fluid" alt="" title="" />
+                                  class="img-fluid" alt="full stack developer course with placement guarantee" title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
