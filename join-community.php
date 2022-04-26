@@ -1,24 +1,27 @@
 <?php 
-$title = "Skill Safari";
-$description = "";
+$title = "Join the Learn and Earn Discord Community - Skill Safari";
+$description = "Join the vibrant Discord community at Skill Safari and become part of the hundreds of activities, tasks and opportunities we have for you.";
 $keywords = "";
-$page = 5;
+$page = 0;
 include_once("includes/header.php");
 ?>
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <!-- hire banner section started -->
 <section>
-  <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/community_banner_o6fsey.jpg" class="bannersectionimg" alt="Learn & earn community">
+  <img loading="lazy"
+    src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/community_banner_o6fsey.jpg"
+    class="bannersectionimg" alt="Learn & earn community">
 </section>
 <section class="bg-hire">
   <div class="container">
     <div class="row pt-5 pb-md-5 mx-auto">
       <div class="col-md-6 pb-5 d-md-none">
-        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg" class="img-fluid" alt="" title="">
+        <img loading="lazy"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg"
+          class="img-fluid" alt="" title="">
       </div>
       <div class="col-md-6 text-start">
-        <!-- <h1 class="top-head pt-lg-5">Lorem Ipsum <br> Dolor sit amet</h1> -->
         <p class="school-para pt-lg-5  pt-3">A vibrant community is a key to one’s overall development. Join the Discord
           community at Skill Safari and become part of the hundreds of activities we have for you.</p>
         <p class="school-para pt-lg-5  pt-3">Join Skill Safari’s Discord Community and get access to all of these
@@ -37,12 +40,16 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-6 pb-5 d-none d-md-block">
-        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg" class="img-fluid" alt="" title="">
+        <img loading="lazy"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg"
+          class="img-fluid" alt="" title="">
       </div>
     </div>
     <div class="row  pb-md-5 mx-auto">
       <div class="col-md-6 pb-md-5">
-        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882197/website/community%20and%20campus%20ambassador/ab7_eqzmv7.jpg" class="img-fluid" alt="" title="">
+        <img loading="lazy"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1650882197/website/community%20and%20campus%20ambassador/ab7_eqzmv7.jpg"
+          class="img-fluid" alt="" title="">
       </div>
       <div class="col-md-6 text-start">
         <!-- <h1 class="top-head pt-lg-5 pt-3">Lorem Ipsum <br> Dolor sit amet</h1> -->
@@ -70,7 +77,9 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row pt-5 mx-auto align-items-center">
       <div class="col-lg-4 col-md-12">
-        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/discord_i4hriy.jpg" class="img-fluid w-100" alt="" title="">
+        <img loading="lazy"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/discord_i4hriy.jpg"
+          class="img-fluid w-100" alt="" title="">
       </div>
       <div class="col-lg-8 col-md-12">
         <h2 class="top-head pt-4 text-center">Join Now Our Discord Community</h2>
@@ -129,7 +138,8 @@ include_once("includes/header.php");
           </div>
           <div class="col-md-12 text-center mt-4">
             <div class="discordbtn text-center">
-              <a href="community.php" class="text-decoration-none"><img Loading = "lazy" src="images/baba.png" class="img-fluid me-1">
+              <a href="community.php" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
+                  class="img-fluid me-1">
                 Join Our Discord</a>
             </div>
           </div>

@@ -156,7 +156,6 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <h6 class="timeline-head">Trending Technologies</h6>
-            <!-- <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.</p> -->
           </div>
         </div>
         <div class="row">
@@ -175,7 +174,6 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <h6 class="timeline-head">Recruitment Patterns</h6>
-            <!-- <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn different technologies, frameworks, libraries and VCS</p> -->
           </div>
         </div>
         <div class="row">
@@ -194,30 +192,8 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <h6 class="timeline-head">A promising career path</h6>
-            <!-- <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an application is developed and launched.</p> -->
           </div>
         </div>
-        <!-- <div class="row">
-                    <div class="col-md-2 col-2">
-                        <div class="text-center pt-2 pb-2">
-                            <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="row align-items-center">
-                    <div class="col-md-2 col-2 p-0">
-                        <div class="stud-trainbox shadow text-center">
-                           <i class="fa-solid fa-meteor"></i>
-                        </div>                        
-                    </div>
-                    <div class="col-md-10 col-10">
-                        <h6 class="timeline-head">Brief Introduction of courses offered by Skill Safari</h6>
-                        <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
-                    </div>
-                </div> -->
-
-
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
@@ -321,21 +297,26 @@ include_once("../includes/header.php");
           </div>
         </div>
       </div>
-      <div class="trainee-box bg-white shadow">
-        <div class="row align-items-center">
-          <div class="col-md-4 text-center timg">
-            <img src="images/naveen.png" class="img-fluid" alt="" title="">
-            <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
-            <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
-          </div>
-          <div class="col-md-8">
-            <p class="ft-16 text-justify">Naveen has a demonstrative history of working in the e-learning and software
-              industry. Strategic thinker and resilient holding experience as an entrepreneur being a contriver at Skill
-              Safari & Keys Inc. Solidity in Training, Product Innovation, Sales & Operations and R&D.</p>
+      <div class="col-lg-8 pb-md-5">
+        <div class="trainee-box bg-white shadow">
+          <div class="row align-items-center">
+            <div class="col-md-4 text-center timg">
+              <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
+                class="img-fluid" alt="" title="">
+              <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
+              <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
+            </div>
+            <div class="col-md-8">
+              <p class="ft-16 text-justify">Naveen has a demonstrative history of working in the e-learning and software
+                industry. Strategic thinker and resilient holding experience as an entrepreneur being a contriver at
+                Skill
+                Safari & Keys Inc. Solidity in Training, Product Innovation, Sales & Operations and R&D.</p>
+            </div>
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
   </div>
   </div>
 </section>

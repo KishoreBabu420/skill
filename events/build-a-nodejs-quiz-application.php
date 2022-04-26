@@ -315,6 +315,7 @@ include_once("../includes/header.php");
           </div>
         </div>
       </div>
+
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">

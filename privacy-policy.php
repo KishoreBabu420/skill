@@ -2,7 +2,7 @@
 $title = "Skill Safari - Privacy Policy";
 $description = "";
 $keywords = "";
-$page = "0";
+$page = 0;
 include_once("includes/header.php");
 ?>
 

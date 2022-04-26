@@ -1,8 +1,8 @@
 <?php 
-$title = "Skill Safari";
+$title = "Skill Safari - Error Page";
 $description = "";
 $keywords = "";
-$page = 10;
+$page = 0;
 include_once("includes/header.php");
 ?>
 

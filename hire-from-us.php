@@ -10,7 +10,7 @@ include_once("includes/header.php");
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <section>
-  <img Loading="lazy"
+  <img loading="lazy"
     src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/hire_banner_qzhoaj.jpg"
     class="bannersectionimg" alt="Learn & earn community">
 </section>
@@ -27,7 +27,7 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-6 pb-5">
-        <img Loading="lazy"
+        <img loading="lazy"
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/ab3-new_vzo5sb.png"
           class="img-fluid w-100" alt="" title="">
       </div>
@@ -54,7 +54,7 @@ include_once("includes/header.php");
         <div class="row col-sec mt-4 justify-content-around p-3">
           <div class="col-md-4 col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/custom-rec.png" alt="custom">
+              <img class="img-fluid w-35" loading="lazy" src="images/custom-rec.png" alt="custom">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">Customized recruitment</p>
@@ -62,7 +62,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-md-4 col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/end-to-end.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/end-to-end.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">End to End training</p>
@@ -70,7 +70,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-md-4 col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/ready-deploy.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/ready-deploy.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">Easy Deployment</p>
@@ -86,7 +86,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row">
       <div class="col-lg-6 order-md-2">
-        <img Loading="lazy"
+        <img loading="lazy"
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650880208/website/Hire%20from%20us%20/title-3-8_ckyzag.png"
           alt="" width="100%">
       </div>
@@ -101,7 +101,7 @@ include_once("includes/header.php");
         <div class="row col-sec mt-4 justify-content-around p-3">
           <div class="col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/no_payment.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/no_payment.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">No Payment whatsoever</p>
@@ -109,7 +109,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/ready-deploy.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/ready-deploy.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">Candidates ready for deployment</p>
@@ -117,7 +117,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/bootcamp-model.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/bootcamp-model.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">Trained in Bootcamp model</p>
@@ -146,7 +146,7 @@ include_once("includes/header.php");
         <div class="row col-sec mt-4 justify-content-around p-3">
           <div class="col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/custom-training-model.png" alt="custom">
+              <img class="img-fluid w-35" loading="lazy" src="images/custom-training-model.png" alt="custom">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">Customized recruitment</p>
@@ -154,7 +154,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/objective.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/objective.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">End to End training</p>
@@ -162,7 +162,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-4">
             <div>
-              <img class="img-fluid w-35" Loading="lazy" src="images/industry-experts.png">
+              <img class="img-fluid w-35" loading="lazy" src="images/industry-experts.png">
             </div>
             <div class="pt-3">
               <p class="school-para mb-0 w-75">Easy Deployment</p>
@@ -219,20 +219,20 @@ include_once("includes/header.php");
               <div class="tab-pane fade active show" id="v-pills-trainhire" role="tabpanel"
                 aria-labelledby="v-pills-trainhire-tab">
                 <div class="row justify-content-center">
-                  <img style="width: 90%" class="tabImage" Loading="lazy" src="images/train-and-hire-desktop.png"
+                  <img style="width: 90%" class="tabImage" loading="lazy" src="images/train-and-hire-desktop.png"
                     alt="hiring">
                 </div>
               </div>
               <div class="tab-pane fade" id="v-pills-nocost" role="tabpanel" aria-labelledby="v-pills-nocost-tab">
                 <div class="row justify-content-center">
-                  <img class="tabImage" Loading="lazy" style="width: 90%" src="images/no-cost-hiring-desktop.png"
+                  <img class="tabImage" loading="lazy" style="width: 90%" src="images/no-cost-hiring-desktop.png"
                     alt="hiring">
                 </div>
               </div>
               <div class="tab-pane fade" id="v-pills-corporatetrain" role="tabpanel"
                 aria-labelledby="v-pills-corporatetrain-tab">
                 <div class="row justify-content-center">
-                  <img class="tabImage" Loading="lazy" style="width: 90%" src="images/corporate-desktop.png"
+                  <img class="tabImage" loading="lazy" style="width: 90%" src="images/corporate-desktop.png"
                     alt="hiring">
                 </div>
               </div>
@@ -258,7 +258,7 @@ include_once("./includes/partners.php");
   <div class="container pt-4 pb-5">
     <div class="row pt-5">
       <div class="col-md-5">
-        <img Loading = "lazy" src="images/ab5.jpg" class="img-fluid" alt="" title="">
+        <img loading = "lazy" src="images/ab5.jpg" class="img-fluid" alt="" title="">
       </div>
       <div class="col-md-7 pt-4 pt-md-0">
         <h1 class="top-head">What <br> Recruiters Say?</h1>

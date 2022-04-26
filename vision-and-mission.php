@@ -1,8 +1,8 @@
 <?php 
-$title = "Skill Safari";
-$description = "";
+$title = "Skill Safari - Mission and Vision";
+$description = "Skill Safari started with a paramount vision to contribute quality training and development in the market of skilling up and re-skilling. Know more about it here.";
 $keywords = "";
-$page = 4;
+$page = 0;
 include_once("includes/header.php");
 ?>
 
