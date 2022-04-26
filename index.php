@@ -16,7 +16,7 @@ include_once("includes/header.php");
       <div class="col-md-6">
         <h1 class="banner-head text-md-start text-center">Full Stack Developer Program with Placement Assurance
         </h1>
-        <h2 class="banner-sub-head text-md-start text-center"><span class="obl-principles"></span></h2>
+        <p class="banner-sub-head text-md-start text-center"><span class="obl-principles"></span></p>
         <div class="regbtn mt-4 text-md-start text-center">
           <button><a href="fullstack-web-developer" class="text-decoration-none text-light">Learn More</a> </button>
         </div>
@@ -25,7 +25,7 @@ include_once("includes/header.php");
         <div class="text-center text-md-end">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650691483/website/web%20images/web_front_s3o3is.png"
-            class="img-fluid" Loading="lazy" alt="" title="">
+            class="img-fluid" Loading="lazy" alt="full stack developer course " title="">
         </div>
         <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
           <div class="starrating pt-1">
@@ -63,7 +63,7 @@ include_once("includes/header.php");
       <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
-            <img Loading = "lazy" src="images/i1.png" class="img-fluid" Loading="lazy" alt="" title="">
+            <img Loading = "lazy" src="images/i1.png" class="img-fluid" Loading="lazy" alt="full stack developer course with placement" title="">
           </div>
           <div class="col-10 mb-md-3">
             <h2 class="orange-head">Placement Assurance</h2>
@@ -76,7 +76,7 @@ include_once("includes/header.php");
       <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
-            <img Loading = "lazy" src="images/i3.png" class="img-fluid" Loading="lazy" alt="" title="">
+            <img Loading = "lazy" src="images/i3.png" class="img-fluid" Loading="lazy" alt="full stack developer course fees" title="">
           </div>
           <div class="col-10 mb-md-3">
             <h2 class="rose-head">Wide Network</h2>
@@ -89,7 +89,7 @@ include_once("includes/header.php");
       <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
-            <img Loading = "lazy" src="images/i4.png" class="img-fluid" Loading="lazy" alt="" title="">
+            <img Loading = "lazy" src="images/i4.png" class="img-fluid" Loading="lazy" alt="full stack developer course online" title="">
           </div>
           <div class="col-10 mb-md-3">
             <h2 class="blue-head">Mentorship Support</h2>
@@ -102,7 +102,7 @@ include_once("includes/header.php");
       <div class="col-lg-6 mb-2 px-4">
         <div class="row align-items-center">
           <div class="col-2 text-lg-center">
-            <img Loading = "lazy" src="images/ISA.png" class="img-fluid" Loading="lazy" alt="" title="">
+            <img Loading = "lazy" src="images/ISA.png" class="img-fluid" Loading="lazy" alt="Income share agreement" title="">
           </div>
           <div class="col-10 mb-md-3">
 
@@ -157,7 +157,7 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img Loading = "lazy" src="images/ic4.png" class="img-fluid" Loading="lazy" alt="" title="" />
+                      <img Loading = "lazy" src="images/ic4.png" class="img-fluid" Loading="lazy" alt="Skill Safari icon" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -170,7 +170,7 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6 pt-4 pt-sm-0 pt-md-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img Loading = "lazy" src="images/ic1-n.png" class="img-fluid" Loading="lazy" alt="" title="" />
+                      <img Loading = "lazy" src="images/ic1-n.png" class="img-fluid" Loading="lazy" alt=" Skill Safari icon" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -185,7 +185,7 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img Loading = "lazy" src="images/ic2.png" class="img-fluid" Loading="lazy" alt="" title="" />
+                      <img Loading = "lazy" src="images/ic2.png" class="img-fluid" Loading="lazy" alt="Skill Safari icon" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -198,7 +198,7 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img Loading = "lazy" src="images/ic3-n.png" class="img-fluid" Loading="lazy" alt="" title="" />
+                      <img Loading = "lazy" src="images/ic3-n.png" class="img-fluid" Loading="lazy" alt="Skill Safari icon" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -236,7 +236,7 @@ include_once("./includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img Loading = "lazy" src="images/getplaced.jpg" class="img-fluid" Loading="lazy" alt="" title="">
+              <img Loading = "lazy" src="images/getplaced.jpg" class="img-fluid" Loading="lazy" alt="full stack workshop" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">30 seats left</h5>
               </div>
@@ -271,7 +271,7 @@ include_once("./includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/quizevent1_mrbc3y.jpg" class="img-fluid" Loading="lazy" alt="" title="">
+              <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/quizevent1_mrbc3y.jpg" class="img-fluid" Loading="lazy" alt="full stack workshop" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">23 seats left</h5>
               </div>
@@ -304,7 +304,7 @@ include_once("./includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/trends_gyrr82.webp" class="img-fluid" Loading="lazy" alt="" title="">
+              <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/trends_gyrr82.webp" class="img-fluid" Loading="lazy" alt="full stack workshop" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">150 seats left</h5>
               </div>
@@ -358,7 +358,7 @@ include_once("./includes/partners.php");
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-            class="img-fluid" Loading="lazy" alt="" title="">
+            class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
             <div class="text"><a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"></i></a>
             </div>
@@ -376,7 +376,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                      class="img-fluid" Loading="lazy" alt="" title="">
+                      class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill
@@ -400,7 +400,7 @@ include_once("./includes/partners.php");
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-            class="img-fluid" Loading="lazy" alt="" title="">
+            class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
             <div class="text"><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i
                   class="fa fa-linkedin"></i></a></div>
@@ -418,7 +418,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                      class="img-fluid" Loading="lazy" alt="" title="">
+                      class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <h3 class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill Safari</span> </h3>
@@ -443,7 +443,7 @@ include_once("./includes/partners.php");
       <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
           <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-            class="img-fluid" Loading="lazy" alt="" title="">
+            class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
             <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i
                   class="fa fa-linkedin"></i></a></div>
@@ -461,7 +461,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-                      class="img-fluid" Loading="lazy" alt="" title="">
+                      class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span>
@@ -488,7 +488,7 @@ include_once("./includes/partners.php");
       <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal3">
           <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
-            class="img-fluid" Loading="lazy" alt="" title="">
+            class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
             <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
           </div>
@@ -505,7 +505,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
-                      class="img-fluid" Loading="lazy" alt="" title="">
+                      class="img-fluid" Loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <h3 class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span> </h3>
@@ -533,7 +533,7 @@ include_once("./includes/partners.php");
   <div class="container">
     <div class="row pt-5 align-items-center">
       <div class="col-lg-4 col-md-12">
-        <img Loading = "lazy" src="images/discord.jpg" class="img-fluid w-100" alt="" title="">
+        <img Loading = "lazy" src="images/discord.jpg" class="img-fluid w-100" alt="full stack community" title="">
       </div>
       <div class="col-lg-8 col-md-12 p-4">
         <h2 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h2>
