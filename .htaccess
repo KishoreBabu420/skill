@@ -8,3 +8,5 @@ RewriteRule ^ https://%1%{REQUEST_URI} [NE,L,R]
 
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+ErrorDocument 404   https://skillsafari.in/404
