@@ -149,7 +149,7 @@ include_once("../includes/header.php");
 
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -168,7 +168,7 @@ include_once("../includes/header.php");
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -187,7 +187,7 @@ include_once("../includes/header.php");
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -206,7 +206,7 @@ include_once("../includes/header.php");
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
-              <img src="images/c1.png" class="img-fluid" alt="" title="">
+              <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
@@ -218,7 +218,8 @@ include_once("../includes/header.php");
 
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
-        <img src="images/ab4.jpg" class="img-fluid w-100" alt="" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
+          class="img-fluid w-100" alt="" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
@@ -303,7 +304,9 @@ include_once("../includes/header.php");
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
-              <img src="images/Anusha.png" class="img-fluid" alt="" title="">
+              <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004355/website/trainers/anusha_qq9vjn.png"
+                class="img-fluid" alt="" title="">
               <h6 class="trainee-headtitle text-center pt-3 mb-0">Anusha G</h6>
               <p class="school-para text-center pt-2">Data Scientist & ML/DL Expert </p>
               <p class="school-para text-center">IIT Bombay Alumni </p>
@@ -322,7 +325,9 @@ include_once("../includes/header.php");
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
-              <img src="images/naveen.png" class="img-fluid" alt="" title="">
+              <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
+                class="img-fluid" alt="" title="">
               <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
@@ -382,7 +387,9 @@ include_once("../includes/header.php");
         </div>
       </div>
       <div class="col-md-5 pt-4">
-        <img src="images/certificate.png" class="img-fluid" alt="" title="">
+        <img
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
+          class="img-fluid" alt="" title="">
       </div>
     </div>
   </div>
