@@ -1,6 +1,6 @@
 <?php 
-$title = "Skill Safari";
-$description = "";
+$title = "Workshop – Build a Quiz Application with Node.js";
+$description = "Join our LIVE webinar to learn how to become a Full Stack Web Developer and also learn to build a small Quiz Application with Node.js.";
 $keywords = "";
 $page = 9;
 include_once("../includes/header.php");
@@ -22,8 +22,7 @@ include_once("../includes/header.php");
           already have developed an application all by yourself, so there will be enough proof of whether you can code
           or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775"
-            class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Register</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -221,8 +220,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775"
-            class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Register</a>
         </div>
       </div>
     </div>
@@ -283,8 +281,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775" class="text-decoration-none"
-            target="_blank">Apply Now</a>
+          <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Apply Now</a>
         </div>
       </div>
     </div>

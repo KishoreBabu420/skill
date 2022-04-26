@@ -1,6 +1,6 @@
 <?php 
-$title = "Skill Safari";
-$description = "";
+$title = "Workshop - Industry Trends and Recruitment Patterns in 2022 ";
+$description = "Join our LIVE webinar on how to stay with current emerging technologies to get the latest skills to get a secured job for tomorrow";
 $keywords = "";
 $page = 9;
 include_once("../includes/header.php");
@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>STARTS 21TH APR 2022</span></h4>
+        <h4 class="date-sec"><span>STARTS 29TH APR 2022</span></h4>
         <h1 class="top-head  pt-3">Industry Trends and Recruitment Patterns in 2022 </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -25,8 +25,7 @@ include_once("../includes/header.php");
           keep your eyes on the future to know the skills required to get a safe secure job for tomorrow and learn to
           get in there.</p>
         <div class="regbtn mb-5">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775"
-            class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/SQAac1RWVJ" target="_blank" class="text-decoration-none">Register</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -42,7 +41,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
               <h6 class="small-highlight pt-2">Date</h6>
-              <h3 class="mini-boxhead">21th April 2022</h3>
+              <h3 class="mini-boxhead">29th April 2022</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -226,8 +225,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775"
-            class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/SQAac1RWVJ" class="text-decoration-none" target="_blank">Register</a>
         </div>
       </div>
     </div>
@@ -288,8 +286,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1361427775" class="text-decoration-none"
-            target="_blank">Apply Now</a>
+          <a href="https://meet.zoho.in/SQAac1RWVJ" class="text-decoration-none" target="_blank">Apply Now</a>
         </div>
       </div>
     </div>
@@ -324,21 +321,22 @@ include_once("../includes/header.php");
           </div>
         </div>
       </div>
-      <!-- <div class="col-lg-8 pb-md-5">
-                <div class="trainee-box bg-white shadow">
-                    <div class="row align-items-center">
-                        <div class="col-md-4 text-center timg">
-                            <img src="images/naveen.png" class="img-fluid" alt="" title="">
-                            <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
-                            <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
-                        </div>
-                        <div class="col-md-8">
-                            <p class="ft-16 text-justify">Naveen has a demonstrative history of working in the e-learning and software industry. Strategic thinker and resilient holding experience as an entrepreneur being a contriver at Skill Safari & Keys Inc. Solidity in Training, Product Innovation, Sales & Operations and R&D.</p>
-                        </div>
-                    </div>
-                </div>           
-            </div> -->
-    </div>
+      <div class="trainee-box bg-white shadow">
+        <div class="row align-items-center">
+          <div class="col-md-4 text-center timg">
+            <img src="images/naveen.png" class="img-fluid" alt="" title="">
+            <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
+            <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
+          </div>
+          <div class="col-md-8">
+            <p class="ft-16 text-justify">Naveen has a demonstrative history of working in the e-learning and software
+              industry. Strategic thinker and resilient holding experience as an entrepreneur being a contriver at Skill
+              Safari & Keys Inc. Solidity in Training, Product Innovation, Sales & Operations and R&D.</p>
+          </div>
+        </div>
+      </div>
+    </div> -->
+  </div>
   </div>
 </section>
 
@@ -506,6 +504,34 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
+
+<script>
+//Timer Code
+
+if (document.getElementById('days')) {
+  const second = 1000,
+    minute = second * 60,
+    hour = minute * 60,
+    day = hour * 24;
+
+  let countDown = new Date('Apr 29, 2022 18:00:00').getTime(),
+    x = setInterval(function() {
+      let now = new Date().getTime(),
+        distance = countDown - now;
+
+      (document.getElementById('days').innerText = Math.floor(distance / day)),
+      (document.getElementById('hours').innerText = Math.floor(
+        (distance % day) / hour,
+      )),
+      (document.getElementById('minutes').innerText = Math.floor(
+        (distance % hour) / minute,
+      )),
+      (document.getElementById('seconds').innerText = Math.floor(
+        (distance % minute) / second,
+      ));
+    }, second);
+}
+</script>
 
 <?php 
 include_once("../includes/footer.php");

@@ -1,6 +1,6 @@
 <?php 
-$title = "Skill Safari";
-$description = "";
+$title = "Workshop - How to get recruited in Top Product Based Companies in 2022";
+$description = "Join our LIVE webinar and learn the practices to Learn how to prepare Data Structures and Algorithms in getting a job at Product Based Companies";
 $keywords = "";
 $page = 9;
 include_once("../includes/header.php");
@@ -12,18 +12,17 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>STARTS 22TH APR 2022</span></h4>
+        <h4 class="date-sec"><span>STARTS 06TH May 2022</span></h4>
         <h1 class="top-head  pt-3">How to get recruited in Top Product Based Companies in 2022</h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
-          <strike style="color:#888;font-size:14px;">₹ 1000</strike>₹ Free
+          <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
 
         </div>
         <p class="school-para pt-3">Join the LIVE webinar and learn the practices and preps to get recruited in TOP
           Product-based companies. Also Learn the importance of DSA in getting a job at Product Based Companies along
           with Ms.Anusha G, DSA Instructor and Expert Data Scientist and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1312576643"
-            class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/ozbjCzEaQz" target="_blank" class="text-decoration-none">Register</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -39,7 +38,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
               <h6 class="small-highlight pt-2">Date</h6>
-              <h3 class="mini-boxhead">22th April 2022</h3>
+              <h3 class="mini-boxhead">06th May 2022</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -223,8 +222,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1312576643"
-            class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/ozbjCzEaQz" target="_blank" class="text-decoration-none">Register</a>
         </div>
       </div>
     </div>
@@ -285,8 +283,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meeting.skillsafari.in/meeting/register?sessionId=1312576643" class="text-decoration-none"
-            target="_blank">Apply Now</a>
+          <a href="https://meet.zoho.in/ozbjCzEaQz" class="text-decoration-none" target="_blank">Apply Now</a>
         </div>
       </div>
     </div>
@@ -508,6 +505,34 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
+
+<script>
+//Timer Code
+
+if (document.getElementById('days')) {
+  const second = 1000,
+    minute = second * 60,
+    hour = minute * 60,
+    day = hour * 24;
+
+  let countDown = new Date('May 06, 2022 19:00:00').getTime(),
+    x = setInterval(function() {
+      let now = new Date().getTime(),
+        distance = countDown - now;
+
+      (document.getElementById('days').innerText = Math.floor(distance / day)),
+      (document.getElementById('hours').innerText = Math.floor(
+        (distance % day) / hour,
+      )),
+      (document.getElementById('minutes').innerText = Math.floor(
+        (distance % hour) / minute,
+      )),
+      (document.getElementById('seconds').innerText = Math.floor(
+        (distance % minute) / second,
+      ));
+    }, second);
+}
+</script>
 
 <?php 
 include_once("../includes/footer.php");
