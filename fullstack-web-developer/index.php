@@ -1,8 +1,8 @@
 <?php 
 
-$title = "Skill Safari";
+$title = "100% Job Guarantee Program - Full-Stack Web Developer Program";
 
-$description = "";
+$description = "Full Stack Developer Program of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
 
 $keywords = "";
 
@@ -537,7 +537,8 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                                  class="img-fluid" alt="full stack developer course with placement guarantee" title="" />
+                                  class="img-fluid" alt="full stack developer course with placement guarantee"
+                                  title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">
@@ -595,7 +596,8 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                                  class="img-fluid" alt="full stack developer course with placement guarantee" title="" />
+                                  class="img-fluid" alt="full stack developer course with placement guarantee"
+                                  title="" />
                               </div>
 
                               <div class="col-md-8 text-center text-md-start">

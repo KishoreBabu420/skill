@@ -49,7 +49,7 @@
           <li class="list-group-item"><a class="text-decoration-none"
               href="https://skillsafari.in/vision-and-mission">Our Vision</a></li>
           <li class="list-group-item"><a class="text-decoration-none"
-              href="https://skillsafari.in/terms-and-condition">Terms and Condition</a></li>
+              href="https://skillsafari.in/terms-and-conditions">Terms and Condition</a></li>
           <li class="list-group-item"><a class="text-decoration-none"
               href="https://skillsafari.in/privacy-policy">Privacy Policy</a></li>
         </ul>

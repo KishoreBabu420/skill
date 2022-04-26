@@ -1,8 +1,8 @@
 <?php 
-$title = "Skill Safari";
+$title = "Skill Safari - Privacy Policy";
 $description = "";
 $keywords = "";
-$page = "";
+$page = "0";
 include_once("includes/header.php");
 ?>
 
