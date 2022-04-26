@@ -47,7 +47,7 @@ include_once("../includes/header.php");
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
           <h2 class="trainingform-head py-3 text-center">Request A Callback</h2>
-          <form action="../includes/mailer.php" method="POST">
+          <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
               <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
