@@ -47,78 +47,36 @@ include_once("../includes/header.php");
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
           <h2 class="trainingform-head py-3 text-center">Request A Callback</h2>
-          <form>
+          <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc">
             <div class="mb-3">
-              <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+              <label for="fullName" class="form-label">Full Name*</label>
+              <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="fullName"
                 placeholder="Enter Your Full Name" />
             </div>
 
             <div class="mb-3">
-              <label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                placeholder="Enter Your Phone Number" />
+              <label for="email" class="form-label">Email Address*</label>
+              <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                placeholder="Enter Your Email ID" name="email" />
             </div>
 
             <div class="mb-3">
-              <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                placeholder="Enter Your email ID" />
+              <label for="mobile" class="form-label">Mobile Number*</label>
+              <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                placeholder="Enter Your Mobile Number" name="mobile" />
+            </div>
+            <input type="hidden" name="_webhook"
+              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+            <div class="callbackbtn mt-3">
+              <button class="text-decoration-none" type="submit">Request A Callback</button>
             </div>
           </form>
-
-          <div class="callbackbtn mt-3">
-            <a href="" class="text-decoration-none">Request A Callback</a>
-          </div>
         </div>
         <div class="hero__content px-2 d-block d-md-none">
           <p class="school-para pt-3 ">
             Develop the skills & practical experience which increases the chances of hiring managers to call you with a
             job offer. Crack technical rounds with confidence.
           </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Modal -->
-  <div class="modal fade" id="exampleModal-newtop" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-body">
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
-            <h1 class="trainingform-head pb-3">I'm Interested</h1>
-
-            <form>
-              <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                  placeholder="Enter Your Full Name" />
-              </div>
-
-              <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                  placeholder="Enter Your Phone Number" />
-              </div>
-
-              <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                  placeholder="Enter Your email ID" />
-              </div>
-            </form>
-
-            <div class="callbackbtn mt-3">
-              <a href="" class="text-decoration-none">Request A Callback</a>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -825,31 +783,30 @@ include_once("../includes/header.php");
           <div class="sidebar">
             <div class="training-form bg-white p-md-5 p-3">
               <h2 class="trainingform-head pb-3">Request A Callback</h2>
-              <form>
+              <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc">
                 <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                    placeholder="Enter Your Full Name">
+                  <label for="fullName" class="form-label">Full Name*</label>
+                  <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="fullName"
+                    placeholder="Enter Your Full Name" />
                 </div>
 
                 <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                    placeholder="Enter Your Phone Number">
+                  <label for="email" class="form-label">Email Address*</label>
+                  <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                    placeholder="Enter Your Email ID" name="email" />
                 </div>
 
                 <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                    placeholder="Enter Your email ID">
+                  <label for="mobile" class="form-label">Mobile Number*</label>
+                  <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                    placeholder="Enter Your Mobile Number" name="mobile" />
+                </div>
+                <input type="hidden" name="_webhook"
+                  value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+                <div class="callbackbtn mt-3">
+                  <button class="text-decoration-none" type="submit">Request A Callback</button>
                 </div>
               </form>
-              <div class="callbackbtn mt-3">
-                <a href="" class="text-decoration-none">Request A Callback</a>
-              </div>
             </div>
           </div>
         </div>
