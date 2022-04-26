@@ -1246,12 +1246,13 @@ include_once("../includes/header.php");
         <div class="row align-items-center justify-content-center pt-4">
           <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 p-0">
             <div class="hirebtn-1 text-center">
-              <a href="" class="text-decoration-none">Call Us</a>
+              <a href="tel:+918111099100" class="text-decoration-none">Call Us</a>
             </div>
           </div>
           <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 lastsec">
             <div class="whatsappbtn text-center">
-              <a target="_blank" href="web.whatsapp.com" class="text-white text-decoration-none">Whatsapp Us</a>
+              <a target="_blank" href="https://api.whatsapp.com/send?phone=+918111099100"
+                class="text-white text-decoration-none">Whatsapp Us</a>
             </div>
           </div>
 
