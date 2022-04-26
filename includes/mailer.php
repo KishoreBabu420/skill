@@ -1,158 +1,97 @@
 <?php
 
+if (isset($_POST['submit'])) {
+    $fname = $_POST['name'];
+    $phone = $_POST['phone'];
+    $email = $_POST['email'];
 
-define('ADMIN_MAIL',"kishore@skillsafari.in");
+    $contact_data = array(
+        "fname" => $fname,
+        "email" => $email,
+        "phone" => $phone,
+    );
 
+    $ans_hubspot = new ans_hubspot();
+    $ans_hubspot->contact_create($contact_data);
+    $ans_hubspot->list_assign_contact("2", $contact_data["phone"]);
 
-    contactForm();
-
-   
-function contactForm(){    
-  
-	$name = strip_tags($_POST['name']);
-	$email = strip_tags($_POST['email']);
-	$phone = strip_tags($_POST['phone']);
-    $qmsg = strip_tags($_POST['message']);
-    $page = strip_tags($_POST['page']);
-
-	
-	if($name!="" && $email!="")
-	{
-
-	     
-	        if (!filter_var($email, FILTER_VALIDATE_EMAIL))
-	        {
-	            echo 'Please provide valid email';
-	            return ;
-			}
-			
-			
-			if(!capValidate()){
- 				echo 'capcha validation failed';
-	            return ;
-			}
-			
-			
-			$recipients = ADMIN_MAIL;
-			$subject = "Contact us Enquiry from - ".$name;
-			$message = '<html><body style="margin: 0; padding: 0;" bgcolor="#ffffff">';
-			$headers = 'MIME-Version: 1.0'."\n";
-			$headers .= 'Content-Type: text/html; charset=ISO-8859-1'."\n";
-			$headers .= 'From: Hackient Admin<no-reply@hackient.com>'."\n";
-			$message .= '<div>Team,<br/><br/>You have received new Contact Form Enquiry. Please find the contact details mentioned below.<br/><br/>';
-			$message .= '<table style="width:100%; border:1px solid #E3E3E3; border-collapse:collapse; font-family:arial; font-size:14px; line-height:20px;">';
-			$message .= '<tr>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;"> Name</td>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">'.$name.'</td>
-						</tr>';
-			
-			$message .= '<tr>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">Email</td>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">'.$email.'</td>
-						</tr>';
-				
-			$message .= '<tr>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">Phone</td>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">'.$phone.'</td>
-						</tr>';
-				
-			$message .= '<tr>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">Page</td>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">'.$page.'</td>
-						</tr>';
-			
-			$message .= '<tr>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;"> Message</td>
-							<td style="width:30%; padding:10px;border:1px solid #E3E3E3;">'.$qmsg.'</td>
-						</tr>';
-		
-			$message .='</table><br /><p>Have a great day!</p>';
-			$message .='</div></body></html>';
-
-			if(mail($recipients, $subject, $message, $headers))
-			{
-				$subject = 'Thank you from hackient.com';
-				$to = $email;
-				$message = '<html><body style="margin: 0; padding: 0;" bgcolor="#ffffff">';
-			
-				$headers = 'MIME-Version: 1.0'."\n";
-				$headers .= 'Content-Type: text/html; charset=ISO-8859-1'."\n";
-				$headers .= 'From: Hackient Admin<no-reply@hackient.com>'."\n";
-				$message .= '<div>Dear '.$name.',<br/><br/>Thank you for contacting. We have received your information and will get back to you shortly.<br/><br/>';
-			
-	    		$message .='
-	    		<br />
-	    		<p>Have a great day ahead!</p>';
-	    		$message .='</div></body></html>';
-				if(mail($to, $subject, $message, $headers))
-				{
-    				echo 1;
-    				return ;
-				}
-	        }
-			else
-			{
-				echo "Email Issue";
-				return ;
-			}
-		
-	
-	}
-	else{
-		echo "Please Fill All Mandatory Fields";
-		return ;
-	}
-    
-    
 }
 
+class ans_hubspot {
+    private $hapikey = "e9ce8b63-120a-4ecc-af57-640f0c474f1e";
 
-	function validate_mobile($mobile)
-    {
-        return preg_match('/^[0-9\-]+$/', $mobile);
+    function list_assign_contact($lid, $phone) {
+        (object)$arr = array(
+            "phone" => array(
+                $phone
+            )
+        );
+        $post_json = json_encode($arr);
+        $endpoint = 'https://api.hubapi.com/contacts/v1/lists/' . $lid . '/add?hapikey=' . $this->hapikey;
+        $this->http($endpoint, $post_json);
     }
-    
-    
-	function capValidate(){
 
+    function list_create($list_name)  {
+        $arr = array(
+            "name" => $list_name,
+            "dynamic" => false,
+            "filters" => array(
+                array(
+                    (object)array(
+                        "operator" => "EQ",
+                        "value" => "@hubspot",
+                        "property" => "website",
+                        "type" => "string"
+                    )
+                )
+            )
+        );
+        $post_json = json_encode($arr);
+        $endpoint = 'https://api.hubapi.com/contacts/v1/lists?hapikey=' . $this->hapikey;
+        $this->http($endpoint, $post_json);
+    }
 
-		// Google reCaptcha secret key
-		$secretKey  = "6LfX55EbAAAAAInxpbaceQvhRHFTEwAleYCWmyAd";
+    function contact_create($contact_data) {
+        $arr = array(
+            'properties' => array(
+                array(
+                    'property' => 'phone',
+                    'value' => $contact_data["phone"]
+                ) ,
+                array(
+                    'property' => 'email',
+                    'value' => $contact_data["email"]
+                ) ,
+                array(
+                    'property' => 'firstname',
+                    'value' => $contact_data["fname"]
+                )
 
-		$statusMsg = '';
-	    if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])){
-	        
-	        
-	        
-	        $data = array(
-            'secret' => $secretKey,
-            'response' =>$_POST['g-recaptcha-response']
+            )
         );
 
-        $verify = curl_init();
-        curl_setopt($verify, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
-        curl_setopt($verify, CURLOPT_POST, true);
-        curl_setopt($verify, CURLOPT_POSTFIELDS, http_build_query($data));
-        curl_setopt($verify, CURLOPT_SSL_VERIFYPEER, false);
-        curl_setopt($verify, CURLOPT_RETURNTRANSFER, true);
-        $response = curl_exec($verify);
-        $responseData = json_decode($response);
-		        if($responseData->success){
-		            //Contact form submission code goes here ...
-		  
-		            $statusMsg = 1;
-		        }else{
-		            $statusMsg = 0;
-		        }
-		    }else{
-		        $statusMsg = 0;
-		    }
-	
+        $post_json = json_encode($arr);
+        $endpoint = 'https://api.hubapi.com/contacts/v1/contact?hapikey=' . $this->hapikey;
+        $this->http($endpoint, $post_json);
+    }
 
-		return $statusMsg;
+    function http($endpoint, $post_json) {
 
-	}
+        $ch = @curl_init();
+        @curl_setopt($ch, CURLOPT_POST, true);
+        @curl_setopt($ch, CURLOPT_POSTFIELDS, $post_json);
+        @curl_setopt($ch, CURLOPT_URL, $endpoint);
+        @curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+            'Content-Type: application/json'
+        ));
+        @curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        $response = @curl_exec($ch);
+        $status_code = @curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        $curl_errors = curl_error($ch);
+        @curl_close($ch);
+        return $response . "
+";
 
-
-
-?>
+    }
+}
+ ?>
