@@ -9,13 +9,13 @@ include_once("includes/header.php");
 <section class="top-pagespace"></section>
 <!-- hire banner section started -->
 <section>
-  <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/community_banner_o6fsey.jpg" class="bannersectionimg" alt="Learn & earn community">
+  <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650878552/website/Banner/community_banner_o6fsey.jpg" class="bannersectionimg" alt="Learn & earn community">
 </section>
 <section class="bg-hire">
   <div class="container">
     <div class="row pt-5 pb-md-5 mx-auto">
       <div class="col-md-6 pb-5 d-md-none">
-        <img src="images/ab6.jpg" class="img-fluid" alt="" title="">
+        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg" class="img-fluid" alt="" title="">
       </div>
       <div class="col-md-6 text-start">
         <!-- <h1 class="top-head pt-lg-5">Lorem Ipsum <br> Dolor sit amet</h1> -->
@@ -37,12 +37,12 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-6 pb-5 d-none d-md-block">
-        <img src="images/ab6.jpg" class="img-fluid" alt="" title="">
+        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg" class="img-fluid" alt="" title="">
       </div>
     </div>
     <div class="row  pb-md-5 mx-auto">
       <div class="col-md-6 pb-md-5">
-        <img src="images/ab7.jpg" class="img-fluid" alt="" title="">
+        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882197/website/community%20and%20campus%20ambassador/ab7_eqzmv7.jpg" class="img-fluid" alt="" title="">
       </div>
       <div class="col-md-6 text-start">
         <!-- <h1 class="top-head pt-lg-5 pt-3">Lorem Ipsum <br> Dolor sit amet</h1> -->
@@ -70,7 +70,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row pt-5 mx-auto align-items-center">
       <div class="col-lg-4 col-md-12">
-        <img src="images/discord.jpg" class="img-fluid w-100" alt="" title="">
+        <img Loading = "lazy" src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/discord_i4hriy.jpg" class="img-fluid w-100" alt="" title="">
       </div>
       <div class="col-lg-8 col-md-12">
         <h2 class="top-head pt-4 text-center">Join Now Our Discord Community</h2>
@@ -78,8 +78,8 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="community-iconbox shadow text-center p-3">
-                  <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
+                <div class="stud-trainboxblue shadow text-center">
+                  <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
               <div class="col-md-9 col-sm-9 col-9">
@@ -91,8 +91,8 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="community-iconbox shadow text-center p-3">
-                  <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
+                <div class="stud-trainboxblue shadow text-center">
+                  <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
               <div class="col-md-9 col-sm-9 col-9">
@@ -104,8 +104,8 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="community-iconbox shadow text-center p-3">
-                  <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
+                <div class="stud-trainboxblue shadow text-center">
+                  <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
               <div class="col-md-9 col-sm-9 col-9">
@@ -117,8 +117,8 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="community-iconbox shadow text-center p-3">
-                  <img src="images/c1.png" class="img-fluid w-100" alt="" title="">
+                <div class="stud-trainboxblue shadow text-center">
+                  <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
               <div class="col-md-9 col-sm-9 col-9">
@@ -129,7 +129,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-md-12 text-center mt-4">
             <div class="discordbtn text-center">
-              <a href="community.php" class="text-decoration-none"><img src="images/baba.png" class="img-fluid me-1">
+              <a href="community.php" class="text-decoration-none"><img Loading = "lazy" src="images/baba.png" class="img-fluid me-1">
                 Join Our Discord</a>
             </div>
           </div>
