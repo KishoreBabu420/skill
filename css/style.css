@@ -2540,6 +2540,7 @@ width: unset!important;
 .criteriaboxhead{
   font-weight: 700;
   font-size: 1.2rem;
+  margin-bottom: .2rem;
 }
 .criteria__card {
   background: #fff;
