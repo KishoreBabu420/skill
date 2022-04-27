@@ -11,11 +11,15 @@ $page = 1;
 include_once("../includes/header.php");
 
 ?>
-
+<section class="top-pagespace"></section>
 <!-- top-space -->
-
+<section>
+  <img loading="lazy"
+    src="https://res.cloudinary.com/skill-safari/image/upload/v1651040175/website/Banner/FSD_Banner_1_lerazn.jpg"
+    class="bannersectionimg" alt="Learn & earn community">
+</section>
 <!-- hire banner section started -->
-<section class="bg-hire bg-coursepg position-relative pt-5 mt-5">
+<section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
   <div class="container">
     <div class="row py-md-4 align-items-center">
       <div class="col-lg-6 text-md-start text-center">
@@ -27,15 +31,17 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-9">
             <h1 class="top-head-new pt-3">
-              Alchemyst MERN Stack Developer Course
+              Full Stack Developer Course
             </h1>
           </div>
         </div>
-        <ul class="mx-3">
-          <li class="course-toppara my-1">100% Placement Guarantee</li>
-          <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
-          <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
-        </ul>
+        <p>
+          <ul class="mx-3">
+            <li class="course-toppara my-1">100% Placement Guarantee</li>
+            <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
+            <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
+          </ul>
+        </p>
         <p class="school-para pt-3 d-none d-md-block">
           Develop the skills & practical experience which will increase the chances of hiring managers to calling you
           with
@@ -46,7 +52,7 @@ include_once("../includes/header.php");
       <div class="col-lg-1 d-none d-lg-block"></div>
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
-          <h2 class="trainingform-head py-3 text-center">Request A Callback</h2>
+          <h5 class="trainingform-head py-3 text-center">Request A Callback</h5>
           <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
@@ -125,7 +131,7 @@ include_once("../includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">6 Months Live Cohort</h5>
+          <p class="icontitle-head pt-3">6 Months Live Cohort</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -139,7 +145,7 @@ include_once("../includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Avg. CTC of 5 LPA</h5>
+          <p class="icontitle-head pt-3">Avg. CTC of 5 LPA</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -160,8 +166,8 @@ include_once("../includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Live Interactive Sessions
-          </h5>
+          <p class="icontitle-head pt-3">Live Interactive Sessions
+          </p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -177,7 +183,7 @@ include_once("../includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">1-1 Personal Mentorship</h5>
+          <p class="icontitle-head pt-3">1-1 Personal Mentorship</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -191,7 +197,7 @@ include_once("../includes/header.php");
                 fill="currentColor"></path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Curriculum designed by Industry Experts</h5>
+          <p class="icontitle-head pt-3">Curriculum designed by Industry Experts</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -207,7 +213,7 @@ include_once("../includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Real-World Projects and Code Reviews</h5>
+          <p class="icontitle-head pt-3">Real-World Projects and Code Reviews</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -221,7 +227,7 @@ include_once("../includes/header.php");
               </path>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">Placement readiness training and Mock Interviews</h5>
+          <p class="icontitle-head pt-3">Placement readiness training and Mock Interviews</p>
         </div>
       </div>
 
@@ -233,7 +239,7 @@ include_once("../includes/header.php");
   <div class="container pt-md-5 mx-auto ">
     <div class="row pt-5 px-3 justify-content-center bg-criteria__content">
       <div class="col-md-12 pb-5 text-center">
-        <h2 class="text-center top-head">Minimum Criteria</h2>
+        <h4 class="text-center top-head">Minimum Criteria</h4>
         <p class="school-para text-center">You should meet the following requirements to be eligible for this course.
         </p>
       </div>
@@ -245,7 +251,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h5 class="criteriaboxhead">Qualification</h5>
+            <p class="criteriaboxhead">Qualification</p>
             <p class="criteriaboxpara">Ready To work After Course finishes</p>
           </div>
         </div>
@@ -258,7 +264,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h5 class="criteriaboxhead">ID</h5>
+            <p class="criteriaboxhead">ID</p>
             <p class="criteriaboxpara">Valid PAN Card and Aadhar Card</p>
           </div>
         </div>
@@ -271,7 +277,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h5 class="criteriaboxhead">Hardware</h5>
+            <p class="criteriaboxhead">Hardware</p>
             <p class="criteriaboxpara">A laptop & internet connection</p>
           </div>
         </div>
@@ -284,7 +290,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h5 class="criteriaboxhead">Age</h5>
+            <p class="criteriaboxhead">Age</p>
             <p class="criteriaboxpara">Min. 18 yrs, Max. 28 yrs</p>
           </div>
         </div>
@@ -297,7 +303,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h5 class="criteriaboxhead">Communication Skills</h5>
+            <p class="criteriaboxhead">Communication Skills</p>
             <p class="criteriaboxpara">Basic English - LSRW</p>
           </div>
         </div>
@@ -319,7 +325,7 @@ include_once("../includes/header.php");
           <div class="icon-coursessymbol">
             <i class="fa-solid fa-chalkboard"></i>
           </div>
-          <h5 class="mb-0 icontitle-head pt-3">8+ Phases</h5>
+          <p class="mb-0 icontitle-head pt-3">8+ Phases</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
@@ -327,7 +333,7 @@ include_once("../includes/header.php");
           <div class="icon-coursessymbol">
             <i class="fa-solid fa-chalkboard-user"></i>
           </div>
-          <h5 class="mb-0 icontitle-head pt-3">60+ topics</h5>
+          <p class="mb-0 icontitle-head pt-3">60+ topics</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
@@ -335,7 +341,7 @@ include_once("../includes/header.php");
           <div class="icon-coursessymbol">
             <i class="fas fa-grip-lines"></i>
           </div>
-          <h5 class="mb-0 icontitle-head pt-3">100+ Assignments</h5>
+          <p class="mb-0 icontitle-head pt-3">100+ Assignments</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
@@ -343,7 +349,7 @@ include_once("../includes/header.php");
           <div class="icon-coursessymbol">
             <i class="fa-solid fa-laptop-file"></i>
           </div>
-          <h5 class="mb-0 icontitle-head pt-3">30+ Projects</h5>
+          <p class="mb-0 icontitle-head pt-3">30+ Projects</p>
         </div>
       </div>
 
