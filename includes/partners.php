@@ -6,7 +6,7 @@
         <h4 class="top-head text-purple">Companies that Hired our Students</h4>
       </div>
     </div>
-    <div class="row justify-content-center gy-4 pb-5">
+    <div class="row justify-content-center gy-4 pb-5 partner-carousel">
       <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
@@ -103,6 +103,8 @@
           <!-- </a> -->
         </div>
       </div>
+    </div>
+    <div class="row justify-content-center gy-4 pb-5">
       <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->

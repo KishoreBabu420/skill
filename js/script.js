@@ -153,6 +153,15 @@ $('#owl-recurit').owlCarousel({
   },
 });
 
+$('.partner-carousel').owlCarousel({
+  loop: true,
+  nav: false,
+  dots: false,
+  autoplayTimeout: 8000,
+  autoplay: true,
+  autoplayHoverPause: true,
+});
+
 //Scroll Code
 
 // Hide Header on on scroll down
