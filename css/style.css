@@ -1025,7 +1025,7 @@ body {
   color: #333755;
   font-weight: 600;
 }
-.footerhead{
+.footerhead {
   color: #555;
   font-weight: 300;
   font-size: 18px;
@@ -1045,6 +1045,10 @@ body {
 .bg-footer li a {
   color: #555;
   font-weight: 300;
+  font-size: 18px;
+}
+
+.bg-footer li a h3 {
   font-size: 18px;
 }
 
@@ -2537,10 +2541,10 @@ width: unset!important;
 .bg-criteria__content {
   background: #fef4e5;
 }
-.criteriaboxhead{
+.criteriaboxhead {
   font-weight: 700;
   font-size: 1.2rem;
-  margin-bottom: .2rem;
+  margin-bottom: 0.2rem;
 }
 .criteria__card {
   background: #fff;
