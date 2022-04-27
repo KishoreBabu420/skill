@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row pb-5">
       <div class="col-md-12 text-center pt-md-4">
-        <h2 class="top-head text-purple">Companies that Hired our Students</h2>
+        <h4 class="top-head text-purple">Companies that Hired our Students</h4>
       </div>
     </div>
     <div class="row justify-content-center gy-4 pb-5">

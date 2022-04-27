@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row pt-md-5">
       <div class="col-md-12 text-center pb-md-5">
-        <h1 class="top-head">Hear from Our Students</h1>
+        <h4 class="top-head">Hear from Our Students</h4>
       </div>
       <div class="col-md-12">
         <div id="owl-demo-mob" class="owl-carousel owl-theme">
@@ -27,7 +27,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.7/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Selvakumar</h6>
+                  <p class="studentname pt-3 mb-0">Selvakumar</p>
                   <p class="studentdest pt-1">Phicode, Coimbatore</p>
                 </div>
               </div>
@@ -54,7 +54,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.5/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Krishnakumar P B</h6>
+                  <p class="studentname pt-3 mb-0">Krishnakumar P B</p>
                   <p class="studentdest pt-1"></p>
                 </div>
               </div>
@@ -81,7 +81,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.7/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Aniket Prakashrao Dhage</h6>
+                  <p class="studentname pt-3 mb-0">Aniket Prakashrao Dhage</p>
                   <p class="studentdest pt-1"></p>
                 </div>
               </div>
@@ -109,7 +109,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.5/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Dharshini</h6>
+                  <p class="studentname pt-3 mb-0">Dharshini</p>
                   <p class="studentdest pt-1"></p>
                 </div>
               </div>
@@ -136,7 +136,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.5/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Meenaz Farheen Shaik</h6>
+                  <p class="studentname pt-3 mb-0">Meenaz Farheen Shaik</p>
                   <p class="studentdest pt-1"></p>
                 </div>
               </div>
@@ -164,7 +164,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.5/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Niharika Kiran</h6>
+                  <p class="studentname pt-3 mb-0">Niharika Kiran</p>
                   <p class="studentdest pt-1">TCS, Kochi</p>
                 </div>
               </div>
@@ -193,7 +193,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.5/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Krithi Hemanth</h6>
+                  <p class="studentname pt-3 mb-0">Krithi Hemanth</p>
                   <p class="studentdest pt-1"></p>
                 </div>
               </div>
@@ -222,7 +222,7 @@
                     <span><i class="fas fa-star-half"></i> </span>
                     <span class="rating">4.5/5</span>
                   </div>
-                  <h6 class="studentname pt-3 mb-0">Sumanth Valiveti</h6>
+                  <p class="studentname pt-3 mb-0">Sumanth Valiveti</p>
                   <p class="studentdest pt-1"></p>
                 </div>
               </div>

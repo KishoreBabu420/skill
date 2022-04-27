@@ -56,7 +56,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row pt-4 pb-5">
       <div class="col-md-12 text-center pt-3 pb-3 pb-md-5">
-        <h2 class="top-head text-white">Your success story begins here</h2>
+        <h2 class="top-head text-white">Why should you choose full stack development course from Skill Safari?</h2>
         <p class="top-para text-white">We want to see you succeed, and to achieve your goals, we ensure the best from us
           reaches you while offering:</p>
       </div>
@@ -67,7 +67,7 @@ include_once("includes/header.php");
               alt="full stack developer course with placement" title="">
           </div>
           <div class="col-10 mb-md-3">
-            <h2 class="orange-head">Placement Assurance</h2>
+            <h5 class="orange-head">Placement Assurance</h5>
             <p class="para-top">We want you to become a success story with not just quality <b> education </b> but much
               more. We provide <b>placement assurance</b> to ensure that you do not have to spend too much time
               frantically looking for jobs.</p>
@@ -81,7 +81,7 @@ include_once("includes/header.php");
               alt="full stack developer course fees" title="">
           </div>
           <div class="col-10 mb-md-3">
-            <h2 class="rose-head">Wide Network</h2>
+            <h5 class="rose-head">Wide Network</h5>
             <p class="para-top">We have a wide network of companies across India to ensure that you always have the
               support
               you need to get placed in top product-based companies.</p>
@@ -95,7 +95,7 @@ include_once("includes/header.php");
               alt="full stack developer course online" title="">
           </div>
           <div class="col-10 mb-md-3">
-            <h2 class="blue-head">Mentorship Support</h2>
+            <h5 class="blue-head">Mentorship Support</h5>
             <p class="para-top">We promise you guidance from only the best. Our handpicked team of mentors provides you
               with the perfect direction to excel in your dreams while helping you learn all the tricks of the trade.
             </p>
@@ -110,7 +110,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-10 mb-md-3">
 
-            <h2 class="pink-head">ISA - Income Share Agreement</h2>
+            <h5 class="pink-head">ISA - Income Share Agreement</h5>
             <p class="para-top">The best thing about joining Skill Safari cohorts is paying after placement. We believe
               in outcome-based education and with a part upfront fees.</p>
           </div>
@@ -142,7 +142,7 @@ include_once("includes/header.php");
             <div class="col-lg-10 col-12">
               <div class="row align-items-center">
                 <div class="col-lg-9 col-md-12">
-                  <h2 class="course-tophead">Alchemyst MERN Stack Developer Course</h2>
+                  <h2 class="course-tophead">Full Stack Developer Course</h2>
                   <p class="course-toppara">
                   <ul>
                     <li class="course-toppara">A full-stack developer is someone who can code and handle both the front
@@ -157,7 +157,7 @@ include_once("includes/header.php");
                 </div>
                 <div class="col-lg-3 col-md-12 text-lg-end">
                   <div class="regbtn">
-                    <a href="fullstack-web-developer" class="text-decoration-none">Know More</a>
+                  <button><a href="fullstack-web-developer" class="text-decoration-none">Know More</a></button>
                   </div>
                 </div>
               </div>
@@ -242,7 +242,7 @@ include_once("./includes/testimony.php");
   <div class="container">
     <div class="row pt-md-5 pb-5">
       <div class="col-md-12 text-center pb-5">
-        <h2 class="top-head">Events</h2>
+        <h6 class="top-head">Events</h6>
       </div>
       <div id="owl-events" class="owl-carousel owl-theme">
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
@@ -257,8 +257,8 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 06/05/2022</h6>
-                  <h3 class="event-boxhead pt-3">DSA <br> Workshop</h3>
+                  <p class="event-minisec pt-3">Next Session on 06/05/2022</p>
+                  <h5 class="event-boxhead pt-3">DSA <br> Workshop</h5>
                   <p class="school-para">Anusha G<br>Data Scientist & ML/DL Expert</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
@@ -275,7 +275,7 @@ include_once("./includes/testimony.php");
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
-                  <h6 class="event-avail">320 Students Enrolled</h6>
+                  <p class="event-avail">320 Students Enrolled</p>
                 </div>
               </div>
             </div>
@@ -294,8 +294,8 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 27/04/2022</h6>
-                  <h3 class="event-boxhead pt-3">Build Quiz App <br> Workshop</h3>
+                  <p class="event-minisec pt-3">Next Session on 27/04/2022</p>
+                  <h5 class="event-boxhead pt-3">Build Quiz App <br> Workshop</h5>
                   <p class="school-para">Kishore Kammela<br> Head - Operations, Skill Safari</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
@@ -310,7 +310,7 @@ include_once("./includes/testimony.php");
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
-                  <h6 class="event-avail">120 Students Enrolled</h6>
+                  <p class="event-avail">120 Students Enrolled</p>
                 </div>
               </div>
             </div>
@@ -329,8 +329,8 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 29/04/2022</h6>
-                  <h3 class="event-boxhead pt-3">Industry Trends <br> Workshop</h3>
+                  <p class="event-minisec pt-3">Next Session on 29/04/2022</p>
+                  <h5 class="event-boxhead pt-3">Industry Trends <br> Workshop</h5>
                   <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
@@ -346,7 +346,7 @@ include_once("./includes/testimony.php");
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
-                  <h6 class="event-avail">120 Students Enrolled</h6>
+                  <p class="event-avail">120 Students Enrolled</p>
                 </div>
               </div>
             </div>
@@ -369,7 +369,7 @@ include_once("./includes/partners.php");
   <div class="container">
     <div class="row pt-md-5 pb-md-5 justify-content-center">
       <div class="col-md-12 text-center pt-2 pb-5 mb-2">
-        <h2 class="top-head">Get Trained By <br> Industry Specialist</h2>
+        <h5 class="top-head">Get Trained By <br> Industry Specialist</h5>
       </div>
       <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -377,11 +377,11 @@ include_once("./includes/partners.php");
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
             class="img-fluid" loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"></i></a>
+            <div class="text"><a href="https://www.linkedin.com/in/kskishorebabu/" target="_blank"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
-          <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela</h3>
-          <h6 class="trained-dest pb-3">Skill Safari</h6>
+          <p class="trained-head pt-md-3 pt-3">Kishore Kammela</p>
+          <p class="trained-dest pb-3">Skill Safari</p>
         </div>
         <!-- Modal -->
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -396,9 +396,9 @@ include_once("./includes/partners.php");
                       class="img-fluid" loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
-                    <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill
-                        Safari</span> </h3>
-                    <div><a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"></i></a></div>
+                    <p class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill
+                        Safari</span> </p>
+                    <div><a href="https://www.linkedin.com/in/kskishorebabu/" target="_blank"><i class="fa fa-linkedin"></i></a></div>
 
                   </div>
                   <div class="col-md-12 text-center text-md-start">
@@ -419,11 +419,11 @@ include_once("./includes/partners.php");
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
             class="img-fluid" loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i
+            <div class="text"><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/" target="_blank"><i
                   class="fa fa-linkedin"></i></a></div>
           </div>
-          <h3 class="trained-head pt-md-3 pt-3">Sathish</h3>
-          <h6 class="trained-dest pb-3">Skill Safari</h6>
+          <p class="trained-head pt-md-3 pt-3">Sathish</p>
+          <p class="trained-dest pb-3">Skill Safari</p>
         </div>
         <!-- Modal -->
         <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -438,8 +438,8 @@ include_once("./includes/partners.php");
                       class="img-fluid" loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
-                    <h3 class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill Safari</span> </h3>
-                    <div><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i
+                    <p class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill Safari</span> </p>
+                    <div><a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/" target="_blank"><i
                           class="fa fa-linkedin"></i></a></div>
 
                   </div>
@@ -463,11 +463,11 @@ include_once("./includes/partners.php");
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
             class="img-fluid" loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i
+            <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
                   class="fa fa-linkedin"></i></a></div>
           </div>
-          <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
-          <h6 class="trained-dest pb-3">Skill Safari</h6>
+          <p class="trained-head pt-md-3 pt-3">Kiran Sharma</p>
+          <p class="trained-dest pb-3">Skill Safari</p>
         </div>
         <!-- Modal -->
         <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -482,9 +482,9 @@ include_once("./includes/partners.php");
                       class="img-fluid" loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
-                    <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span>
-                    </h3>
-                    <div><a href="https://www.linkedin.com/in/kiran-sharma-31195487/"><i class="fa fa-linkedin"></i></a>
+                    <p class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span>
+                    </p>
+                    <div><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </div>
 
                   </div>
@@ -509,10 +509,10 @@ include_once("./includes/partners.php");
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
             class="img-fluid" loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+            <div class="text"><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i class="fa fa-linkedin"></i></a></div>
           </div>
-          <h3 class="trained-head pt-md-3 pt-3">Dilip</h3>
-          <h6 class="trained-dest pb-3">Paypal</h6>
+          <p class="trained-head pt-md-3 pt-3">Dilip</p>
+          <p class="trained-dest pb-3">Paypal</p>
         </div>
         <!-- Modal -->
         <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -527,8 +527,8 @@ include_once("./includes/partners.php");
                       class="img-fluid" loading="lazy" alt="full stack trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
-                    <h3 class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span> </h3>
-                    <div><a href="https://www.linkedin.com/signup"><i class="fa fa-linkedin"></i></a></div>
+                    <p class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span> </p>
+                    <div><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i class="fa fa-linkedin"></i></a></div>
 
                   </div>
                   <div class="col-md-12 text-center text-md-start">
@@ -555,17 +555,17 @@ include_once("./includes/partners.php");
         <img loading="lazy" src="images/discord.jpg" class="img-fluid w-100" alt="full stack community" title="">
       </div>
       <div class="col-lg-8 col-md-12 p-4">
-        <h2 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h2>
+        <h5 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h5>
         <div class="row pt-md-5 align-items-center">
-          Part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
+          <p>Part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
           to keep your mind busy. We also have you covered for the latest news in technology along with getting you
           new insights about what companies and recruiters are looking for in their candidates. So what are you
-          waiting for? Join the adventure now!
+          waiting for? Join the adventure now!</p>
           <div class="col-md-12 text-center  mt-4">
             <div class="discordbtn text-center ">
-              <a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
+             <button><a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
                   loading="lazy" class="img-fluid me-1">
-                Join Our Discord</a>
+                Join Our Discord</a></button> 
             </div>
           </div>
         </div>
@@ -588,40 +588,40 @@ include_once("./includes/partners.php");
   <div class="container">
     <div class="row pt-md-5 mt-5 align-items-center">
       <div class="col-md-4 text-center text-md-start">
-        <h2 class="top-head">We Let<br>The Numbers<br> Speak For Us</h2>
+        <h6 class="top-head">We Let<br>The Numbers<br> Speak For Us</h6>
       </div>
       <div class="col-md-8 pt-5 pt-md-0">
         <div class="row">
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="orange-text-num">5 million+ lines</h3>
+            <p class="orange-text-num">5 million+ lines</p>
             <p class="school-para">Our students and team have collectively written over 5 million lines of code. That is
               more than enough to fill our webpage 100 times with content.</p>
           </div>
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="blue-text-num">600+ projects</h3>
+            <p class="blue-text-num">600+ projects</p>
             <p class="school-para">Our students have over 600 projects to their name. An indication of their skill and
               talent.</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="darkblue-text-num">10000+ hours</h3>
+            <p class="darkblue-text-num">10000+ hours</p>
             <p class="school-para">Our mentors love teaching, and an attestation to that is over 10000 hours of
               experience in teaching. They spend their time crafting the students to create a better future.</p>
           </div>
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="pink-text-num">4.6 out of 5 rating</h3>
+            <p class="pink-text-num">4.6 out of 5 rating</p>
             <p class="school-para">How have our students rated us? 4.6 out 5, that is how good we are according to our
               students.</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="darkblue-text-num">400+ students</h3>
+            <p class="darkblue-text-num">400+ students</p>
             <p class="school-para">We train over 400 students every day and sculpt future leaders. </p>
           </div>
           <div class="col-md-6 col-6 mb-3">
-            <h3 class="pink-text-num">14000+ students</h3>
+            <p class="pink-text-num">14000+ students</p>
             <p class="school-para">Our mentors have trained over 14000 students, which is a testament to their skills.
             </p>
           </div>

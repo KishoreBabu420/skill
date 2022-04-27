@@ -1025,7 +1025,11 @@ body {
   color: #333755;
   font-weight: 600;
 }
-
+.footerhead{
+  color: #555;
+  font-weight: 300;
+  font-size: 18px;
+}
 .footer-linkheads {
   font-size: 18px;
 }

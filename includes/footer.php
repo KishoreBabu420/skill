@@ -22,7 +22,7 @@
         <h6 class="footer-linkheads">Courses</h6>
         <ul class="list-group">
           <li class="list-group-item"><a class="text-decoration-none"
-              href="https://www.skillsafari.in/fullstack-web-developer/">Full Stack Development</a>
+              href="https://www.skillsafari.in/fullstack-web-developer/"><h3 class="footerhead">Full Stack Development course</h3></a>
           </li>
         </ul>
       </div>
