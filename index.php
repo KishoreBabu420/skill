@@ -257,7 +257,7 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 15/04/2022</h6>
+                  <h6 class="event-minisec pt-3">Next Session on 06/05/2022</h6>
                   <h3 class="event-boxhead pt-3">DSA <br> Workshop</h3>
                   <p class="school-para">Anusha G<br>Data Scientist & ML/DL Expert</p>
                 </div>
@@ -294,7 +294,7 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 16/04/2022</h6>
+                  <h6 class="event-minisec pt-3">Next Session on 27/04/2022</h6>
                   <h3 class="event-boxhead pt-3">Build Quiz App <br> Workshop</h3>
                   <p class="school-para">Kishore Kammela<br> Head - Operations, Skill Safari</p>
                 </div>
@@ -329,7 +329,7 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <h6 class="event-minisec pt-3">Next Session on 21/04/2022</h6>
+                  <h6 class="event-minisec pt-3">Next Session on 29/04/2022</h6>
                   <h3 class="event-boxhead pt-3">Industry Trends <br> Workshop</h3>
                   <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
                 </div>
