@@ -152,6 +152,32 @@ $('#owl-recurit').owlCarousel({
     },
   },
 });
+
+$('#partner-carouselOne', '#partner-carouselTwo').owlCarousel({
+  loop: true,
+  nav: true,
+  dots: true,
+  autoplayTimeout: 8000,
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1,
+    },
+    576: {
+      items: 1,
+    },
+    768: {
+      items: 1,
+    },
+    992: {
+      items: 1,
+    },
+    1030: {
+      items: 1,
+    },
+  },
+});
 //Scroll Code
 
 // Hide Header on on scroll down

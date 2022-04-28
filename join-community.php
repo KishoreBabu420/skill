@@ -91,7 +91,7 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="stud-trainboxblue shadow text-center">
+                <div class="stud-trainboxblue shadow text-center p-2">
                   <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
@@ -104,7 +104,7 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="stud-trainboxblue shadow text-center">
+                <div class="stud-trainboxblue shadow text-center p-2">
                   <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
@@ -117,7 +117,7 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="stud-trainboxblue shadow text-center">
+                <div class="stud-trainboxblue shadow text-center p-2">
                   <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>
@@ -130,7 +130,7 @@ include_once("includes/header.php");
           <div class="col-md-6 pb-md-5">
             <div class="row align-items-center">
               <div class="col-md-3 col-sm-3 col-3 mb-3 mb-md-0">
-                <div class="stud-trainboxblue shadow text-center">
+                <div class="stud-trainboxblue shadow text-center p-2">
                   <i class="fa-solid fa-meteor"></i>
                 </div>
               </div>

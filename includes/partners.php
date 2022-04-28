@@ -6,8 +6,8 @@
         <h4 class="top-head text-purple">Companies that Hired our Students</h4>
       </div>
     </div>
-    <div class="row justify-content-center gy-4 pb-5">
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+    <div class="owl-carousel pb-5" id="partner-carouselOne">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
@@ -15,7 +15,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
@@ -23,7 +23,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
@@ -31,7 +31,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
@@ -39,7 +39,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
@@ -47,7 +47,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/7_tece5d.png"
@@ -55,7 +55,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/4_pxnskh.png"
@@ -63,7 +63,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
@@ -71,7 +71,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
@@ -79,7 +79,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/8_jdkvvy.png"
@@ -87,7 +87,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
@@ -95,7 +95,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
@@ -104,8 +104,8 @@
         </div>
       </div>
     </div>
-    <div class="row justify-content-center gy-4 pb-5">
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+    <div class="owl-carousel pb-5" id="partner-carouselTwo">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
@@ -113,7 +113,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/14_iv1jvq.png"
@@ -121,7 +121,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/18_nfy93y.png"
@@ -129,7 +129,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/20_gqwkc9.png"
@@ -137,7 +137,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
@@ -145,7 +145,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/23_alrqmc.png"
@@ -153,7 +153,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
@@ -161,7 +161,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/17_dncxxc.png"
@@ -169,7 +169,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/22_o2lzul.png"
@@ -177,7 +177,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/1_k6vqne.png"
@@ -185,7 +185,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/25_ezgyed.png"
@@ -193,7 +193,7 @@
           <!-- </a> -->
         </div>
       </div>
-      <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xxl-2 pb-md-0 text-center">
+      <div class=" text-center">
         <div class="partner__logo-container">
           <!-- <a href="#"> -->
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/6_jdhues.png"
