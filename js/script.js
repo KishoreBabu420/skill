@@ -179,7 +179,7 @@ $('#partner-carouselOne').owlCarousel({
   },
 });
 
-$('#partner-carouselOne').owlCarousel({
+$('#partner-carouselTwo').owlCarousel({
   loop: true,
   nav: true,
   dots: true,
