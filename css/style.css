@@ -1051,10 +1051,6 @@ body {
   font-size: 18px;
 }
 
-.bg-footer li a h3 {
-  font-size: 18px;
-}
-
 .bg-footer li a:hover,
 .socailicon i:hover {
   color: #fb9600;

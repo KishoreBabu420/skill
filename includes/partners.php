@@ -104,7 +104,7 @@
         </div>
       </div>
     </div>
-    <div class="owl-carousel pb-2" id="partner-carouselTwo">
+    <div class="owl-carousel" id="partner-carouselTwo">
       <div class=" text-center">
         <div class="partner__logo-container p-2">
           <!-- <a href="#"> -->

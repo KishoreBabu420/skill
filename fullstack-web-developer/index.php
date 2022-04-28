@@ -315,6 +315,8 @@ include_once("../includes/header.php");
       <div class="col-md-12 pb-5">
         <h2 class="text-center top-head">MERN Stack Web Developer Bootcamp</h2>
       </div>
+    </div>
+    <div class="row">
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
         <div class="course-boxes-icon text-center m-auto row">
           <div class="icon-coursessymbol">
@@ -347,49 +349,158 @@ include_once("../includes/header.php");
           <p class="mb-0 icontitle-head pt-3">30+ Projects</p>
         </div>
       </div>
-
-      <div class="row pt-3">
-        <div class="col-12 col-md-6">
-          <div class="row m-2">
-            <h4>Week 1-5</h4>
-            <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development using
-              HTML, CSS. Version Control using Git & GitHub. </p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6">
-          <div class="row m-2">
-            <h4>Week 6-10</h4>
-            <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and Algorithms,
-              JavaScript on the browser.</p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6">
-          <div class="row m-2">
-            <h4>Week 11-15</h4>
-            <p>Advanced JavaScript, Working with DOM API & LocalStorage, Introduction to React and React Ecosystem, UI
-              Libraries, Deployment & Unit Testing.</p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6">
-          <div class="row m-2">
-            <h4>Week 16-20</h4>
-            <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
-              Passport.js. </p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6">
-          <div class="row m-2">
-            <h4>Week 21-24</h4>
-            <p>Profile building, Mock Interviews and profiles will be sent to partnered companies.</p>
-          </div>
+    </div>
+    <div class="row pt-3">
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <h4>Week 1-5</h4>
+          <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development using
+            HTML, CSS. Version Control using Git & GitHub. </p>
         </div>
       </div>
-      <div class="col-md-6 pt-5 pb-5">
-        <div class="callbackbtn">
-          <a href="" class="text-decoration-none">Download Curriculum</a>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <h4>Week 6-10</h4>
+          <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and Algorithms,
+            JavaScript on the browser.</p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <h4>Week 11-15</h4>
+          <p>Advanced JavaScript, Working with DOM API & LocalStorage, Introduction to React and React Ecosystem, UI
+            Libraries, Deployment & Unit Testing.</p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <h4>Week 16-20</h4>
+          <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
+            Passport.js. </p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <h4>Week 21-24</h4>
+          <p>Profile building, Mock Interviews and profiles will be sent to partnered companies.</p>
         </div>
       </div>
     </div>
+    <div class="tech-slider row pt-3">
+      <div class="owl-carousel" id="tech-carousel">
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Python"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Git"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/git_srlcgb.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="GitHub"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/github_zkisle.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="html"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/html_orrq6q.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="css"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/css_knu9hc.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="JavaScript"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/js_pueijt.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="BootStrap 5"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/bootstrap_rvxy3u.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="React Js"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_s2rpnh.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="React Router"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_router_odgjdw.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Redux"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/redux_y5zdgw.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Styled Components"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/style_qiwmnz.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="FireBase"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/firebase_ki5deh.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Node Js"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/node_z0wrmk.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Express Js"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/express_zphtmd.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="MongoDb"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/mongo_oqcpiv.png"
+              loading="lazy" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 pt-5 pb-5 mx-auto">
+      <div class="callbackbtn">
+        <a href="" class="text-decoration-none">Download Curriculum</a>
+      </div>
+    </div>
+  </div>
   </div>
 </section>
 <!-- perpare section ended -->
