@@ -136,7 +136,7 @@ body {
   font-weight: 600;
 }
 
-.discordbtn a {
+.discordbtn button {
   display: inline-block;
   border: none;
   text-align: center;
