@@ -157,7 +157,7 @@ include_once("includes/header.php");
                 </div>
                 <div class="col-lg-3 col-md-12 text-lg-end">
                   <div class="regbtn">
-                  <button><a href="fullstack-web-developer" class="text-decoration-none">Know More</a></button>
+                    <a href="fullstack-web-developer" class="text-decoration-none">Know More</a>
                   </div>
                 </div>
               </div>
@@ -377,7 +377,8 @@ include_once("./includes/partners.php");
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
             class="img-fluid" loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/kskishorebabu/" target="_blank"><i class="fa fa-linkedin"></i></a>
+            <div class="text"><a href="https://www.linkedin.com/in/kskishorebabu/" target="_blank"><i
+                  class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <p class="trained-head pt-md-3 pt-3">Kishore Kammela</p>
@@ -398,7 +399,8 @@ include_once("./includes/partners.php");
                   <div class="col-md-8 text-center text-md-start">
                     <p class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill
                         Safari</span> </p>
-                    <div><a href="https://www.linkedin.com/in/kskishorebabu/" target="_blank"><i class="fa fa-linkedin"></i></a></div>
+                    <div><a href="https://www.linkedin.com/in/kskishorebabu/" target="_blank"><i
+                          class="fa fa-linkedin"></i></a></div>
 
                   </div>
                   <div class="col-md-12 text-center text-md-start">
@@ -484,7 +486,8 @@ include_once("./includes/partners.php");
                   <div class="col-md-8 text-center text-md-start">
                     <p class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span>
                     </p>
-                    <div><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    <div><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
+                          class="fa fa-linkedin"></i></a>
                     </div>
 
                   </div>
@@ -509,7 +512,8 @@ include_once("./includes/partners.php");
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
             class="img-fluid" loading="lazy" alt="full stack trainer" title="">
           <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i class="fa fa-linkedin"></i></a></div>
+            <div class="text"><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i
+                  class="fa fa-linkedin"></i></a></div>
           </div>
           <p class="trained-head pt-md-3 pt-3">Dilip</p>
           <p class="trained-dest pb-3">Paypal</p>
@@ -528,7 +532,8 @@ include_once("./includes/partners.php");
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <p class="trained-head pt-md-3 pt-3">Dilip - <span class="trained-dest">Paypal</span> </p>
-                    <div><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i class="fa fa-linkedin"></i></a></div>
+                    <div><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i
+                          class="fa fa-linkedin"></i></a></div>
 
                   </div>
                   <div class="col-md-12 text-center text-md-start">
@@ -558,14 +563,14 @@ include_once("./includes/partners.php");
         <h5 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h5>
         <div class="row pt-md-5 align-items-center">
           <p>Part of the hundreds of activities we have for you. From giveaways to coding challenges, we have everything
-          to keep your mind busy. We also have you covered for the latest news in technology along with getting you
-          new insights about what companies and recruiters are looking for in their candidates. So what are you
-          waiting for? Join the adventure now!</p>
+            to keep your mind busy. We also have you covered for the latest news in technology along with getting you
+            new insights about what companies and recruiters are looking for in their candidates. So what are you
+            waiting for? Join the adventure now!</p>
           <div class="col-md-12 text-center  mt-4">
             <div class="discordbtn text-center ">
-             <button><a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
+              <a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
                   loading="lazy" class="img-fluid me-1">
-                Join Our Discord</a></button> 
+                Join Our Discord</a>
             </div>
           </div>
         </div>

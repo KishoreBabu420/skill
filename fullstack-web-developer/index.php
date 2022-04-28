@@ -13,11 +13,6 @@ include_once("../includes/header.php");
 ?>
 <section class="top-pagespace"></section>
 <!-- top-space -->
-<section>
-  <img loading="lazy"
-    src="https://res.cloudinary.com/skill-safari/image/upload/v1651040175/website/Banner/FSD_Banner_1_lerazn.jpg"
-    class="bannersectionimg" alt="Learn & earn community">
-</section>
 <!-- hire banner section started -->
 <section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
   <div class="container">
@@ -36,11 +31,11 @@ include_once("../includes/header.php");
           </div>
         </div>
         <p>
-          <ul class="mx-3">
-            <li class="course-toppara my-1">100% Placement Guarantee</li>
-            <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
-            <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
-          </ul>
+        <ul class="mx-3">
+          <li class="course-toppara my-1">100% Placement Guarantee</li>
+          <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
+          <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
+        </ul>
         </p>
         <p class="school-para pt-3 d-none d-md-block">
           Develop the skills & practical experience which will increase the chances of hiring managers to calling you
