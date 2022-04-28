@@ -387,9 +387,11 @@ include_once("../includes/header.php");
           class="img-fluid" alt="certificate" title="">
       </div>
     </div>
-    <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
-    <div class="regbtn">
-      <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Apply Now</a>
+    <div class="row text-center">
+      <p class="school-para text-center pt-2 pb-3">It this excites you? Register Now</p>
+      <div class="regbtn">
+        <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Register Now</a>
+      </div>
     </div>
   </div>
 </section>
