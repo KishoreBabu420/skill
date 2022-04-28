@@ -22,7 +22,7 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-7 pb-5 b-img">
-        <img src="images/laptop.jpg" class="img-fluid w-100" alt="" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/laptop_cpzera.jpg" class="img-fluid w-100" alt="about us" title="">
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@ include_once("includes/header.php");
     <div class="row pt-5 pb-5 align-items-center">
       <div class="col-md-3 text-center text-md-start">
         <h2 class="top-head pt-4 pt-lg-0">Our mission is to </h2>
-        <img src="images/targetarrow.png" class="img-fluid d-none d-md-block" alt="" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136607/website/aboutus/targetarrow_g9i8ob.png" class="img-fluid d-none d-md-block" alt="about us image" title="">
       </div>
       <div class="col-md-9 pt-4 pt-md-0">
         <div class="row">
@@ -109,7 +109,7 @@ include_once("includes/header.php");
         <div class="d-block d-md-none">
           <div class="timeline-events mt-5 mb-3">
             <div class="img-wra">
-              <img src="images/cir1.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir1_uhtdxh.png" Loading = "lazy" class="img-fluid" alt="roadmap start" title="">
 
             </div>
             <div class="bg-white shadow mb-3 p-4 rounded">
@@ -125,7 +125,7 @@ include_once("includes/header.php");
           </div>
           <div class="timeline-events mt-5 mb-3">
             <div class="img-wra">
-              <img src="images/cir2.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir2_izrhzb.png" Loading = "lazy" class="img-fluid" alt="roadmap" title="">
 
             </div>
             <div class="bg-white shadow mb-3 p-4 rounded">
@@ -140,7 +140,7 @@ include_once("includes/header.php");
           </div>
           <div class="timeline-events mt-5 mb-3">
             <div class="img-wra">
-              <img src="images/cir3.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir3_prcis0.png" Loading = "lazy" class="img-fluid" alt="roadmap 3" title="">
 
             </div>
             <div class="bg-white shadow mb-3 p-4 rounded">
@@ -158,7 +158,7 @@ include_once("includes/header.php");
           </div>
           <div class="timeline-events mt-5 mb-3">
             <div class="img-wra">
-              <img src="images/cir4.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir4_iazqjk.png" Loading = "lazy" class="img-fluid" alt="roadmap end" title="">
 
             </div>
             <div class="bg-white shadow mb-3 p-4 rounded">
@@ -184,11 +184,11 @@ include_once("includes/header.php");
           <div class="row align-items-center how-it-works d-flex mt-5 position-relative">
             <div
               class="col-3 text-center bottom d-inline-flex d-flex align-self-stretch justify-content-center align-items-center">
-              <img src="images/cir1.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir1_uhtdxh.png" Loading = "lazy" class="img-fluid" alt="roadmap start" title="">
             </div>
             <div class="col d-flex align-self-stretch">
               <!-- <div>
-                            <img src="images/cir1.png" class="img-fluid" alt="" title=""> -->
+                            <img src="images/cir1.png" Loading = "lazy" class="img-fluid" alt="" title=""> -->
               <div class="bg-white shadow mb-3 p-4 rounded">
                 <p class="school-para text-start">
                   A group of three sharp-witted land suited individuals endeavoured on a journey to bring change and
@@ -237,7 +237,7 @@ include_once("includes/header.php");
               </div>
             </div>
             <div class="col-3 text-center full d-inline-flex justify-content-center align-items-center">
-              <img src="images/cir2.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir2_izrhzb.png" Loading = "lazy" class="img-fluid" alt="full stack road map" title="">
             </div>
             <!--path between 2-3-->
             <div class="row timeline position-absolute">
@@ -256,7 +256,7 @@ include_once("includes/header.php");
           <!--third section-->
           <div class="row align-items-center how-it-works d-flex position-relative mt-5">
             <div class="col-3 text-center top d-inline-flex justify-content-center align-items-center">
-              <img src="images/cir3.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir3_prcis0.png" Loading = "lazy" class="img-fluid" alt="skill safari roadmap" title="">
             </div>
             <div class="col d-flex align-self-stretch mt-5 pt-3">
               <div class="bg-white shadow mb-3 p-4 rounded">
@@ -315,7 +315,7 @@ include_once("includes/header.php");
               </div>
             </div>
             <div class="col-3 text-center full d-inline-flex justify-content-center align-items-center">
-              <img src="images/cir4.png" class="img-fluid" alt="" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir4_iazqjk.png" Loading = "lazy" class="img-fluid" alt="roadmap of skillsafari" title="">
             </div>
           </div>
         </div>
@@ -338,23 +338,23 @@ include_once("includes/header.php");
         </h4>
         <div class="row pt-5">
           <div class="col-md-4 mb-md-5 mb-2">
-            <img src="images/smilie1.png" class="img-fluid" alt="" title="">
+            <img src="images/smilie1.png" Loading = "lazy" class="img-fluid" alt="" title="">
             <p class="school-para pe-md-4 text-white pt-2">Droning lectures that No one motivates lull you to sleep</p>
           </div>
           <div class="col-md-4 mb-md-5 mb-2">
-            <img src="images/smilie2.png" class="img-fluid" alt="" title="">
+            <img src="images/smilie2.png" Loading = "lazy" class="img-fluid" alt="" title="">
             <p class="school-para pe-md-4 text-white pt-2">No one motivates you to learn</p>
           </div>
           <div class="col-md-4 mb-md-5 mb-2">
-            <img src="images/smilie3.png" class="img-fluid" alt="" title="">
+            <img src="images/smilie3.png" Loading = "lazy" class="img-fluid" alt="" title="">
             <p class="school-para pe-md-4 text-white pt-2">You can find what you are learning online for free </p>
           </div>
           <div class="col-md-4 mb-md-0 mb-2">
-            <img src="images/smilie4.png" class="img-fluid" alt="" title="">
+            <img src="images/smilie4.png" Loading = "lazy" class="img-fluid" alt="" title="">
             <p class="school-para pe-md-4 text-white pt-2">Content that is so outdated,its not even relevant today</p>
           </div>
           <div class="col-md-4 mb-md-0 mb-2">
-            <img src="images/smilie5.png" class="img-fluid" alt="" title="">
+            <img src="images/smilie5.png" Loading = "lazy" class="img-fluid" alt="" title="">
             <p class="school-para pe-md-4 text-white pt-2">You get no chance to develop alumni or industry network </p>
           </div>
         </div>
@@ -363,7 +363,7 @@ include_once("includes/header.php");
     <div class="row pt-md-5 pb-5 align-items-center">
       <div class="col-md-5">
         <h2 class="top-head text-white pt-lg-0 mb-0">So, here's what we offer </h2>
-        <div class="text-center d-none d-md-block"><img src="images/pliline1.png" class="img-fluid text-end"></div>
+        <div class="text-center d-none d-md-block"><img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136948/website/aboutus/pliline1_thandd.png" class="img-fluid text-end"></div>
       </div>
       <div class="col-md-7 pt-4 pt-md-0">
         <h4 style="color:#fbbf40;">Quality content</h4>
@@ -402,7 +402,7 @@ include_once("includes/header.php");
       <div class="col-md-4 d-flex align-self-stretch mb-5">
         <div class="blueborder p-4">
           <div class="text-center pb-4">
-            <img src="images/cp1.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img src="images/cp1.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <h4 class="text-center">Collaboration </h4>
           <p class="school-para pt-3">
@@ -414,7 +414,7 @@ include_once("includes/header.php");
       <div class="col-md-4 d-flex align-self-stretch mb-5">
         <div class="blueborder p-4">
           <div class="text-center pb-4">
-            <img src="images/cp2.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img src="images/cp2.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <h4 class="text-center">Real-time </h4>
           <p class="school-para pt-3">
@@ -426,7 +426,7 @@ include_once("includes/header.php");
       <div class="col-md-4 d-flex align-self-stretch mb-5">
         <div class="blueborder p-4">
           <div class="text-center pb-4">
-            <img src="images/cp3.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img src="images/cp3.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <h4 class="text-center">Goal-based </h4>
           <p class="school-para pt-3">
@@ -438,7 +438,7 @@ include_once("includes/header.php");
       <div class="col-md-4 d-flex align-self-stretch mb-5">
         <div class="blueborder p-4">
           <div class="text-center pb-4">
-            <img src="images/cp4.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img src="images/cp4.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <h4 class="text-center">Accountability </h4>
           <p class="school-para pt-3">
@@ -450,7 +450,7 @@ include_once("includes/header.php");
       <div class="col-md-4 d-flex align-self-stretch mb-5">
         <div class="blueborder p-4">
           <div class="text-center pb-4">
-            <img src="images/cp5.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img src="images/cp5.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <h4 class="text-center">Evaluation </h4>
           <p class="school-para pt-3">
@@ -462,7 +462,7 @@ include_once("includes/header.php");
       <div class="col-md-4 d-flex align-self-stretch mb-5">
         <div class="blueborder p-4">
           <div class="text-center pb-4">
-            <img src="images/cp6.png" class="img-fluid" style="width: 80px;height: 80px;">
+            <img src="images/cp6.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
           <h4 class="text-center">Networking </h4>
           <p class="school-para pt-3">

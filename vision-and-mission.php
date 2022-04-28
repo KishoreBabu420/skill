@@ -23,7 +23,7 @@ include_once("includes/header.php");
           workshops Mr students and working-class people. </p>
       </div>
       <div class="col-md-6 pb-5 b-img">
-        <img src="images/a-new.jpg" class="img-fluid w-100" alt="" title="" style="background: #1c2042;">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651137353/website/aboutus/team-work_nza0u2.jpg" Loading = "lazy" class="img-fluid w-100" alt="vision mission" title="">
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@ include_once("includes/header.php");
     <div class="row mb-5">
       <div class="col-md-4 d-flex align-self-stretch">
         <div class="vm-border p-4">
-          <img src="images/eye.png" class="img-fluid" alt="" title="">
+          <img src="images/eye.png" Loading = "lazy" class="img-fluid" alt="" title="">
           <h1 class="top-head pt-3">Vision</h1>
           <p class="school-para pt-3">To build a large gig economy by providing world-class training to technology
             aspirants and build a learn and earn community with Skill Safari. </p>
@@ -45,7 +45,7 @@ include_once("includes/header.php");
       </div>
       <div class="col-md-8 d-flex align-self-stretch mt-4 mt-md-0">
         <div class="vm-border p-4">
-          <img src="images/target.png" class="img-fluid" alt="" title="">
+          <img src="images/target.png" Loading = "lazy" class="img-fluid" alt="" title="">
           <h1 class="top-head pt-3">Mission</h1>
           <ul class=" pt-3">
             <li class="school-para pb-2">
