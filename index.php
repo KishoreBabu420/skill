@@ -67,7 +67,7 @@ include_once("includes/header.php");
               alt="full stack developer course with placement" title="">
           </div>
           <div class="col-10 mb-md-3">
-            <h5 class="orange-head">Placement Assurance</h5>
+            <h5 class="orange-head heading5">Placement Assurance</h5>
             <p class="para-top">We want you to become a success story with not just quality <b> education </b> but much
               more. We provide <b>placement assurance</b> to ensure that you do not have to spend too much time
               frantically looking for jobs.</p>
@@ -81,7 +81,7 @@ include_once("includes/header.php");
               alt="full stack developer course fees" title="">
           </div>
           <div class="col-10 mb-md-3">
-            <h5 class="rose-head">Wide Network</h5>
+            <h5 class="rose-head heading5">Wide Network</h5>
             <p class="para-top">We have a wide network of companies across India to ensure that you always have the
               support
               you need to get placed in top product-based companies.</p>
@@ -95,7 +95,7 @@ include_once("includes/header.php");
               alt="full stack developer course online" title="">
           </div>
           <div class="col-10 mb-md-3">
-            <h5 class="blue-head">Mentorship Support</h5>
+            <h5 class="blue-head heading5">Mentorship Support</h5>
             <p class="para-top">We promise you guidance from only the best. Our handpicked team of mentors provides you
               with the perfect direction to excel in your dreams while helping you learn all the tricks of the trade.
             </p>
@@ -110,7 +110,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-10 mb-md-3">
 
-            <h5 class="pink-head">ISA - Income Share Agreement</h5>
+            <h5 class="pink-head heading5">ISA - Income Share Agreement</h5>
             <p class="para-top">The best thing about joining Skill Safari cohorts is paying after placement. We believe
               in outcome-based education and with a part upfront fees.</p>
           </div>

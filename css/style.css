@@ -136,7 +136,7 @@ body {
   font-weight: 600;
 }
 
-.discordbtn a {
+.discordbtn button {
   display: inline-block;
   border: none;
   text-align: center;
@@ -151,7 +151,7 @@ body {
   font-weight: 600;
 }
 
-.discordbtn a:hover {
+.discordbtn button:hover {
   color: #fff;
   border-radius: 50px;
   transition: 0.5s all ease-in-out;
@@ -269,6 +269,9 @@ body {
   font-size: 35px !important;
 }
 
+.heading5{
+  font-size: 2rem;
+}
 .orange-head {
   color: #fb9a34;
 }
