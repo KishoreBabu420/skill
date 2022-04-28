@@ -1033,6 +1033,9 @@ body {
   font-weight: 300;
   font-size: 18px;
 }
+.footerhead:hover {
+  color: #fb9600;
+}
 .footer-linkheads {
   font-size: 18px;
 }

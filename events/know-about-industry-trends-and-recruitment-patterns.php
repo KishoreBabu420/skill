@@ -370,13 +370,16 @@ include_once("../includes/header.php");
           class="img-fluid" alt="" title="">
       </div>
     </div>
+    <div class="regbtn">
+      <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Apply Now</a>
+    </div>
   </div>
 </section>
 
 <!-- faq section started -->
 <section class="bg-faq position-relative" id="faq">
   <div class="container pt-5">
-    <div classs="row pt-5">
+    <div class="row pt-5">
       <div class="col-md-12 pt-md-5">
         <h1 class="top-head text-center pb-4">FAQ</h1>
 

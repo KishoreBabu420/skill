@@ -261,11 +261,11 @@ include_once("./includes/partners.php");
   <div class="container">
     <div class="row  pt-5 pb-5">
       <div class="col-lg-12 text-center">
-        <h2 class="text-white top-head">Still Got Questions?</h2>
+        <h2 class="text-white top-head">Want to hire from us?</h2>
 
         <p class="para-top text-white text-center">
-          Become a job-ready Full Stack Web Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
-          how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
+          Get in touch with us to become a part of the aforementioned companies that hired from us. Hire our students at
+          no cost.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
           <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 p-0">

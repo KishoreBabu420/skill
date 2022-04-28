@@ -933,7 +933,7 @@ include_once("../includes/header.php");
 
 <section class="bg-faq position-relative">
   <div class="container pt-3 pt-md-5">
-    <div classs="row pt-md-5">
+    <div class="row pt-md-5">
       <div class="col-md-12 pt-md-5">
         <h1 class="top-head text-center pb-4 pt-4 pt-md-0">FAQ</h1>
         <div class="accordion" id="accordionExample">
