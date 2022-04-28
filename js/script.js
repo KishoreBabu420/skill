@@ -155,8 +155,8 @@ $('#owl-recurit').owlCarousel({
 
 $('#partner-carouselOne').owlCarousel({
   loop: true,
-  nav: true,
-  dots: true,
+  nav: false,
+  dots: false,
   autoplayTimeout: 8000,
   autoplay: true,
   autoplayHoverPause: true,
@@ -181,8 +181,8 @@ $('#partner-carouselOne').owlCarousel({
 
 $('#partner-carouselTwo').owlCarousel({
   loop: true,
-  nav: true,
-  dots: true,
+  nav: false,
+  dots: false,
   autoplayTimeout: 8000,
   autoplay: true,
   autoplayHoverPause: true,
