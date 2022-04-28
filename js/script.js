@@ -153,7 +153,7 @@ $('#owl-recurit').owlCarousel({
   },
 });
 
-$('#partner-carouselOne', '#partner-carouselTwo').owlCarousel({
+$('#partner-carouselOne').owlCarousel({
   loop: true,
   nav: true,
   dots: true,
@@ -162,19 +162,45 @@ $('#partner-carouselOne', '#partner-carouselTwo').owlCarousel({
   autoplayHoverPause: true,
   responsive: {
     0: {
-      items: 1,
+      items: 2,
     },
     576: {
-      items: 1,
+      items: 3,
     },
     768: {
-      items: 1,
+      items: 5,
     },
     992: {
-      items: 1,
+      items: 6,
     },
     1030: {
-      items: 1,
+      items: 8,
+    },
+  },
+});
+
+$('#partner-carouselOne').owlCarousel({
+  loop: true,
+  nav: true,
+  dots: true,
+  autoplayTimeout: 8000,
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 2,
+    },
+    576: {
+      items: 3,
+    },
+    768: {
+      items: 5,
+    },
+    992: {
+      items: 6,
+    },
+    1030: {
+      items: 8,
     },
   },
 });
