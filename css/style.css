@@ -1950,6 +1950,40 @@ header {
   color: #f3274f;
 }
 
+.techCard {
+  background-color: #f7f7f7;
+  max-height: 8.5rem;
+  height: 8.5rem;
+  min-width: 12rem;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+
+.tech-logo-container {
+  width: 65%;
+}
+
+#tech-carousel .owl-nav {
+  width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#tech-carousel .owl-nav .owl-prev i,
+#tech-carousel .owl-nav .owl-next i {
+  font-size: 2rem;
+  font-weight: 900;
+  opacity: 0.5;
+  transition: all 0.5s ease;
+}
+
+#tech-carousel .owl-nav .owl-prev:hover i,
+#tech-carousel .owl-nav .owl-next:hover i {
+  opacity: 1;
+}
+
 /* media queries */
 
 @media (max-width: 767px) {

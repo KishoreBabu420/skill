@@ -204,6 +204,37 @@ $('#partner-carouselTwo').owlCarousel({
     },
   },
 });
+
+$('#tech-carousel').owlCarousel({
+  loop: true,
+  nav: true,
+  navText: [
+    "<i class='fa-regular fa-circle-arrow-left'></i>",
+    "<i class='fa-regular fa-circle-arrow-right'></i>",
+  ],
+  dots: false,
+  autoplayTimeout: 2000,
+  autoplay: true,
+  autoplayHoverPause: true,
+  responsive: {
+    0: {
+      items: 1,
+    },
+    576: {
+      items: 1,
+    },
+    768: {
+      items: 1,
+    },
+    992: {
+      items: 5,
+    },
+    1030: {
+      items: 5,
+    },
+  },
+});
+
 //Scroll Code
 
 // Hide Header on on scroll down
