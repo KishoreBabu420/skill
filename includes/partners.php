@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row pb-5">
       <div class="col-md-12 text-center pt-md-4">
-        <h4 class="top-head text-purple">Companies that Hired our Students</h4>
+        <h4 class="top-head">Companies that Hired our Students</h4>
       </div>
     </div>
     <div class="owl-carousel pb-2" id="partner-carouselOne">

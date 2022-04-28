@@ -157,7 +157,7 @@ $('#partner-carouselOne').owlCarousel({
   loop: true,
   nav: false,
   dots: false,
-  autoplayTimeout: 8000,
+  autoplayTimeout: 2000,
   autoplay: true,
   autoplayHoverPause: true,
   responsive: {
@@ -183,7 +183,7 @@ $('#partner-carouselTwo').owlCarousel({
   loop: true,
   nav: false,
   dots: false,
-  autoplayTimeout: 8000,
+  autoplayTimeout: 2000,
   autoplay: true,
   autoplayHoverPause: true,
   responsive: {
