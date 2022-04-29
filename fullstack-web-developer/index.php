@@ -510,7 +510,6 @@ include_once("../includes/header.php");
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
                 <h1 class="trainingform-head pb-3">I'm Interested</h1>
-
                 <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
                   <div class="mb-3">
                     <label for="fullName" class="form-label">Full Name*</label>
@@ -533,13 +532,9 @@ include_once("../includes/header.php");
                     value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
                   <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                   <div class="callbackbtn mt-3">
-                    <button class="text-decoration-none" type="submit">Request A Callback</button>
+                    <button class="text-decoration-none" type="submit">View Curriculum</button>
                   </div>
                 </form>
-
-                <div class="callbackbtn mt-3">
-                  <a href="" class="text-decoration-none">Request A Callback</a>
-                </div>
               </div>
             </div>
           </div>
