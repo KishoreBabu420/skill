@@ -498,7 +498,7 @@ include_once("../includes/header.php");
     </div>
     <div class="col-md-6 pt-5 pb-5 mx-auto">
       <div class="callbackbtn">
-        <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">Download
+        <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">View
           Curriculum</a>
       </div>
       <!-- Modal -->
