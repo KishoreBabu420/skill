@@ -26,24 +26,6 @@
   <link rel="stylesheet" type="text/css" href="<?php echo $owlCarouselCSS; ?>">
   <link rel="stylesheet" type="text/css" href="<?php echo $owlThemeCSS; ?>">
   <script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
-  <script>
-  (function(w, d, s, c, r, a, m) {
-    w['KiwiObject'] = r;
-    w[r] = w[r] || function() {
-      (w[r].q = w[r].q || []).push(arguments)
-    };
-    w[r].l = 1 * new Date();
-    a = d.createElement(s);
-    m = d.getElementsByTagName(s)[0];
-    a.async = 1;
-    a.src = c;
-    m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', "https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js?v=" + new Date().getTime(),
-    'kiwi');
-  window.onload = function() {
-    kiwi.init('', 'K9PNNCjPcfU6zCMtU7GWg5EISqOr6FT0', {});
-  }
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-XS84CYLEYF"></script>
