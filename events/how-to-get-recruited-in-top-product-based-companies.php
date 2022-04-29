@@ -494,8 +494,11 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
-    <div class="regbtn">
-      <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Apply Now</a>
+    <div class="row text-center">
+      <p class="school-para text-center pt-2 pb-3">It this excites you? Register Now</p>
+      <div class="regbtn">
+        <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Register Now</a>
+      </div>
     </div>
   </div>
 </section>
