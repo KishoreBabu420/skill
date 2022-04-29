@@ -68,6 +68,7 @@ include_once("../includes/header.php");
             </div>
             <input type="hidden" name="_webhook"
               value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+            <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
             <div class="callbackbtn mt-3">
               <button class="text-decoration-none" type="submit">Request A Callback</button>
             </div>
@@ -497,7 +498,47 @@ include_once("../includes/header.php");
     </div>
     <div class="col-md-6 pt-5 pb-5 mx-auto">
       <div class="callbackbtn">
-        <a href="" class="text-decoration-none">Download Curriculum</a>
+        <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">View
+          Curriculum</a>
+      </div>
+      <!-- Modal -->
+      <div class="modal fade" id="curriculum-model" tabindex="-1" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
+                <h1 class="trainingform-head pb-3">I'm Interested</h1>
+                <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
+                  <div class="mb-3">
+                    <label for="fullName" class="form-label">Full Name*</label>
+                    <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
+                      placeholder="Enter Your Full Name" />
+                  </div>
+
+                  <div class="mb-3">
+                    <label for="email" class="form-label">Email Address*</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                      placeholder="Enter Your Email ID" name="email" />
+                  </div>
+
+                  <div class="mb-3">
+                    <label for="mobile" class="form-label">Mobile Number*</label>
+                    <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                      placeholder="Enter Your Mobile Number" name="phone" />
+                  </div>
+                  <input type="hidden" name="_webhook"
+                    value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+                  <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                  <div class="callbackbtn mt-3">
+                    <button class="text-decoration-none" type="submit">View Curriculum</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -917,6 +958,7 @@ include_once("../includes/header.php");
                 </div>
                 <input type="hidden" name="_webhook"
                   value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+                <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                 <div class="callbackbtn mt-3">
                   <button class="text-decoration-none" type="submit">Request A Callback</button>
                 </div>
