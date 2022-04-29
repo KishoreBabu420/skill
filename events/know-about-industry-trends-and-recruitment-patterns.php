@@ -373,7 +373,7 @@ include_once("../includes/header.php");
     <div class="row text-center">
       <p class="school-para text-center pt-2 pb-3">It this excites you? Register Now</p>
       <div class="regbtn">
-        <a href="https://meet.zoho.in/aPiFNL8AIN" class="text-decoration-none" target="_blank">Register Now</a>
+        <a href="https://meet.zoho.in/SQAac1RWVJ" class="text-decoration-none" target="_blank">Register Now</a>
       </div>
     </div>
   </div>

@@ -388,9 +388,12 @@ include_once("../includes/header.php");
       </div>
     </div>
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
-    <div class="regbtn">
-      <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Apply Now</a>
+    <div class="row pb-5 text-center">
+      <div class="regbtn">
+        <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Apply Now</a>
+      </div>
     </div>
+
   </div>
 </section>
 
