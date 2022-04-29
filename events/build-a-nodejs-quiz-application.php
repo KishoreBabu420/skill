@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>STARTS 29TH APR 2022</span></h4>
+        <h4 class="date-sec"><span>STARTS 1ST MAY 2022</span></h4>
         <h1 class="top-head  pt-3">Build a Quiz Application LIVE </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -38,7 +38,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
               <h6 class="small-highlight pt-2">Date</h6>
-              <h3 class="mini-boxhead">29th April 2022</h3>
+              <h3 class="mini-boxhead">1st May 2022</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -517,7 +517,7 @@ if (document.getElementById('days')) {
     hour = minute * 60,
     day = hour * 24;
 
-  let countDown = new Date('Apr 29, 2022 20:00:00').getTime(),
+  let countDown = new Date('May 1, 2022 20:00:00').getTime(),
     x = setInterval(function() {
       let now = new Date().getTime(),
         distance = countDown - now;
