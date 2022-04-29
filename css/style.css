@@ -420,7 +420,8 @@ body {
 #exampleModal-newtop-3 .btn-close,
 #exampleModal-newtop-4 .btn-close,
 #exampleModal-newtop .btn-close,
-#exampleModal-newtopsed .btn-close #curriculum-model .btn-close {
+#exampleModal-newtopsed .btn-close,
+#curriculum-model .btn-close {
   float: right;
   background-color: #fff;
 }
@@ -430,7 +431,8 @@ body {
 #exampleModal-newtop-3 .modal-body,
 #exampleModal-newtop-4 .modal-body,
 #exampleModal-newtop .modal-body,
-#exampleModal-newtopsed .modal-body #curriculum-model .modal-body {
+#exampleModal-newtopsed .modal-body,
+#curriculum-model .modal-body {
   background: #1c2042;
 }
 
