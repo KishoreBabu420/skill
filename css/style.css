@@ -2223,6 +2223,14 @@ header {
   .justify-content-around .school-para {
     font-size: 16px !important;
   }
+
+  .tech-logo-container {
+    padding: 0.75rem;
+  }
+
+  .tech-logo-container img {
+    padding: 0.75rem;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -2265,6 +2273,14 @@ width: unset!important;
   .programlisted-block li {
     flex-basis: 45% !important;
     max-width: 45% !important;
+  }
+
+  .tech-logo-container {
+    padding: 0.5rem;
+  }
+
+  .tech-logo-container img {
+    padding: 0.5rem;
   }
 }
 
@@ -2362,6 +2378,14 @@ width: unset!important;
   .programlisted-block li {
     flex-basis: 25% !important;
     max-width: 25% !important;
+  }
+
+  .tech-logo-container {
+    padding: 0.25rem;
+  }
+
+  .tech-logo-container img {
+    padding: 0.25rem;
   }
 }
 
