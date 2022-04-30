@@ -1962,6 +1962,7 @@ header {
 
 .tech-logo-container {
   width: 65%;
+  padding: 1rem;
 }
 
 #tech-carousel .owl-nav {

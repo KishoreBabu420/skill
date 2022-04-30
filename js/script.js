@@ -221,16 +221,16 @@ $('#tech-carousel').owlCarousel({
       items: 1,
     },
     576: {
-      items: 1,
+      items: 2,
     },
     768: {
-      items: 1,
+      items: 3,
     },
     992: {
       items: 5,
     },
     1030: {
-      items: 5,
+      items: 6,
     },
   },
 });
