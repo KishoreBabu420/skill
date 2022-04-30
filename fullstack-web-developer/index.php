@@ -1,8 +1,8 @@
 <?php 
 
-$title = "Full Stack Web Developer Course - 100% Job Guarantee Program";
+$title = "Full Stack Developer Course - 100% Job Guarantee Program";
 
-$description = "Full Stack Developer course of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
+$description = "Full Stack Developer Course of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
 
 $keywords = "";
 
@@ -13,13 +13,13 @@ include_once("../includes/header.php");
 <section class="top-pagespace"></section>
 <!-- top-space -->
 <!-- hire banner section started -->
-<section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
+<section class="bg-hire bg-Coursepg position-relative pt-2 mt-2">
   <div class="container">
     <div class="row py-md-4 align-items-center">
       <div class="col-lg-6 text-md-start text-center">
         <div class="row align-items-center my-3">
           <div class="col-md-3 d-none d-md-block">
-            <div class="icon-scourse text-center">
+            <div class="icon-sCourse text-center">
               <i class="fas fa-code"></i>
             </div>
           </div>
@@ -31,9 +31,9 @@ include_once("../includes/header.php");
         </div>
         <p>
         <ul class="mx-3">
-          <li class="course-toppara my-1">100% Placement Guarantee</li>
-          <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
-          <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
+          <li class="Course-toppara my-1">100% Placement Guarantee</li>
+          <li class="Course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
+          <li class="Course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
         </ul>
         </p>
         <p class="school-para pt-3 d-none d-md-block">
@@ -93,7 +93,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row">
       <div class="col-md-12 pt-4 pb-2 text-center">
-        <h2 class="text-center top-head">Full Stack Developer course highlights</h2>
+        <h2 class="text-center top-head">Full Stack Developer Course highlights</h2>
       </div>
     </div>
     <div class="row align-items-center pt-md-3 justify-content-center">
@@ -245,7 +245,7 @@ include_once("../includes/header.php");
     <div class="row pt-5 px-3 justify-content-center bg-criteria__content">
       <div class="col-md-12 pb-5 text-center">
         <h4 class="text-center top-head">Minimum Criteria</h4>
-        <p class="school-para text-center">You should meet the following requirements to be eligible for this course.
+        <p class="school-para text-center">You should meet the following requirements to be eligible for this Course.
         </p>
       </div>
       <div class="col-12 col-md-4 mb-5 px-2">
@@ -322,37 +322,37 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5 justify-content-center">
       <div class="col-md-12 pb-5">
-        <h2 class="text-center top-head">MERN Stack Developer course syllabus</h2>
+        <h2 class="text-center top-head">MERN Stack Developer Course syllabus</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="course-boxes-icon text-center m-auto row">
-          <div class="icon-coursessymbol">
+        <div class="Course-boxes-icon text-center m-auto row">
+          <div class="icon-Coursessymbol">
             <i class="fa-solid fa-chalkboard"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">8+ Phases</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="course-boxes-icon text-center m-auto row">
-          <div class="icon-coursessymbol">
+        <div class="Course-boxes-icon text-center m-auto row">
+          <div class="icon-Coursessymbol">
             <i class="fa-solid fa-chalkboard-user"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">60+ topics</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="course-boxes-icon text-center m-auto row">
-          <div class="icon-coursessymbol">
+        <div class="Course-boxes-icon text-center m-auto row">
+          <div class="icon-Coursessymbol">
             <i class="fas fa-grip-lines"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">100+ Assignments</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="course-boxes-icon text-center m-auto row">
-          <div class="icon-coursessymbol">
+        <div class="Course-boxes-icon text-center m-auto row">
+          <div class="icon-Coursessymbol">
             <i class="fa-solid fa-laptop-file"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">30+ Projects</p>
@@ -581,7 +581,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Selvakumar1_ee7za7.jpg"
-                                class="img-flui w-100" alt="full stack developer course " title="">
+                                class="img-flui w-100" alt="full stack developer Course " title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"Now I have a good exposure on building a website and
@@ -608,7 +608,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Krishnakumar1_ansdoa.jpg"
-                                class="img-fluid w-100" alt="full stack developer course " title="">
+                                class="img-fluid w-100" alt="full stack developer Course " title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"I was amazed with the kinds of technology that is out there
@@ -636,7 +636,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Aniket1_mlb3xx.jpg"
-                                class="img-flui w-100" alt="full stack developer course with placement" title="">
+                                class="img-flui w-100" alt="full stack developer Course with placement" title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"Skillsafari is an awesome skill development platform. I have
@@ -677,7 +677,7 @@ include_once("../includes/header.php");
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                        class="img-fluid w-100" alt="full stack developer course with placement" title="" />
+                        class="img-fluid w-100" alt="full stack developer Course with placement" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -703,7 +703,7 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                                  class="img-fluid" alt="full stack developer course with placement guarantee"
+                                  class="img-fluid" alt="full stack developer Course with placement guarantee"
                                   title="" />
                               </div>
 
@@ -735,7 +735,7 @@ include_once("../includes/header.php");
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                        class="img-fluid w-100" alt="full stack developer course with placement guarantee" title="" />
+                        class="img-fluid w-100" alt="full stack developer Course with placement guarantee" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -762,7 +762,7 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                                  class="img-fluid" alt="full stack developer course with placement guarantee"
+                                  class="img-fluid" alt="full stack developer Course with placement guarantee"
                                   title="" />
                               </div>
 
@@ -1001,7 +1001,7 @@ include_once("../includes/header.php");
               <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                 <h4 class="top-head-faq mb-0">
-                  Who is a Full-Stack Developer?
+                  Who is a Full Stack Developer?
                 </h4>
               </button>
             </h3>
@@ -1022,7 +1022,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                 <h4 class="top-head-faq mb-0">
-                  Why do companies hire Full-Stack Developers?
+                  Why do companies hire Full Stack Developers?
                 </h4>
               </button>
             </h3>
@@ -1031,7 +1031,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">Companies prefer developers who can be work-efficient and as well as
-                  cost-efficient. A Full-Stack developer can help with the whole design structure and he also knows to
+                  cost-efficient. A Full Stack Developer can help with the whole design structure and he also knows to
                   provide input on any level as need be.</p>
               </div>
             </div>
@@ -1042,7 +1042,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                 <h4 class="top-head-faq mb-0">
-                  What are the skill sets of a Full-Stack Developer?
+                  What are the skill sets of a Full Stack Developer?
                 </h4>
               </button>
             </h3>
@@ -1051,7 +1051,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  A Full-Stack Developer major with front-end technology development languages like HTML5, CSS3,
+                  A Full Stack Developer major with front-end technology development languages like HTML5, CSS3,
                   JavaScript, Bootstrap and should know at least one server-side programming language, basic design
                   ability, server management, Version Control System (VCS), and knowledge of web services or API.
                 </p>
@@ -1064,7 +1064,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                 <h4 class="top-head-faq mb-0">
-                  Why React Framework is taught or preferred in this course?
+                  Why React Framework is taught or preferred in this Course?
                 </h4>
               </button>
             </h3>
@@ -1095,7 +1095,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The term MERN Stack is abbreviated as MongoDB, ExpressJS, ReactJS, NodeJS. MERN is a Full-Stack, It
+                  The term MERN Stack is abbreviated as MongoDB, ExpressJS, ReactJS, NodeJS. MERN is a Full Stack, It
                   follows a 3-tier architectural pattern, including the front-end display tier (React.js), application
                   tier (Express.js and Node.js), and database tier (MongoDB)
                 </p>
@@ -1119,12 +1119,12 @@ include_once("../includes/header.php");
                 <p class="school-para mb-0">
                   <strong>Academic Qualification</strong>: You can apply if you have either completed your graduation in
                   any stream after 2015 or currently pursuing in your final year.</br>
-                  <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
+                  <strong>English proficiency</strong>: This Course mode of delivery is in English; you should be
                   able to follow instructions in English.</br>
                   <strong>Interest & Commitment</strong>: Anyone who is passionate about learning Full Stack
                   Development. You should be able to commit a minimum of 2-3 hours of program commitment on weekdays and
                   a few more hours on Weekends for Assignments and Projects completion.</br>
-                  <strong>Available to work after the program</strong>: The objective of this course is to skill up and
+                  <strong>Available to work after the program</strong>: The objective of this Course is to skill up and
                   get placed, hence you should be available to take a job after completion of this program.</br>
 
                 </p>
@@ -1137,7 +1137,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
                 <h4 class="top-head-faq mb-0">
-                  What are the selection criteria for this full-stack developer program? </h4>
+                  What are the selection criteria for this Full Stack Developer program? </h4>
               </button>
             </h3>
 
@@ -1201,7 +1201,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The course duration takes on an average of 7 months. If you are not able to complete the program
+                  The Course duration takes on an average of 7 months. If you are not able to complete the program
                   within the stipulated time, after the one-on-one review, we may consider batch shifting or program
                   extensions based on the discussion.
                 </p>
@@ -1213,7 +1213,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
                 <h4 class="top-head-faq mb-0">
-                  Will there be any possibility that the course might be extended beyond the given stipulated time?
+                  Will there be any possibility that the Course might be extended beyond the given stipulated time?
                 </h4>
               </button>
             </h3>
@@ -1222,7 +1222,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
+                  The Course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
                   personal reasons, we may extend the dates. However, this would be done with a proper intimation to the
                   batch and based on the custom plan the progress will be intimated to all the students. We do this to
                   ensure that none of the candidates are missed out on the pace of the program.
@@ -1259,7 +1259,7 @@ include_once("../includes/header.php");
                   Data Arrangements - 5 Questions</br>
                   Data Interpretation - 5 Questions</br>
                   </br>
-                  Note: Below 40%, you will not be accepted for the course for this batch. You may re-apply for the
+                  Note: Below 40%, you will not be accepted for the Course for this batch. You may re-apply for the
                   next batch.
 
                 </p>
@@ -1271,7 +1271,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
                 <h4 class="top-head-faq mb-0">
-                  How does a Full-Stack developer involve in a project?
+                  How does a Full Stack Developer involve in a project?
                 </h4>
               </button>
             </h3>
@@ -1280,7 +1280,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  A Full-Stack developer will give architecture and implementation from user requirements coordinating
+                  A Full Stack Developer will give architecture and implementation from user requirements coordinating
                   with the client. Writes front-end and back-end code for the application. Monitors the performance and
                   creates test codes. Troubleshoot the application with a fast and accurate resolution.
                 </p>
@@ -1292,7 +1292,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseThirteen" aria-expanded="true" aria-controls="collapseThirteen">
                 <h4 class="top-head-faq mb-0">
-                  What are the essential front-end technologies for a Full-Stack Developer? </h4>
+                  What are the essential front-end technologies for a Full Stack Developer? </h4>
               </button>
             </h3>
 
@@ -1310,7 +1310,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFourteen" aria-expanded="true" aria-controls="collapseFourteen">
                 <h4 class="top-head-faq mb-0">
-                  What are the essential development languages for a Full-Stack Developer? </h4>
+                  What are the essential development languages for a Full Stack Developer? </h4>
               </button>
             </h3>
 
@@ -1318,7 +1318,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  A Full-Stack Developer doesn’t want to know all the programming languages. Knowing at least one
+                  A Full Stack Developer doesn’t want to know all the programming languages. Knowing at least one
                   server-side programming language like Python, JavaScript, Ruby, etc. </p>
               </div>
             </div>
@@ -1328,7 +1328,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
                 <h4 class="top-head-faq mb-0">
-                  What does our Full Stack Developer course teach you? </h4>
+                  What does our Full Stack Developer Course teach you? </h4>
               </button>
             </h3>
 
@@ -1336,7 +1336,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The Full Stack Developer course enables you to build an interactive and responsive application using
+                  The Full Stack Developer Course enables you to build an interactive and responsive application using
                   both front-end and back-end technologies. It covers the fundamentals of JavaScript and Advanced
                   JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS. Also,
                   it provides knowledge to test and deploy code and store data using MongoDB. </p>
@@ -1366,7 +1366,7 @@ include_once("../includes/header.php");
       <div class="col-lg-12 text-center">
         <h2 class="text-white top-head">Want to know more about Full Stack Developer Course?</h2>
         <p class="para-top text-white text-center">
-          Become a job-ready Full Stack Web Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
+          Become a job-ready Full Stack Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
           how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
