@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>Coming Soon</span></h4>
+        <p class="date-sec"><span>Coming Soon</span></p>
         <h1 class="top-head  pt-3">Build a Quiz Application LIVE </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -37,28 +37,28 @@ include_once("../includes/header.php");
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
-              <h6 class="small-highlight pt-2">Date</h6>
+              <p class="small-highlight pt-2">Date</p>
               <p class="mini-boxhead">Coming Soon</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-tools"></i>
-              <h6 class="small-highlight pt-2">Total Duration</h6>
+              <p class="small-highlight pt-2">Total Duration</p>
               <p class="mini-boxhead">2 Hours Live</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-video"></i>
-              <h6 class="small-highlight pt-2">Time</h6>
+              <p class="small-highlight pt-2">Time</p>
               <p class="mini-boxhead">8PM to 10PM</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clipboard-list"></i>
-              <h6 class="small-highlight pt-2">Bonuses Worth</h6>
+              <p class="small-highlight pt-2">Bonuses Worth</p>
               <p class="mini-boxhead">Free Certification</p>
             </div>
           </div>
@@ -149,7 +149,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Who is a Full Stack Web Developer?</h6>
+            <p class="timeline-head">Who is a Full Stack Web Developer?</p>
             <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.
             </p>
           </div>
@@ -169,7 +169,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Roadmap to become a Full Stack Web Developer</h6>
+            <p class="timeline-head">Roadmap to become a Full Stack Web Developer</p>
             <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn
               different technologies, frameworks, libraries and VCS</p>
           </div>
@@ -189,7 +189,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Try building your application</h6>
+            <p class="timeline-head">Try building your application</p>
             <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an
               application is developed and launched.</p>
           </div>
@@ -209,7 +209,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Brief Introduction of courses offered by Skill Safari</h6>
+            <p class="timeline-head">Brief Introduction of courses offered by Skill Safari</p>
             <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
           </div>
         </div>
@@ -293,7 +293,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
-        <h2 class="top-head  pt-md-3 pb-4">Meet Your Trainers</h2>
+        <h6 class="top-head  pt-md-3 pb-4">Meet Your Trainers</h6>
       </div>
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
@@ -343,7 +343,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class="col-md-12 pt-md-5 pb-5">
-        <h5 class="top-head text-center">Yes you will be certified with this program</h5>
+        <p class="top-head text-center">Yes you will be certified with this program</p>
         <p class="top-para text-center ">Yes! You will be certified for this program once you submit your assignment.
         </p>
       </div>
