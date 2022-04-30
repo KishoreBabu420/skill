@@ -1965,6 +1965,10 @@ header {
   padding: 1rem;
 }
 
+.tech-logo-container img {
+  padding: 1rem;
+}
+
 #tech-carousel .owl-nav {
   width: 50%;
   margin: 2rem auto;
