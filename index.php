@@ -248,8 +248,9 @@ include_once("./includes/testimony.php");
         <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
-              <img loading="lazy" src="images/getplaced.jpg" class="img-fluid" loading="lazy" alt="full stack workshop"
-                title="">
+              <img loading="lazy"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651312657/website/events/getplaced_qkd41p.jpg"
+                class="img-fluid" loading="lazy" alt="full stack workshop" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">30 seats left</h5>
               </div>
