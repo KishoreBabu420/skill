@@ -261,7 +261,7 @@ body {
 }
 
 .top-head {
-  font-size: 36px;
+  font-size: 28px;
   font-weight: 600;
 }
 
@@ -2037,7 +2037,7 @@ header {
   }
   .top-head,
   .top-head-new {
-    font-size: 26px !important;
+    font-size: 24px !important;
   }
   .owl-carousel {
     display: block !important;
@@ -2280,7 +2280,7 @@ width: unset!important;
     width: unset !important;
   }
   .top-head {
-    font-size: 40px;
+    font-size: 32px;
   }
   .message-drop {
     margin: 0 auto;
