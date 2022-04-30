@@ -11,7 +11,7 @@
     <div class="row pt-5 mx-auto justify-content-center">
       <div class="col-md-4">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
-          class="img-fluid" alt="" title="">
+          class="img-fluid" alt="Skill Safari" title="Skill Safari">
         <div class="footer-para pt-3">
           <p class="school-para">Join us at Skill Safari as we rush into the new era of e-learning, where boring
             classroom education is not the ruler. We are here to provide you with knowledge and skills that make you
@@ -22,7 +22,9 @@
         <h6 class="footer-linkheads">Courses</h6>
         <ul class="list-group">
           <li class="list-group-item"><a class="text-decoration-none"
-              href="https://www.skillsafari.in/fullstack-web-developer/"><h3 class="footerhead">Full Stack Development course</h3></a>
+              href="https://www.skillsafari.in/fullstack-web-developer/">
+              <h3 class="footerhead">Full Stack Development course</h3>
+            </a>
           </li>
         </ul>
       </div>
