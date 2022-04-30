@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>STARTS 1ST MAY 2022</span></h4>
+        <h4 class="date-sec"><span>coming</span></h4>
         <h1 class="top-head  pt-3">Build a Quiz Application LIVE </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -22,7 +22,7 @@ include_once("../includes/header.php");
           already have developed an application all by yourself, so there will be enough proof of whether you can code
           or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Register</a>
+          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -38,7 +38,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
               <h6 class="small-highlight pt-2">Date</h6>
-              <p class="mini-boxhead">1st May 2022</p>
+              <p class="mini-boxhead">coming soon</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -220,7 +220,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Register</a>
+          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
         </div>
       </div>
     </div>
@@ -281,7 +281,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Apply Now</a>
+          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
         </div>
       </div>
     </div>
@@ -390,7 +390,7 @@ include_once("../includes/header.php");
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
     <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Apply Now</a>
+        <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
       </div>
     </div>
 
