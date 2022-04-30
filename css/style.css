@@ -2608,3 +2608,15 @@ width: unset!important;
   margin-top: 0.5rem;
   color: #f3274f;
 }
+
+.change-text {
+  color: #f3274f;
+}
+
+.change-text::after {
+  content: '';
+  float: left;
+  background: linear-gradient(90deg, #2699fb, #f3274f);
+  width: 100%;
+  height: 9px;
+}
