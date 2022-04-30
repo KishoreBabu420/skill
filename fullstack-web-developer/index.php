@@ -815,10 +815,10 @@ include_once("../includes/header.php");
                     <br />
                     If you are paying upfront,
                   </p>
-                  <h2 class="pricerangedis fw-bold pt-4">
+                  <p class="pricerangedis fw-bold pt-4">
                     <del> ₹1,00,000</del>
                     <span>₹40,000<sup>60% Off</sup> <small>+18% GST</small></span>
-                  </h2>
+                  </p>
                 </div>
               </div>
               <div class="tab-pane fade" id="pills-paylater1" role="tabpanel" aria-labelledby="pills-paylater1-tab">
@@ -848,10 +848,10 @@ include_once("../includes/header.php");
                   <p class="para-newcont pt-3">Alchemyst Full Stack Developer Program offers you value for money skills
                     at affordable pricing with a few flexible options also. You can split and pay up to 12 EMIs with 0%
                     extra interest whatsoever.</p>
-                  <h2 class="pricerangedis fw-bold pt-4">
+                  <p class="pricerangedis fw-bold pt-4">
                     <del> ₹1,00,000</del>
                     <span>₹60,000<sup>40% Off</sup></span>
-                  </h2>
+                  </p>
                 </div>
               </div>
             </div>
@@ -874,10 +874,10 @@ include_once("../includes/header.php");
                       <br />
                       If you are paying upfront,
                     </p>
-                    <h2 class="pricerangedis fw-bold pt-4">
+                    <p class="pricerangedis fw-bold pt-4">
                       <del> ₹1,00,000</del>
                       <span>₹40,000<sup>60% Off</sup></span>
-                    </h2>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -930,10 +930,10 @@ include_once("../includes/header.php");
                         at affordable pricing with a few flexible options also. You can split and pay up to 12 EMIs with
                         0%
                         extra interest whatsoever.</p>
-                      <h2 class="pricerangedis fw-bold pt-4">
+                      <p class="pricerangedis fw-bold pt-4">
                         <del> ₹1,00,000</del>
                         <span>₹60,000<sup>40% Off</sup></span>
-                      </h2>
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -982,17 +982,17 @@ include_once("../includes/header.php");
   <div class="container pt-3 pt-md-5">
     <div class="row pt-md-5">
       <div class="col-md-12 pt-md-5">
-        <h1 class="top-head text-center pb-4 pt-4 pt-md-0">FAQ</h1>
+        <h2 class="top-head text-center pb-4 pt-4 pt-md-0">FAQ</h2>
         <div class="accordion" id="accordionExample">
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingOne">
+            <h3 class="accordion-header" id="headingOne">
               <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   Who is a Full-Stack Developer?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
               data-bs-parent="#accordionExample">
@@ -1006,14 +1006,14 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingTwo">
+            <h3 class="accordion-header" id="headingTwo">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   Why do companies hire Full-Stack Developers?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
               data-bs-parent="#accordionExample">
@@ -1026,14 +1026,14 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingThree">
+            <h3 class="accordion-header" id="headingThree">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   What are the skill sets of a Full-Stack Developer?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
               data-bs-parent="#accordionExample">
@@ -1048,14 +1048,14 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFour">
+            <h3 class="accordion-header" id="headingFour">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   Why React Framework is taught or preferred in this course?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
               data-bs-parent="#accordionExample">
@@ -1070,14 +1070,14 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   What is MERN Stack Web Development?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1092,14 +1092,14 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingSix">
+            <h3 class="accordion-header" id="headingSix">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   Who is eligible for this program?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
@@ -1121,13 +1121,13 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-                <h1 class="top-head-faq mb-0">
-                  What are the selection criteria for this full-stack developer program? </h1>
+                <h4 class="top-head-faq mb-0">
+                  What are the selection criteria for this full-stack developer program? </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1148,14 +1148,14 @@ include_once("../includes/header.php");
           </div>
 
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   What are logistics required for this program?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1176,14 +1176,14 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   What is the duration of the program?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1197,14 +1197,14 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   Will there be any possibility that the program might be extended beyond the given stipulated time?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1219,14 +1219,14 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   What will be asked in the Admission Test?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1255,14 +1255,14 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
-                <h1 class="top-head-faq mb-0">
+                <h4 class="top-head-faq mb-0">
                   How does a Full-Stack developer involve in a project?
-                </h1>
+                </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1276,13 +1276,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseThirteen" aria-expanded="true" aria-controls="collapseThirteen">
-                <h1 class="top-head-faq mb-0">
-                  What are the essential front-end technologies for a Full-Stack Developer? </h1>
+                <h4 class="top-head-faq mb-0">
+                  What are the essential front-end technologies for a Full-Stack Developer? </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1294,13 +1294,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFourteen" aria-expanded="true" aria-controls="collapseFourteen">
-                <h1 class="top-head-faq mb-0">
-                  What are the essential development languages for a Full-Stack Developer? </h1>
+                <h4 class="top-head-faq mb-0">
+                  What are the essential development languages for a Full-Stack Developer? </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1312,13 +1312,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
-                <h1 class="top-head-faq mb-0">
-                  What does our Full-Stack Developer program teach you? </h1>
+                <h4 class="top-head-faq mb-0">
+                  What does our Full-Stack Developer program teach you? </h4>
               </button>
-            </h2>
+            </h3>
 
             <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
@@ -1344,7 +1344,9 @@ include_once("../includes/header.php");
 <section class="bg-lineball">
   <div class="container-fluid p-0">
     <div class="row">
-      <div class="col-md-12 pt-5 pb-5"></div>
+      <div class="col-md-12 pt-5 pb-5">
+
+      </div>
     </div>
   </div>
 </section>
@@ -1355,8 +1357,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row  pt-5 pb-5">
       <div class="col-lg-12 text-center">
-        <h2 class="text-white top-head">Still Got Questions?</h2>
-
+        <h2 class="text-white top-head">Want to know more about Full Stack Developer Course?</h2>
         <p class="para-top text-white text-center">
           Become a job-ready Full Stack Web Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
           how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
