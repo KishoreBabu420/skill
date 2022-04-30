@@ -159,7 +159,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" Loading = "lazy" alt="full stack developer " Loading = "lazy" title="">
             </div>
           </div>
         </div>
@@ -178,7 +178,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" Loading = "lazy" alt="fullstack event" title="">
             </div>
           </div>
         </div>
@@ -197,7 +197,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" Loading = "lazy" alt="full stack developer" title="">
             </div>
           </div>
         </div>
@@ -218,7 +218,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
-          class="img-fluid w-100" alt="" title="">
+          class="img-fluid w-100" Loading = "lazy" alt="full stack development" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
@@ -303,8 +303,8 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004355/website/trainers/anusha_qq9vjn.png"
-                class="img-fluid" alt="" title="">
-              <h6 class="trainee-headtitle text-center pt-3 mb-0">Anusha G</h6>
+                class="img-fluid" Loading = "lazy" alt=" full stack trainer" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Anusha G</p>
               <p class="school-para text-center pt-2">Data Scientist & ML/DL Expert </p>
               <p class="school-para text-center">IIT Bombay Alumni </p>
 
@@ -324,8 +324,8 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
-                class="img-fluid" alt="" title="">
-              <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
+                class="img-fluid" alt="fullstack trainer 2" Loading = "lazy" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
             <div class="col-md-8">
@@ -356,7 +356,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-shield-alt"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Official and Verified</h5>
+              <p class="cer-head w-100">Official and Verified</p>
               <p class="school-para">Receive an instructor signed certificate with institution’s logo to verify your
                 achievements and increase your job prospects.</p>
             </div>
@@ -366,7 +366,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-share-alt"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Easily Shareable</h5>
+              <p class="cer-head w-100">Easily Shareable</p>
               <p class="school-para">Add the certificate to your CV or your Resume or post it directly on LInkedin. You
                 can even post it on instagram and twitter.</p>
             </div>
@@ -376,7 +376,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-lock"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Enhances Credibility</h5>
+              <p class="cer-head w-100">Enhances Credibility</p>
               <p class="school-para">Use your certificate to enhance your professional credibility and stand out among
                 your peers!</p>
             </div>
@@ -386,7 +386,7 @@ include_once("../includes/header.php");
       <div class="col-md-5 pt-4">
         <img
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-          class="img-fluid" alt="" title="">
+          class="img-fluid" alt="full stack pay after placement" Loading = "lazy" title="">
       </div>
     </div>
     <div class="row text-center">
