@@ -9,7 +9,6 @@ $keywords = "";
 $page = 1;
 
 include_once("../includes/header.php");
-
 ?>
 <section class="top-pagespace"></section>
 <!-- top-space -->
@@ -48,7 +47,7 @@ include_once("../includes/header.php");
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
           <h5 class="trainingform-head py-3 text-center">Request A Callback</h5>
-          <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
+          <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="lead-form">
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
               <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
@@ -64,7 +63,9 @@ include_once("../includes/header.php");
             <div class="mb-3">
               <label for="mobile" class="form-label">Mobile Number*</label>
               <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                placeholder="Enter Your Mobile Number" name="phone" required />
+                placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
+                data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
+                data-parsley-minlength="10" data-parsley-maxlength="10" />
             </div>
             <input type="hidden" name="_webhook"
               value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
@@ -313,7 +314,6 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- criteriaa ended -->
-
 <!-- prepare section started -->
 <section class="bg-prepare">
   <div class="container">
@@ -550,7 +550,6 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- perpare section ended -->
-
 <!-- scrolling section started-->
 <section class="bg-newscroll position-relative" id="pricing">
   <div class="container">
@@ -977,7 +976,6 @@ include_once("../includes/header.php");
 </section>
 <!-- scrolling section ended-->
 <!-- faq section started -->
-
 <section class="bg-faq position-relative">
   <div class="container pt-3 pt-md-5">
     <div class="row pt-md-5">
@@ -1337,10 +1335,7 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
-
-
 <!-- faq section ended -->
-
 <section class="bg-lineball">
   <div class="container-fluid p-0">
     <div class="row">
@@ -1350,9 +1345,7 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
-
 <!-- callback section started -->
-
 <section class="bg-callback mt-md-4">
   <div class="container">
     <div class="row  pt-5 pb-5">
@@ -1381,11 +1374,7 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
-
 <!-- callback section ended -->
-
 <?php 
-
 include_once("../includes/footer.php");
-
 ?>

@@ -296,3 +296,5 @@ $('a[href="#curriculum"]').click(function () {
 $('a[href="#pricing"]').click(function () {
   $('#pricing').css('padding-top', '100px');
 });
+
+$('#lead-form').parsley();
