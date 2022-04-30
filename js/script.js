@@ -218,19 +218,19 @@ $('#tech-carousel').owlCarousel({
   autoplayHoverPause: true,
   responsive: {
     0: {
-      items: 2,
+      items: 1,
     },
     576: {
-      items: 3,
+      items: 2,
     },
     768: {
-      items: 4,
+      items: 3,
     },
     992: {
-      items: 5,
+      items: 4,
     },
-    1030: {
-      items: 6,
+    1024: {
+      items: 5,
     },
   },
 });
