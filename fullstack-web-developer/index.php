@@ -1,6 +1,6 @@
 <?php 
 
-$title = "Full-Stack Web Developer Program - 100% Job Guarantee Program";
+$title = "Full Stack Web Developer Course - 100% Job Guarantee Program";
 
 $description = "Full Stack Developer Program of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
 
