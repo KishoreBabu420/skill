@@ -51,19 +51,22 @@ include_once("../includes/header.php");
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
               <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                placeholder="Enter Your Full Name" required />
+                data-parsley-required-message="We require your name" placeholder="Enter Your Full Name" required />
             </div>
 
             <div class="mb-3">
               <label for="email" class="form-label">Email Address*</label>
               <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                placeholder="Enter Your Email ID" name="email" required />
+                placeholder="Enter Your Email ID" name="email" data-parsley-required-message="Email Address is required"
+                required />
             </div>
 
             <div class="mb-3">
               <label for="mobile" class="form-label">Mobile Number*</label>
               <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
+                placeholder="Enter Your Mobile Number" name="phone"
+                data-parsley-required-message="Mobile Number is required"
+                data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
                 data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
                 data-parsley-minlength="10" data-parsley-maxlength="11" />
             </div>
@@ -519,19 +522,23 @@ include_once("../includes/header.php");
                   <div class="mb-3">
                     <label for="fullName" class="form-label">Full Name*</label>
                     <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                      placeholder="Enter Your Full Name" required />
+                      data-parsley-required-message="We require your name" placeholder="Enter Your Full Name"
+                      required />
                   </div>
 
                   <div class="mb-3">
                     <label for="email" class="form-label">Email Address*</label>
                     <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                      placeholder="Enter Your Email ID" name="email" required />
+                      placeholder="Enter Your Email ID" name="email"
+                      data-parsley-required-message="Email Address is required" required />
                   </div>
 
                   <div class="mb-3">
                     <label for="mobile" class="form-label">Mobile Number*</label>
                     <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                      placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
+                      placeholder="Enter Your Mobile Number" name="phone"
+                      data-parsley-required-message="Mobile Number is required"
+                      data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
                       data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
                       data-parsley-minlength="10" data-parsley-maxlength="11" />
                   </div>
@@ -948,19 +955,22 @@ include_once("../includes/header.php");
                 <div class="mb-3">
                   <label for="fullName" class="form-label">Full Name*</label>
                   <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                    placeholder="Enter Your Full Name" required />
+                    data-parsley-required-message="We require your name" placeholder="Enter Your Full Name" required />
                 </div>
 
                 <div class="mb-3">
                   <label for="email" class="form-label">Email Address*</label>
                   <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                    placeholder="Enter Your Email ID" name="email" required />
+                    placeholder="Enter Your Email ID" name="email"
+                    data-parsley-required-message="Email Address is required" required />
                 </div>
 
                 <div class="mb-3">
                   <label for="mobile" class="form-label">Mobile Number*</label>
                   <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                    placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
+                    placeholder="Enter Your Mobile Number" name="phone"
+                    data-parsley-required-message="Mobile Number is required"
+                    data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
                     data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
                     data-parsley-minlength="10" data-parsley-maxlength="11" />
                 </div>
