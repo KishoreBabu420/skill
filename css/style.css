@@ -2223,14 +2223,6 @@ header {
   .justify-content-around .school-para {
     font-size: 16px !important;
   }
-
-  .tech-logo-container {
-    padding: 0.5rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.5rem;
-  }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
