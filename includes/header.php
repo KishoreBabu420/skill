@@ -76,7 +76,7 @@
         <div class="col-md-3 d-none d-md-block">
           <a href="/">
             <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
-              class="img-fluid" alt="" title="">
+              class="img-fluid" alt="Skill Safari" title="Skill Safari">
           </a>
         </div>
         <div class="col-lg-6 col-md-9">
@@ -85,7 +85,7 @@
               <a class="navbar-brand d-block d-md-none" href="/">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650535621/website/logo-black_rxyr58.png"
-                  class="img-fluid" alt="" title="">
+                  class="img-fluid" alt="Skill Safari" title="Skill Safari">
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
