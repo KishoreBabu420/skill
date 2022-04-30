@@ -1,6 +1,7 @@
 <?php 
 $title = "Skill Safari - Privacy Policy";
-$description = "";
+$description = " Skill Safari is serious about protecting your personal,
+          transaction, and various other data and your online privacy.";
 $keywords = "";
 $page = 0;
 include_once("includes/header.php");

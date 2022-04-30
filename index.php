@@ -1,5 +1,5 @@
 <?php 
-$title = "Skill Safari Home";
+$title = "Learn the Modern Way with Skill Safari";
 $description = "Skill Safari is an e-learning platform where you can learn the latest technical skills. Become a Full Stack Developer and enroll in our job guarantee program";
 $keywords = "";
 $page = "0";

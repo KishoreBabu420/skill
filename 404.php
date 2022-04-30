@@ -1,6 +1,6 @@
 <?php 
 $title = "Skill Safari - Error Page";
-$description = "";
+$description = "The page you're looking for no longer exists.";
 $keywords = "";
 $page = 0;
 include_once("includes/header.php");
