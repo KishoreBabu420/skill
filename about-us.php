@@ -366,24 +366,24 @@ include_once("includes/header.php");
         <div class="text-center d-none d-md-block"><img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136948/website/aboutus/pliline1_thandd.png" class="img-fluid text-end"></div>
       </div>
       <div class="col-md-7 pt-4 pt-md-0">
-        <p class="about-para-color-heading">Quality content</p>
+        <p class="about-para-color-heading h4">Quality content</p>
         <p class="school-para pe-md-4 text-white pt-2">that guarantees success and is up to date with the right tech
           developments.</p>
-        <p class="about-para-color-heading pt-4" >Live interactive sessions</p>
+        <p class="about-para-color-heading h4 pt-4" >Live interactive sessions</p>
         <p class="school-para pe-md-4 text-white pt-2">with expert guidance the students can participate and have fun
           while they learn.</p>
-        <p class="about-para-color-heading pt-4" >Encouraging mentors</p>
+        <p class="about-para-color-heading h4 pt-4" >Encouraging mentors</p>
         <p class="school-para pe-md-4 text-white pt-2"> who give you personalised feedback and build a long-term
           relationship with you to support your growth. </p>
-        <p class="about-para-color-heading pt-4" >Real projects and assignments</p>
+        <p class="about-para-color-heading h4 pt-4" >Real projects and assignments</p>
         <p class="school-para pe-md-4 text-white pt-2"> that are fun. We help you build products that can add value to
           the community. </p>
-        <p class="about-para-color-heading pt-4" >Lifetime networks</p>
+        <p class="about-para-color-heading h4 pt-4" >Lifetime networks</p>
         <p class="school-para pe-md-4 text-white pt-2"> with industry professionals and like-minded individuals allow
           you to test your boundaries. </p>
-        <p class="about-para-color-heading pt-4" >Easy access</p>
+        <p class="about-para-color-heading h4 pt-4" >Easy access</p>
         <p class="school-para pe-md-4 text-white pt-2">to the best content from anywhere in the world. </p>
-        <p class="about-para-color-heading pt-4" >Placement support</p>
+        <p class="about-para-color-heading h4 pt-4" >Placement support</p>
         <p class="school-para pe-md-4 text-white pt-2">to help you get your dream job at leading companies through our
           extensive corporate network.</p>
       </div>
