@@ -13,13 +13,13 @@ include_once("../includes/header.php");
 <section class="top-pagespace"></section>
 <!-- top-space -->
 <!-- hire banner section started -->
-<section class="bg-hire bg-Coursepg position-relative pt-2 mt-2">
+<section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
   <div class="container">
     <div class="row py-md-4 align-items-center">
       <div class="col-lg-6 text-md-start text-center">
         <div class="row align-items-center my-3">
           <div class="col-md-3 d-none d-md-block">
-            <div class="icon-sCourse text-center">
+            <div class="icon-scourse text-center">
               <i class="fas fa-code"></i>
             </div>
           </div>
@@ -31,9 +31,9 @@ include_once("../includes/header.php");
         </div>
         <p>
         <ul class="mx-3">
-          <li class="Course-toppara my-1">100% Placement Guarantee</li>
-          <li class="Course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
-          <li class="Course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
+          <li class="course-toppara my-1">100% Placement Guarantee</li>
+          <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
+          <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
         </ul>
         </p>
         <p class="school-para pt-3 d-none d-md-block">
@@ -245,7 +245,7 @@ include_once("../includes/header.php");
     <div class="row pt-5 px-3 justify-content-center bg-criteria__content">
       <div class="col-md-12 pb-5 text-center">
         <h4 class="text-center top-head">Minimum Criteria</h4>
-        <p class="school-para text-center">You should meet the following requirements to be eligible for this Course.
+        <p class="school-para text-center">You should meet the following requirements to be eligible for this ourse.
         </p>
       </div>
       <div class="col-12 col-md-4 mb-5 px-2">
@@ -327,32 +327,32 @@ include_once("../includes/header.php");
     </div>
     <div class="row">
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="Course-boxes-icon text-center m-auto row">
-          <div class="icon-Coursessymbol">
+        <div class="course-boxes-icon text-center m-auto row">
+          <div class="icon-coursessymbol">
             <i class="fa-solid fa-chalkboard"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">8+ Phases</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="Course-boxes-icon text-center m-auto row">
-          <div class="icon-Coursessymbol">
+        <div class="course-boxes-icon text-center m-auto row">
+          <div class="icon-coursessymbol">
             <i class="fa-solid fa-chalkboard-user"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">60+ topics</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="Course-boxes-icon text-center m-auto row">
-          <div class="icon-Coursessymbol">
+        <div class="course-boxes-icon text-center m-auto row">
+          <div class="icon-coursessymbol">
             <i class="fas fa-grip-lines"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">100+ Assignments</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4 text-center d-flex  align-self-stretch">
-        <div class="Course-boxes-icon text-center m-auto row">
-          <div class="icon-Coursessymbol">
+        <div class="course-boxes-icon text-center m-auto row">
+          <div class="icon-coursessymbol">
             <i class="fa-solid fa-laptop-file"></i>
           </div>
           <p class="mb-0 icontitle-head pt-3">30+ Projects</p>
@@ -1064,7 +1064,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                 <h4 class="top-head-faq mb-0">
-                  Why React Framework is taught or preferred in this Course?
+                  Why React Framework is taught or preferred in this course?
                 </h4>
               </button>
             </h3>
@@ -1119,12 +1119,12 @@ include_once("../includes/header.php");
                 <p class="school-para mb-0">
                   <strong>Academic Qualification</strong>: You can apply if you have either completed your graduation in
                   any stream after 2015 or currently pursuing in your final year.</br>
-                  <strong>English proficiency</strong>: This Course mode of delivery is in English; you should be
+                  <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
                   able to follow instructions in English.</br>
                   <strong>Interest & Commitment</strong>: Anyone who is passionate about learning Full Stack
                   Development. You should be able to commit a minimum of 2-3 hours of program commitment on weekdays and
                   a few more hours on Weekends for Assignments and Projects completion.</br>
-                  <strong>Available to work after the program</strong>: The objective of this Course is to skill up and
+                  <strong>Available to work after the program</strong>: The objective of this course is to skill up and
                   get placed, hence you should be available to take a job after completion of this program.</br>
 
                 </p>
@@ -1201,7 +1201,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The Course duration takes on an average of 7 months. If you are not able to complete the program
+                  The course duration takes on an average of 7 months. If you are not able to complete the program
                   within the stipulated time, after the one-on-one review, we may consider batch shifting or program
                   extensions based on the discussion.
                 </p>
@@ -1213,7 +1213,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
                 <h4 class="top-head-faq mb-0">
-                  Will there be any possibility that the Course might be extended beyond the given stipulated time?
+                  Will there be any possibility that the course might be extended beyond the given stipulated time?
                 </h4>
               </button>
             </h3>
@@ -1222,7 +1222,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The Course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
+                  The course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
                   personal reasons, we may extend the dates. However, this would be done with a proper intimation to the
                   batch and based on the custom plan the progress will be intimated to all the students. We do this to
                   ensure that none of the candidates are missed out on the pace of the program.
@@ -1259,7 +1259,7 @@ include_once("../includes/header.php");
                   Data Arrangements - 5 Questions</br>
                   Data Interpretation - 5 Questions</br>
                   </br>
-                  Note: Below 40%, you will not be accepted for the Course for this batch. You may re-apply for the
+                  Note: Below 40%, you will not be accepted for the course for this batch. You may re-apply for the
                   next batch.
 
                 </p>
