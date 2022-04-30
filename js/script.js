@@ -298,3 +298,5 @@ $('a[href="#pricing"]').click(function () {
 });
 
 $('#lead-form').parsley();
+$('#popup-form').parsley();
+$('#scroll-form').parsley();

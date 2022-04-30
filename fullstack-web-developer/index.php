@@ -65,7 +65,7 @@ include_once("../includes/header.php");
               <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
                 placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
                 data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
-                data-parsley-minlength="10" data-parsley-maxlength="10" />
+                data-parsley-minlength="10" data-parsley-maxlength="11" />
             </div>
             <input type="hidden" name="_webhook"
               value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
@@ -515,7 +515,7 @@ include_once("../includes/header.php");
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
                 <h5 class="trainingform-head pb-3">I'm Interested</h5>
-                <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
+                <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="popup-form">
                   <div class="mb-3">
                     <label for="fullName" class="form-label">Full Name*</label>
                     <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
@@ -531,7 +531,9 @@ include_once("../includes/header.php");
                   <div class="mb-3">
                     <label for="mobile" class="form-label">Mobile Number*</label>
                     <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                      placeholder="Enter Your Mobile Number" name="phone" required />
+                      placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
+                      data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
+                      data-parsley-minlength="10" data-parsley-maxlength="11" />
                   </div>
                   <input type="hidden" name="_webhook"
                     value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
@@ -942,7 +944,7 @@ include_once("../includes/header.php");
           <div class="sidebar">
             <div class="training-form bg-white p-md-5 p-3">
               <h2 class="trainingform-head pb-3">Request A Callback</h2>
-              <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
+              <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="scroll-form">
                 <div class="mb-3">
                   <label for="fullName" class="form-label">Full Name*</label>
                   <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
@@ -958,7 +960,9 @@ include_once("../includes/header.php");
                 <div class="mb-3">
                   <label for="mobile" class="form-label">Mobile Number*</label>
                   <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                    placeholder="Enter Your Mobile Number" name="phone" required />
+                    placeholder="Enter Your Mobile Number" name="phone" required data-parsley-trigger="keyup"
+                    data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
+                    data-parsley-minlength="10" data-parsley-maxlength="11" />
                 </div>
                 <input type="hidden" name="_webhook"
                   value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
