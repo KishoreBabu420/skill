@@ -123,7 +123,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-lg-5 pb-lg-5">
       <div class="col-md-12 text-center pb-md-5 pb-4">
-        <h1 class="top-head pb-3">What You'll learn</h1>
+        <h2 class="top-head pb-3">What You'll learn</h2>
         <div class="what-will-list pt-4 pb-4">
           <ul class="learn-list">
             <li><span class="bg-shade">
@@ -144,7 +144,7 @@ include_once("../includes/header.php");
 
       <div class="col-md-6 ps-5">
         <div class="row align-items-center">
-          <h1 class="top-head pb-3">Key Takeaways</h1>
+          <h2 class="top-head pb-3">Key Takeaways</h2>
 
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
@@ -159,7 +159,8 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" Loading = "lazy" alt="full stack developer " Loading = "lazy" title="">
+              <img src="images/yellow-line.png" class="img-fluid" Loading="lazy" alt="full stack developer "
+                Loading="lazy" title="">
             </div>
           </div>
         </div>
@@ -178,7 +179,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" Loading = "lazy" alt="fullstack event" title="">
+              <img src="images/yellow-line.png" class="img-fluid" Loading="lazy" alt="fullstack event" title="">
             </div>
           </div>
         </div>
@@ -197,7 +198,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" Loading = "lazy" alt="full stack developer" title="">
+              <img src="images/yellow-line.png" class="img-fluid" Loading="lazy" alt="full stack developer" title="">
             </div>
           </div>
         </div>
@@ -218,7 +219,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
-          class="img-fluid w-100" Loading = "lazy" alt="full stack development" title="">
+          class="img-fluid w-100" Loading="lazy" alt="full stack development" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
@@ -303,7 +304,7 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004355/website/trainers/anusha_qq9vjn.png"
-                class="img-fluid" Loading = "lazy" alt=" full stack trainer" title="">
+                class="img-fluid" Loading="lazy" alt=" full stack trainer" title="">
               <p class="trainee-headtitle text-center pt-3 mb-0">Anusha G</p>
               <p class="school-para text-center pt-2">Data Scientist & ML/DL Expert </p>
               <p class="school-para text-center">IIT Bombay Alumni </p>
@@ -324,7 +325,7 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
-                class="img-fluid" alt="fullstack trainer 2" Loading = "lazy" title="">
+                class="img-fluid" alt="fullstack trainer 2" Loading="lazy" title="">
               <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
@@ -345,7 +346,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class="col-md-12 pt-md-5 pb-5">
-        <h1 class="top-head text-center">Yes you will be certified with this program</h1>
+        <h2 class="top-head text-center">Yes you will be certified with this program</h2>
         <p class="top-para text-center ">Yes! You will be certified for this program once you submit your assignment.
         </p>
       </div>
@@ -386,7 +387,7 @@ include_once("../includes/header.php");
       <div class="col-md-5 pt-4">
         <img
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-          class="img-fluid" alt="full stack pay after placement" Loading = "lazy" title="">
+          class="img-fluid" alt="full stack pay after placement" Loading="lazy" title="">
       </div>
     </div>
     <div class="row text-center">
@@ -403,16 +404,16 @@ include_once("../includes/header.php");
   <div class="container pt-5">
     <div class="row pt-5">
       <div class="col-md-12 pt-md-5">
-        <h1 class="top-head text-center pb-4">FAQ</h1>
+        <h2 class="top-head text-center pb-4">FAQ</h2>
 
         <div class="accordion" id="accordionExample">
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingOne">
+            <h3 class="accordion-header" id="headingOne">
               <button class="accordion-button  pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                <h1 class="top-head-faq mb-0">What is this workshop about?</h1>
+                <h4 class="top-head-faq mb-0">What is this workshop about?</h4>
               </button>
-            </h2>
+            </h3>
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
@@ -422,13 +423,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingTwo">
+            <h3 class="accordion-header" id="headingTwo">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                <h1 class="top-head-faq mb-0">What is the minimum system requirement needed? Do I need to install any
-                  extra software?</h1>
+                <h4 class="top-head-faq mb-0">What is the minimum system requirement needed? Do I need to install any
+                  extra software?</h4>
               </button>
-            </h2>
+            </h3>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
@@ -439,12 +440,12 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingThree">
+            <h3 class="accordion-header" id="headingThree">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                <h1 class="top-head-faq mb-0">Who this webinar is for?</h1>
+                <h4 class="top-head-faq mb-0">Who this webinar is for?</h4>
               </button>
-            </h2>
+            </h3>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
@@ -454,12 +455,12 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFour">
+            <h3 class="accordion-header" id="headingFour">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                <h1 class="top-head-faq mb-0">What will I get out of this webinar?</h1>
+                <h4 class="top-head-faq mb-0">What will I get out of this webinar?</h4>
               </button>
-            </h2>
+            </h3>
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
@@ -469,12 +470,12 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingFive">
+            <h3 class="accordion-header" id="headingFive">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                <h1 class="top-head-faq mb-0">Do I have to pay for this webinar?</h1>
+                <h4 class="top-head-faq mb-0">Do I have to pay for this webinar?</h4>
               </button>
-            </h2>
+            </h3>
             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
@@ -483,12 +484,12 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="accordion-item mb-3 p-4">
-            <h2 class="accordion-header" id="headingSix">
+            <h3 class="accordion-header" id="headingSix">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                <h1 class="top-head-faq mb-0">Will I get any certification for this webinar?</h1>
+                <h4 class="top-head-faq mb-0">Will I get any certification for this webinar?</h4>
               </button>
-            </h2>
+            </h3>
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">

@@ -514,7 +514,7 @@ include_once("../includes/header.php");
             <div class="modal-body">
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
               <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
-                <h1 class="trainingform-head pb-3">I'm Interested</h1>
+                <h5 class="trainingform-head pb-3">I'm Interested</h5>
                 <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST">
                   <div class="mb-3">
                     <label for="fullName" class="form-label">Full Name*</label>
