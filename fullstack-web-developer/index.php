@@ -2,7 +2,7 @@
 
 $title = "Full Stack Web Developer Course - 100% Job Guarantee Program";
 
-$description = "Full Stack Developer Program of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
+$description = "Full Stack Developer course of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
 
 $keywords = "";
 
@@ -1119,12 +1119,12 @@ include_once("../includes/header.php");
                 <p class="school-para mb-0">
                   <strong>Academic Qualification</strong>: You can apply if you have either completed your graduation in
                   any stream after 2015 or currently pursuing in your final year.</br>
-                  <strong>English proficiency</strong>: This program’s mode of delivery is in English; you should be
+                  <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
                   able to follow instructions in English.</br>
                   <strong>Interest & Commitment</strong>: Anyone who is passionate about learning Full Stack
                   Development. You should be able to commit a minimum of 2-3 hours of program commitment on weekdays and
                   a few more hours on Weekends for Assignments and Projects completion.</br>
-                  <strong>Available to work after the program</strong>: The objective of this program is to skill up and
+                  <strong>Available to work after the program</strong>: The objective of this course is to skill up and
                   get placed, hence you should be available to take a job after completion of this program.</br>
 
                 </p>
@@ -1201,7 +1201,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The program duration takes on an average of 7 months. If you are not able to complete the program
+                  The course duration takes on an average of 7 months. If you are not able to complete the program
                   within the stipulated time, after the one-on-one review, we may consider batch shifting or program
                   extensions based on the discussion.
                 </p>
@@ -1213,7 +1213,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
                 <h4 class="top-head-faq mb-0">
-                  Will there be any possibility that the program might be extended beyond the given stipulated time?
+                  Will there be any possibility that the course might be extended beyond the given stipulated time?
                 </h4>
               </button>
             </h3>
@@ -1222,7 +1222,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The program will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
+                  The course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
                   personal reasons, we may extend the dates. However, this would be done with a proper intimation to the
                   batch and based on the custom plan the progress will be intimated to all the students. We do this to
                   ensure that none of the candidates are missed out on the pace of the program.
@@ -1259,7 +1259,7 @@ include_once("../includes/header.php");
                   Data Arrangements - 5 Questions</br>
                   Data Interpretation - 5 Questions</br>
                   </br>
-                  Note: Below 40%, you will not be accepted for the program for this batch. You may re-apply for the
+                  Note: Below 40%, you will not be accepted for the course for this batch. You may re-apply for the
                   next batch.
 
                 </p>
@@ -1328,7 +1328,7 @@ include_once("../includes/header.php");
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
                 <h4 class="top-head-faq mb-0">
-                  What does our Full-Stack Developer program teach you? </h4>
+                  What does our Full Stack Developer course teach you? </h4>
               </button>
             </h3>
 
@@ -1336,7 +1336,7 @@ include_once("../includes/header.php");
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <p class="school-para mb-0">
-                  The Full-Stack Developer program enables you to build an interactive and responsive application using
+                  The Full Stack Developer course enables you to build an interactive and responsive application using
                   both front-end and back-end technologies. It covers the fundamentals of JavaScript and Advanced
                   JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS. Also,
                   it provides knowledge to test and deploy code and store data using MongoDB. </p>
