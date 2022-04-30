@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>STARTS 1ST MAY 2022</span></h4>
+        <p class="date-sec"><span>Coming Soon</span></p>
         <h1 class="top-head  pt-3">Build a Quiz Application LIVE </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -22,13 +22,13 @@ include_once("../includes/header.php");
           already have developed an application all by yourself, so there will be enough proof of whether you can code
           or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Register</a>
+          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
           <img class="w-100"
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader1_wejqx8.png"
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader1_wejqx8.png" Loading = "lazy"
             alt="Fullstack Event">
         </div>
       </div>
@@ -37,29 +37,29 @@ include_once("../includes/header.php");
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
-              <h6 class="small-highlight pt-2">Date</h6>
-              <h3 class="mini-boxhead">1st May 2022</h3>
+              <p class="small-highlight pt-2">Date</p>
+              <p class="mini-boxhead">Coming Soon</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-tools"></i>
-              <h6 class="small-highlight pt-2">Total Duration</h6>
-              <h3 class="mini-boxhead">2 Hours Live</h3>
+              <p class="small-highlight pt-2">Total Duration</p>
+              <p class="mini-boxhead">2 Hours Live</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-video"></i>
-              <h6 class="small-highlight pt-2">Time</h6>
-              <h3 class="mini-boxhead">8PM to 10PM</h3>
+              <p class="small-highlight pt-2">Time</p>
+              <p class="mini-boxhead">8PM to 10PM</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clipboard-list"></i>
-              <h6 class="small-highlight pt-2">Bonuses Worth</h6>
-              <h3 class="mini-boxhead">Free Certification</h3>
+              <p class="small-highlight pt-2">Bonuses Worth</p>
+              <p class="mini-boxhead">Free Certification</p>
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@ include_once("../includes/header.php");
       <div class="col-xl-8 col-md-12 col-11 bbs">
         <div class="row align-items-center">
           <div class="col-md-2 col-12 text-center text-md-start pt-3 pt-md-0">
-            <h4 class="closesin mb-0">Closes In</h4>
+            <p class="closesin mb-0">Closes In</p>
           </div>
           <div class="col-md-7 col-12 pt-4 pt-md-0">
             <div class="timecounter-new">
@@ -149,7 +149,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Who is a Full Stack Web Developer?</h6>
+            <p class="timeline-head">Who is a Full Stack Web Developer?</p>
             <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.
             </p>
           </div>
@@ -157,7 +157,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" alt="full stack event" Loading = "lazy" title="">
             </div>
           </div>
         </div>
@@ -169,7 +169,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Roadmap to become a Full Stack Web Developer</h6>
+            <p class="timeline-head">Roadmap to become a Full Stack Web Developer</p>
             <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn
               different technologies, frameworks, libraries and VCS</p>
           </div>
@@ -177,7 +177,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" alt="full stack event 2" Loading = "lazy" title="">
             </div>
           </div>
         </div>
@@ -189,7 +189,7 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Try building your application</h6>
+            <p class="timeline-head">Try building your application</p>
             <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an
               application is developed and launched.</p>
           </div>
@@ -197,7 +197,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" alt="fullstack event" title="">
             </div>
           </div>
         </div>
@@ -209,18 +209,18 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Brief Introduction of courses offered by Skill Safari</h6>
+            <p class="timeline-head">Brief Introduction of courses offered by Skill Safari</p>
             <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
           </div>
         </div>
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
-          class="img-fluid w-100" alt="" title="">
+          class="img-fluid w-100" alt="fullstack event page" Loading = "lazy" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Register</a>
+          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
         </div>
       </div>
     </div>
@@ -281,7 +281,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Apply Now</a>
+          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
         </div>
       </div>
     </div>
@@ -293,7 +293,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
-        <h2 class="top-head  pt-md-3 pb-4">Meet Your Trainers</h2>
+        <h6 class="top-head  pt-md-3 pb-4">Meet Your Trainers</h6>
       </div>
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
@@ -301,8 +301,8 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                class="img-fluid" alt="" title="">
-              <h6 class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</h6>
+                class="img-fluid" alt="full stack trainer" Loading = "lazy" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</p>
               <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
 
             </div>
@@ -322,8 +322,8 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
-                class="img-fluid" alt="" title="">
-              <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
+                class="img-fluid" alt="fullstack mern trainer" Loading = "lazy" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
             <div class="col-md-8">
@@ -343,7 +343,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class="col-md-12 pt-md-5 pb-5">
-        <h1 class="top-head text-center">Yes you will be certified with this program</h1>
+        <p class="top-head text-center">Yes you will be certified with this program</p>
         <p class="top-para text-center ">Yes! You will be certified for this program once you submit your assignment.
         </p>
       </div>
@@ -354,7 +354,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-shield-alt"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Official and Verified</h5>
+              <p class="cer-head w-100">Official and Verified</p>
               <p class="school-para">Receive an instructor signed certificate with institution’s logo to verify your
                 achievements and increase your job prospects.</p>
             </div>
@@ -364,7 +364,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-share-alt"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Easily Shareable</h5>
+              <p class="cer-head w-100">Easily Shareable</p>
               <p class="school-para">Add the certificate to your CV or your Resume or post it directly on LInkedin. You
                 can even post it on instagram and twitter.</p>
             </div>
@@ -374,7 +374,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-lock"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Enhances Credibility</h5>
+              <p class="cer-head w-100">Enhances Credibility</p>
               <p class="school-para">Use your certificate to enhance your professional credibility and stand out among
                 your peers!</p>
             </div>
@@ -384,13 +384,13 @@ include_once("../includes/header.php");
       <div class="col-md-5 pt-4">
         <img
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-          class="img-fluid" alt="certificate" title="">
+          class="img-fluid" alt="certificate" Loading = "lazy" title="">
       </div>
     </div>
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
     <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://meet.zoho.in/Yp11TlqNDh" class="text-decoration-none" target="_blank">Apply Now</a>
+        <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting list</a>
       </div>
     </div>
 
@@ -402,7 +402,7 @@ include_once("../includes/header.php");
   <div class="container pt-5">
     <div class="row pt-5">
       <div class="col-md-12 pt-md-5">
-        <h1 class="top-head text-center pb-4">FAQ</h1>
+        <h4 class="top-head text-center pb-4">FAQ</h4>
 
         <div class="accordion" id="accordionExample">
           <div class="accordion-item mb-3 p-4">

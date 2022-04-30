@@ -31,7 +31,7 @@ include_once("../includes/header.php");
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
           <img class="w-100"
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeadet3_uz3fuz.png"
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeadet3_uz3fuz.png" Loading = "lazy"
             alt="Fullstack Event">
         </div>
       </div>
@@ -40,28 +40,28 @@ include_once("../includes/header.php");
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
-              <h6 class="small-highlight pt-2">Date</h6>
+              <p class="small-highlight pt-2">Date</p>
               <h3 class="mini-boxhead">29th April 2022</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-tools"></i>
-              <h6 class="small-highlight pt-2">Total Duration</h6>
+              <p class="small-highlight pt-2">Total Duration</p>
               <h3 class="mini-boxhead">2 Hours Live</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-video"></i>
-              <h6 class="small-highlight pt-2">Time</h6>
+              <p class="small-highlight pt-2">Time</p>
               <h3 class="mini-boxhead">7PM to 9PM</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clipboard-list"></i>
-              <h6 class="small-highlight pt-2">Bonuses Worth</h6>
+              <p class="small-highlight pt-2">Bonuses Worth</p>
               <h3 class="mini-boxhead">Free Certification</h3>
             </div>
           </div>
@@ -73,7 +73,7 @@ include_once("../includes/header.php");
       <div class="col-xl-8 col-md-12 col-11 bbs">
         <div class="row align-items-center">
           <div class="col-md-2 col-12 text-center text-md-start pt-3 pt-md-0">
-            <h4 class="closesin mb-0">Closes In</h4>
+            <p class="closesin mb-0">Closes In</p>
           </div>
           <div class="col-md-7 col-12 pt-4 pt-md-0">
             <div class="timecounter-new">
@@ -155,13 +155,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Trending Technologies</h6>
+            <p class="timeline-head">Trending Technologies</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" alt="full stack developer" Loading = "lazy" title="">
             </div>
           </div>
         </div>
@@ -173,13 +173,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Recruitment Patterns</h6>
+            <p class="timeline-head">Recruitment Patterns</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" alt="" title="">
+              <img src="images/yellow-line.png" class="img-fluid" alt="mern stack " Loading = "lazy" title="">
             </div>
           </div>
         </div>
@@ -191,13 +191,13 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">A promising career path</h6>
+            <p class="timeline-head">A promising career path</p>
           </div>
         </div>
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
-          class="img-fluid w-100" alt="" title="">
+          class="img-fluid w-100"Loading = "lazy" alt="mern stack developer" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
@@ -282,8 +282,8 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004278/website/trainers/shalini_xu5lue.png"
-                class="img-fluid" alt="" title="">
-              <h6 class="trainee-headtitle text-center pt-3 mb-0">Shalini Kannan</h6>
+                class="img-fluid" Loading = "lazy" alt="trainer" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Shalini Kannan</p>
               <p class="school-para text-center pt-2">Associate - Corporate Relations </p>
 
             </div>
@@ -303,8 +303,8 @@ include_once("../includes/header.php");
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
-                class="img-fluid" alt="" title="">
-              <h6 class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</h6>
+                class="img-fluid" alt="full stack trainer" Loading = "lazy" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
             <div class="col-md-8">
@@ -326,7 +326,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class="col-md-12 pt-md-5 pb-5">
-        <h1 class="top-head text-center">Yes you will be certified with this program</h1>
+        <h6 class="top-head text-center">Yes you will be certified with this program</h6>
         <p class="top-para text-center ">Yes! You will be certified for this program once you submit your assignment.
         </p>
       </div>
@@ -337,7 +337,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-shield-alt"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Official and Verified</h5>
+              <p class="cer-head w-100">Official and Verified</p>
               <p class="school-para">Receive an instructor signed certificate with institution’s logo to verify your
                 achievements and increase your job prospects.</p>
             </div>
@@ -347,7 +347,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-share-alt"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Easily Shareable</h5>
+              <p class="cer-head w-100">Easily Shareable</p>
               <p class="school-para">Add the certificate to your CV or your Resume or post it directly on LInkedin. You
                 can even post it on instagram and twitter.</p>
             </div>
@@ -357,7 +357,7 @@ include_once("../includes/header.php");
               <div class="s-ov"><i class="fas fa-lock"></i></div>
             </div>
             <div class="col-lg-10 col-10">
-              <h5 class="cer-head w-100">Enhances Credibility</h5>
+              <p class="cer-head w-100">Enhances Credibility</p>
               <p class="school-para">Use your certificate to enhance your professional credibility and stand out among
                 your peers!</p>
             </div>
@@ -367,7 +367,7 @@ include_once("../includes/header.php");
       <div class="col-md-5 pt-4">
         <img
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-          class="img-fluid" alt="" title="">
+          class="img-fluid" Loading = "lazy" alt="fullstack certificate" title="">
       </div>
     </div>
     <div class="row text-center">

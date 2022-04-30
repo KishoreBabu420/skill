@@ -2597,3 +2597,8 @@ width: unset!important;
   width: 100%;
   padding: 1rem;
 }
+.about-para-color-heading
+{
+  color:#fbbf40;
+  font-weight: 600;
+}

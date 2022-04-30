@@ -22,7 +22,7 @@ include_once("includes/header.php");
         </div>
       </div>
       <div class="col-md-7 pb-5 b-img">
-        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/laptop_cpzera.jpg" class="img-fluid w-100" alt="about us" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/laptop_cpzera.jpg" class="img-fluid w-100" Loading = "lazy" alt="about us" title="">
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class="col-md-12 ">
-        <h2 class="top-head text-white text-center">But first, let us tell you a little about who we are </h2>
+        <p class="top-head text-white text-center">But first, let us tell you a little about who we are </p>
         <p class="para-top pt-4">Skill Safari is a skill enhancement and training company that set out to nurture the
           skills of young students and Re-Skill professionals in web development and design. We are an E-Learning
           platform
@@ -58,8 +58,8 @@ include_once("includes/header.php");
   <div class="container pt-md-5 pb-5">
     <div class="row pt-5 pb-5 align-items-center">
       <div class="col-md-3 text-center text-md-start">
-        <h2 class="top-head pt-4 pt-lg-0">Our mission is to </h2>
-        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136607/website/aboutus/targetarrow_g9i8ob.png" class="img-fluid d-none d-md-block" alt="about us image" title="">
+        <p class="top-head pt-4 pt-lg-0">Our mission is to </p>
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136607/website/aboutus/targetarrow_g9i8ob.png" class="img-fluid d-none d-md-block" alt="about us image" Loading = "lazy" title="">
       </div>
       <div class="col-md-9 pt-4 pt-md-0">
         <div class="row">
@@ -103,7 +103,7 @@ include_once("includes/header.php");
   <div class="container pb-5">
     <div class="row justify-content-center pb-5">
       <div class="col-md-8 text-center ">
-        <h1 class="top-head pt-lg-5 text-center">Retracing our steps into the past </h1>
+        <p class="top-head pt-lg-5 text-center">Retracing our steps into the past </p>
         <p class="top-para text-grey">Here's a brief timeline to show you exactly how we grew into what we are today.
         </p>
         <div class="d-block d-md-none">
@@ -329,13 +329,13 @@ include_once("includes/header.php");
   <div class="container pt-md-5 pb-5">
     <div class="row pt-5 pb-5 align-items-center">
       <div class="col-md-5 text-center text-md-start">
-        <h2 class="top-head text-white pt-4 pt-lg-0">Now, you might be wondering why you need Skill Safari </h2>
+        <p class="top-head text-white pt-4 pt-lg-0">Now, you might be wondering why you need Skill Safari </p>
         <div class="text-center "><img src="images/pliline.png" class="img-fluid text-end"></div>
       </div>
       <div class="col-md-7 pt-4 pt-md-0 ">
-        <h4 class="text-white text-center text-md-start">
+        <p class="text-white text-center text-md-start">
           Because the sad reality of online education in India is:
-        </h4>
+        </p>
         <div class="row pt-5">
           <div class="col-md-4 mb-md-5 mb-2">
             <img src="images/smilie1.png" Loading = "lazy" class="img-fluid" alt="" title="">
@@ -362,28 +362,28 @@ include_once("includes/header.php");
     </div>
     <div class="row pt-md-5 pb-5 align-items-center">
       <div class="col-md-5">
-        <h2 class="top-head text-white pt-lg-0 mb-0">So, here's what we offer </h2>
+        <p class="top-head text-white pt-lg-0 mb-0">So, here's what we offer </p>
         <div class="text-center d-none d-md-block"><img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136948/website/aboutus/pliline1_thandd.png" class="img-fluid text-end"></div>
       </div>
       <div class="col-md-7 pt-4 pt-md-0">
-        <h4 style="color:#fbbf40;">Quality content</h4>
+        <p class="about-para-color-heading">Quality content</p>
         <p class="school-para pe-md-4 text-white pt-2">that guarantees success and is up to date with the right tech
           developments.</p>
-        <h4 style="color:#fbbf40;" class="pt-4">Live interactive sessions</h4>
+        <p class="about-para-color-heading pt-4" >Live interactive sessions</p>
         <p class="school-para pe-md-4 text-white pt-2">with expert guidance the students can participate and have fun
           while they learn.</p>
-        <h4 style="color:#fbbf40;" class="pt-4">Encouraging mentors</h4>
+        <p class="about-para-color-heading pt-4" >Encouraging mentors</p>
         <p class="school-para pe-md-4 text-white pt-2"> who give you personalised feedback and build a long-term
           relationship with you to support your growth. </p>
-        <h4 style="color:#fbbf40;" class="pt-4">Real projects and assignments</h4>
+        <p class="about-para-color-heading pt-4" >Real projects and assignments</p>
         <p class="school-para pe-md-4 text-white pt-2"> that are fun. We help you build products that can add value to
           the community. </p>
-        <h4 style="color:#fbbf40;" class="pt-4">Lifetime networks</h4>
+        <p class="about-para-color-heading pt-4" >Lifetime networks</p>
         <p class="school-para pe-md-4 text-white pt-2"> with industry professionals and like-minded individuals allow
           you to test your boundaries. </p>
-        <h4 style="color:#fbbf40;" class="pt-4">Easy access</h4>
+        <p class="about-para-color-heading pt-4" >Easy access</p>
         <p class="school-para pe-md-4 text-white pt-2">to the best content from anywhere in the world. </p>
-        <h4 style="color:#fbbf40;" class="pt-4">Placement support</h4>
+        <p class="about-para-color-heading pt-4" >Placement support</p>
         <p class="school-para pe-md-4 text-white pt-2">to help you get your dream job at leading companies through our
           extensive corporate network.</p>
       </div>
@@ -395,7 +395,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row pt-5 pb-5">
       <div class="col-md-12 text-center pb-5">
-        <h1 class="top-head">Our Methodology </h1>
+        <p class="top-head">Our Methodology </p>
         <p class="top-para text-grey">We implement one of the most effective learning methodologies of Outcome-Based
           Learning (OBL) in our courses. This approach involves: </p>
       </div>
@@ -404,7 +404,7 @@ include_once("includes/header.php");
           <div class="text-center pb-4">
             <img src="images/cp1.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
-          <h4 class="text-center">Collaboration </h4>
+          <p class="text-center h4">Collaboration </p>
           <p class="school-para pt-3">
             Where students have the opportunity to talk and learn with their peers and industry experts on significant
             projects.
@@ -416,7 +416,7 @@ include_once("includes/header.php");
           <div class="text-center pb-4">
             <img src="images/cp2.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
-          <h4 class="text-center">Real-time </h4>
+          <p class="text-center h4">Real-time </p>
           <p class="school-para pt-3">
             As all our sessions are live, students won't have to sit through one-way monologues and can contribute their
             ideas and opinions in each session effectively.
@@ -428,7 +428,7 @@ include_once("includes/header.php");
           <div class="text-center pb-4">
             <img src="images/cp3.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
-          <h4 class="text-center">Goal-based </h4>
+          <p class="text-center h4">Goal-based </p>
           <p class="school-para pt-3">
             We encourage our learners to set short and long-term goals to evaluate their progress over time. This also
             helps them set down plans to achieve their goals.
@@ -440,7 +440,7 @@ include_once("includes/header.php");
           <div class="text-center pb-4">
             <img src="images/cp4.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
-          <h4 class="text-center">Accountability </h4>
+          <p class="text-center h4">Accountability </p>
           <p class="school-para pt-3">
             Our approach also offers quality measures, metrics or performance indicators that meet the needs of
             companies and institutions.
@@ -452,7 +452,7 @@ include_once("includes/header.php");
           <div class="text-center pb-4">
             <img src="images/cp5.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
-          <h4 class="text-center">Evaluation </h4>
+          <p class="text-center h4">Evaluation </p>
           <p class="school-para pt-3">
             We organise mini-projects, monthly assignments, PRT tests, mock interviews, quarterly reviews, and project
             discussions to make our student's learning process more wholesome and effective.
@@ -464,7 +464,7 @@ include_once("includes/header.php");
           <div class="text-center pb-4">
             <img src="images/cp6.png" Loading = "lazy" class="img-fluid" style="width: 80px;height: 80px;">
           </div>
-          <h4 class="text-center">Networking </h4>
+          <p class="text-center h4">Networking </p>
           <p class="school-para pt-3">
             We expose our students to complexity and open-ended meaning of development, allowing them to take their
             own approach to solve problems and create interdisciplinary connections.
@@ -474,42 +474,42 @@ include_once("includes/header.php");
     </div>
     <div class="row pb-md-5 justify-content-center">
       <div class="col-12 pb-5 text-center">
-        <h1 class="top-head">Our innovative and fun approach </h1>
+        <p class="top-head">Our innovative and fun approach </p>
         <p class="top-para text-grey">It helps us support our student's careers, which looks a little like this: </p>
 
       </div>
       <div class="col-md-4 mb-5 text-center ">
         <img src="images/sc1.png" class="img-fluid pe-md-5">
-        <h2 class="fw-bold pt-4 pe-md-5">Live Classes</h2>
+        <p class="fw-bold pt-4 h2 pe-md-5">Live Classes</p>
         <p class="school-para pt-3 pe-md-5">Classes that contain a mix of online theory and practical sessions. </p>
       </div>
       <div class="col-md-4 mb-5 text-center">
         <img src="images/sc2.png" class="img-fluid pe-md-5">
-        <h2 class="fw-bold pt-4 pe-md-5">Hands-On Sessions</h2>
+        <p class="fw-bold pt-4 h2 pe-md-5">Hands-On Sessions</p>
         <p class="school-para pt-3 pe-md-5">Where students will practically implement theory to gain expertise.</p>
       </div>
       <div class="col-md-4 mb-5 text-center">
         <img src="images/sc3.png" class="img-fluid pe-md-5">
-        <h2 class="fw-bold pt-4 pe-md-5"> Expert Feedback </h2>
+        <p class="fw-bold pt-4 h2 pe-md-5"> Expert Feedback </p>
         <p class="school-para pt-3 pe-md-5">Consistent review from industry experts on student projects and assignments.
         </p>
       </div>
       <div class="col-md-4 mb-5 text-center">
         <img src="images/sc4.png" class="img-fluid pe-md-5">
-        <h2 class="fw-bold pt-4 pe-md-5">Portfolio And Profile Building </h2>
+        <p class="fw-bold pt-4 h2 pe-md-5">Portfolio And Profile Building </p>
         <p class="school-para pt-3 pe-md-5">Students will learn to create attractive GitHub and Linkedin profiles and
           get ready for interviews. </p>
       </div>
       <div class="col-md-4 mb-5 text-center">
         <img src="images/sc5.png" class="img-fluid pe-md-5">
-        <h2 class="fw-bold pt-4 pe-md-5"> Getting <br> The Dream Job </h2>
+        <p class="fw-bold pt-4 h2 pe-md-5"> Getting <br> The Dream Job </p>
         <p class="school-para pt-3 pe-md-5">Students will start interacting with a range of potential employers through
           placements at Skill Safari. </p>
       </div>
     </div>
     <div class="row pt-md-5 pb-5 justify-content-center">
       <div class="col-md-6">
-        <h2 class="top-head pt-lg-0 pe-md-5">We believe in innovation and growth </h2>
+        <p class="top-head pt-lg-0 pe-md-5">We believe in innovation and growth </p>
         <p class="school-para pt-3 pe-md-5">
           Skill Safari is an E-Learning platform that is well versed with the latest technology and industry
           requirements. We design our various skill enhancement training modules to make them engaging and fun at every
@@ -518,13 +518,13 @@ include_once("includes/header.php");
       </div>
       <div class="col-md-4 pt-4 pt-md-0">
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0"> Full Stack (MERN) Web development </h4>
+          <p class="mb-0 h4"> Full Stack (MERN) Web development </p>
         </div>
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">Front End Web Development </h4>
+          <p class="mb-0 h4">Front End Web Development </p>
         </div>
         <div class="blueborder p-4 mb-4">
-          <h4 class="mb-0">Product Design</h4>
+          <p class="mb-0 h4">Product Design</p>
         </div>
       </div>
       <div class="col-md-8 text-center pt-5 mt-5 d-none">
