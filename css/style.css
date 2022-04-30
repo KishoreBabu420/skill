@@ -2260,14 +2260,6 @@ width: unset!important;
     flex-basis: 45% !important;
     max-width: 45% !important;
   }
-
-  .tech-logo-container {
-    padding: 0.5rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.5rem;
-  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2365,14 +2357,6 @@ width: unset!important;
     flex-basis: 25% !important;
     max-width: 25% !important;
   }
-
-  .tech-logo-container {
-    padding: 0.25rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.25rem;
-  }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -2388,40 +2372,17 @@ width: unset!important;
   .wrapper .nav-link {
     padding: 15px 35px !important;
   }
-
-  .tech-logo-container {
-    padding: 0.25rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.25rem;
-  }
 }
 
 @media (min-width: 1200px) and (max-width: 1499px) {
   .bg-lineball {
     background-size: contain !important;
   }
-  .tech-logo-container {
-    padding: 0.25rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.25rem;
-  }
 }
 
 @media (min-width: 1500px) and (max-width: 3000px) {
   .bg-lineball {
     background-size: cover !important;
-  }
-
-  .tech-logo-container {
-    padding: 0.25rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.25rem;
   }
 }
 
@@ -2432,14 +2393,6 @@ width: unset!important;
   .container-sm,
   .container-xl {
     max-width: 1250px !important;
-  }
-
-  .tech-logo-container {
-    padding: 0.25rem;
-  }
-
-  .tech-logo-container img {
-    padding: 0.25rem;
   }
 }
 
