@@ -52,19 +52,19 @@ include_once("../includes/header.php");
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
               <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                placeholder="Enter Your Full Name" />
+                placeholder="Enter Your Full Name" required />
             </div>
 
             <div class="mb-3">
               <label for="email" class="form-label">Email Address*</label>
               <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                placeholder="Enter Your Email ID" name="email" />
+                placeholder="Enter Your Email ID" name="email" required />
             </div>
 
             <div class="mb-3">
               <label for="mobile" class="form-label">Mobile Number*</label>
               <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                placeholder="Enter Your Mobile Number" name="phone" />
+                placeholder="Enter Your Mobile Number" name="phone" required />
             </div>
             <input type="hidden" name="_webhook"
               value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
@@ -87,6 +87,11 @@ include_once("../includes/header.php");
 <!-- hire banner section ended -->
 <section class="bg-smallicon-sec active" id="cd">
   <div class="container">
+    <div class="row">
+      <div class="col-md-12 pt-4 pb-2 text-center">
+        <h2 class="text-center top-head">Full Stack Developer course highlights</h2>
+      </div>
+    </div>
     <div class="row align-items-center pt-md-3 justify-content-center">
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
@@ -113,7 +118,7 @@ include_once("../includes/header.php");
               </g>
             </svg>
           </div>
-          <h5 class="icontitle-head pt-3">100% Placement Assurance</h5>
+          <p class="icontitle-head pt-3">100% Placement Assurance</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -314,7 +319,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5 justify-content-center">
       <div class="col-md-12 pb-5">
-        <h2 class="text-center top-head">MERN Stack Web Developer Bootcamp</h2>
+        <h2 class="text-center top-head">MERN Stack Developer course syllabus</h2>
       </div>
     </div>
     <div class="row">
@@ -354,35 +359,35 @@ include_once("../includes/header.php");
     <div class="row pt-3">
       <div class="col-12 col-md-6">
         <div class="row m-2">
-          <h4>Week 1-5</h4>
+          <p class="syllabus__week-title h4">Week 1-5</p>
           <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development using
             HTML, CSS. Version Control using Git & GitHub. </p>
         </div>
       </div>
       <div class="col-12 col-md-6">
         <div class="row m-2">
-          <h4>Week 6-10</h4>
+          <p class="syllabus__week-title h4">Week 6-10</p>
           <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and Algorithms,
             JavaScript on the browser.</p>
         </div>
       </div>
       <div class="col-12 col-md-6">
         <div class="row m-2">
-          <h4>Week 11-15</h4>
+          <p class="syllabus__week-title h4">Week 11-15</p>
           <p>Advanced JavaScript, Working with DOM API & LocalStorage, Introduction to React and React Ecosystem, UI
             Libraries, Deployment & Unit Testing.</p>
         </div>
       </div>
       <div class="col-12 col-md-6">
         <div class="row m-2">
-          <h4>Week 16-20</h4>
+          <p class="syllabus__week-title h4">Week 16-20</p>
           <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
             Passport.js. </p>
         </div>
       </div>
       <div class="col-12 col-md-6">
         <div class="row m-2">
-          <h4>Week 21-24</h4>
+          <p class="syllabus__week-title h4">Week 21-24</p>
           <p>Profile building, Mock Interviews and profiles will be sent to partnered companies.</p>
         </div>
       </div>
@@ -514,19 +519,19 @@ include_once("../includes/header.php");
                   <div class="mb-3">
                     <label for="fullName" class="form-label">Full Name*</label>
                     <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                      placeholder="Enter Your Full Name" />
+                      placeholder="Enter Your Full Name" required />
                   </div>
 
                   <div class="mb-3">
                     <label for="email" class="form-label">Email Address*</label>
                     <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                      placeholder="Enter Your Email ID" name="email" />
+                      placeholder="Enter Your Email ID" name="email" required />
                   </div>
 
                   <div class="mb-3">
                     <label for="mobile" class="form-label">Mobile Number*</label>
                     <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                      placeholder="Enter Your Mobile Number" name="phone" />
+                      placeholder="Enter Your Mobile Number" name="phone" required />
                   </div>
                   <input type="hidden" name="_webhook"
                     value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
@@ -942,19 +947,19 @@ include_once("../includes/header.php");
                 <div class="mb-3">
                   <label for="fullName" class="form-label">Full Name*</label>
                   <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                    placeholder="Enter Your Full Name" />
+                    placeholder="Enter Your Full Name" required />
                 </div>
 
                 <div class="mb-3">
                   <label for="email" class="form-label">Email Address*</label>
                   <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                    placeholder="Enter Your Email ID" name="email" />
+                    placeholder="Enter Your Email ID" name="email" required />
                 </div>
 
                 <div class="mb-3">
                   <label for="mobile" class="form-label">Mobile Number*</label>
                   <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                    placeholder="Enter Your Mobile Number" name="phone" />
+                    placeholder="Enter Your Mobile Number" name="phone" required />
                 </div>
                 <input type="hidden" name="_webhook"
                   value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">

@@ -991,7 +991,7 @@ body {
 }
 
 .icontitle-head {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .course-boxes-icon {
@@ -2597,9 +2597,8 @@ width: unset!important;
   width: 100%;
   padding: 1rem;
 }
-.about-para-color-heading
-{
-  color:#fbbf40;
+.about-para-color-heading {
+  color: #fbbf40;
   font-weight: 600;
   font-size: 1.25rem;
 }
