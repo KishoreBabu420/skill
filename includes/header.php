@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <?php 
 			if($description==""){
 					$description = 'Skill Safari';
@@ -28,7 +28,7 @@
   <script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XS84CYLEYF"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MQSJSHQXP7"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
 
@@ -37,7 +37,7 @@
   }
   gtag('js', new Date());
 
-  gtag('config', 'G-XS84CYLEYF');
+  gtag('config', 'G-MQSJSHQXP7');
   </script>
 
   <!-- Meta Pixel Code -->
