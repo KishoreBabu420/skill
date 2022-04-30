@@ -14,7 +14,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6">
-        <h1 class="banner-head text-md-start text-center">Full Stack Developer Program with Placement Assurance
+        <h1 class="banner-head text-md-start text-center">Full Stack Developer Course with Placement Assurance
         </h1>
         <p class="banner-sub-head text-md-start text-center"><span class="obl-principles"></span></p>
         <div class="regbtn mt-4 text-md-start text-center">
