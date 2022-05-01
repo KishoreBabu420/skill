@@ -2611,6 +2611,7 @@ width: unset!important;
 
 .change-text {
   color: #f3274f;
+  position: relative;
 }
 
 .change-text::before {
@@ -2619,8 +2620,12 @@ width: unset!important;
 }
 
 .change-text::after {
+  position: absolute;
   content: '';
-  float: left;
+  top: 100%;
+  left: 0;
+  height: 5px;
+  border-radius: 2px;
   background: linear-gradient(90deg, #2699fb, #f3274f);
   width: 60%;
   height: 9px;
