@@ -2613,10 +2613,15 @@ width: unset!important;
   color: #f3274f;
 }
 
+.change-text::before {
+  content: '';
+  cursor: pointer;
+}
+
 .change-text::after {
   content: '';
   float: left;
   background: linear-gradient(90deg, #2699fb, #f3274f);
-  width: 100%;
+  width: 60%;
   height: 9px;
 }

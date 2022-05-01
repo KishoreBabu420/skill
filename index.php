@@ -16,8 +16,7 @@ include_once("includes/header.php");
       <div class="col-md-6">
         <h1 class="banner-head text-md-start text-center">Full Stack Developer Course with
         </h1>
-        <p class="banner-sub-head change-text text-md-start text-center"><span class="obl-principles"></span></p>
-        <p class="banner-sub-head text-md-start text-center"> & Placement Assurance</p>
+        <p class="banner-sub-head text-md-start text-center"><span class="obl-principles change-text"></span></p>
         <div class="regbtn mt-4 text-md-start text-center">
           <button><a href="fullstack-web-developer" class="text-decoration-none text-light">Learn More</a> </button>
         </div>
