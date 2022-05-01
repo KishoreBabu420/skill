@@ -608,7 +608,7 @@ include_once("../includes/header.php");
                             <div class="col-xl-12">
                               <img
                                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Krishnakumar1_ansdoa.jpg"
-                                class="img-fluid w-100" alt="full stack developer Course " title="">
+                                class="img-fluid w-100" alt="full stack developer Course pay after placement " title="">
                             </div>
                             <div class="col-xl-12 ps-4 pe-4">
                               <p class="school-para pt-4">"I was amazed with the kinds of technology that is out there
@@ -677,7 +677,7 @@ include_once("../includes/header.php");
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                        class="img-fluid w-100" alt="full stack developer Course with placement" title="" />
+                        class="img-fluid w-100" alt="full stack developer Course with guaranteed placement" title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -735,7 +735,7 @@ include_once("../includes/header.php");
                     <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                       <img
                         src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                        class="img-fluid w-100" alt="full stack developer Course with placement guarantee" title="" />
+                        class="img-fluid w-100" alt="full stack trainers " title="" />
 
                       <div class="middle">
                         <div class="text">
@@ -762,7 +762,7 @@ include_once("../includes/header.php");
                               <div class="col-md-4">
                                 <img
                                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                                  class="img-fluid" alt="full stack developer Course with placement guarantee"
+                                  class="img-fluid" alt="full stack trainer"
                                   title="" />
                               </div>
 
