@@ -24,49 +24,7 @@ include_once("includes/header.php");
           is always at the frontline, be it any activity, fest or event on the campus? You've come to the right
           place. <span class="fw-bold">We are looking for you!</span></p>
         <div class="regbtn mb-5 mt-4">
-          <a href="fullstack-web-developer" class="text-decoration-none" data-bs-toggle="modal"
-            data-bs-target="#exampleModal-newtop">Apply Now</a>
-        </div>
-        <!-- Modal -->
-        <div class="modal fade" id="exampleModal-newtop" tabindex="-1" aria-labelledby="exampleModalLabel"
-          aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
-                  <h1 class="trainingform-head pb-3">I'm Interested</h1>
-
-                  <form>
-                    <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">Full Name*</label>
-
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                        placeholder="Enter Your Full Name" />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">Phone*</label>
-
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                        placeholder="Enter Your Phone Number" />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">Email*</label>
-
-                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-                        placeholder="Enter Your email ID" />
-                    </div>
-                  </form>
-
-                  <div class="callbackbtn mt-3">
-                    <a href="" class="text-decoration-none">Request A Callback</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          <a href="https://connect.skillsafari.in/43j" target="_blank" class="text-decoration-none">Apply Now</a>
         </div>
       </div>
       <div class="col-md-7 pb-5 b-img">
@@ -279,10 +237,13 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row pt-md-5 pb-5 justify-content-center align-items-center">
       <div class="col-md-4 text-center text-md-start">
-        <h2 class="top-head pt-lg-0 pe-md-5 pt-4">Who can apply</h2>
-        <p class="school-para pt-3 pe-md-5">
+        <h2 class="top-head pt-lg-0 pe-md-5 pt-4">Who can apply?</h2>
+        <p class="school-para pt-3 pe-md-5 h5">
           Only those candidates can apply who:
         </p>
+        <div class="regbtn mb-5 mt-4">
+          <a href="https://connect.skillsafari.in/43j" target="_blank" class="text-decoration-none">Apply Now</a>
+        </div>
       </div>
       <div class="col-md-8 pt-4 pt-md-0">
         <div class="blueborder p-4 mb-4">

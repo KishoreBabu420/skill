@@ -73,6 +73,11 @@ include_once("../includes/header.php");
             <input type="hidden" name="_webhook"
               value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
             <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+            <input type="hidden" name="utm_source" value="">
+            <input type="hidden" name="utm_medium" value="">
+            <input type="hidden" name="utm_campaign" value="">
+            <input type="hidden" name="utm_term" value="">
+            <input type="hidden" name="utm_content" value="">
             <div class="callbackbtn mt-3">
               <button class="text-decoration-none" type="submit">Request A Callback</button>
             </div>
@@ -542,6 +547,11 @@ include_once("../includes/header.php");
                       data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
                       data-parsley-minlength="10" data-parsley-maxlength="11" />
                   </div>
+                  <input type="hidden" name="utm_source" value="">
+                  <input type="hidden" name="utm_medium" value="">
+                  <input type="hidden" name="utm_campaign" value="">
+                  <input type="hidden" name="utm_term" value="">
+                  <input type="hidden" name="utm_content" value="">
                   <input type="hidden" name="_webhook"
                     value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
                   <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
@@ -974,6 +984,11 @@ include_once("../includes/header.php");
                     data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
                     data-parsley-minlength="10" data-parsley-maxlength="11" />
                 </div>
+                <input type="hidden" name="utm_source" value="">
+                <input type="hidden" name="utm_medium" value="">
+                <input type="hidden" name="utm_campaign" value="">
+                <input type="hidden" name="utm_term" value="">
+                <input type="hidden" name="utm_content" value="">
                 <input type="hidden" name="_webhook"
                   value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
                 <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
