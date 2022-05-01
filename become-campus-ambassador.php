@@ -18,6 +18,11 @@ include_once("includes/header.php");
 <section class="bg-hire">
   <div class="container">
     <div class="row pt-5 pb-5 align-items-center">
+      <div class="col-md-7 pb-5 b-img">
+        <img loading="lazy"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1650894994/website/community%20and%20campus%20ambassador/ca_mltpdq.jpg"
+          class="img-fluid w-100" alt="campus ambassador" title="">
+      </div>
       <div class="col-md-5 text-center text-md-start">
         <h1 class="top-head pt-lg-5">Skill Safari Campus Ambassador Program </h1>
         <p class="school-para pt-3">Are you always buzzing with energy and driven by ambition? Are you one of those who
@@ -26,11 +31,6 @@ include_once("includes/header.php");
         <div class="regbtn mb-5 mt-4">
           <a href="https://connect.skillsafari.in/43j" target="_blank" class="text-decoration-none">Apply Now</a>
         </div>
-      </div>
-      <div class="col-md-7 pb-5 b-img">
-        <img loading="lazy"
-          src="https://res.cloudinary.com/skill-safari/image/upload/v1650894994/website/community%20and%20campus%20ambassador/ca_mltpdq.jpg"
-          class="img-fluid w-100" alt="" title="">
       </div>
     </div>
   </div>
