@@ -134,10 +134,10 @@ include_once("includes/header.php");
               <div class="codeimg mb-3 mb-md-0">
                 <img loading="lazy"
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650882924/website/Untitled-1_te3sha.jpg"
-                  class="img-fluid w-100 d-lg-block d-none" alt="full stack development" title="" />
+                  class="img-fluid w-100 d-lg-block d-none" alt="full stack development course details" title="" />
                 <img loading="lazy"
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650882924/website/Untitled-2_dex2im.jpg"
-                  class="img-fluid w-100 d-md-none d-sm-block" alt="full stack development" title="" />
+                  class="img-fluid w-100 d-md-none d-sm-block" alt="full stack development with guaranteed placement" title="" />
               </div>
             </div>
             <div class="col-lg-10 col-12">
@@ -166,7 +166,7 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img loading="lazy" src="images/ic4.png" class="img-fluid" loading="lazy" alt="Skill Safari icon"
+                      <img loading="lazy" src="images/ic4.png" class="img-fluid" loading="lazy" alt="Full stack training hours"
                         title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
@@ -181,7 +181,7 @@ include_once("includes/header.php");
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
                       <img loading="lazy" src="images/ic1-n.png" class="img-fluid" loading="lazy"
-                        alt=" Skill Safari icon" title="" />
+                        alt=" full stack projects" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -196,7 +196,7 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img loading="lazy" src="images/ic2.png" class="img-fluid" loading="lazy" alt="Skill Safari icon"
+                      <img loading="lazy" src="images/ic2.png" class="img-fluid" loading="lazy" alt="No Prior Coding knowledgr"
                         title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
@@ -211,7 +211,7 @@ include_once("includes/header.php");
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
                       <img loading="lazy" src="images/ic3-n.png" class="img-fluid" loading="lazy"
-                        alt="Skill Safari icon" title="" />
+                        alt="Live class" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -251,7 +251,7 @@ include_once("./includes/testimony.php");
             <div class="position-relative img-overblacklay">
               <img loading="lazy"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1651312657/website/events/getplaced_qkd41p.jpg"
-                class="img-fluid" loading="lazy" alt="full stack workshop" title="">
+                class="img-fluid" loading="lazy" alt="full stack workshop - build application" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">30 seats left</h5>
               </div>
@@ -288,7 +288,7 @@ include_once("./includes/testimony.php");
             <div class="position-relative img-overblacklay">
               <img loading="lazy"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/quizevent1_mrbc3y.jpg"
-                class="img-fluid" loading="lazy" alt="full stack workshop" title="">
+                class="img-fluid" loading="lazy" alt="full stack workshop build quiz app" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">23 seats left</h5>
               </div>
@@ -323,7 +323,7 @@ include_once("./includes/testimony.php");
             <div class="position-relative img-overblacklay">
               <img loading="lazy"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/trends_gyrr82.webp"
-                class="img-fluid" loading="lazy" alt="full stack workshop" title="">
+                class="img-fluid" loading="lazy" alt="full stack workshop trends" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">150 seats left</h5>
               </div>
@@ -349,6 +349,42 @@ include_once("./includes/testimony.php");
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
                   <p class="event-avail">120 Students Enrolled</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
+          <div class="event-boxlay">
+            <div class="position-relative img-overblacklay">
+              <img loading="lazy"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651386152/website/events/event_4_uysjoh.jpg"
+                class="img-fluid" loading="lazy" alt="web mentorship program" title="">
+              <div class="top-small-strip">
+                <h5 class="mb-0">150 seats left</h5>
+              </div>
+            </div>
+            <div class="ps-3 pe-3 pt-2">
+              <div class="row">
+                <div class="col-md-8 col-8">
+                  <p class="event-minisec pt-3">Next Session on 20/05/2022</p>
+                  <h5 class="event-boxhead pt-3"> Web Developer Mentorship Program <br> Workshop</h5>
+                  <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
+                </div>
+                <div class="col-md-4 col-4 text-end pt-3">
+                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ 999</span><br>₹ 299</div>
+                </div>
+              </div>
+
+              <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
+                <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
+                  <div class="regbtn">
+                    <a href="https://skillsafari.studio/" target="_blank"
+                      class="text-decoration-none">Know More</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-12">
+                  <p class="event-avail">152 Students Enrolled</p>
                 </div>
               </div>
             </div>
@@ -396,7 +432,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
-                      class="img-fluid" loading="lazy" alt="full stack trainer" title="">
+                      class="img-fluid" loading="lazy" alt="full stack trainer head" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <p class="trained-head pt-md-3 pt-3">Kishore Kammela - <span class="trained-dest">Skill
@@ -439,7 +475,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
-                      class="img-fluid" loading="lazy" alt="full stack trainer" title="">
+                      class="img-fluid" loading="lazy" alt="frontend trainer" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <p class="trained-head pt-md-3 pt-3">Sathish - <span class="trained-dest">Skill Safari</span> </p>
@@ -465,7 +501,7 @@ include_once("./includes/partners.php");
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
           <img loading="lazy"
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-            class="img-fluid" loading="lazy" alt="full stack trainer" title="">
+            class="img-fluid" loading="lazy" alt="backend trainer" title="">
           <div class="middle">
             <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
                   class="fa fa-linkedin"></i></a></div>
@@ -483,7 +519,7 @@ include_once("./includes/partners.php");
                   <div class="col-md-4">
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-                      class="img-fluid" loading="lazy" alt="full stack trainer" title="">
+                      class="img-fluid" loading="lazy" alt="full stack trainers" title="">
                   </div>
                   <div class="col-md-8 text-center text-md-start">
                     <p class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span>
@@ -512,7 +548,7 @@ include_once("./includes/partners.php");
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal3">
           <img loading="lazy"
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
-            class="img-fluid" loading="lazy" alt="full stack trainer" title="">
+            class="img-fluid" loading="lazy" alt="full stack trainer skillsafari" title="">
           <div class="middle">
             <div class="text"><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i
                   class="fa fa-linkedin"></i></a></div>
