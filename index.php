@@ -19,7 +19,7 @@ include_once("includes/header.php");
         <p class="banner-sub-head text-md-start text-center"><span class="obl-principles change-text"></span></p>
         <p class="banner-sub-head text-md-start text-center"> & Placement Assurance</p>
         <div class="regbtn mt-4 text-md-start text-center">
-          <button><a href="fullstack-web-developer" class="text-decoration-none text-light">Learn More</a> </button>
+          <button><a href="full-stack-developer-course" class="text-decoration-none text-light">Learn More</a> </button>
         </div>
       </div>
       <div class="col-md-6  pt-5">
@@ -158,7 +158,7 @@ include_once("includes/header.php");
                 </div>
                 <div class="col-lg-3 col-md-12 text-lg-end">
                   <div class="regbtn">
-                    <a href="fullstack-web-developer" class="text-decoration-none">Know More</a>
+                    <a href="full-stack-developer-course" class="text-decoration-none">Know More</a>
                   </div>
                 </div>
               </div>

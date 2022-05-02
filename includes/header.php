@@ -118,7 +118,7 @@
                 <ul class="navbar-nav  mb-lg-0 m-auto">
                   <li class="nav-item">
                     <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
-                      href="https://www.skillsafari.in/fullstack-web-developer/">Full
+                      href="https://www.skillsafari.in/full-stack-developer-course/">Full
                       Stack Developer</a>
                   </li>
                   <li class="nav-item">
