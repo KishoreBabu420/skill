@@ -395,7 +395,7 @@ include_once("./includes/testimony.php");
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
               <img loading="lazy"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651386152/website/events/event_4_uysjoh.jpg"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651470997/website/events/game-app-event_encnzl.webp"
                 class="img-fluid" loading="lazy" alt="web mentorship program" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">130 seats left</h5>
