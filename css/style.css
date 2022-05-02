@@ -2630,3 +2630,19 @@ width: unset!important;
   width: 100%;
   height: 9px;
 }
+
+.bottom-cta {
+  background-color: #f3274f;
+}
+
+.bottom-cta p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.bottom-cta p a {
+  font-size: 18px;
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
