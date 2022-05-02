@@ -390,6 +390,44 @@ include_once("./includes/testimony.php");
             </div>
           </div>
         </div>
+        <!-- 4th event start -->
+        <div class="item bg-white ps-md-2 pe-md-2 ps-lg-2 pe-lg-2">
+          <div class="event-boxlay">
+            <div class="position-relative img-overblacklay">
+              <img loading="lazy"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651386152/website/events/event_4_uysjoh.jpg"
+                class="img-fluid" loading="lazy" alt="web mentorship program" title="">
+              <div class="top-small-strip">
+                <h5 class="mb-0">130 seats left</h5>
+              </div>
+            </div>
+            <div class="ps-3 pe-3 pt-2">
+              <div class="row">
+                <div class="col-md-8 col-8">
+                  <p class="event-minisec pt-3">Next Session on 06/05/2022</p>
+                  <h5 class="event-boxhead pt-3"> Build a Rock Paper Sissors Game with JS</h5>
+                  <p class="school-para">Kishore Kammela<br> Head - Operations, Skill Safari</p>
+                </div>
+                <div class="col-md-4 col-4 text-end pt-3">
+                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ 800</span><br>₹ Free</div>
+                </div>
+              </div>
+
+              <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
+                <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
+                  <div class="regbtn">
+                    <a href="./events/build-a-game-js.php" target="_blank"
+                      class="text-decoration-none">Know More</a>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-12">
+                  <p class="event-avail">142 Students Enrolled</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- 4th event end -->
       </div>
     </div>
   </div>
