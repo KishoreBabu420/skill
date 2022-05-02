@@ -368,8 +368,8 @@ include_once("./includes/testimony.php");
               <div class="row">
                 <div class="col-md-8 col-8">
                   <p class="event-minisec pt-3">Next Session on 20/05/2022</p>
-                  <h5 class="event-boxhead pt-3"> Web Developer Mentorship Program <br> Workshop</h5>
-                  <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
+                  <h5 class="event-boxhead pt-3"> Web Developer Mentorship Program </h5>
+                  <p class="school-para">Kishore Kammela<br> Head - Operations, Skill Safari</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
                   <div class="pricetag-strike pt-3"><span class="num-strke">₹ 999</span><br>₹ 299</div>
