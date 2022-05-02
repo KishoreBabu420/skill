@@ -2644,5 +2644,12 @@ width: unset!important;
   font-size: 18px;
   text-decoration: none;
   color: inherit;
-  font-weight: 600;
+  font-weight: 500;
+  opacity: 0.8;
+  transition: all 0.25s ease-in;
+}
+
+.bottom-cta p a:hover {
+  opacity: 1;
+  font-weight: 700;
 }
