@@ -1047,9 +1047,7 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                    <strong>Academic Qualification</strong>: You can apply if you have either completed your graduation
-                    in
-                    any stream after 2015 or currently pursuing in your final year.<br>
+                  There are as such no age or demographic restrictions to joining this program. Anyone with a zeal to learn and make the most of it is welcome to the program. This course is a job-ready program, make sure you complete this and get placed in top product-based companies. If you wish, you can take Skill Safari’s support and get placement by ISA.<br>
                     <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
                     able to follow instructions in English.<br>
                     <strong>Interest &amp; Commitment</strong>: Anyone who is passionate about learning Full Stack
@@ -1060,6 +1058,47 @@ include_once("../includes/header.php");
                     and
                     get placed, hence you should be available to take a job after completion of this program.<br>
 
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingSix">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseNinteen1 aria-expanded="true" aria-controls="collapseNinteen1>
+                  <h4 class="top-head-faq mb-0">
+                  How are you learning this course at effective ZERO upfront cost?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseNinteen1 class="accordion-collapse collapse" aria-labelledby="headingSix"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                  If you are someone who is seeking to get skilled in the domain of Full Stack Development, then our focus is to give you quality live and guided training program effective at no cost. The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post completion of the training program.
+
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingSix">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwenty1 aria-expanded="true" aria-controls="collapseTwenty1>
+                  <h4 class="top-head-faq mb-0">
+                  Will you get a refund even if you don't need placements or don't sign ISA?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseTwenty1 class="accordion-collapse collapse" aria-labelledby="headingSix"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                  Yes, the course fee is fully refunded as soon as you complete the course and get your certificate. Opting for placement with us is a discrete decision that you take.
                   </p>
                 </div>
               </div>
@@ -1279,6 +1318,57 @@ include_once("../includes/header.php");
                     JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS.
                     Also,
                     it provides knowledge to test and deploy code and store data using MongoDB. </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseSixteen" aria-expanded="true" aria-controls="collapseSixteen">
+                  <h4 class="top-head-faq mb-0">
+                  What will be the evaluation process in the program? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                  You will have a set of deliverables throughout the program viz. Assignments, Monthly Assessments, Monthly One-One Review calls, Project reviews etc., you have to make sure you finish everything within a stipulated time </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseSeventeen" aria-expanded="true" aria-controls="collapseSeventeen">
+                  <h4 class="top-head-faq mb-0">
+                  What will happen if you fail the evaluation process? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseSeventeen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                  You will be given multiple attempts and you have to redo any particular deliverable. However, if you are still not able to complete the evaluation, you will be shifted to another batch. </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseEighteen" aria-expanded="true" aria-controls="collapseEighteen">
+                  <h4 class="top-head-faq mb-0">
+                  Will you get a Full Stack Developer Course completion Certificate? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseEighteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                  Yes you will get it once you complete the course successfully </p>
                 </div>
               </div>
             </div>
