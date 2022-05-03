@@ -29,7 +29,8 @@ include_once("../includes/header.php");
             </h1>
           </div>
         </div>
-        <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
+        <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective
+          upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
         <p class="school-para">The next Batch Starts on 16th May 2022
         <ul class="mx-3">
           <li class="course-toppara my-1">100% Live Program</li>
@@ -265,30 +266,36 @@ include_once("../includes/header.php");
           <div class="section__title-container p-2">
             <h2 class="section-title">What’s unique about our Full stack developer Course?</h2>
             <hr>
-            <p class="school-para">The entire course fee for the Alchemyst Full Stack Developer Program is fully refundable</p>
+            <p class="school-para">The entire course fee for the Alchemyst Full Stack Developer Program is fully
+              refundable</p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-            Get a quality skill training program effective at no cost
+              Get a quality skill training program effective at no cost
             </h3>
             <p class="section__card-description">
-            If you are someone who is seeking to get skilled in the domain of Full Stack Development, then this is the best platform you can compare to all other free source platforms. Where our focus is to give you a quality live and guided training program effective at no cost.
+              If you are someone who is seeking to get skilled in the domain of Full Stack Development, then this is the
+              best platform you can compare to all other free source platforms. Where our focus is to give you a quality
+              live and guided training program effective at no cost.
             </p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-            How and when do we refund the program fee?
+              How and when do we refund the program fee?
             </h3>
             <p class="section__card-description">
-            The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post completion of the training program.
+              The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer
+              Certification post completion of the training program.
             </p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-            Why do we refund the course fee?
+              Why do we refund the course fee?
             </h3>
             <p class="section__card-description">
-            If you have a question in your mind, that is why we are refunding the program fee. This is no marketing gimmick. We’re targeting serious learners and encouraging focussed students to upskill full stack developer skills to become job-ready.
+              If you have a question in your mind, that is why we are refunding the program fee. This is no marketing
+              gimmick. We’re targeting serious learners and encouraging focussed students to upskill full stack
+              developer skills to become job-ready.
             </p>
           </div>
         </section>
@@ -303,7 +310,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   <h4 class="top-head-faq mb-0">
-                  Get-admitted
+                    Get-admitted
                   </h4>
                 </button>
               </h3>
@@ -311,7 +318,7 @@ include_once("../includes/header.php");
                 data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  Get enrolled in the Full Stack Developer Course, and finish the live 7 months of training with us.
+                    Get enrolled in the Full Stack Developer Course, and finish the live 7 months of training with us.
                   </p>
                 </div>
               </div>
@@ -321,7 +328,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                   <h4 class="top-head-faq mb-0">
-                  Get Alchemyst Certification
+                    Get Alchemyst Certification
                   </h4>
                 </button>
               </h3>
@@ -330,8 +337,9 @@ include_once("../includes/header.php");
                 data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  1. Finish the program by submitting all the deliverables during the training period and get certified by us.</br>
-                  2. Now that you are job-ready, you can get a job
+                    1. Finish the program by submitting all the deliverables during the training period and get
+                    certified by us.</br>
+                    2. Now that you are job-ready, you can get a job
                   </p>
                 </div>
               </div>
@@ -341,7 +349,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                   <h4 class="top-head-faq mb-0">
-                  Join Alchemyst Recruitment Essentials Program
+                    Join Alchemyst Recruitment Essentials Program
                   </h4>
                 </button>
               </h3>
@@ -350,8 +358,9 @@ include_once("../includes/header.php");
                 data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  1. Join Skill Safari’s Recruitment Essentials Program once you complete the full stack developer course</br>
-                  2. Undergo 1-month extensive placement training and secure a job with packages 5-20 LPA
+                    1. Join Skill Safari’s Recruitment Essentials Program once you complete the full stack developer
+                    course</br>
+                    2. Undergo 1-month extensive placement training and secure a job with packages 5-20 LPA
                   </p>
                 </div>
               </div>
@@ -361,7 +370,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                   <h4 class="top-head-faq mb-0">
-                  100% Placement Guarantee
+                    100% Placement Guarantee
                   </h4>
                 </button>
               </h3>
@@ -370,7 +379,7 @@ include_once("../includes/header.php");
                 data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  1. Attend Interviews with Skill Safari’s hiring partners and get a job with a better package
+                    1. Attend Interviews with Skill Safari’s hiring partners and get a job with a better package
                   </p>
                 </div>
               </div>
@@ -772,10 +781,10 @@ include_once("../includes/header.php");
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
-                Portfolio Building
+                  Portfolio Building
                 </h3>
                 <p class="section__card-description">
-                Get our placement mentor’s help in building a beautiful Online Portfolio, LinkedIn profile and Resume.
+                  Get our placement mentor’s help in building a beautiful Online Portfolio, LinkedIn profile and Resume.
                 </p>
               </div>
             </div>
@@ -787,10 +796,11 @@ include_once("../includes/header.php");
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
-                Soft Skills Training
+                  Soft Skills Training
                 </h3>
                 <p class="section__card-description">
-                Get the best-in-class soft skills and placement readiness training with our invigorated soft skills and life skills training.
+                  Get the best-in-class soft skills and placement readiness training with our invigorated soft skills
+                  and life skills training.
                 </p>
               </div>
             </div>
@@ -802,10 +812,11 @@ include_once("../includes/header.php");
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
-                Placement Series
+                  Placement Series
                 </h3>
                 <p class="section__card-description">
-                Industry experts at your hand for the latest placement market news. Gain insights into what is happening in the full-stack development world.
+                  Industry experts at your hand for the latest placement market news. Gain insights into what is
+                  happening in the full-stack development world.
                 </p>
               </div>
             </div>
@@ -817,10 +828,11 @@ include_once("../includes/header.php");
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
-                Interview pieces of Training and Mocks
+                  Interview pieces of Training and Mocks
                 </h3>
                 <p class="section__card-description">
-                Designed training modules to crack technical as well as general interviews. Mock Interviews are planned following the training to guard you against the interview fears.
+                  Designed training modules to crack technical as well as general interviews. Mock Interviews are
+                  planned following the training to guard you against the interview fears.
                 </p>
               </div>
             </div>
@@ -832,10 +844,11 @@ include_once("../includes/header.php");
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
-                Hiring from us
+                  Hiring from us
                 </h3>
                 <p class="section__card-description">
-                500+ recruitment partners are actively hiring from us right now as you are reading through these lines. So be a part of it.
+                  500+ recruitment partners are actively hiring from us right now as you are reading through these
+                  lines. So be a part of it.
                 </p>
               </div>
             </div>
@@ -847,10 +860,11 @@ include_once("../includes/header.php");
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
-                Placement Webinars
+                  Placement Webinars
                 </h3>
                 <p class="section__card-description">
-                Regular placement webinars are planned for you to get the most out of cracking any recruitment formats during this time.
+                  Regular placement webinars are planned for you to get the most out of cracking any recruitment formats
+                  during this time.
                 </p>
               </div>
             </div>
