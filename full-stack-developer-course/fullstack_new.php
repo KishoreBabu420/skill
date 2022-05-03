@@ -249,16 +249,16 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row justify-content-between">
       <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
-        <div class="card p-3">
-          <ul>
-            <li><a href="#advantage">Alchemyst Advantage</a></li>
-            <li><a href="#course-work">How Skill Safari work</a></li>
-            <li><a href="#course-work">Course Curriculum</a></li>
-            <li><a href="#trainers">Curriculum Instructors</a></li>
-            <li><a href="#hiring-partners">Hiring Partners</a></li>
-            <li><a href="#hiring-partners">Placements</a></li>
-            <li><a href="#hiring-partners">Certfication</a></li>
-
+        <div class="card px-2 py-3">
+          <ul class="py-3">
+            <li class="my-3"><a href="#advantage">Alchemyst Advantage</a></li>
+            <li class="my-3"><a href="#course-work">How Skill Safari work</a></li>
+            <li class="my-3"><a href="#course-work">Course Curriculum</a></li>
+            <li class="my-3"><a href="#trainers">Curriculum Instructors</a></li>
+            <li class="my-3"><a href="#hiring-partners">Hiring Partners</a></li>
+            <li class="my-3"><a href="#placements">Placements</a></li>
+            <li class="my-3"><a href="#certification">Certfication</a></li>
+            <li class="my-3"><a href="#community">Alchemyst Community</a></li>
           </ul>
         </div>
       </aside>
@@ -883,7 +883,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="placements">
+        <section class="card p-3 my-2" id="certification">
           <div class="section__title-container p-2">
             <h2 class="section-title">Certification</h2>
             <hr>
@@ -900,6 +900,7 @@ include_once("../includes/header.php");
               alt="" class="img-fluid">
           </div>
         </section>
+        <section class="card p-3 my-2" id="community"></section>
       </main>
     </div>
   </div>
