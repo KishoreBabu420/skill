@@ -244,12 +244,13 @@ include_once("../includes/header.php");
   </div>
 </section>
 
-<section class="course-content">
+
+<div class="course-content">
   <div class="container">
     <div class="row justify-content-between">
       <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
-        <div class="card px-2 py-3">
-          <ul class="py-3">
+        <div class="card p-3">
+          <ul class="p-3">
             <li class="my-3"><a href="#advantage">Alchemyst Advantage</a></li>
             <li class="my-3"><a href="#course-work">How Skill Safari work</a></li>
             <li class="my-3"><a href="#course-work">Course Curriculum</a></li>
@@ -258,6 +259,7 @@ include_once("../includes/header.php");
             <li class="my-3"><a href="#placements">Placements</a></li>
             <li class="my-3"><a href="#certification">Certfication</a></li>
             <li class="my-3"><a href="#community">Alchemyst Community</a></li>
+            <li class="my-3"><a href="#faq">FAQ</a></li>
           </ul>
         </div>
       </aside>
@@ -304,7 +306,7 @@ include_once("../includes/header.php");
             <h2 class="section-title">How does Skill Safari’s Full Stack Developer Program work?</h2>
             <hr>
           </div>
-          <div class="accordion" id="accordionExample">
+          <div class="accordion" id="work">
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingOne">
                 <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -315,7 +317,7 @@ include_once("../includes/header.php");
                 </button>
               </h3>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                data-bs-parent="#accordionExample">
+                data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
                     Get enrolled in the Full Stack Developer Course, and finish the live 7 months of training with us.
@@ -334,7 +336,7 @@ include_once("../includes/header.php");
               </h3>
 
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                data-bs-parent="#accordionExample">
+                data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
                     1. Finish the program by submitting all the deliverables during the training period and get
@@ -355,7 +357,7 @@ include_once("../includes/header.php");
               </h3>
 
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                data-bs-parent="#accordionExample">
+                data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
                     1. Join Skill Safari’s Recruitment Essentials Program once you complete the full stack developer
@@ -376,7 +378,7 @@ include_once("../includes/header.php");
               </h3>
 
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                data-bs-parent="#accordionExample">
+                data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
                     1. Attend Interviews with Skill Safari’s hiring partners and get a job with a better package
@@ -887,11 +889,448 @@ include_once("../includes/header.php");
               alt="" class="img-fluid">
           </div>
         </section>
-        <section class="card p-3 my-2" id="community"></section>
+        <section class="card p-3 my-2" id="community">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Alchemyst Community</h2>
+            <hr>
+          </div>
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <div class="community__description-container">
+                <p>
+                  Part of the hundreds of activities we have for you. From giveaways to coding challenges, we have
+                  everything to keep your mind busy. We also have you covered for the latest news in technology along
+                  with getting you new insights about what companies and recruiters are looking for in their candidates.
+                  So what are you waiting for? Join the adventure now!
+                </p>
+              </div>
+              <div class="col-md-12 text-center  mt-4">
+                <div class="discordbtn text-center ">
+                  <a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
+                      class="img-fluid me-1">
+                    Join Our Discord</a>
+                </div>
+              </div>
+
+            </div>
+            <div class="col-md-6 d-none d-lg-block">
+              <div class="community__image-container p-5">
+                <img src="https://skillsafari.in/images/discord.jpg" alt="discord image" class="img-fluid">
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="card p-3 my-2 bg-faq" id="faq">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">FAQ</h2>
+            <hr>
+          </div>
+          <div class="accordion" id="courseFAQExample">
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingOne">
+                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <h4 class="top-head-faq mb-0">
+                    Who is a Full Stack Developer?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A person who knows to develop both the frontend and backend portions of a web application alongside
+                    hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                  <h4 class="top-head-faq mb-0">
+                    Why do companies hire Full Stack Developers?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">Companies prefer developers who can be work-efficient and as well as
+                    cost-efficient. A Full Stack Developer can help with the whole design structure and he also knows to
+                    provide input on any level as need be.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                  <h4 class="top-head-faq mb-0">
+                    What are the skill sets of a Full Stack Developer?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A Full Stack Developer major with front-end technology development languages like HTML5, CSS3,
+                    JavaScript, Bootstrap and should know at least one server-side programming language, basic design
+                    ability, server management, Version Control System (VCS), and knowledge of web services or API.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFour">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                  <h4 class="top-head-faq mb-0">
+                    Why React Framework is taught or preferred in this course?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    React Framework is the most in-demand and most preferred by a lot of developers and software
+                    companies. React Framework is beginner-friendly and has a lot of pre-equipped components. So React
+                    framework is the preferred framework for JavaScript.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                  <h4 class="top-head-faq mb-0">
+                    What is MERN Stack Web Development?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    The term MERN Stack is abbreviated as MongoDB, ExpressJS, ReactJS, NodeJS. MERN is a Full Stack, It
+                    follows a 3-tier architectural pattern, including the front-end display tier (React.js), application
+                    tier (Express.js and Node.js), and database tier (MongoDB)
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingSix">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                  <h4 class="top-head-faq mb-0">
+                    Who is eligible for this program?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    <strong>Academic Qualification</strong>: You can apply if you have either completed your graduation
+                    in
+                    any stream after 2015 or currently pursuing in your final year.<br>
+                    <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
+                    able to follow instructions in English.<br>
+                    <strong>Interest &amp; Commitment</strong>: Anyone who is passionate about learning Full Stack
+                    Development. You should be able to commit a minimum of 2-3 hours of program commitment on weekdays
+                    and
+                    a few more hours on Weekends for Assignments and Projects completion.<br>
+                    <strong>Available to work after the program</strong>: The objective of this course is to skill up
+                    and
+                    get placed, hence you should be available to take a job after completion of this program.<br>
+
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                  <h4 class="top-head-faq mb-0">
+                    What are the selection criteria for this Full Stack Developer program? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    The major evaluation procedures enrolment process is the efforts a student will be able to put in
+                    during
+                    this program.
+                  </p>
+                  <ul>
+                    <li>Basic Aptitude Assessment</li>
+                    <li>Commitment Check with a Counsel Interview</li>
+                    <li>Basic English communication skills</li>
+                    <li>Academic background and document check</li>
+                  </ul>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+                  <h4 class="top-head-faq mb-0">
+                    What are logistics required for this program?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    Minimum 1 Mbps download speed.
+                  </p>
+                  <ul>
+                    <li>Minimum Computer Hardware Specs - </li>
+                    <li>1 GHz Processor</li>
+                    <li>4 GB RAM</li>
+                    <li>128 GB Hard Drive</li>
+                    <li>Microphone</li>
+                    <li>Webcam</li>
+                    <li>Smart Mobile Phone for Skill Safari App Access</li>
+                  </ul>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+                  <h4 class="top-head-faq mb-0">
+                    What is the duration of the program?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    The course duration takes on an average of 7 months. If you are not able to complete the program
+                    within the stipulated time, after the one-on-one review, we may consider batch shifting or program
+                    extensions based on the discussion.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
+                  <h4 class="top-head-faq mb-0">
+                    Will there be any possibility that the course might be extended beyond the given stipulated time?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    The course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
+                    personal reasons, we may extend the dates. However, this would be done with a proper intimation to
+                    the
+                    batch and based on the custom plan the progress will be intimated to all the students. We do this to
+                    ensure that none of the candidates are missed out on the pace of the program.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
+                  <h4 class="top-head-faq mb-0">
+                    What will be asked in the Admission Test?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    Skill Safari Alchemyst Admission Test:
+                    SAST tests general aptitude, general vocational aptitude, professional intelligence, and
+                    professional
+                    aptitude are tested with our Differential Aptitude Test (DAT).<br>
+
+                    <br>
+                    No. of Questions: 30<br>
+                    Total Duration: 45 mins<br>
+                    Pass Percentage: 40%<br>
+                    <br>
+                    Areas include:<br>
+                    Numerical/Mathematical Ability - 15 Questions<br>
+                    Analytical Reasoning - 5 Questions<br>
+                    Data Arrangements - 5 Questions<br>
+                    Data Interpretation - 5 Questions<br>
+                    <br>
+                    Note: Below 40%, you will not be accepted for the course for this batch. You may re-apply for the
+                    next batch.
+
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
+                  <h4 class="top-head-faq mb-0">
+                    How does a Full Stack Developer involve in a project?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A Full Stack Developer will give architecture and implementation from user requirements coordinating
+                    with the client. Writes front-end and back-end code for the application. Monitors the performance
+                    and
+                    creates test codes. Troubleshoot the application with a fast and accurate resolution.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThirteen" aria-expanded="true" aria-controls="collapseThirteen">
+                  <h4 class="top-head-faq mb-0">
+                    What are the essential front-end technologies for a Full Stack Developer? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    HTML5, CSS3 and JavaScript are essential front-end languages. The knowledge of third-party libraries
+                    like jQuery, LESS, Angular and React JS is desirable. </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseFourteen" aria-expanded="true" aria-controls="collapseFourteen">
+                  <h4 class="top-head-faq mb-0">
+                    What are the essential development languages for a Full Stack Developer? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A Full Stack Developer doesn’t want to know all the programming languages. Knowing at least one
+                    server-side programming language like Python, JavaScript, Ruby, etc. </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingFive">
+                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
+                  <h4 class="top-head-faq mb-0">
+                    What does our Full Stack Developer Course teach you? </h4>
+                </button>
+              </h3>
+
+              <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                data-bs-parent="#courseFAQExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    The Full Stack Developer Course enables you to build an interactive and responsive application using
+                    both front-end and back-end technologies. It covers the fundamentals of JavaScript and Advanced
+                    JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS.
+                    Also,
+                    it provides knowledge to test and deploy code and store data using MongoDB. </p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </section>
       </main>
     </div>
   </div>
+</div>
+<!-- Main Course content End -->
+<section class="bg-lineball">
+  <div class="container-fluid p-0">
+    <div class="row">
+      <div class="col-md-12 pt-5 pb-5">
+
+      </div>
+    </div>
+  </div>
 </section>
+<!-- Line Ball Ended -->
+<section class="bg-callback mt-md-4">
+  <div class="container">
+    <div class="row  pt-5 pb-5">
+      <div class="col-lg-12 text-center">
+        <h2 class="text-white top-head">Want to know more about Full Stack Developer Course?</h2>
+        <p class="para-top text-white text-center">
+          Become a job-ready Full Stack Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
+          how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
+        </p>
+        <div class="row align-items-center justify-content-center pt-4">
+          <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 p-0">
+            <div class="hirebtn-1 text-center">
+              <a href="tel:+918111099100" class="text-decoration-none">Call Us</a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 lastsec">
+            <div class="whatsappbtn text-center">
+              <a target="_blank" href="https://api.whatsapp.com/send?phone=+918111099100"
+                class="text-white text-decoration-none">Whatsapp Us</a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- Footer CTA End -->
+
 <?php 
 include_once("../includes/footer.php");
 ?>
