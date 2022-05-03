@@ -1,0 +1,909 @@
+<?php 
+
+$title = "Full Stack Developer Course - 100% Job Guarantee Program";
+
+$description = "Full Stack Developer Course of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
+
+$keywords = "";
+
+$page = 1;
+
+include_once("../includes/header.php");
+?>
+<section class="top-pagespace"></section>
+<!-- top-space -->
+
+<section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
+  <div class="container">
+    <div class="row py-md-4 align-items-center">
+      <div class="col-lg-6 text-md-start text-center">
+        <div class="row align-items-center my-3">
+          <div class="col-md-3 d-none d-md-block">
+            <div class="icon-scourse text-center">
+              <i class="fas fa-code"></i>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <h1 class="top-head-new pt-3">
+              Full Stack Developer Course
+            </h1>
+          </div>
+        </div>
+        <p>
+        <ul class="mx-3">
+          <li class="course-toppara my-1">100% Placement Guarantee</li>
+          <li class="course-toppara my-1">Pay an 80% fee after you get the placement of 4 - 8LPA</li>
+          <li class="course-toppara my-1">No coding background is required, only passion for learning is enough.</li>
+        </ul>
+        </p>
+        <p class="school-para pt-3 d-none d-md-block">
+          Develop the skills & practical experience which will increase the chances of hiring managers to calling you
+          with
+          a
+          job offer. Crack technical rounds with confidence.
+        </p>
+      </div>
+      <div class="col-lg-1 d-none d-lg-block"></div>
+      <div class="col-lg-5 pb-5 mt-4 mt-md-0">
+        <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
+          <h5 class="trainingform-head py-3 text-center">Request A Callback</h5>
+          <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="lead-form">
+            <div class="mb-3">
+              <label for="fullName" class="form-label">Full Name*</label>
+              <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
+                data-parsley-required-message="We require your name" placeholder="Enter Your Full Name" required />
+            </div>
+
+            <div class="mb-3">
+              <label for="email" class="form-label">Email Address*</label>
+              <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                placeholder="Enter Your Email ID" name="email" data-parsley-required-message="Email Address is required"
+                required />
+            </div>
+
+            <div class="mb-3">
+              <label for="mobile" class="form-label">Mobile Number*</label>
+              <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                placeholder="Enter Your Mobile Number" name="phone"
+                data-parsley-required-message="Mobile Number is required"
+                data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
+                data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
+                data-parsley-minlength="10" data-parsley-maxlength="11" />
+            </div>
+            <input type="hidden" name="_webhook"
+              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+            <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+            <input type="hidden" name="utm_source" value="">
+            <input type="hidden" name="utm_medium" value="">
+            <input type="hidden" name="utm_campaign" value="">
+            <input type="hidden" name="utm_term" value="">
+            <input type="hidden" name="utm_content" value="">
+            <div class="callbackbtn mt-3">
+              <button class="text-decoration-none" type="submit">Request A Callback</button>
+            </div>
+          </form>
+        </div>
+        <div class="hero__content px-2 d-block d-md-none">
+          <p class="school-para pt-3 ">
+            Develop the skills & practical experience which increases the chances of hiring managers to call you with a
+            job offer. Crack technical rounds with confidence.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-smallicon-sec active" id="cd">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 pt-4 pb-2 text-center">
+        <h2 class="text-center top-head">Full Stack Developer Course highlights</h2>
+      </div>
+    </div>
+    <div class="row align-items-center pt-md-3 justify-content-center">
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+              xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink" height="22px" width="22px" fill="currentColor" version="1.1"
+              x="0px" y="0px" viewBox="0 0 100 100" style="height:36px;width:36px" xml:space="preserve">
+              <g i:extraneous="self">
+                <g>
+                  <path
+                    d="M37.1,70c-0.5-0.4-1.1-0.7-1.7-0.7L31.1,69c-4.3-0.3-8.1-2.5-10.6-5.7l-10,21.3c-0.9,2,0.8,4.3,3,3.9l8.9-1.7     c1.2-0.2,2.3,0.3,2.9,1.4l4.4,8c1.1,2,3.9,1.9,4.9-0.2l9.7-20.7c-1.5-0.6-2.8-1.4-4.1-2.5L37.1,70z">
+                  </path>
+                  <path
+                    d="M89.4,84.6l-10-21.3c-2.5,3.2-6.3,5.3-10.6,5.7l-4.2,0.3c-0.6,0.1-1.2,0.3-1.7,0.7l-3.2,2.7c-1.2,1-2.6,1.9-4.1,2.5     l9.7,20.7c0.9,2,3.8,2.1,4.8,0.2l4.4-8c0.6-1,1.7-1.6,2.9-1.4l8.9,1.7C88.6,88.8,90.4,86.6,89.4,84.6z">
+                  </path>
+                  <path
+                    d="M59,65.5c1.4-1.2,3.2-2,5.1-2.1l4.2-0.3c4.4-0.3,7.9-3.8,8.2-8.2l0.3-4.2c0.1-1.9,0.9-3.7,2.1-5.1l2.8-3.2     c2.9-3.3,2.9-8.3,0-11.6l-2.8-3.2c-1.2-1.4-2-3.2-2.1-5.1l-0.3-4.2c-0.3-4.4-3.8-7.9-8.2-8.2l-4.2-0.3c-1.9-0.1-3.7-0.9-5.1-2.1     l-3.2-2.8c-3.3-2.9-8.3-2.9-11.6,0L41,7.4c-1.4,1.2-3.2,2-5.1,2.1l-4.2,0.3c-4.4,0.3-7.9,3.8-8.2,8.2l-0.3,4.2     c-0.1,1.9-0.9,3.7-2.1,5.1l-2.8,3.2c-2.9,3.3-2.9,8.3,0,11.6l2.8,3.2c1.2,1.4,2,3.2,2.1,5.1l0.3,4.2c0.3,4.4,3.8,7.9,8.2,8.2     l4.2,0.3c1.9,0.1,3.7,0.9,5.1,2.1l3.2,2.8c3.3,2.9,8.3,2.9,11.6,0L59,65.5z M31.2,36.5c0-10.4,8.4-18.8,18.8-18.8     c10.4,0,18.8,8.4,18.8,18.8c0,10.4-8.4,18.8-18.8,18.8C39.6,55.3,31.2,46.8,31.2,36.5z">
+                  </path>
+                  <path
+                    d="M58.2,27.7c-0.4-0.4-1.2-0.4-1.6,0l-8.8,8.8l-4.5-4.5c-0.4-0.4-1.2-0.4-1.6,0L38,35.7c-0.4,0.4-0.4,1.2,0,1.6l9.1,9.1     c0.4,0.4,1.2,0.4,1.6,0L62,33.1c0.4-0.4,0.4-1.2,0-1.6L58.2,27.7z">
+                  </path>
+                </g>
+              </g>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">100% Placement Assurance</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M7 11h2v2H7v-2zm14-5v14c0 1.1-.9 2-2 2H5c-1.11 0-2-.9-2-2l.01-14c0-1.1.88-2 1.99-2h1V2h2v2h8V2h2v2h1c1.1 0 2 .9 2 2zM5 8h14V6H5v2zm14 12V10H5v10h14zm-4-7h2v-2h-2v2zm-4 0h2v-2h-2v2z">
+              </path>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">6 Months Live Cohort</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.31-8.86c-1.77-.45-2.34-.94-2.34-1.67 0-.84.79-1.43 2.1-1.43 1.38 0 1.9.66 1.94 1.64h1.71c-.05-1.34-.87-2.57-2.49-2.97V5H10.9v1.69c-1.51.32-2.72 1.3-2.72 2.81 0 1.79 1.49 2.69 3.66 3.21 1.95.46 2.34 1.15 2.34 1.87 0 .53-.39 1.39-2.1 1.39-1.6 0-2.23-.72-2.32-1.64H8.04c.1 1.7 1.36 2.66 2.86 2.97V19h2.34v-1.67c1.52-.29 2.72-1.16 2.73-2.77-.01-2.2-1.9-2.96-3.66-3.42z">
+              </path>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">Avg. CTC of 5 LPA</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <rect fill="none" height="24" width="24"></rect>
+                <rect fill="none" height="24" width="24"></rect>
+                <rect fill="none" height="24" width="24"></rect>
+              </g>
+              <g>
+                <g></g>
+                <path
+                  d="M20,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V6C22,4.9,21.1,4,20,4z M4,9h10.5v3.5H4V9z M4,14.5 h10.5V18L4,18V14.5z M20,18l-3.5,0V9H20V18z">
+                </path>
+              </g>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">Live Interactive Sessions
+          </p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <rect fill="none" height="24" width="24"></rect>
+                <path
+                  d="M6.5,2c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S5.4,2,6.5,2z M15.5,9.5c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S17.83,8,17,8S15.5,8.67,15.5,9.5z M18.5,12h-2.84c-0.58,0.01-1.14,0.32-1.45,0.86l-0.92,1.32L9.72,8C9.35,7.37,8.69,7.01,8.01,7H5 C3.9,7,3,7.9,3,9v6h1.5v7h5V11.61L12.03,16h2.2L15,14.9V22h4v-5h1v-3.5C20,12.68,19.33,12,18.5,12z">
+                </path>
+              </g>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">1-1 Personal Mentorship</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="svelte-14adm9j"
+              style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"
+                fill="currentColor"></path>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">Curriculum designed by Industry Experts</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
+              <g>
+                <path
+                  d="M20,4v12H8V4H20 M20,2H8C6.9,2,6,2.9,6,4v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z M12.47,14 L9,10.5l1.4-1.41l2.07,2.08L17.6,6L19,7.41L12.47,14z M4,6H2v14c0,1.1,0.9,2,2,2h14v-2H4V6z">
+                </path>
+                <path d="M0,0h24v24H0V0z" fill="none"></path>
+              </g>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">Real-World Projects and Code Reviews</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
+              class="svelte-14adm9j" style="height:36px;width:36px">
+              <path d="M0 0h24v24H0V0z" fill="none"></path>
+              <path
+                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z">
+              </path>
+            </svg>
+          </div>
+          <p class="icontitle-head pt-3">Placement readiness training and Mock Interviews</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="course-content">
+  <div class="container">
+    <div class="row justify-content-between">
+      <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
+        <div class="card p-3">
+          <ul>
+            <li><a href="#advantage">Alchemyst Advantage</a></li>
+            <li><a href="#course-work">How Skill Safari work</a></li>
+            <li><a href="#course-work">Course Curriculum</a></li>
+            <li><a href="#trainers">Curriculum Instructors</a></li>
+            <li><a href="#hiring-partners">Hiring Partners</a></li>
+            <li><a href="#hiring-partners">Placements</a></li>
+            <li><a href="#hiring-partners">Certfication</a></li>
+
+          </ul>
+        </div>
+      </aside>
+      <main class="col-lg-9">
+        <section class="card p-3 my-2" id="advantage">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Skill Safari's Advantage</h2>
+            <hr>
+          </div>
+          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+            <h3 class="section__card-title">
+              Why we charge course fee
+            </h3>
+            <p class="section__card-description">
+              We are investing heavily in providing the best-in-class learning experience for our students. To encourage
+              serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+              (security deposit) that is refundable upon completion of the program.
+            </p>
+          </div>
+          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+            <h3 class="section__card-title">
+              Why we charge course fee
+            </h3>
+            <p class="section__card-description">
+              We are investing heavily in providing the best-in-class learning experience for our students. To encourage
+              serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+              (security deposit) that is refundable upon completion of the program.
+            </p>
+          </div>
+          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+            <h3 class="section__card-title">
+              Why we charge course fee
+            </h3>
+            <p class="section__card-description">
+              We are investing heavily in providing the best-in-class learning experience for our students. To encourage
+              serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+              (security deposit) that is refundable upon completion of the program.
+            </p>
+          </div>
+        </section>
+        <section class="card p-3 my-2 bg-faq" id="course-work">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Skill Safari's Advantage</h2>
+            <hr>
+          </div>
+          <div class="accordion" id="accordionExample">
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingOne">
+                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <h4 class="top-head-faq mb-0">
+                    Who is a Full Stack Developer?
+                  </h4>
+                </button>
+              </h3>
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A person who knows to develop both the frontend and backend portions of a web application alongside
+                    hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingOneTwo">
+                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                  <h4 class="top-head-faq mb-0">
+                    Who is a Full Stack Developer?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A person who knows to develop both the frontend and backend portions of a web application alongside
+                    hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingOneThree">
+                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                  <h4 class="top-head-faq mb-0">
+                    Who is a Full Stack Developer?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A person who knows to develop both the frontend and backend portions of a web application alongside
+                    hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item mb-3 p-4">
+              <h3 class="accordion-header" id="headingOneFour">
+                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                  <h4 class="top-head-faq mb-0">
+                    Who is a Full Stack Developer?
+                  </h4>
+                </button>
+              </h3>
+
+              <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <p class="school-para mb-0">
+                    A person who knows to develop both the frontend and backend portions of a web application alongside
+                    hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="card p-3 my-2" id="curriculum">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Curriculum</h2>
+            <hr>
+          </div>
+          <div class="row pt-3">
+            <div class="col-12 col-md-6">
+              <div class="row m-2">
+                <p class="syllabus__week-title h4">Week 1-5</p>
+                <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development
+                  using
+                  HTML, CSS. Version Control using Git &amp; GitHub. </p>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="row m-2">
+                <p class="syllabus__week-title h4">Week 6-10</p>
+                <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and
+                  Algorithms,
+                  JavaScript on the browser.</p>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="row m-2">
+                <p class="syllabus__week-title h4">Week 11-15</p>
+                <p>Advanced JavaScript, Working with DOM API &amp; LocalStorage, Introduction to React and React
+                  Ecosystem, UI
+                  Libraries, Deployment &amp; Unit Testing.</p>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="row m-2">
+                <p class="syllabus__week-title h4">Week 16-20</p>
+                <p>HTTP Protocols, Node.js &amp; Node.js architecture, Express.js, MongoDB &amp; Mongoose ORM, OAuth
+                  using
+                  Passport.js. </p>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="row m-2">
+                <p class="syllabus__week-title h4">Week 21-24</p>
+                <p>Profile building, Mock Interviews and profiles will be sent to partnered companies.</p>
+              </div>
+            </div>
+          </div>
+          <div class="tech-slider row pt-3">
+            <div class="owl-carousel" id="tech-carousel">
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="Python"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="Git"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/git_srlcgb.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="GitHub"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/github_zkisle.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="html"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/html_orrq6q.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="css"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/css_knu9hc.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="JavaScript"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/js_pueijt.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="BootStrap 5"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/bootstrap_rvxy3u.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="React Js"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_s2rpnh.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="React Router"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_router_odgjdw.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="Redux"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/redux_y5zdgw.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="Styled Components"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/style_qiwmnz.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="FireBase"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/firebase_ki5deh.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="Node Js"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/node_z0wrmk.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="Express Js"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/express_zphtmd.png"
+                    loading="lazy" />
+                </div>
+              </div>
+              <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+                <div class="tech-logo-container">
+                  <img class="img-fluid" alt="MongoDb"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/mongo_oqcpiv.png"
+                    loading="lazy" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 mx-auto">
+            <div class="callbackbtn">
+              <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">View
+                Curriculum</a>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="curriculum-model" tabindex="-1" aria-labelledby="exampleModalLabel"
+              aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
+                      <h5 class="trainingform-head pb-3">I'm Interested</h5>
+                      <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
+                        id="popup-form">
+                        <div class="mb-3">
+                          <label for="fullName" class="form-label">Full Name*</label>
+                          <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp"
+                            name="name" data-parsley-required-message="We require your name"
+                            placeholder="Enter Your Full Name" required />
+                        </div>
+
+                        <div class="mb-3">
+                          <label for="email" class="form-label">Email Address*</label>
+                          <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                            placeholder="Enter Your Email ID" name="email"
+                            data-parsley-required-message="Email Address is required" required />
+                        </div>
+
+                        <div class="mb-3">
+                          <label for="mobile" class="form-label">Mobile Number*</label>
+                          <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                            placeholder="Enter Your Mobile Number" name="phone"
+                            data-parsley-required-message="Mobile Number is required"
+                            data-parsley-error-message="Provide valid Mobile Number" required
+                            data-parsley-trigger="keyup" data-parsley-validation-threshold="1"
+                            data-parsley-debounce="500" data-parsley-type="digits" data-parsley-minlength="10"
+                            data-parsley-maxlength="11" />
+                        </div>
+                        <input type="hidden" name="utm_source" value="">
+                        <input type="hidden" name="utm_medium" value="">
+                        <input type="hidden" name="utm_campaign" value="">
+                        <input type="hidden" name="utm_term" value="">
+                        <input type="hidden" name="utm_content" value="">
+                        <input type="hidden" name="_webhook"
+                          value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
+                        <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                        <div class="callbackbtn mt-3">
+                          <button class="text-decoration-none" type="submit">View Curriculum</button>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="card p-3 my-2" id="trainers">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Meet your Instructors
+            </h2>
+            <hr>
+          </div>
+          <div class="row pt-md-3 pb-md-3 justify-content-center">
+            <div class="col-md-3 col-6 mb-4">
+              <div class="trained-box text-center">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                  class="img-fluid w-100" alt="full stack developer Course with guaranteed placement" title="">
+
+                <div class="middle">
+                  <div class="text">
+                    <a href="https://www.linkedin.com/in/kskishorebabu/"><i class="fa fa-linkedin"
+                        aria-hidden="true"></i></a>
+                  </div>
+                </div>
+
+                <h3 class="trained-head pt-md-3 pt-3">Kishore Kammela</h3>
+
+                <h6 class="trained-dest pb-3">Skill Safari</h6>
+              </div>
+            </div>
+            <div class="col-md-3 col-6 mb-4">
+              <div class="trained-box text-center">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004276/website/trainers/Sathish_dxpwrt.png"
+                  class="img-fluid w-100" alt="full stack trainers " title="">
+
+                <div class="middle">
+                  <div class="text">
+                    <a href="https://www.linkedin.com/in/sathishkumar-shanmugam-27790a106/"><i class="fa fa-linkedin"
+                        aria-hidden="true"></i></a>
+                  </div>
+                </div>
+
+                <h3 class="trained-head pt-md-3 pt-3">Sathish</h3>
+                <h6 class="trained-dest pb-3">Skill Safari</h6>
+              </div>
+            </div>
+            <div class="col-md-3 col-6 mb-4">
+              <div class="trained-box text-center">
+                <img loading="lazy"
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
+                  class="img-fluid" alt="backend trainer" title="">
+                <div class="middle">
+                  <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
+                        class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+                </div>
+                <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
+                <h6 class="trained-dest pb-3">Skill Safari</h6>
+              </div>
+            </div>
+            <div class="col-md-3 col-6 mb-4">
+              <div class="trained-box text-center">
+                <img loading="lazy"
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
+                  class="img-fluid" alt="full stack trainer skillsafari" title="">
+                <div class="middle">
+                  <div class="text"><a href="https://www.linkedin.com/in/dilip-m-b8021637/" target="_blank"><i
+                        class="fa fa-linkedin" aria-hidden="true"></i></a></div>
+                </div>
+                <h3 class="trained-head pt-md-3 pt-3">Dilip</h3>
+                <h6 class="trained-dest pb-3">Paypal</h6>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="card p-3 my-2" id="hiring-partners">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Hiring Partners</h2>
+            <hr>
+          </div>
+          <div class="row align-items-center justify-content-center align-items-center p-4">
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6 mx-auto text-center py-3">
+            <h6>Follow here to know more about our hiring partners?</h6>
+            <div class="callbackbtn">
+              <a href="#" class="text-decoration-none">Know More</a>
+            </div>
+          </div>
+        </section>
+        <section class="card p-3 my-2" id="placements">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Alchemyst - Placements</h2>
+            <hr>
+          </div>
+          <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+                <div class="section__logo-container text-center">
+                  <img
+                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    alt="carrer icon">
+                </div>
+                <h3 class="section__card-title text-center">
+                  Why we charge course fee
+                </h3>
+                <p class="section__card-description">
+                  We are investing heavily in providing the best-in-class learning experience for our students. To
+                  encourage
+                  serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+                  (security deposit) that is refundable upon completion of the program.
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+                <div class="section__logo-container text-center">
+                  <img
+                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    alt="carrer icon">
+                </div>
+                <h3 class="section__card-title text-center">
+                  Why we charge course fee
+                </h3>
+                <p class="section__card-description">
+                  We are investing heavily in providing the best-in-class learning experience for our students. To
+                  encourage
+                  serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+                  (security deposit) that is refundable upon completion of the program.
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+                <div class="section__logo-container text-center">
+                  <img
+                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    alt="carrer icon">
+                </div>
+                <h3 class="section__card-title text-center">
+                  Why we charge course fee
+                </h3>
+                <p class="section__card-description">
+                  We are investing heavily in providing the best-in-class learning experience for our students. To
+                  encourage
+                  serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+                  (security deposit) that is refundable upon completion of the program.
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+                <div class="section__logo-container text-center">
+                  <img
+                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    alt="carrer icon">
+                </div>
+                <h3 class="section__card-title text-center">
+                  Why we charge course fee
+                </h3>
+                <p class="section__card-description">
+                  We are investing heavily in providing the best-in-class learning experience for our students. To
+                  encourage
+                  serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+                  (security deposit) that is refundable upon completion of the program.
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+                <div class="section__logo-container text-center">
+                  <img
+                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    alt="carrer icon">
+                </div>
+                <h3 class="section__card-title text-center">
+                  Why we charge course fee
+                </h3>
+                <p class="section__card-description">
+                  We are investing heavily in providing the best-in-class learning experience for our students. To
+                  encourage
+                  serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+                  (security deposit) that is refundable upon completion of the program.
+                </p>
+              </div>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+                <div class="section__logo-container text-center">
+                  <img
+                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    alt="carrer icon">
+                </div>
+                <h3 class="section__card-title text-center">
+                  Why we charge course fee
+                </h3>
+                <p class="section__card-description">
+                  We are investing heavily in providing the best-in-class learning experience for our students. To
+                  encourage
+                  serious candidates, and keep them motivated throughout the program, we charge a nominal program fee
+                  (security deposit) that is refundable upon completion of the program.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="card p-3 my-2" id="placements">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Certification</h2>
+            <hr>
+          </div>
+          <div class="certificate-description">
+            <p>
+              Pass all the competency tests and earn the joint certificate from AlmaBetter and Polygon of Full Stack Web
+              Development with Web3 course. Also, earn a certificate for clearing each competency challenge.
+            </p>
+          </div>
+          <div class="certificate__img-container mx-auto my-2 col-md-7">
+            <img
+              src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FYour_Name_2022_04_07_1_1_min_017ee86de7.png&w=640&q=75"
+              alt="" class="img-fluid">
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+</section>
+<?php 
+include_once("../includes/footer.php");
+?>
