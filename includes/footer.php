@@ -115,8 +115,6 @@
 <script src="<?php echo $parsleyJS; ?>"></script>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 <script src="<?php echo $customJS; ?>"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/sticksy/dist/sticksy.min.js"></script>
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7273630.js"></script>
 <!-- End of HubSpot Embed Code -->

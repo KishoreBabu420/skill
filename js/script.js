@@ -327,13 +327,3 @@ var queryForm = function (settings) {
 setTimeout(function () {
   queryForm({ reset: true });
 }, 3000);
-
-var stickyElement = new Sticksy('.sidebar');
-// you can handle state changing
-stickyEl.onStateChanged = function (state) {
-  if (state === 'fixed') {
-    stickyEl.nodeRef.classList.add('widget--sticky');
-  } else {
-    stickyEl.nodeRef.classList.remove('widget--sticky');
-  }
-};
