@@ -686,79 +686,68 @@ include_once("../includes/header.php");
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
+                alt="Freshworks" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
+                alt="Red bus" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
+              alt="Bookmyshow" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
+            alt="ZOHO" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
+            alt="Global Logic" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
+            alt="Citrix" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
+            alt="Phicode" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
+            alt="Elhaa Technologies" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
+            alt="BewellDigital" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
+            alt="Draup" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
               <div class="img-container">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
+            alt="Finacus Solutions" class="img-fluid" loading="lazy">
               </div>
             </div>
           </div>
