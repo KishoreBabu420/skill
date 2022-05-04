@@ -60,7 +60,8 @@ include_once("../includes/header.php");
           <div class="card-footer border-0 bg-transparent">
             <div class="col-md-6 mx-auto">
               <div class="callbackbtn mt-3">
-                <a class="text-decoration-none" href="">Enroll Now</a>
+                <a class="text-decoration-none" href="https://connect.skillsafari.in/enrollNow" target="_blank">Enroll
+                  Now</a>
               </div>
             </div>
           </div>
@@ -225,8 +226,7 @@ include_once("../includes/header.php");
           <div class="section__title-container p-2">
             <h2 class="section-title">What’s unique about our Full stack developer Course?</h2>
             <hr>
-            <p class="school-para">The entire course fee for the Alchemyst Full Stack Developer Program is fully
-              refundable</p>
+
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
@@ -257,6 +257,10 @@ include_once("../includes/header.php");
               developer skills to become job-ready.
             </p>
           </div>
+
+          <p class="course-highlight">The entire course fee for the Alchemyst Full Stack Developer Program
+            is fully
+            refundable</p>
         </section>
         <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4" id="course-work">
           <div class="section__title-container p-2">
