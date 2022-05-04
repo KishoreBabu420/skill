@@ -2670,10 +2670,16 @@ width: unset!important;
   list-style: none;
 }
 
-.course-sidebar li a {
+.course__sidebar-link {
   text-decoration: none;
   font-size: 1.1rem;
   color: #000;
+  transition: all 0.5s ease;
+}
+
+.course__sidebar-link.active,
+.course__sidebar-link:focus {
+  color: #f0256f !important;
 }
 
 .course-highlight {

@@ -209,15 +209,15 @@ include_once("../includes/header.php");
       <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
         <div class="card px-3 py-2 border-0 rounded-3 shadow">
           <ul class="px-3 py-2">
-            <li class="my-4"><a href="#advantage">Alchemyst Advantage</a></li>
-            <li class="my-4"><a href="#course-work">How Skill Safari work</a></li>
-            <li class="my-4"><a href="#course-work">Course Curriculum</a></li>
-            <li class="my-4"><a href="#trainers">Curriculum Instructors</a></li>
-            <li class="my-4"><a href="#hiring-partners">Hiring Partners</a></li>
-            <li class="my-4"><a href="#placements">Placements</a></li>
-            <li class="my-4"><a href="#certification">Certfication</a></li>
-            <li class="my-4"><a href="#community">Alchemyst Community</a></li>
-            <li class="my-4"><a href="#faq">FAQ</a></li>
+            <li class="my-4"><a href="#advantage" class="course__sidebar-link active">Alchemyst Advantage</a></li>
+            <li class="my-4"><a href="#course-work" class="course__sidebar-link">How Skill Safari work</a></li>
+            <li class="my-4"><a href="#course-work" class="course__sidebar-link">Course Curriculum</a></li>
+            <li class="my-4"><a href="#trainers" class="course__sidebar-link">Curriculum Instructors</a></li>
+            <li class="my-4"><a href="#hiring-partners" class="course__sidebar-link">Hiring Partners</a></li>
+            <li class="my-4"><a href="#placements" class="course__sidebar-link">Placements</a></li>
+            <li class="my-4"><a href="#certification" class="course__sidebar-link">Certfication</a></li>
+            <li class="my-4"><a href="#community" class="course__sidebar-link">Alchemyst Community</a></li>
+            <li class="my-4"><a href="#faq" class="course__sidebar-link">FAQ</a></li>
           </ul>
         </div>
       </aside>
@@ -847,7 +847,7 @@ include_once("../includes/header.php");
           <div class="certificate__img-container p-3 mx-auto my-2 col-md-7">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-              alt="" class="img-fluid">
+              alt="Skill Safari certificate" class="img-fluid">
           </div>
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="community">
@@ -1395,3 +1395,10 @@ include_once("../includes/header.php");
 <?php 
 include_once("../includes/footer.php");
 ?>
+
+<script type="text/javascript">
+$("a").on("click", function() {
+  $("a").removeClass("active");
+  $(this).addClass("active");
+});
+</script>
