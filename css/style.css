@@ -761,7 +761,7 @@ body {
 }
 
 .bg-partners {
-  background: #e8f3fa;
+  background: #e8f3fa !important;
 }
 
 .bannersectionimg {
@@ -1139,7 +1139,7 @@ body {
 }
 
 .bg-faq .school-para {
-  font-size: 19px !important;
+  font-size: 16px !important;
 }
 
 .bg-faq [data-bs-toggle='collapse']:not(.collapsed)::after {
@@ -2165,7 +2165,7 @@ header {
     top: 20vh !important;
   }
   .bg-faq .school-para {
-    font-size: 14px !important;
+    font-size: 16px !important;
   }
   .timecounter-new li {
     padding: 0 7px !important;
@@ -2674,4 +2674,10 @@ width: unset!important;
   text-decoration: none;
   font-size: 1.1rem;
   color: #000;
+}
+
+.course-highlight {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
 }

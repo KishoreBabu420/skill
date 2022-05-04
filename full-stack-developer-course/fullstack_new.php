@@ -15,34 +15,58 @@ include_once("../includes/header.php");
 
 <section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
   <div class="container">
-    <div class="row py-md-4 align-items-center">
-      <div class="col-lg-6 text-md-start text-center">
-        <div class="row align-items-center my-3">
-          <div class="col-md-3 d-none d-md-block">
-            <div class="icon-scourse text-center">
-              <i class="fas fa-code"></i>
+    <div class="row py-md-2 align-items-center">
+      <div class="col-lg-7 text-md-start">
+        <div class="card p-2 border-0 shadow rounded-3" id="course-details">
+          <div class="card-header border-0 bg-transparent row align-items-center">
+            <div class="col-7">
+              <div class="banner__heading-container">
+                <h1 class="pt-3 h4">
+                  Full Stack Developer Course
+                </h1>
+              </div>
+            </div>
+            <div class="col-5">
+              <div class="batch__start-container py-2 px-2" style="background-color: #fef4e5">
+                <p class="mb-1">Next Batch Starting</p>
+                <p class="mb-1"><strong>May 16<sup>th</sup> 2022</strong></p>
+              </div>
             </div>
           </div>
-          <div class="col-md-9">
-            <h1 class="top-head-new pt-3">
-              Full Stack Developer Course
-            </h1>
+          <div class="card-body">
+            <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective
+              upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
+            <div class="row align-items-center justify-content-around">
+              <div class="col-8">
+                <div class="course__details-container">
+                  <ul>
+                    <li class="my-1">Live interactive sessions</li>
+                    <li class="my-1">7 Months Cohort - Outcome based learning</li>
+                    <li class="my-1">1 - 1 Mentorship support</li>
+                    <li class="my-1">Assured Jobs with CTC 5 - 25 LPA</li>
+                    <li class="my-1">Access to our Learn and Community</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-4">
+                <div class="pricing__details-container">
+                  <h4>Price: <strong>₹ 25000/-</strong></h4>
+                  <p class=" mb-1"><i class="fa-solid fa-credit-card"></i> Pay in EMIs</p>
+                  <p class="mb-1"><strong><i class="fa-solid fa-money-bill-transfer"></i> Fully Refundable</strong></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer border-0 bg-transparent">
+            <div class="col-md-6 mx-auto">
+              <div class="callbackbtn mt-3">
+                <a class="text-decoration-none" href="https://connect.skillsafari.in/enrollNow" target="_blank">Enroll
+                  Now</a>
+              </div>
+            </div>
           </div>
         </div>
-        <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective
-          upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
-        <p class="school-para">The next Batch Starts on 16th May 2022
-        <ul class="mx-3">
-          <li class="course-toppara my-1">100% Live Program</li>
-          <li class="course-toppara my-1">100% Program fee refunded upon completion</li>
-          <li class="course-toppara my-1">7 Months Cohort</li>
-          <li class="course-toppara my-1">Get jobs with an annual CTC of 5-25 LPA</li>
-          <li class="course-toppara my-1">Join our Learn & Earn Community</li>
-          <li class="course-toppara my-1">Get Access to placement preparedness Materials</li>
-        </ul>
-        </p>
       </div>
-      <div class="col-lg-1 d-none d-lg-block"></div>
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
           <h5 class="trainingform-head py-3 text-center">Request A Callback</h5>
@@ -126,73 +150,7 @@ include_once("../includes/header.php");
               </g>
             </svg>
           </div>
-          <p class="icontitle-head pt-3">100% Placement Assurance</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M7 11h2v2H7v-2zm14-5v14c0 1.1-.9 2-2 2H5c-1.11 0-2-.9-2-2l.01-14c0-1.1.88-2 1.99-2h1V2h2v2h8V2h2v2h1c1.1 0 2 .9 2 2zM5 8h14V6H5v2zm14 12V10H5v10h14zm-4-7h2v-2h-2v2zm-4 0h2v-2h-2v2z">
-              </path>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">6 Months Live Cohort</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.31-8.86c-1.77-.45-2.34-.94-2.34-1.67 0-.84.79-1.43 2.1-1.43 1.38 0 1.9.66 1.94 1.64h1.71c-.05-1.34-.87-2.57-2.49-2.97V5H10.9v1.69c-1.51.32-2.72 1.3-2.72 2.81 0 1.79 1.49 2.69 3.66 3.21 1.95.46 2.34 1.15 2.34 1.87 0 .53-.39 1.39-2.1 1.39-1.6 0-2.23-.72-2.32-1.64H8.04c.1 1.7 1.36 2.66 2.86 2.97V19h2.34v-1.67c1.52-.29 2.72-1.16 2.73-2.77-.01-2.2-1.9-2.96-3.66-3.42z">
-              </path>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">Avg. CTC of 5 LPA</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <rect fill="none" height="24" width="24"></rect>
-                <rect fill="none" height="24" width="24"></rect>
-                <rect fill="none" height="24" width="24"></rect>
-              </g>
-              <g>
-                <g></g>
-                <path
-                  d="M20,4H4C2.9,4,2.01,4.9,2.01,6L2,18c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V6C22,4.9,21.1,4,20,4z M4,9h10.5v3.5H4V9z M4,14.5 h10.5V18L4,18V14.5z M20,18l-3.5,0V9H20V18z">
-                </path>
-              </g>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">Live Interactive Sessions
-          </p>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <rect fill="none" height="24" width="24"></rect>
-                <path
-                  d="M6.5,2c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S5.4,2,6.5,2z M15.5,9.5c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S17.83,8,17,8S15.5,8.67,15.5,9.5z M18.5,12h-2.84c-0.58,0.01-1.14,0.32-1.45,0.86l-0.92,1.32L9.72,8C9.35,7.37,8.69,7.01,8.01,7H5 C3.9,7,3,7.9,3,9v6h1.5v7h5V11.61L12.03,16h2.2L15,14.9V22h4v-5h1v-3.5C20,12.68,19.33,12,18.5,12z">
-                </path>
-              </g>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">1-1 Personal Mentorship</p>
+          <p class="icontitle-head pt-3">100% Placement Guarantee</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -222,7 +180,7 @@ include_once("../includes/header.php");
               </g>
             </svg>
           </div>
-          <p class="icontitle-head pt-3">Real-World Projects and Code Reviews</p>
+          <p class="icontitle-head pt-3">Project based learning and Expert Reviews</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
@@ -236,7 +194,7 @@ include_once("../includes/header.php");
               </path>
             </svg>
           </div>
-          <p class="icontitle-head pt-3">Placement readiness training and Mock Interviews</p>
+          <p class="icontitle-head pt-3">Placement Training and Mock Interviews</p>
         </div>
       </div>
 
@@ -249,27 +207,26 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row justify-content-between">
       <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
-        <div class="card p-3">
-          <ul class="p-3">
-            <li class="my-3"><a href="#advantage">Alchemyst Advantage</a></li>
-            <li class="my-3"><a href="#course-work">How Skill Safari work</a></li>
-            <li class="my-3"><a href="#course-work">Course Curriculum</a></li>
-            <li class="my-3"><a href="#trainers">Curriculum Instructors</a></li>
-            <li class="my-3"><a href="#hiring-partners">Hiring Partners</a></li>
-            <li class="my-3"><a href="#placements">Placements</a></li>
-            <li class="my-3"><a href="#certification">Certfication</a></li>
-            <li class="my-3"><a href="#community">Alchemyst Community</a></li>
-            <li class="my-3"><a href="#faq">FAQ</a></li>
+        <div class="card px-3 py-2 border-0 rounded-3 shadow">
+          <ul class="px-3 py-2">
+            <li class="my-4"><a href="#advantage">Alchemyst Advantage</a></li>
+            <li class="my-4"><a href="#course-work">How Skill Safari work</a></li>
+            <li class="my-4"><a href="#course-work">Course Curriculum</a></li>
+            <li class="my-4"><a href="#trainers">Curriculum Instructors</a></li>
+            <li class="my-4"><a href="#hiring-partners">Hiring Partners</a></li>
+            <li class="my-4"><a href="#placements">Placements</a></li>
+            <li class="my-4"><a href="#certification">Certfication</a></li>
+            <li class="my-4"><a href="#community">Alchemyst Community</a></li>
+            <li class="my-4"><a href="#faq">FAQ</a></li>
           </ul>
         </div>
       </aside>
       <main class="col-lg-9">
-        <section class="card p-3 my-2" id="advantage">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="advantage">
           <div class="section__title-container p-2">
             <h2 class="section-title">What’s unique about our Full stack developer Course?</h2>
             <hr>
-            <p class="school-para">The entire course fee for the Alchemyst Full Stack Developer Program is fully
-              refundable</p>
+
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
@@ -300,8 +257,12 @@ include_once("../includes/header.php");
               developer skills to become job-ready.
             </p>
           </div>
+
+          <p class="course-highlight">The entire course fee for the Alchemyst Full Stack Developer Program
+            is fully
+            refundable</p>
         </section>
-        <section class="card p-3 my-2 bg-faq" id="course-work">
+        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4" id="course-work">
           <div class="section__title-container p-2">
             <h2 class="section-title">How does Skill Safari’s Full Stack Developer Program work?</h2>
             <hr>
@@ -335,7 +296,7 @@ include_once("../includes/header.php");
                 </button>
               </h3>
 
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+              <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo"
                 data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
@@ -356,7 +317,7 @@ include_once("../includes/header.php");
                 </button>
               </h3>
 
-              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+              <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree"
                 data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
@@ -377,7 +338,7 @@ include_once("../includes/header.php");
                 </button>
               </h3>
 
-              <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+              <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour"
                 data-bs-parent="#work">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
@@ -388,7 +349,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="curriculum">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="curriculum">
           <div class="section__title-container p-2">
             <h2 class="section-title">Curriculum</h2>
             <hr>
@@ -601,7 +562,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="trainers">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="trainers">
           <div class="section__title-container p-2">
             <h2 class="section-title">Meet your Instructors
             </h2>
@@ -671,83 +632,94 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="hiring-partners">
+        <section class="card p-3 my-2 bg-partners border-0 rounded-3 shadow my-4" id="hiring-partners">
           <div class="section__title-container p-2">
             <h2 class="section-title">Hiring Partners</h2>
             <hr>
           </div>
           <div class="row align-items-center justify-content-center align-items-center p-4">
             <div class="col-4 col-md-3">
-              <div class="img-container">
+              <div class="img-container p-3">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
                   alt="Zomato logo" loading="lazy" class="img-fluid">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
-                alt="Freshworks" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
+                  alt="Freshworks" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
-                alt="Red bus" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
+                  alt="Red bus" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
-              alt="Bookmyshow" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
+                  alt="Bookmyshow" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
-            alt="ZOHO" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
+                  alt="ZOHO" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
-            alt="Global Logic" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
+                  alt="Global Logic" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
-            alt="Citrix" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
+                  alt="Citrix" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
-            alt="Phicode" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
+                  alt="Phicode" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
-            alt="Elhaa Technologies" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
+                  alt="Elhaa Technologies" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
-            alt="BewellDigital" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
+                  alt="BewellDigital" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
-            alt="Draup" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
+                  alt="Draup" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
-            alt="Finacus Solutions" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
+                  alt="Finacus Solutions" class="img-fluid" loading="lazy">
               </div>
             </div>
           </div>
@@ -758,102 +730,102 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="placements">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="placements">
           <div class="section__title-container p-2">
             <h2 class="section-title">Alchemyst Recruitment Essentials Program</h2>
             <hr>
           </div>
           <div class="row align-items-center justify-content-center">
             <div class="col-12 col-sm-6 col-lg-4">
-              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-                <div class="section__logo-container text-center">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card text-center">
+                <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Portfolio_t4uolq.png"
                     alt="carrer icon">
                 </div>
-                <h3 class="section__card-title text-center">
+                <h4 class="section__card-title">
                   Portfolio Building
-                </h3>
-                <p class="section__card-description">
+                </h4>
+                <p class="section__card-description school-para">
                   Get our placement mentor’s help in building a beautiful Online Portfolio, LinkedIn profile and Resume.
                 </p>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
-              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-                <div class="section__logo-container text-center">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card text-center ">
+                <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Skill_ctjsmo.png"
                     alt="carrer icon">
                 </div>
-                <h3 class="section__card-title text-center">
+                <h4 class="section__card-title">
                   Soft Skills Training
-                </h3>
-                <p class="section__card-description">
+                </h4>
+                <p class="section__card-description school-para">
                   Get the best-in-class soft skills and placement readiness training with our invigorated soft skills
                   and life skills training.
                 </p>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
-              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-                <div class="section__logo-container text-center">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card text-center">
+                <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/Experts_aicopk.png"
                     alt="carrer icon">
                 </div>
-                <h3 class="section__card-title text-center">
+                <h4 class="section__card-title">
                   Placement Series
-                </h3>
-                <p class="section__card-description">
-                  Industry experts at your hand for the latest placement market news. Gain insights into what is
-                  happening in the full-stack development world.
+                </h4>
+                <p class="section__card-description school-para">
+                  Industry experts at your hand for the latest placement trends. Gain insights into what is
+                  happening in the tech industry.
                 </p>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
-              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-                <div class="section__logo-container text-center">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card text-center">
+                <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/interviewstraining_fpyfdx.png"
                     alt="carrer icon">
                 </div>
-                <h3 class="section__card-title text-center">
-                  Interview pieces of Training and Mocks
-                </h3>
-                <p class="section__card-description">
-                  Designed training modules to crack technical as well as general interviews. Mock Interviews are
-                  planned following the training to guard you against the interview fears.
+                <h4 class="section__card-title">
+                  Interview Training
+                </h4>
+                <p class="section__card-description school-para">
+                  Curated training to crack any technical & HR interviews. Mock Interviews are
+                  conducted to guard you against the interview fears.
                 </p>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
-              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-                <div class="section__logo-container text-center">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card text-center">
+                <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/hirefromus_k3ada5.png"
                     alt="carrer icon">
                 </div>
-                <h3 class="section__card-title text-center">
+                <h4 class="section__card-title">
                   Hiring from us
-                </h3>
-                <p class="section__card-description">
+                </h4>
+                <p class="section__card-description school-para">
                   500+ recruitment partners are actively hiring from us right now as you are reading through these
                   lines. So be a part of it.
                 </p>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
-              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-                <div class="section__logo-container text-center">
+              <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card text-center">
+                <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/placement-webinar_ygk4kj.png"
                     alt="carrer icon">
                 </div>
-                <h3 class="section__card-title text-center">
+                <h4 class="section__card-title">
                   Placement Webinars
-                </h3>
-                <p class="section__card-description">
+                </h4>
+                <p class="section__card-description school-para">
                   Regular placement webinars are planned for you to get the most out of cracking any recruitment formats
                   during this time.
                 </p>
@@ -861,7 +833,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="certification">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="certification">
           <div class="section__title-container p-2">
             <h2 class="section-title">Certification</h2>
             <hr>
@@ -872,13 +844,13 @@ include_once("../includes/header.php");
               Development with Web3 course. Also, earn a certificate for clearing each competency challenge.
             </p>
           </div>
-          <div class="certificate__img-container mx-auto my-2 col-md-7">
+          <div class="certificate__img-container p-3 mx-auto my-2 col-md-7">
             <img
-              src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FYour_Name_2022_04_07_1_1_min_017ee86de7.png&w=640&q=75"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
               alt="" class="img-fluid">
           </div>
         </section>
-        <section class="card p-3 my-2" id="community">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="community">
           <div class="section__title-container p-2">
             <h2 class="section-title">Alchemyst Community</h2>
             <hr>
@@ -895,8 +867,8 @@ include_once("../includes/header.php");
               </div>
               <div class="col-md-12 text-center  mt-4">
                 <div class="discordbtn text-center ">
-                  <a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
-                      class="img-fluid me-1">
+                  <a href="./join-community" class="text-decoration-none"><img loading="lazy"
+                      src="https://skillsafari.in/images/baba.png" class="img-fluid me-1">
                     Join Our Discord</a>
                 </div>
               </div>
@@ -909,7 +881,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 bg-faq" id="faq">
+        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4" id="faq">
           <div class="section__title-container p-2">
             <h2 class="section-title">FAQ</h2>
             <hr>
@@ -1036,7 +1008,10 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  There are as such no age or demographic restrictions to joining this program. Anyone with a zeal to learn and make the most of it is welcome to the program. This course is a job-ready program, make sure you complete this and get placed in top product-based companies. If you wish, you can take Skill Safari’s support and get placement by ISA.<br>
+                    There are as such no age or demographic restrictions to joining this program. Anyone with a zeal to
+                    learn and make the most of it is welcome to the program. This course is a job-ready program, make
+                    sure you complete this and get placed in top product-based companies. If you wish, you can take
+                    Skill Safari’s support and get placement by ISA.<br>
                     <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
                     able to follow instructions in English.<br>
                     <strong>Interest &amp; Commitment</strong>: Anyone who is passionate about learning Full Stack
@@ -1055,39 +1030,43 @@ include_once("../includes/header.php");
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseNinteen1 aria-expanded="true" aria-controls="collapseNinteen1>
-                  <h4 class="top-head-faq mb-0">
-                  How are you learning this course at effective ZERO upfront cost?
+                  data-bs-target="#collapseNinteen1" aria-expanded=" true" aria-controls="collapseNinteen1">
+                  <h4 class=" top-head-faq mb-0">
+                    How are you learning this course at effective ZERO upfront cost?
                   </h4>
                 </button>
               </h3>
 
-              <div id="collapseNinteen1 class="accordion-collapse collapse" aria-labelledby="headingSix"
+              <div id="collapseNinteen1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  If you are someone who is seeking to get skilled in the domain of Full Stack Development, then our focus is to give you quality live and guided training program effective at no cost. The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post completion of the training program.
+                    If you are someone who is seeking to get skilled in the domain of Full Stack Development, then our
+                    focus is to give you quality live and guided training program effective at no cost. The program fee
+                    will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post
+                    completion of the training program.
 
                   </p>
                 </div>
               </div>
             </div>
-            
+
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwenty1 aria-expanded="true" aria-controls="collapseTwenty1>
-                  <h4 class="top-head-faq mb-0">
-                  Will you get a refund even if you don't need placements or don't sign ISA?
+                  data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
+                  <h4 class=" top-head-faq mb-0">
+                    Will you get a refund even if you don't need placements or don't sign ISA?
                   </h4>
                 </button>
               </h3>
 
-              <div id="collapseTwenty1 class="accordion-collapse collapse" aria-labelledby="headingSix"
+              <div id="collapseTwenty1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  Yes, the course fee is fully refunded as soon as you complete the course and get your certificate. Opting for placement with us is a discrete decision that you take.
+                    Yes, the course fee is fully refunded as soon as you complete the course and get your certificate.
+                    Opting for placement with us is a discrete decision that you take.
                   </p>
                 </div>
               </div>
@@ -1315,7 +1294,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseSixteen" aria-expanded="true" aria-controls="collapseSixteen">
                   <h4 class="top-head-faq mb-0">
-                  What will be the evaluation process in the program? </h4>
+                    What will be the evaluation process in the program? </h4>
                 </button>
               </h3>
 
@@ -1323,7 +1302,9 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  You will have a set of deliverables throughout the program viz. Assignments, Monthly Assessments, Monthly One-One Review calls, Project reviews etc., you have to make sure you finish everything within a stipulated time </p>
+                    You will have a set of deliverables throughout the program viz. Assignments, Monthly Assessments,
+                    Monthly One-One Review calls, Project reviews etc., you have to make sure you finish everything
+                    within a stipulated time </p>
                 </div>
               </div>
             </div>
@@ -1332,7 +1313,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseSeventeen" aria-expanded="true" aria-controls="collapseSeventeen">
                   <h4 class="top-head-faq mb-0">
-                  What will happen if you fail the evaluation process? </h4>
+                    What will happen if you fail the evaluation process? </h4>
                 </button>
               </h3>
 
@@ -1340,7 +1321,8 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  You will be given multiple attempts and you have to redo any particular deliverable. However, if you are still not able to complete the evaluation, you will be shifted to another batch. </p>
+                    You will be given multiple attempts and you have to redo any particular deliverable. However, if you
+                    are still not able to complete the evaluation, you will be shifted to another batch. </p>
                 </div>
               </div>
             </div>
@@ -1349,7 +1331,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseEighteen" aria-expanded="true" aria-controls="collapseEighteen">
                   <h4 class="top-head-faq mb-0">
-                  Will you get a Full Stack Developer Course completion Certificate? </h4>
+                    Will you get a Full Stack Developer Course completion Certificate? </h4>
                 </button>
               </h3>
 
@@ -1357,7 +1339,7 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  Yes you will get it once you complete the course successfully </p>
+                    Yes you will get it once you complete the course successfully </p>
                 </div>
               </div>
             </div>
