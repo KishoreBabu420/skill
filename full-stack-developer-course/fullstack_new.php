@@ -741,7 +741,7 @@ include_once("../includes/header.php");
                 <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Portfolio_t4uolq.png"
-                    alt="carrer icon">
+                    alt="carrer icon" class="img-fluid" width="64" height="64">
                 </div>
                 <h4 class="section__card-title">
                   Portfolio Building
@@ -756,7 +756,7 @@ include_once("../includes/header.php");
                 <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Skill_ctjsmo.png"
-                    alt="carrer icon">
+                    alt="carrer icon" class="img-fluid" width="64" height="64">
                 </div>
                 <h4 class="section__card-title">
                   Soft Skills Training
@@ -772,7 +772,7 @@ include_once("../includes/header.php");
                 <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/Experts_aicopk.png"
-                    alt="carrer icon">
+                    alt="carrer icon" class="img-fluid" width="64" height="64">
                 </div>
                 <h4 class="section__card-title">
                   Placement Series
@@ -788,7 +788,7 @@ include_once("../includes/header.php");
                 <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/interviewstraining_fpyfdx.png"
-                    alt="carrer icon">
+                    alt="carrer icon" class="img-fluid" width="64" height="64">
                 </div>
                 <h4 class="section__card-title">
                   Interview Training
@@ -804,7 +804,7 @@ include_once("../includes/header.php");
                 <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/hirefromus_k3ada5.png"
-                    alt="carrer icon">
+                    alt="carrer icon" class="img-fluid" width="64" height="64">
                 </div>
                 <h4 class="section__card-title">
                   Hiring from us
@@ -820,7 +820,7 @@ include_once("../includes/header.php");
                 <div class="section__logo-container">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/placement-webinar_ygk4kj.png"
-                    alt="carrer icon">
+                    alt="carrer icon" class="img-fluid" width="64" height="64">
                 </div>
                 <h4 class="section__card-title">
                   Placement Webinars
@@ -1401,25 +1401,4 @@ $("a").on("click", function() {
   $("a").removeClass("active");
   $(this).addClass("active");
 });
-
-const sections = document.querySelectorAll(".main section");
-const sidebarLinks = document.querySelectorAll(".course__sidebar-link");
-
-window.onscroll = () => {
-  var current = "";
-
-  sections.forEach((section) => {
-    const sectionTop = section.offsetTop;
-    if (pageYOffset >= sectionTop) {
-      current = section.getAttribute("id");
-    }
-  });
-
-  sidebarLinks.forEach((sidebarLink) => {
-    sidebarLink.classList.remove("active");
-    if (sidebarLink.classList.contains(current)) {
-      sidebarLink.classList.add("active");
-    }
-  });
-};
 </script>
