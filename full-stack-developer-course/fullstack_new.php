@@ -768,7 +768,7 @@ include_once("../includes/header.php");
               <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
                 <div class="section__logo-container text-center">
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Portfolio_t4uolq.png"
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
@@ -783,7 +783,7 @@ include_once("../includes/header.php");
               <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
                 <div class="section__logo-container text-center">
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Skill_ctjsmo.png"
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
@@ -799,7 +799,7 @@ include_once("../includes/header.php");
               <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
                 <div class="section__logo-container text-center">
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/Experts_aicopk.png"
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
@@ -815,7 +815,7 @@ include_once("../includes/header.php");
               <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
                 <div class="section__logo-container text-center">
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/interviewstraining_fpyfdx.png"
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
@@ -831,7 +831,7 @@ include_once("../includes/header.php");
               <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
                 <div class="section__logo-container text-center">
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/hirefromus_k3ada5.png"
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
@@ -847,7 +847,7 @@ include_once("../includes/header.php");
               <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
                 <div class="section__logo-container text-center">
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FGroup_1000002199_2x_f21634378f.png&w=48&q=75"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/placement-webinar_ygk4kj.png"
                     alt="carrer icon">
                 </div>
                 <h3 class="section__card-title text-center">
