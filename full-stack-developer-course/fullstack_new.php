@@ -117,7 +117,7 @@ include_once("../includes/header.php");
   </div>
 </section>
 
-<section class="bg-smallicon-sec active" id="cd">
+<section class="bg-smallicon-sec active">
   <div class="container">
     <div class="row">
       <div class="col-md-12 pt-4 pb-2 text-center">
@@ -211,7 +211,7 @@ include_once("../includes/header.php");
           <ul class="px-3 py-2">
             <li class="my-4"><a href="#advantage" class="course__sidebar-link active">Alchemyst Advantage</a></li>
             <li class="my-4"><a href="#course-work" class="course__sidebar-link">How Skill Safari work</a></li>
-            <li class="my-4"><a href="#course-work" class="course__sidebar-link">Course Curriculum</a></li>
+            <li class="my-4"><a href="#curriculum" class="course__sidebar-link">Course Curriculum</a></li>
             <li class="my-4"><a href="#trainers" class="course__sidebar-link">Curriculum Instructors</a></li>
             <li class="my-4"><a href="#hiring-partners" class="course__sidebar-link">Hiring Partners</a></li>
             <li class="my-4"><a href="#placements" class="course__sidebar-link">Placements</a></li>
@@ -221,7 +221,7 @@ include_once("../includes/header.php");
           </ul>
         </div>
       </aside>
-      <main class="col-lg-9">
+      <main class="col-lg-9 main">
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="advantage">
           <div class="section__title-container p-2">
             <h2 class="section-title">What’s unique about our Full stack developer Course?</h2>
@@ -1401,4 +1401,25 @@ $("a").on("click", function() {
   $("a").removeClass("active");
   $(this).addClass("active");
 });
+
+const sections = document.querySelectorAll(".main section");
+const sidebarLinks = document.querySelectorAll(".course__sidebar-link");
+
+window.onscroll = () => {
+  var current = "";
+
+  sections.forEach((section) => {
+    const sectionTop = section.offsetTop;
+    if (pageYOffset >= sectionTop) {
+      current = section.getAttribute("id");
+    }
+  });
+
+  sidebarLinks.forEach((sidebarLink) => {
+    sidebarLink.classList.remove("active");
+    if (sidebarLink.classList.contains(current)) {
+      sidebarLink.classList.add("active");
+    }
+  });
+};
 </script>
