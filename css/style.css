@@ -761,7 +761,7 @@ body {
 }
 
 .bg-partners {
-  background: #e8f3fa;
+  background: #e8f3fa !important;
 }
 
 .bannersectionimg {

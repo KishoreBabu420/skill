@@ -694,83 +694,94 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2" id="hiring-partners">
+        <section class="card p-3 my-2 bg-partners" id="hiring-partners">
           <div class="section__title-container p-2">
             <h2 class="section-title">Hiring Partners</h2>
             <hr>
           </div>
           <div class="row align-items-center justify-content-center align-items-center p-4">
             <div class="col-4 col-md-3">
-              <div class="img-container">
+              <div class="img-container p-3">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
                   alt="Zomato logo" loading="lazy" class="img-fluid">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
-                alt="Freshworks" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
+                  alt="Freshworks" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
-                alt="Red bus" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
+                  alt="Red bus" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
-              alt="Bookmyshow" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
+                  alt="Bookmyshow" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
-            alt="ZOHO" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
+                  alt="ZOHO" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
-            alt="Global Logic" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
+                  alt="Global Logic" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
-            alt="Citrix" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
+                  alt="Citrix" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
-            alt="Phicode" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
+                  alt="Phicode" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
-            alt="Elhaa Technologies" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
+                  alt="Elhaa Technologies" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
-            alt="BewellDigital" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
+                  alt="BewellDigital" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
-            alt="Draup" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
+                  alt="Draup" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
-            alt="Finacus Solutions" class="img-fluid" loading="lazy">
+              <div class="img-container p-3">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
+                  alt="Finacus Solutions" class="img-fluid" loading="lazy">
               </div>
             </div>
           </div>
@@ -895,7 +906,7 @@ include_once("../includes/header.php");
               Development with Web3 course. Also, earn a certificate for clearing each competency challenge.
             </p>
           </div>
-          <div class="certificate__img-container mx-auto my-2 col-md-7">
+          <div class="certificate__img-container p-3 mx-auto my-2 col-md-7">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
               alt="" class="img-fluid">
@@ -918,8 +929,8 @@ include_once("../includes/header.php");
               </div>
               <div class="col-md-12 text-center  mt-4">
                 <div class="discordbtn text-center ">
-                  <a href="./join-community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
-                      class="img-fluid me-1">
+                  <a href="./join-community" class="text-decoration-none"><img loading="lazy"
+                      src="https://skillsafari.in/images/baba.png" class="img-fluid me-1">
                     Join Our Discord</a>
                 </div>
               </div>
@@ -1059,7 +1070,10 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  There are as such no age or demographic restrictions to joining this program. Anyone with a zeal to learn and make the most of it is welcome to the program. This course is a job-ready program, make sure you complete this and get placed in top product-based companies. If you wish, you can take Skill Safari’s support and get placement by ISA.<br>
+                    There are as such no age or demographic restrictions to joining this program. Anyone with a zeal to
+                    learn and make the most of it is welcome to the program. This course is a job-ready program, make
+                    sure you complete this and get placed in top product-based companies. If you wish, you can take
+                    Skill Safari’s support and get placement by ISA.<br>
                     <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
                     able to follow instructions in English.<br>
                     <strong>Interest &amp; Commitment</strong>: Anyone who is passionate about learning Full Stack
@@ -1078,39 +1092,43 @@ include_once("../includes/header.php");
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseNinteen1 aria-expanded="true" aria-controls="collapseNinteen1>
-                  <h4 class="top-head-faq mb-0">
-                  How are you learning this course at effective ZERO upfront cost?
+                  data-bs-target="#collapseNinteen1" aria-expanded=" true" aria-controls="collapseNinteen1">
+                  <h4 class=" top-head-faq mb-0">
+                    How are you learning this course at effective ZERO upfront cost?
                   </h4>
                 </button>
               </h3>
 
-              <div id="collapseNinteen1 class="accordion-collapse collapse" aria-labelledby="headingSix"
+              <div id="collapseNinteen1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  If you are someone who is seeking to get skilled in the domain of Full Stack Development, then our focus is to give you quality live and guided training program effective at no cost. The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post completion of the training program.
+                    If you are someone who is seeking to get skilled in the domain of Full Stack Development, then our
+                    focus is to give you quality live and guided training program effective at no cost. The program fee
+                    will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post
+                    completion of the training program.
 
                   </p>
                 </div>
               </div>
             </div>
-            
+
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwenty1 aria-expanded="true" aria-controls="collapseTwenty1>
-                  <h4 class="top-head-faq mb-0">
-                  Will you get a refund even if you don't need placements or don't sign ISA?
+                  data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
+                  <h4 class=" top-head-faq mb-0">
+                    Will you get a refund even if you don't need placements or don't sign ISA?
                   </h4>
                 </button>
               </h3>
 
-              <div id="collapseTwenty1 class="accordion-collapse collapse" aria-labelledby="headingSix"
+              <div id="collapseTwenty1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  Yes, the course fee is fully refunded as soon as you complete the course and get your certificate. Opting for placement with us is a discrete decision that you take.
+                    Yes, the course fee is fully refunded as soon as you complete the course and get your certificate.
+                    Opting for placement with us is a discrete decision that you take.
                   </p>
                 </div>
               </div>
@@ -1338,7 +1356,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseSixteen" aria-expanded="true" aria-controls="collapseSixteen">
                   <h4 class="top-head-faq mb-0">
-                  What will be the evaluation process in the program? </h4>
+                    What will be the evaluation process in the program? </h4>
                 </button>
               </h3>
 
@@ -1346,7 +1364,9 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  You will have a set of deliverables throughout the program viz. Assignments, Monthly Assessments, Monthly One-One Review calls, Project reviews etc., you have to make sure you finish everything within a stipulated time </p>
+                    You will have a set of deliverables throughout the program viz. Assignments, Monthly Assessments,
+                    Monthly One-One Review calls, Project reviews etc., you have to make sure you finish everything
+                    within a stipulated time </p>
                 </div>
               </div>
             </div>
@@ -1355,7 +1375,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseSeventeen" aria-expanded="true" aria-controls="collapseSeventeen">
                   <h4 class="top-head-faq mb-0">
-                  What will happen if you fail the evaluation process? </h4>
+                    What will happen if you fail the evaluation process? </h4>
                 </button>
               </h3>
 
@@ -1363,7 +1383,8 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  You will be given multiple attempts and you have to redo any particular deliverable. However, if you are still not able to complete the evaluation, you will be shifted to another batch. </p>
+                    You will be given multiple attempts and you have to redo any particular deliverable. However, if you
+                    are still not able to complete the evaluation, you will be shifted to another batch. </p>
                 </div>
               </div>
             </div>
@@ -1372,7 +1393,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseEighteen" aria-expanded="true" aria-controls="collapseEighteen">
                   <h4 class="top-head-faq mb-0">
-                  Will you get a Full Stack Developer Course completion Certificate? </h4>
+                    Will you get a Full Stack Developer Course completion Certificate? </h4>
                 </button>
               </h3>
 
@@ -1380,7 +1401,7 @@ include_once("../includes/header.php");
                 data-bs-parent="#courseFAQExample">
                 <div class="accordion-body">
                   <p class="school-para mb-0">
-                  Yes you will get it once you complete the course successfully </p>
+                    Yes you will get it once you complete the course successfully </p>
                 </div>
               </div>
             </div>
