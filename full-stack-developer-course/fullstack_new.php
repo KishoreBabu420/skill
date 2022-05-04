@@ -69,7 +69,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
-          <h5 class="trainingform-head py-3 text-center">Request A Callback</h5>
+          <h5 class="trainingform-head py-3 text-center">Have any Questions?</h5>
           <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="lead-form">
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
@@ -258,7 +258,7 @@ include_once("../includes/header.php");
             </p>
           </div>
 
-          <p class="course-highlight">The entire course fee for the Alchemyst Full Stack Developer Program
+          <p class="course-highlight p-2">The entire course fee for the Alchemyst Full Stack Developer Course
             is fully
             refundable</p>
         </section>
@@ -1077,7 +1077,7 @@ include_once("../includes/header.php");
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
                   <h4 class="top-head-faq mb-0">
-                    What are the selection criteria for this Full Stack Developer program? </h4>
+                    What are the selection criteria for this Full Stack Developer Course? </h4>
                 </button>
               </h3>
 
