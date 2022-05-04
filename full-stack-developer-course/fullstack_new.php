@@ -15,34 +15,57 @@ include_once("../includes/header.php");
 
 <section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
   <div class="container">
-    <div class="row py-md-4 align-items-center">
-      <div class="col-lg-6 text-md-start text-center">
-        <div class="row align-items-center my-3">
-          <div class="col-md-3 d-none d-md-block">
-            <div class="icon-scourse text-center">
-              <i class="fas fa-code"></i>
+    <div class="row py-md-2 align-items-center">
+      <div class="col-lg-7 text-md-start">
+        <div class="card p-2 border-0 shadow rounded-3" id="course-details">
+          <div class="card-header border-0 bg-transparent row align-items-center">
+            <div class="col-7">
+              <div class="banner__heading-container">
+                <h1 class="pt-3 h4">
+                  Full Stack Developer Course
+                </h1>
+              </div>
+            </div>
+            <div class="col-5">
+              <div class="batch__start-container py-2 px-2" style="background-color: #fef4e5">
+                <p class="mb-1">Next Batch Starting</p>
+                <p class="mb-1"><strong>May 16<sup>th</sup> 2022</strong></p>
+              </div>
             </div>
           </div>
-          <div class="col-md-9">
-            <h1 class="top-head-new pt-3">
-              Full Stack Developer Course
-            </h1>
+          <div class="card-body">
+            <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective
+              upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
+            <div class="row align-items-center justify-content-around">
+              <div class="col-8">
+                <div class="course__details-container">
+                  <ul>
+                    <li class="my-1">Live interactive sessions</li>
+                    <li class="my-1">7 Months Cohort - Outcome based learning</li>
+                    <li class="my-1">1 - 1 Mentorship support</li>
+                    <li class="my-1">Assured Jobs with CTC 5 - 25 LPA</li>
+                    <li class="my-1">Access to our Learn and Community</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-4">
+                <div class="pricing__details-container">
+                  <h4>Price: <strong>₹ 25000/-</strong></h4>
+                  <p class=" mb-1"><i class="fa-solid fa-credit-card"></i> Pay in EMIs</p>
+                  <p class="mb-1"><strong><i class="fa-solid fa-money-bill-transfer"></i> Fully Refundable</strong></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer border-0 bg-transparent">
+            <div class="col-md-6 mx-auto">
+              <div class="callbackbtn mt-3">
+                <a class="text-decoration-none" href="">Enroll Now</a>
+              </div>
+            </div>
           </div>
         </div>
-        <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective
-          upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
-        <p class="school-para">The next Batch Starts on 16th May 2022
-        <ul class="mx-3">
-          <li class="course-toppara my-1">100% Live Program</li>
-          <li class="course-toppara my-1">100% Program fee refunded upon completion</li>
-          <li class="course-toppara my-1">7 Months Cohort</li>
-          <li class="course-toppara my-1">Get jobs with an annual CTC of 5-25 LPA</li>
-          <li class="course-toppara my-1">Join our Learn & Earn Community</li>
-          <li class="course-toppara my-1">Get Access to placement preparedness Materials</li>
-        </ul>
-        </p>
       </div>
-      <div class="col-lg-1 d-none d-lg-block"></div>
       <div class="col-lg-5 pb-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
           <h5 class="trainingform-head py-3 text-center">Request A Callback</h5>
@@ -885,7 +908,7 @@ include_once("../includes/header.php");
           </div>
           <div class="certificate__img-container mx-auto my-2 col-md-7">
             <img
-              src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FYour_Name_2022_04_07_1_1_min_017ee86de7.png&w=640&q=75"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
               alt="" class="img-fluid">
           </div>
         </section>
