@@ -230,7 +230,7 @@ $('#tech-carousel').owlCarousel({
       items: 4,
     },
     1024: {
-      items: 4,
+      items: 5,
     },
   },
 });
