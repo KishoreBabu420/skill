@@ -82,8 +82,8 @@ include_once("includes/header.php");
     <div class="row pt-5 mx-auto align-items-center">
       <div class="col-lg-4 col-md-12">
         <img loading="lazy"
-          src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/discord_i4hriy.jpg"
-          class="img-fluid w-100" alt="" title="">
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1651741962/website/web%20images/Artboard_1_whvu63.jpg"
+          class="img-fluid w-100" alt="Join our discord community" title="">
       </div>
       <div class="col-lg-8 col-md-12">
         <h2 class="top-head pt-4 text-center">Join Now Our Discord Community</h2>

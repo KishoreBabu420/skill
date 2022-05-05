@@ -137,7 +137,8 @@ include_once("includes/header.php");
                   class="img-fluid w-100 d-lg-block d-none" alt="full stack development course details" title="" />
                 <img loading="lazy"
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650882924/website/Untitled-2_dex2im.jpg"
-                  class="img-fluid w-100 d-md-none d-sm-block" alt="full stack development with guaranteed placement" title="" />
+                  class="img-fluid w-100 d-md-none d-sm-block" alt="full stack development with guaranteed placement"
+                  title="" />
               </div>
             </div>
             <div class="col-lg-10 col-12">
@@ -166,8 +167,8 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6  mb-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img loading="lazy" src="images/ic4.png" class="img-fluid" loading="lazy" alt="Full stack training hours"
-                        title="" />
+                      <img loading="lazy" src="images/ic4.png" class="img-fluid" loading="lazy"
+                        alt="Full stack training hours" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -196,8 +197,8 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img loading="lazy" src="images/ic2.png" class="img-fluid" loading="lazy" alt="No Prior Coding knowledgr"
-                        title="" />
+                      <img loading="lazy" src="images/ic2.png" class="img-fluid" loading="lazy"
+                        alt="No Prior Coding knowledgr" title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -210,8 +211,8 @@ include_once("includes/header.php");
                 <div class="col-lg-6 col-md-6 pt-4  pt-md-0 col-sm-6">
                   <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-2">
-                      <img loading="lazy" src="images/ic3-n.png" class="img-fluid" loading="lazy"
-                        alt="Live class" title="" />
+                      <img loading="lazy" src="images/ic3-n.png" class="img-fluid" loading="lazy" alt="Live class"
+                        title="" />
                     </div>
                     <div class="col-lg-9 col-md-9 col-10">
                       <p class="course-para mb-0">
@@ -379,8 +380,7 @@ include_once("./includes/testimony.php");
               <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                   <div class="regbtn">
-                    <a href="https://skillsafari.studio/" target="_blank"
-                      class="text-decoration-none">Know More</a>
+                    <a href="https://skillsafari.studio/" target="_blank" class="text-decoration-none">Know More</a>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
@@ -416,8 +416,7 @@ include_once("./includes/testimony.php");
               <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                   <div class="regbtn">
-                    <a href="./events/build-a-game-js.php" target="_blank"
-                      class="text-decoration-none">Know More</a>
+                    <a href="./events/build-a-game-js.php" target="_blank" class="text-decoration-none">Know More</a>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-12">
@@ -633,7 +632,9 @@ include_once("./includes/partners.php");
   <div class="container">
     <div class="row pt-5 align-items-center">
       <div class="col-lg-4 col-md-12">
-        <img loading="lazy" src="images/discord.jpg" class="img-fluid w-100" alt="full stack community" title="">
+        <img loading="lazy"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1651741962/website/web%20images/Artboard_1_whvu63.jpg"
+          class="img-fluid w-100" alt="full stack community" title="">
       </div>
       <div class="col-lg-8 col-md-12 p-4">
         <h5 class="top-head pt-4 pt-lg-0">Join Now Our <br> Discord Community</h5>

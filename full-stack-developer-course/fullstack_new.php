@@ -867,9 +867,9 @@ include_once("../includes/header.php");
             <h2 class="section-title">Alchemyst Community</h2>
             <hr>
           </div>
-          <div class="row align-items-center">
+          <div class="row align-items-center justify-content-around">
             <div class="col-md-6">
-              <div class="community__description-container">
+              <div class="community__description-container px-2">
                 <p>
                   Part of the hundreds of activities we have for you. From giveaways to coding challenges, we have
                   everything to keep your mind busy. We also have you covered for the latest news in technology along
@@ -886,9 +886,11 @@ include_once("../includes/header.php");
               </div>
 
             </div>
-            <div class="col-md-6 d-none d-lg-block">
-              <div class="community__image-container p-5">
-                <img src="https://skillsafari.in/images/discord.jpg" alt="discord image" class="img-fluid">
+            <div class="col-md-6 d-none d-lg-block text-center">
+              <div class="community__image-container">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651741962/website/web%20images/Artboard_1_whvu63.jpg"
+                  alt="discord image" class="img-fluid">
               </div>
             </div>
           </div>
