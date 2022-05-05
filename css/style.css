@@ -1955,12 +1955,17 @@ header {
 .techCard {
   background-color: #f7f7f7;
   min-height: 4.5rem;
-  min-width: 12rem;
+  min-width: 6.5rem;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
 }
 
 .tech-logo-container {
   width: 65%;
+}
+
+.tech-logo-container img {
+  width: 75%;
+  margin: auto;
 }
 
 #tech-carousel .owl-nav {

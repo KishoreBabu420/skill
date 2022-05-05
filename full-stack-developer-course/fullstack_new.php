@@ -360,37 +360,44 @@ include_once("../includes/header.php");
                 <p class="syllabus__week-title h4">Week 1-5</p>
                 <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development
                   using
-                  HTML, CSS. Version Control using Git &amp; GitHub. </p>
+                  HTML, CSS. Version Control using Git & GitHub. </p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
                 <p class="syllabus__week-title h4">Week 6-10</p>
-                <p>Programming Basics in JavaScript, Developer tools and Problem Solving, Data Structures and
-                  Algorithms,
-                  JavaScript on the browser.</p>
+                <p>JavaScript on the browser, Functions and OOP Programming, Data Structures and Algorithms with
+                  JavaScript
+                </p>
+
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
                 <p class="syllabus__week-title h4">Week 11-15</p>
-                <p>Advanced JavaScript, Working with DOM API &amp; LocalStorage, Introduction to React and React
-                  Ecosystem, UI
-                  Libraries, Deployment &amp; Unit Testing.</p>
+                <p>Advanced JavaScript, Advanced CSS Working with DOM API & Local Storage, Introduction to React and
+                  React
+                  Ecosystem, UI Libraries, Deployment & Unit Testing.</p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
                 <p class="syllabus__week-title h4">Week 16-20</p>
-                <p>HTTP Protocols, Node.js &amp; Node.js architecture, Express.js, MongoDB &amp; Mongoose ORM, OAuth
-                  using
-                  Passport.js. </p>
+                <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
+                  Passport.js.</p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 21-24</p>
-                <p>Profile building, Mock Interviews and profiles will be sent to partnered companies.</p>
+                <p class="syllabus__week-title h4">Week 21-25</p>
+                <p>System Design Basics, OS and Networking Fundamentals, Cloud Services, Advanced DSA</p>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <div class="row m-2">
+                <p class="syllabus__week-title h4">Week 26-28</p>
+                <p>Projects and Peer Programming - Work on collaborative projects exploring all concepts and have pair
+                  programming sessions to improve the skills</p>
               </div>
             </div>
           </div>
