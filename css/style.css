@@ -1770,7 +1770,7 @@ border-radius: 10px;
 
 #third1 {
   background-size: cover;
-  color: #000;
+  color: #303030;
   height: 100vh;
   margin: 0 auto;
   overflow: hidden;
@@ -2681,7 +2681,7 @@ width: unset!important;
 .course__sidebar-link {
   text-decoration: none;
   font-size: 1.1rem;
-  color: #000;
+  color: #303030;
   transition: all 0.5s ease;
 }
 

@@ -213,7 +213,7 @@ $('#tech-carousel').owlCarousel({
     "<i class='fa-regular fa-circle-arrow-right'></i>",
   ],
   dots: false,
-  autoplayTimeout: 2000,
+  autoplayTimeout: 1000,
   autoplay: true,
   autoplayHoverPause: true,
   responsive: {
