@@ -2662,9 +2662,8 @@ width: unset!important;
 .course-content .section-title {
   font-size: 1.75rem;
 }
-
-.section__card-tile {
-  font-size: 1.25rem;
+.section__card-title {
+  font-size: 1.5rem;
 }
 
 .advantage-card {
