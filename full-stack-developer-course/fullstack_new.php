@@ -245,7 +245,7 @@ include_once("../includes/header.php");
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              How and when do we refund the program fee?
+              How and when do we refund the Full Stack Developer Course fee?
             </h3>
             <p class="section__card-description">
               The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer
@@ -852,8 +852,8 @@ include_once("../includes/header.php");
           </div>
           <div class="certificate-description">
             <p>
-              Pass all the competency tests and earn the joint certificate from AlmaBetter and Polygon of Full Stack Web
-              Development with Web3 course. Also, earn a certificate for clearing each competency challenge.
+              Complete all the assignment and projects to earn a certificate of Full Stack Developer Course from
+              Skill Safari. Also, earn a certificate for clearing each module.
             </p>
           </div>
           <div class="certificate__img-container p-3 mx-auto my-2 col-md-7">

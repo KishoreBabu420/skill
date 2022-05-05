@@ -2663,6 +2663,10 @@ width: unset!important;
   font-size: 1.75rem;
 }
 
+.section__card-tile {
+  font-size: 1.25rem;
+}
+
 .advantage-card {
   background: #fef4e5;
 }
