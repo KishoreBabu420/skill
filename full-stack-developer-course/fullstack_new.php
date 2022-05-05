@@ -18,15 +18,15 @@ include_once("../includes/header.php");
     <div class="row py-md-2 align-items-center">
       <div class="col-lg-7 text-md-start">
         <div class="card p-2 border-0 shadow rounded-3" id="course-details">
-          <div class="card-header border-0 bg-transparent row align-items-center">
-            <div class="col-7">
+          <div class="card-header border-0 bg-transparent row align-items-center text-md-start text-center">
+            <div class="col-md-8">
               <div class="banner__heading-container">
-                <h1 class="pt-3 h4">
+                <h1 class="pt-3 h2">
                   Full Stack Developer Course
                 </h1>
               </div>
             </div>
-            <div class="col-5">
+            <div class="col-md-4 p-0">
               <div class="batch__start-container py-2 px-2" style="background-color: #fef4e5">
                 <p class="mb-1">Next Batch Starting</p>
                 <p class="mb-1"><strong>May 16<sup>th</sup> 2022</strong></p>
@@ -34,10 +34,11 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="card-body">
-            <p class="school-para">Complete the Full Stack Developer Course with us, and become job-ready at 0 effective
+            <p class="school-para h5 p-2">Complete the Full Stack Developer Course with us, and become job-ready at 0
+              effective
               upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
-            <div class="row align-items-center justify-content-around">
-              <div class="col-8">
+            <div class="row align-items-center justify-content-between">
+              <div class="col-md-8">
                 <div class="course__details-container">
                   <ul>
                     <li class="my-1">Live interactive sessions</li>
@@ -48,18 +49,23 @@ include_once("../includes/header.php");
                   </ul>
                 </div>
               </div>
-              <div class="col-4">
-                <div class="pricing__details-container">
-                  <h4>Price: <strong>₹ 25000/-</strong></h4>
-                  <p class=" mb-1"><i class="fa-solid fa-credit-card"></i> Pay in EMIs</p>
-                  <p class="mb-1"><strong><i class="fa-solid fa-money-bill-transfer"></i> Fully Refundable</strong></p>
+              <div
+                class="col-md-4 col-sm-6 mx-auto text-center text-md-start p-0 bg-danger pricing__details-container text-white">
+                <div class="pricing__details-content">
+                  <h4 class="h5">Price: <strong>₹ 25000/-</strong></h4>
+                  <div class="row">
+                    <p class="mb-1 col-12"><i class="fa-solid fa-credit-card"></i> Pay in EMIs</p>
+                    <p class="mb-1 col-12"><strong><i class="fa-solid fa-money-bill-transfer"></i> Fully
+                        Refundable</strong>
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
           <div class="card-footer border-0 bg-transparent">
             <div class="col-md-6 mx-auto">
-              <div class="callbackbtn mt-3">
+              <div class="callbackbtn">
                 <a class="text-decoration-none" href="https://connect.skillsafari.in/enrollNow" target="_blank">Enroll
                   Now</a>
               </div>
@@ -201,7 +207,6 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
-
 
 <div class="course-content">
   <div class="container">

@@ -2683,7 +2683,8 @@ width: unset!important;
 }
 
 .course__sidebar-link.active,
-.course__sidebar-link:focus {
+.course__sidebar-link:focus,
+.course__sidebar-link:hover {
   color: #f0256f !important;
 }
 
@@ -2691,4 +2692,29 @@ width: unset!important;
   font-size: 1.2rem;
   font-weight: bold;
   text-align: center;
+}
+
+.pricing__details-container {
+  background-color: #f32747;
+  height: 8.5rem;
+  border-radius: 100px;
+}
+
+.pricing__details-content {
+  margin: 1rem 0.25rem 1rem 3.25rem;
+}
+
+@media screen and (min-width: 576px) {
+}
+
+@media screen and (min-width: 768px) {
+  .pricing__details-container {
+    border-radius: 100px 0px 0px 100px;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .pricing__details-content {
+    margin: 1rem 0.25rem 1rem 2rem;
+  }
 }
