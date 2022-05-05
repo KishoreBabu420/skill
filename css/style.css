@@ -2696,12 +2696,12 @@ width: unset!important;
 
 .pricing__details-container {
   background-color: #f32747;
-  height: 8.5rem;
+  height: 7.5rem;
   border-radius: 100px;
 }
 
 .pricing__details-content {
-  margin: 1rem 0.25rem 1rem 3.25rem;
+  margin: 1rem auto;
 }
 
 @media screen and (min-width: 576px) {

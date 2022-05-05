@@ -38,7 +38,7 @@ include_once("../includes/header.php");
               effective
               upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
             <div class="row align-items-center justify-content-between">
-              <div class="col-md-8">
+              <div class="col-md-7">
                 <div class="course__details-container">
                   <ul>
                     <li class="my-1">Live interactive sessions</li>
@@ -50,8 +50,8 @@ include_once("../includes/header.php");
                 </div>
               </div>
               <div
-                class="col-md-4 col-sm-6 mx-auto text-center text-md-start p-0 bg-danger pricing__details-container text-white">
-                <div class="pricing__details-content">
+                class="col-md-5 col-sm-8 mx-auto text-center text-md-start p-0 pricing__details-container text-white">
+                <div class="pricing__details-content p-1">
                   <h4 class="h5">Price: <strong>₹ 25000/-</strong></h4>
                   <div class="row">
                     <p class="mb-1 col-12"><i class="fa-solid fa-credit-card"></i> Pay in EMIs</p>
