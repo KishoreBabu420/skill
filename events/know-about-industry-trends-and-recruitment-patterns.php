@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>STARTS 29TH APR 2022</span></h4>
+        <h4 class="date-sec"><span>COMING SOON</span></h4>
         <h1 class="top-head  pt-3">Industry Trends and Recruitment Patterns in 2022 </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -69,7 +69,7 @@ include_once("../includes/header.php");
 
       </div>
     </div>
-    <div class="row justify-content-center pb-5">
+    <div class="row justify-content-center pb-5 d-none">
       <div class="col-xl-8 col-md-12 col-11 bbs">
         <div class="row align-items-center">
           <div class="col-md-2 col-12 text-center text-md-start pt-3 pt-md-0">
