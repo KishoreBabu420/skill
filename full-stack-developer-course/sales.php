@@ -78,7 +78,9 @@ include_once("../includes/header.php");
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
           <div class="icon-color">
-
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_1_aeldi0.png"
+              alt="" class="img-fluid">
           </div>
           <p class="icontitle-head pt-3">100% Placement Guarantee</p>
         </div>
@@ -201,90 +203,9 @@ include_once("../includes/header.php");
             <h2 class="section-title">How does Skill Safari’s Full Stack Developer Program work?</h2>
             <hr>
           </div>
-          <div class="work__image-container">
-            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651835691/website/info_1_ejoduj.png" alt=""
-              class="img-fluid">
-          </div>
-          <div class="accordion" id="work">
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingOne">
-                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <h4 class="top-head-faq mb-0">
-                    Get-admitted
-                  </h4>
-                </button>
-              </h3>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                data-bs-parent="#work">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    Get enrolled in the Full Stack Developer Course, and finish the live 7 months of training with us.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingOneTwo">
-                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                  <h4 class="top-head-faq mb-0">
-                    Get Alchemyst Certification
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo"
-                data-bs-parent="#work">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    1. Finish the program by submitting all the deliverables during the training period and get
-                    certified by us.</br>
-                    2. Now that you are job-ready, you can get a job
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingOneThree">
-                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                  <h4 class="top-head-faq mb-0">
-                    Join Alchemyst Recruitment Essentials Program
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree"
-                data-bs-parent="#work">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    1. Join Skill Safari’s Recruitment Essentials Program once you complete the full stack developer
-                    course</br>
-                    2. Undergo 1-month extensive placement training and secure a job with packages 5-25 LPA
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingOneFour">
-                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                  <h4 class="top-head-faq mb-0">
-                    100% Placement Guarantee
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour"
-                data-bs-parent="#work">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    1. Attend Interviews with Skill Safari’s hiring partners and get a job with a better package
-                  </p>
-                </div>
-              </div>
-            </div>
+          <div class="work__image-container mb-2">
+            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651854139/website/Infograph_2_obw0qm.png"
+              alt="How full stack developer course works" class="img-fluid">
           </div>
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="curriculum">

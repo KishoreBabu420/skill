@@ -990,15 +990,6 @@ body {
   font-weight: 600;
 }
 
-.icon-color {
-  height: 36px !important;
-  width: 36px !important;
-}
-
-.icon-color:first-child {
-  color: #fb8700;
-}
-
 .icontitle-head {
   font-size: 16px;
 }
