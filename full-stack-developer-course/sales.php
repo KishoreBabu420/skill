@@ -168,31 +168,28 @@ include_once("../includes/header.php");
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              Get a quality skill training program effective at no cost
+              Get a Quality Training
             </h3>
             <p class="section__card-description">
-              If you are someone who is seeking to get skilled in the domain of Full Stack Development, then this is the
-              best platform you can compare to all other free source platforms. Where our focus is to give you a quality
-              live and guided training program effective at no cost.
+              Get best in class quality training from best-in-class Skill Safari’s SMEs.
             </p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              How and when do we refund the Full Stack Developer Course fee?
+              ZERO Effective Cost Training
             </h3>
             <p class="section__card-description">
-              The program fee will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer
-              Certification post completion of the training program.
+              The entire course fee for the Alchemyst Full Stack Developer Course is fully refundable
+              post-certification.
             </p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              Why do we refund the course fee?
+              How you’ll be benefitted?
             </h3>
             <p class="section__card-description">
-              If you have a question in your mind, that is why we are refunding the program fee. This is no marketing
-              gimmick. We’re targeting serious learners and encouraging focussed students to upskill full stack
-              developer skills to become job-ready.
+              We target serious learners and encourage focused students to learn full-stack developer skills to become
+              job-ready. And most importantly, at ZERO Effective Cost.
             </p>
           </div>
         </section>
@@ -808,7 +805,7 @@ include_once("../includes/header.php");
               </div>
               <div class="col-md-12 text-center  mt-4">
                 <div class="discordbtn text-center ">
-                  <a href="./join-community" class="text-decoration-none"><img loading="lazy"
+                  <a href="https://skillsafari.in/join-community" class="text-decoration-none"><img loading="lazy"
                       src="https://skillsafari.in/images/baba.png" class="img-fluid me-1">
                     Join Our Discord</a>
                 </div>
