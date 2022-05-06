@@ -70,6 +70,10 @@ body {
   background-color: unset !important;
 }
 
+.bg-hero {
+  background-color: #1c2042 !important;
+}
+
 .bg-header {
   z-index: 99999 !important;
 }
@@ -305,10 +309,10 @@ body {
 /* courses-1 page */
 
 .date-sec span {
-  border: 1px solid #ff9900;
+  border: 1px solid #f2256f;
   border-radius: 5px;
-  padding: 10px 15px;
-  font-size: 12px;
+  padding: 1rem 1.25rem;
+  font-size: 15px;
   font-weight: 700;
   margin: 0 auto;
   margin-bottom: 0px;
@@ -2575,10 +2579,6 @@ width: unset!important;
 .tp-min-top {
   margin-top: -20%;
   position: relative !important;
-}
-
-.bg-smallicon-sec {
-  margin-top: -3.5rem;
 }
 
 .bg-criteria__content {

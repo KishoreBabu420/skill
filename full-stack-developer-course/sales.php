@@ -13,69 +13,19 @@ include_once("../includes/header.php");
 <section class="top-pagespace"></section>
 <!-- top-space -->
 
-<section class="bg-hire bg-coursepg position-relative pt-2 mt-2">
-  <div class="container">
-    <div class="row py-md-2 align-items-center">
-      <div class="col-lg-7 text-md-start">
-        <div class="card p-2 border-0 shadow rounded-3" id="course-details">
-          <div class="card-header border-0 bg-transparent row align-items-center text-md-start text-center">
-            <div class="col-md-8">
-              <div class="banner__heading-container">
-                <h1 class="pt-3 h2">
-                  Full Stack Developer Course
-                </h1>
-              </div>
-            </div>
-            <div class="col-md-4 p-0">
-              <div class="batch__start-container py-2 px-2" style="background-color: #fef4e5">
-                <p class="mb-1">Next Batch Starting</p>
-                <p class="mb-1"><strong>May 16<sup>th</sup> 2022</strong></p>
-              </div>
-            </div>
-          </div>
-          <div class="card-body">
-            <p class="school-para h5 p-2">Complete the Full Stack Developer Course with us, and become job-ready at 0
-              effective
-              upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
-            <div class="row align-items-center justify-content-between">
-              <div class="col-md-7">
-                <div class="course__details-container">
-                  <ul>
-                    <li class="my-1">Live interactive sessions</li>
-                    <li class="my-1">7 Months Cohort - Outcome based learning</li>
-                    <li class="my-1">1 - 1 Mentorship support</li>
-                    <li class="my-1">Assured Jobs with CTC 5 - 25 LPA</li>
-                    <li class="my-1">Access to our Learn and Earn Community</li>
-                  </ul>
-                </div>
-              </div>
-              <div
-                class="col-md-5 col-sm-8 mx-auto text-center text-md-start p-0 pricing__details-container text-white">
-                <div class="pricing__details-content p-1">
-                  <h4 class="h5">Price: <strong>₹ 25000/-</strong></h4>
-                  <div class="row">
-                    <p class="mb-1 col-12"><i class="fa-solid fa-credit-card"></i> Pay in EMIs</p>
-                    <p class="mb-1 col-12"><strong><i class="fa-solid fa-money-bill-transfer"></i> Fully
-                        Refundable</strong>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="card-footer border-0 bg-transparent">
-            <div class="col-md-6 mx-auto">
-              <div class="callbackbtn">
-                <a class="text-decoration-none" href="https://connect.skillsafari.in/enrollNow" target="_blank">Enroll
-                  Now</a>
-              </div>
-            </div>
-          </div>
-        </div>
+<section class="position-relative pt-2 mt-2 text-white bg-hero">
+  <div class=" container p-3 px-5 rounded">
+    <div class="row align-items-center">
+      <div class="col-lg-7 text-md-start text-center">
+        <h1 class=" pt-3">Full Stack Developer Course</h1>
+        <p class="school-para text-white pt-3">Complete the Full Stack Developer Course with us, and become
+          job-ready at 0
+          effective upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
+        <p class="date-sec pt-3"><span>Next Batch Starts: May 14<sup>th</sup> 2022</span></h3>
       </div>
-      <div class="col-lg-5 pb-5 mt-4 mt-md-0">
+      <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
-          <h5 class="trainingform-head py-3 text-center">Have any Questions?</h5>
+          <h5 class="trainingform-head py-3 text-center text-white">Have any Questions?</h5>
           <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="lead-form">
             <div class="mb-3">
               <label for="fullName" class="form-label">Full Name*</label>
@@ -111,12 +61,6 @@ include_once("../includes/header.php");
               <button class="text-decoration-none" type="submit">Request A Callback</button>
             </div>
           </form>
-        </div>
-        <div class="hero__content px-2 d-block d-md-none">
-          <p class="school-para pt-3 ">
-            Develop the skills & practical experience which increases the chances of hiring managers to call you with a
-            job offer. Crack technical rounds with confidence.
-          </p>
         </div>
       </div>
     </div>
