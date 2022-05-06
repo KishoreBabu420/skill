@@ -13,7 +13,7 @@ include_once("../includes/header.php");
 <section class="top-pagespace"></section>
 <!-- top-space -->
 
-<section class="position-relative pt-2 mt-2 text-white bg-hero">
+<section class="py-2 mt-2 text-white bg-hero">
   <div class=" container p-3 px-5 rounded">
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
@@ -21,7 +21,7 @@ include_once("../includes/header.php");
         <p class="school-para text-white pt-3">Complete the Full Stack Developer Course with us, and become
           job-ready at 0
           effective upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
-        <p class="date-sec pt-3"><span>Next Batch Starts: May 14<sup>th</sup> 2022</span></h3>
+        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> May 14<sup>th</sup> 2022</span></h3>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
