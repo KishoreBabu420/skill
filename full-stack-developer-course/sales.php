@@ -152,11 +152,11 @@ include_once("../includes/header.php");
             <li class="my-3"><a href="#advantage" class="course__sidebar-link active">Alchemyst Advantage</a></li>
             <li class="my-3"><a href="#course-work" class="course__sidebar-link">How Skill Safari work</a></li>
             <li class="my-3"><a href="#curriculum" class="course__sidebar-link">Course Curriculum</a></li>
-            <li class="my-3"><a href="#trainers" class="course__sidebar-link">Curriculum Instructors</a></li>
+            <li class="my-3"><a href="#trainers" class="course__sidebar-link">Instructors</a></li>
             <li class="my-3"><a href="#fees" class="course__sidebar-link">Course Fee's</a></li>
-            <li class="my-3"><a href="#hiring-partners" class="course__sidebar-link">Hiring Partners</a></li>
-            <li class="my-3"><a href="#placements" class="course__sidebar-link">Placements</a></li>
             <li class="my-3"><a href="#certification" class="course__sidebar-link">Certfication</a></li>
+            <li class="my-3"><a href="#placements" class="course__sidebar-link">Placements</a></li>
+            <li class="my-3"><a href="#hiring-partners" class="course__sidebar-link">Hiring Partners</a></li>
             <li class="my-3"><a href="#community" class="course__sidebar-link">Alchemyst Community</a></li>
             <li class="my-3"><a href="#faq" class="course__sidebar-link">FAQ</a></li>
           </ul>
@@ -167,7 +167,6 @@ include_once("../includes/header.php");
           <div class="section__title-container p-2">
             <h2 class="section-title">What’s unique about our Full stack developer Course?</h2>
             <hr>
-
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
@@ -286,7 +285,7 @@ include_once("../includes/header.php");
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="curriculum">
           <div class="section__title-container p-2">
-            <h2 class="section-title">Curriculum</h2>
+            <h2 class="section-title">Full Stack Developer Course Curriculum</h2>
             <hr>
           </div>
           <div class="row pt-3">
@@ -574,102 +573,66 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="hiring-partners">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="fees">
           <div class="section__title-container p-2">
-            <h2 class="section-title">Hiring Partners</h2>
+            <h2 class="section-title">Learn at ZERO Effective price</h2>
             <hr>
           </div>
-          <div class="row align-items-center justify-content-center align-items-center p-4">
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-                  alt="Zomato logo" loading="lazy" class="img-fluid">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-4">
+              <div class="card rounded shadow p-2 border-0" style="background-color: #EEFFF7">
+                <div class="card-body text-center">
+                  <h3 class="section__card-title pb-2">
+                    Course Fee
+                  </h3>
+                  <p class="section__card-description text-start">
+                    Pay <strong>₹ 25000/-</strong> and get enrolled in the course
+                  </p>
+                </div>
               </div>
             </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
-                  alt="Freshworks" class="img-fluid" loading="lazy">
+            <div class="col-lg-4">
+              <div class="card rounded shadow p-2 border-0" style="background-color: #F7F7FF">
+                <div class="card-body text-center">
+                  <h3 class="section__card-title pb-2">
+                    Training & Certification
+                  </h3>
+                  <p class="section__card-description text-start">
+                    Complete the course and get the Alchemyst certification
+                  </p>
+                </div>
               </div>
+
             </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
-                  alt="Red bus" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
-                  alt="Bookmyshow" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
-                  alt="ZOHO" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
-                  alt="Global Logic" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
-                  alt="Citrix" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
-                  alt="Phicode" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
-                  alt="Elhaa Technologies" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
-                  alt="BewellDigital" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
-                  alt="Draup" class="img-fluid" loading="lazy">
-              </div>
-            </div>
-            <div class="col-4 col-md-3">
-              <div class="img-container mb-2">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
-                  alt="Finacus Solutions" class="img-fluid" loading="lazy">
+            <div class="col-lg-4">
+              <div class="card rounded shadow p-2 border-0" style="background-color: #F6EDE7">
+                <div class="card-body text-center">
+                  <h3 class="section__card-title pb-2">
+                    100% Refund
+                  </h3>
+                  <p class="section__card-description text-start">
+                    Get refund of the fee that you paid
+                  </p>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col-12 col-lg-6 mx-auto text-center py-3">
-            <h6>Follow here to know more about our hiring partners?</h6>
-            <div class="callbackbtn">
-              <a href="#" class="text-decoration-none">Know More</a>
-            </div>
+        </section>
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="certification">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Full Stack Developer Course Certification</h2>
+            <hr>
+          </div>
+          <div class="certificate-description">
+            <p>
+              Complete all the assignment and projects to earn a certificate of Full Stack Developer Course from
+              Skill Safari. Also, earn a certificate for clearing each module.
+            </p>
+          </div>
+          <div class="certificate__img-container mb-2 p-3 mx-auto my-2 col-md-7">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
+              alt="Skill Safari certificate" class="img-fluid">
           </div>
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="placements">
@@ -775,21 +738,102 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="certification">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="hiring-partners">
           <div class="section__title-container p-2">
-            <h2 class="section-title">Certification</h2>
+            <h2 class="section-title">Hiring Partners</h2>
             <hr>
           </div>
-          <div class="certificate-description">
-            <p>
-              Complete all the assignment and projects to earn a certificate of Full Stack Developer Course from
-              Skill Safari. Also, earn a certificate for clearing each module.
-            </p>
+          <div class="row align-items-center justify-content-center align-items-center p-4">
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
+                  alt="Zomato logo" loading="lazy" class="img-fluid">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
+                  alt="Freshworks" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
+                  alt="Red bus" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
+                  alt="Bookmyshow" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
+                  alt="ZOHO" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
+                  alt="Global Logic" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
+                  alt="Citrix" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
+                  alt="Phicode" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
+                  alt="Elhaa Technologies" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
+                  alt="BewellDigital" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
+                  alt="Draup" class="img-fluid" loading="lazy">
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="img-container mb-2">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
+                  alt="Finacus Solutions" class="img-fluid" loading="lazy">
+              </div>
+            </div>
           </div>
-          <div class="certificate__img-container mb-2 p-3 mx-auto my-2 col-md-7">
-            <img
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-              alt="Skill Safari certificate" class="img-fluid">
+          <div class="col-12 col-lg-6 mx-auto text-center py-3">
+            <h6>Follow here to know more about our hiring partners?</h6>
+            <div class="callbackbtn">
+              <a href="#" class="text-decoration-none">Know More</a>
+            </div>
           </div>
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="community">
