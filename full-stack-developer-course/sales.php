@@ -18,7 +18,7 @@ include_once("../includes/header.php");
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
         <h1 class=" pt-3">Full Stack Developer Course</h1>
-        <p class="school-para text-white pt-3">Complete the Full Stack Developer Course with us, and become
+        <p class="hero-para text-white pt-3">Complete the Full Stack Developer Course with us, and become
           job-ready at 0
           effective upfront cost. 100% Job guaranteed above 5 LPA. Check out the further details below.</p>
         <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> May 14<sup>th</sup> 2022</span></h3>
@@ -201,6 +201,10 @@ include_once("../includes/header.php");
             <h2 class="section-title">How does Skill Safari’s Full Stack Developer Program work?</h2>
             <hr>
           </div>
+          <div class="work__image-container">
+            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651835691/website/info_1_ejoduj.png" alt=""
+              class="img-fluid">
+          </div>
           <div class="accordion" id="work">
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingOne">
@@ -257,7 +261,7 @@ include_once("../includes/header.php");
                   <p class="school-para mb-0">
                     1. Join Skill Safari’s Recruitment Essentials Program once you complete the full stack developer
                     course</br>
-                    2. Undergo 1-month extensive placement training and secure a job with packages 5-20 LPA
+                    2. Undergo 1-month extensive placement training and secure a job with packages 5-25 LPA
                   </p>
                 </div>
               </div>
@@ -578,7 +582,7 @@ include_once("../includes/header.php");
             <h2 class="section-title">Learn at ZERO Effective price</h2>
             <hr>
           </div>
-          <div class="row align-items-center justify-content-center">
+          <div class="row align-items-center justify-content-center mb-3">
             <div class="col-lg-4">
               <div class="card rounded shadow p-2 border-0" style="background-color: #EEFFF7">
                 <div class="card-body text-center">
@@ -611,8 +615,7 @@ include_once("../includes/header.php");
                     100% Refund
                   </h3>
                   <p class="section__card-description text-start">
-                    Get refund of the fee that you paid
-                  </p>
+                    Get complete refund of the fee you paid for course
                 </div>
               </div>
             </div>
@@ -1153,7 +1156,7 @@ include_once("../includes/header.php");
       <div class="col-lg-12 text-center">
         <h2 class="text-white top-head">Want to know more about Full Stack Developer Course?</h2>
         <p class="para-top text-white text-center">
-          Become a job-ready Full Stack Developer in 25 weeks with a minimum CTC from 4 LPA - 10 LPA. Want to know
+          Become a job-ready Full Stack Developer in 28 weeks with a minimum CTC from 5 LPA - 25 LPA. Want to know
           how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
