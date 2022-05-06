@@ -77,34 +77,40 @@ include_once("../includes/header.php");
     <div class="row align-items-center pt-md-3 justify-content-center">
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
+          <div class="icon-container">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_1_aeldi0.png"
-              alt="" class="img-fluid">
+              alt="100% Placement Guarantee" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">100% Placement Guarantee</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
-
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_2_leji5r.png"
+              alt="7 Months Live Course" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">7 Months Live Course</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
-
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_3_k8akza.png"
+              alt="1 - 1 Mentorship support" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">1 - 1 Mentorship support</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
-
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_4_xjdqf4.png"
+              alt="Learn & Earn Community access" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">Learn & Earn Community access</p>
         </div>
@@ -113,28 +119,40 @@ include_once("../includes/header.php");
     <div class="row align-items-center pt-md-3 justify-content-center">
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_5_p7o5wc.png"
+              alt="Outcome Based Learning" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">Outcome Based Learning</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_6_dntusg.png"
+              alt="Insights from Industry Expert" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">Insights from Industry Experts</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_7_wztmae.png"
+              alt="Project based learning" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">Project based learning</p>
         </div>
       </div>
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
-          <div class="icon-color">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_8_nxwlkc.png"
+              alt="Recruitment Training" class="img-fluid" width="64" height="64">
           </div>
           <p class="icontitle-head pt-3">Recruitment Training</p>
         </div>
@@ -167,12 +185,15 @@ include_once("../includes/header.php");
       <main class="col-lg-9 main">
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="advantage">
           <div class="section__title-container p-2">
-            <h2 class="section-title">What’s unique about our Full stack developer Course?</h2>
+            <h2 class="section-title"> What’s unique about our Full stack developer
+              Course?</h2>
             <hr>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              Get a Quality Training
+              <span><img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/Uniq_1_bmezkp.png"
+                  alt="Quality Training" width="48" height="48"></span>Get a Quality Training
             </h3>
             <p class="section__card-description">
               Get best-in-class quality training from the country’s best Full-Stack SMEs. And get the latest curated
@@ -181,7 +202,9 @@ include_once("../includes/header.php");
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              ZERO Effective Cost Training
+              <span><img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/uniq_2_uvrwuv.png"
+                  alt="ZERO Effective Cost " width="48" height="48"></span>ZERO Effective Cost Training
             </h3>
             <p class="section__card-description">
               The entire course fee that you pay for the Alchemyst Full Stack Developer Course is fully refundable
@@ -190,7 +213,9 @@ include_once("../includes/header.php");
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
-              How you’ll be benefitted?
+              <span><img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/uniq_3_tjzulj.png"
+                  alt="Full Stack Developer Course Benefit" width="48" height="48"></span>How you’ll be benefitted?
             </h3>
             <p class="section__card-description">
               We target serious learners and encourage focused students to learn full-stack developer skills to become
