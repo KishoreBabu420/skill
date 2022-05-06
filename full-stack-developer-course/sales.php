@@ -148,7 +148,7 @@ include_once("../includes/header.php");
         <div class="card px-3 py-2 border-0 rounded-3 shadow">
           <h3 class="p-2">Full Stack Developer Course</h3>
           <hr />
-          <ul class="px-3 pb-2">
+          <ul class="px-3">
             <li class="my-3"><a href="#advantage" class="course__sidebar-link active">Alchemyst Advantage</a></li>
             <li class="my-3"><a href="#course-work" class="course__sidebar-link">How Skill Safari work</a></li>
             <li class="my-3"><a href="#curriculum" class="course__sidebar-link">Course Curriculum</a></li>
