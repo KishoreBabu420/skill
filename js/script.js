@@ -277,26 +277,6 @@ function hasScrolled() {
 
 //Spacing Code
 
-$('a[href="#cd"]').click(function () {
-  $('#cd').css('padding-top', '100px');
-});
-
-$('a[href="#why"]').click(function () {
-  $('#why').css('padding-top', '100px');
-});
-
-$('a[href="#criteria"]').click(function () {
-  $('#criteria').css('padding-top', '100px');
-});
-
-$('a[href="#curriculum"]').click(function () {
-  $('#curriculum').css('padding-top', '100px');
-});
-
-$('a[href="#pricing"]').click(function () {
-  $('#pricing').css('padding-top', '100px');
-});
-
 $('#lead-form').parsley();
 $('#popup-form').parsley();
 $('#scroll-form').parsley();
