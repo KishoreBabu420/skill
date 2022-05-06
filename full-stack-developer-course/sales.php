@@ -134,27 +134,7 @@ include_once("../includes/header.php");
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
           <div class="icon-color">
-            <svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-              xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg"
-              xmlns:xlink="http://www.w3.org/1999/xlink" height="22px" width="22px" fill="currentColor" version="1.1"
-              x="0px" y="0px" viewBox="0 0 100 100" style="height:36px;width:36px" xml:space="preserve">
-              <g i:extraneous="self">
-                <g>
-                  <path
-                    d="M37.1,70c-0.5-0.4-1.1-0.7-1.7-0.7L31.1,69c-4.3-0.3-8.1-2.5-10.6-5.7l-10,21.3c-0.9,2,0.8,4.3,3,3.9l8.9-1.7     c1.2-0.2,2.3,0.3,2.9,1.4l4.4,8c1.1,2,3.9,1.9,4.9-0.2l9.7-20.7c-1.5-0.6-2.8-1.4-4.1-2.5L37.1,70z">
-                  </path>
-                  <path
-                    d="M89.4,84.6l-10-21.3c-2.5,3.2-6.3,5.3-10.6,5.7l-4.2,0.3c-0.6,0.1-1.2,0.3-1.7,0.7l-3.2,2.7c-1.2,1-2.6,1.9-4.1,2.5     l9.7,20.7c0.9,2,3.8,2.1,4.8,0.2l4.4-8c0.6-1,1.7-1.6,2.9-1.4l8.9,1.7C88.6,88.8,90.4,86.6,89.4,84.6z">
-                  </path>
-                  <path
-                    d="M59,65.5c1.4-1.2,3.2-2,5.1-2.1l4.2-0.3c4.4-0.3,7.9-3.8,8.2-8.2l0.3-4.2c0.1-1.9,0.9-3.7,2.1-5.1l2.8-3.2     c2.9-3.3,2.9-8.3,0-11.6l-2.8-3.2c-1.2-1.4-2-3.2-2.1-5.1l-0.3-4.2c-0.3-4.4-3.8-7.9-8.2-8.2l-4.2-0.3c-1.9-0.1-3.7-0.9-5.1-2.1     l-3.2-2.8c-3.3-2.9-8.3-2.9-11.6,0L41,7.4c-1.4,1.2-3.2,2-5.1,2.1l-4.2,0.3c-4.4,0.3-7.9,3.8-8.2,8.2l-0.3,4.2     c-0.1,1.9-0.9,3.7-2.1,5.1l-2.8,3.2c-2.9,3.3-2.9,8.3,0,11.6l2.8,3.2c1.2,1.4,2,3.2,2.1,5.1l0.3,4.2c0.3,4.4,3.8,7.9,8.2,8.2     l4.2,0.3c1.9,0.1,3.7,0.9,5.1,2.1l3.2,2.8c3.3,2.9,8.3,2.9,11.6,0L59,65.5z M31.2,36.5c0-10.4,8.4-18.8,18.8-18.8     c10.4,0,18.8,8.4,18.8,18.8c0,10.4-8.4,18.8-18.8,18.8C39.6,55.3,31.2,46.8,31.2,36.5z">
-                  </path>
-                  <path
-                    d="M58.2,27.7c-0.4-0.4-1.2-0.4-1.6,0l-8.8,8.8l-4.5-4.5c-0.4-0.4-1.2-0.4-1.6,0L38,35.7c-0.4,0.4-0.4,1.2,0,1.6l9.1,9.1     c0.4,0.4,1.2,0.4,1.6,0L62,33.1c0.4-0.4,0.4-1.2,0-1.6L58.2,27.7z">
-                  </path>
-                </g>
-              </g>
-            </svg>
+
           </div>
           <p class="icontitle-head pt-3">100% Placement Guarantee</p>
         </div>
@@ -162,48 +142,57 @@ include_once("../includes/header.php");
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
           <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="svelte-14adm9j"
-              style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72L12 15l5-2.73v3.72z"
-                fill="currentColor"></path>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">Curriculum designed by Industry Experts</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px" enable-background="new 0 0 24 24">
-              <g>
-                <path
-                  d="M20,4v12H8V4H20 M20,2H8C6.9,2,6,2.9,6,4v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z M12.47,14 L9,10.5l1.4-1.41l2.07,2.08L17.6,6L19,7.41L12.47,14z M4,6H2v14c0,1.1,0.9,2,2,2h14v-2H4V6z">
-                </path>
-                <path d="M0,0h24v24H0V0z" fill="none"></path>
-              </g>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">Project based learning and Expert Reviews</p>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="iconbox-small text-center">
-          <div class="icon-color">
-            <svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-              class="svelte-14adm9j" style="height:36px;width:36px">
-              <path d="M0 0h24v24H0V0z" fill="none"></path>
-              <path
-                d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2s.07-1.35.16-2h4.68c.09.65.16 1.32.16 2s-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2s-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z">
-              </path>
-            </svg>
-          </div>
-          <p class="icontitle-head pt-3">Placement Training and Mock Interviews</p>
-        </div>
-      </div>
 
+          </div>
+          <p class="icontitle-head pt-3">7 Months Live Course</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+
+          </div>
+          <p class="icontitle-head pt-3">1 - 1 Mentorship support</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+
+          </div>
+          <p class="icontitle-head pt-3">Learn & Earn Community access</p>
+        </div>
+      </div>
+    </div>
+    <div class="row align-items-center pt-md-3 justify-content-center">
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+          </div>
+          <p class="icontitle-head pt-3">Outcome Based Learning</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+          </div>
+          <p class="icontitle-head pt-3">Insights from Industry Experts</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+          </div>
+          <p class="icontitle-head pt-3">Project based learning</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-color">
+          </div>
+          <p class="icontitle-head pt-3">Recruitment Training</p>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -640,91 +629,91 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 bg-partners border-0 rounded-3 shadow my-4" id="hiring-partners">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="hiring-partners">
           <div class="section__title-container p-2">
             <h2 class="section-title">Hiring Partners</h2>
             <hr>
           </div>
           <div class="row align-items-center justify-content-center align-items-center p-4">
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
                   alt="Zomato logo" loading="lazy" class="img-fluid">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
                   alt="Freshworks" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
                   alt="Red bus" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
                   alt="Bookmyshow" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
                   alt="ZOHO" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
                   alt="Global Logic" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
                   alt="Citrix" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
                   alt="Phicode" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
                   alt="Elhaa Technologies" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
                   alt="BewellDigital" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
                   alt="Draup" class="img-fluid" loading="lazy">
               </div>
             </div>
             <div class="col-4 col-md-3">
-              <div class="img-container p-3">
+              <div class="img-container">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
                   alt="Finacus Solutions" class="img-fluid" loading="lazy">
@@ -917,7 +906,6 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingTwo">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -937,7 +925,6 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -959,29 +946,6 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFour">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                  <h4 class="top-head-faq mb-0">
-                    Why React Framework is taught or preferred in this course?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    React Framework is the most in-demand and most preferred by a lot of developers and software
-                    companies. React Framework is beginner-friendly and has a lot of pre-equipped components. So React
-                    framework is the preferred framework for JavaScript.
-                  </p>
-                </div>
-              </div>
-            </div>
-
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -1003,40 +967,6 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingSix">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                  <h4 class="top-head-faq mb-0">
-                    Who is eligible for this program?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    There are as such no age or demographic restrictions to joining this program. Anyone with a zeal to
-                    learn and make the most of it is welcome to the program. This course is a job-ready program, make
-                    sure you complete this and get placed in top product-based companies. If you wish, you can take
-                    Skill Safari’s support and get placement by ISA.<br>
-                    <strong>English proficiency</strong>: This course mode of delivery is in English; you should be
-                    able to follow instructions in English.<br>
-                    <strong>Interest &amp; Commitment</strong>: Anyone who is passionate about learning Full Stack
-                    Development. You should be able to commit a minimum of 2-3 hours of program commitment on weekdays
-                    and
-                    a few more hours on Weekends for Assignments and Projects completion.<br>
-                    <strong>Available to work after the program</strong>: The objective of this course is to skill up
-                    and
-                    get placed, hence you should be available to take a job after completion of this program.<br>
-
-                  </p>
-                </div>
-              </div>
-            </div>
-
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -1060,7 +990,6 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -1081,35 +1010,6 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-                  <h4 class="top-head-faq mb-0">
-                    What are the selection criteria for this Full Stack Developer Course? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    The major evaluation procedures enrolment process is the efforts a student will be able to put in
-                    during
-                    this program.
-                  </p>
-                  <ul>
-                    <li>Basic Aptitude Assessment</li>
-                    <li>Commitment Check with a Counsel Interview</li>
-                    <li>Basic English communication skills</li>
-                    <li>Academic background and document check</li>
-                  </ul>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
@@ -1186,101 +1086,6 @@ include_once("../includes/header.php");
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
-                  <h4 class="top-head-faq mb-0">
-                    What will be asked in the Admission Test?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    Skill Safari Alchemyst Admission Test:
-                    SAST tests general aptitude, general vocational aptitude, professional intelligence, and
-                    professional
-                    aptitude are tested with our Differential Aptitude Test (DAT).<br>
-
-                    <br>
-                    No. of Questions: 30<br>
-                    Total Duration: 45 mins<br>
-                    Pass Percentage: 40%<br>
-                    <br>
-                    Areas include:<br>
-                    Numerical/Mathematical Ability - 15 Questions<br>
-                    Analytical Reasoning - 5 Questions<br>
-                    Data Arrangements - 5 Questions<br>
-                    Data Interpretation - 5 Questions<br>
-                    <br>
-                    Note: Below 40%, you will not be accepted for the course for this batch. You may re-apply for the
-                    next batch.
-
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
-                  <h4 class="top-head-faq mb-0">
-                    How does a Full Stack Developer involve in a project?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseTwelve" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    A Full Stack Developer will give architecture and implementation from user requirements coordinating
-                    with the client. Writes front-end and back-end code for the application. Monitors the performance
-                    and
-                    creates test codes. Troubleshoot the application with a fast and accurate resolution.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThirteen" aria-expanded="true" aria-controls="collapseThirteen">
-                  <h4 class="top-head-faq mb-0">
-                    What are the essential front-end technologies for a Full Stack Developer? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseThirteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    HTML5, CSS3 and JavaScript are essential front-end languages. The knowledge of third-party libraries
-                    like jQuery, LESS, Angular and React JS is desirable. </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseFourteen" aria-expanded="true" aria-controls="collapseFourteen">
-                  <h4 class="top-head-faq mb-0">
-                    What are the essential development languages for a Full Stack Developer? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseFourteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    A Full Stack Developer doesn’t want to know all the programming languages. Knowing at least one
-                    server-side programming language like Python, JavaScript, Ruby, etc. </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
                   <h4 class="top-head-faq mb-0">
                     What does our Full Stack Developer Course teach you? </h4>
@@ -1336,26 +1141,7 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseEighteen" aria-expanded="true" aria-controls="collapseEighteen">
-                  <h4 class="top-head-faq mb-0">
-                    Will you get a Full Stack Developer Course completion Certificate? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseEighteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    Yes you will get it once you complete the course successfully </p>
-                </div>
-              </div>
-            </div>
-
           </div>
-
         </section>
       </main>
     </div>
