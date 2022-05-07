@@ -176,9 +176,13 @@ include_once("../includes/header.php");
             <li class="my-3"><a href="#fees" class="course__sidebar-link">Course Fee's</a></li>
             <li class="my-3"><a href="#certification" class="course__sidebar-link">Certfication</a></li>
             <li class="my-3"><a href="#placements" class="course__sidebar-link">Placements</a></li>
-            <li class="my-3"><a href="#hiring-partners" class="course__sidebar-link">Hiring Partners</a></li>
-            <li class="my-3"><a href="#community" class="course__sidebar-link">Alchemyst Community</a></li>
             <li class="my-3"><a href="#faq" class="course__sidebar-link">FAQ</a></li>
+            <li>
+              <div class="callbackbtn">
+                <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">Know
+                  More</a>
+              </div>
+            </li>
           </ul>
         </div>
       </aside>
@@ -231,6 +235,21 @@ include_once("../includes/header.php");
           <div class="work__image-container mb-2">
             <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651854139/website/Infograph_2_obw0qm.png"
               alt="How full stack developer course works" class="img-fluid">
+          </div>
+        </section>
+        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4">
+          <div class="section__title-container p-2">
+            <h2 class="section-title">Outcome Based Learning</h2>
+            <hr>
+          </div>
+          <div class="obl-description">
+            <p>
+              We at Skill Safari religiously believes in the principles of outcome based learning.
+            </p>
+          </div>
+          <div class="work__image-container mb-2">
+            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651929561/website/infograph_2_ynnmkj.png"
+              alt="5 Principles of Outcome based learning" class="img-fluid">
           </div>
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="curriculum">
@@ -407,7 +426,7 @@ include_once("../includes/header.php");
                   <div class="modal-body">
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
-                      <h5 class="trainingform-head pb-3">I'm Interested</h5>
+                      <h5 class="trainingform-head pb-3">Want to know More?</h5>
                       <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
                         id="popup-form">
                         <div class="mb-3">
@@ -443,7 +462,7 @@ include_once("../includes/header.php");
                           value="https://connect.pabbly.com/workflow/sendwebhookdata/IjM1MzIxMCI_3D">
                         <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                         <div class="callbackbtn mt-3">
-                          <button class="text-decoration-none" type="submit">View Curriculum</button>
+                          <button class="text-decoration-none" type="submit">Know More</button>
                         </div>
                       </form>
                     </div>
@@ -781,7 +800,8 @@ include_once("../includes/header.php");
           <div class="col-12 col-lg-6 mx-auto text-center py-3">
             <h6>Follow here to know more about our hiring partners?</h6>
             <div class="callbackbtn">
-              <a href="#" class="text-decoration-none">Know More</a>
+              <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">Know
+                More</a>
             </div>
           </div>
         </section>
