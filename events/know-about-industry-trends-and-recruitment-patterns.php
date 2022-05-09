@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>COMING SOON</span></h4>
+        <h4 class="date-sec"><span>11 May 2022</span></h4>
         <h1 class="top-head  pt-3">Industry Trends and Recruitment Patterns in 2022 </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -25,7 +25,7 @@ include_once("../includes/header.php");
           keep your eyes on the future to know the skills required to get a safe secure job for tomorrow and learn to
           get in there.</p>
         <div class="regbtn mb-5">
-          <a href="https://meet.zoho.in/SQAac1RWVJ" target="_blank" class="text-decoration-none">Register</a>
+          <a href="https://meet.zoho.in/8zMZTaMtNu" target="_blank" class="text-decoration-none">Register</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -41,7 +41,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
               <p class="small-highlight pt-2">Date</p>
-              <h3 class="mini-boxhead">29th April 2022</h3>
+              <h3 class="mini-boxhead">11th May 2022</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -55,7 +55,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-video"></i>
               <p class="small-highlight pt-2">Time</p>
-              <h3 class="mini-boxhead">7PM to 9PM</h3>
+              <h3 class="mini-boxhead">6PM to 7PM</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
@@ -201,7 +201,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meet.zoho.in/SQAac1RWVJ" class="text-decoration-none" target="_blank">Register</a>
+          <a href="https://meet.zoho.in/8zMZTaMtNu" class="text-decoration-none" target="_blank">Register</a>
         </div>
       </div>
     </div>
@@ -262,7 +262,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meet.zoho.in/SQAac1RWVJ" class="text-decoration-none" target="_blank">Apply Now</a>
+          <a href="https://meet.zoho.in/8zMZTaMtNu" class="text-decoration-none" target="_blank">Apply Now</a>
         </div>
       </div>
     </div>
@@ -275,27 +275,6 @@ include_once("../includes/header.php");
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
         <h2 class="top-head  pt-md-3 pb-4">Meet Your Trainers</h2>
-      </div>
-      <div class="col-lg-8 pb-md-5">
-        <div class="trainee-box bg-white shadow">
-          <div class="row align-items-center">
-            <div class="col-md-4 text-center timg">
-              <img
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004278/website/trainers/shalini_xu5lue.png"
-                class="img-fluid" Loading="lazy" alt="trainer" title="">
-              <p class="trainee-headtitle text-center pt-3 mb-0">Shalini Kannan</p>
-              <p class="school-para text-center pt-2">Associate - Corporate Relations </p>
-
-            </div>
-            <div class="col-md-8">
-              <p class="ft-16 text-justify">Shalini Kannan is an Associate Corporate Relations specializing in Finance
-                and Human resources. She is well trained with new HR tech trends, such as self-service, wellness apps,
-                and people analytics tools. A strong believer in the power of positive thinking in the workplace. She is
-                a powerful force and uses her positive attitude and tireless energy to encourage others to work hard and
-                succeed.</p>
-            </div>
-          </div>
-        </div>
       </div>
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
@@ -373,7 +352,7 @@ include_once("../includes/header.php");
     <div class="row text-center">
       <p class="school-para text-center pt-2 pb-3">It this excites you? Register Now</p>
       <div class="regbtn">
-        <a href="https://meet.zoho.in/SQAac1RWVJ" class="text-decoration-none" target="_blank">Register Now</a>
+        <a href="https://meet.zoho.in/8zMZTaMtNu" class="text-decoration-none" target="_blank">Register Now</a>
       </div>
     </div>
   </div>
