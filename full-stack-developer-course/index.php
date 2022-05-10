@@ -169,14 +169,16 @@ include_once("../includes/header.php");
           <h3 class="p-2">Full Stack Developer Course</h3>
           <hr />
           <ul class="px-3">
-            <li class="my-3"><a href="#advantage" class="course__sidebar-link active">Alchemyst Advantage</a></li>
-            <li class="my-3"><a href="#course-work" class="course__sidebar-link">How Skill Safari work</a></li>
-            <li class="my-3"><a href="#curriculum" class="course__sidebar-link">Course Curriculum</a></li>
-            <li class="my-3"><a href="#trainers" class="course__sidebar-link">Instructors</a></li>
-            <li class="my-3"><a href="#fees" class="course__sidebar-link">Course Fee's</a></li>
-            <li class="my-3"><a href="#certification" class="course__sidebar-link">Certfication</a></li>
-            <li class="my-3"><a href="#placements" class="course__sidebar-link">Placements</a></li>
-            <li class="my-3"><a href="#faq" class="course__sidebar-link">FAQ</a></li>
+            <li class="my-3"><a href="#advantage" class="course__sidebar-link advantage">Alchemyst Advantage</a>
+            </li>
+            <li class="my-3"><a href="#course-work" class="course__sidebar-link course-work">How Skill Safari work</a>
+            </li>
+            <li class="my-3"><a href="#curriculum" class="course__sidebar-link curriculum">Course Curriculum</a></li>
+            <li class="my-3"><a href="#trainers" class="course__sidebar-link trainers">Instructors</a></li>
+            <li class="my-3"><a href="#fees" class="course__sidebar-link fees">Course Fee's</a></li>
+            <li class="my-3"><a href="#certification" class="course__sidebar-link certification">Certfication</a></li>
+            <li class="my-3"><a href="#placements" class="course__sidebar-link placements">Placements</a></li>
+            <li class="my-3"><a href="#faq" class="course__sidebar-link faq">FAQ</a></li>
             <li>
               <div class="callbackbtn">
                 <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">Know
@@ -187,7 +189,7 @@ include_once("../includes/header.php");
         </div>
       </aside>
       <main class="col-lg-9 main">
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="advantage">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 advantage" id="advantage">
           <div class="section__title-container p-2">
             <h2 class="section-title"> What’s unique about our Full stack developer
               Course?</h2>
@@ -227,7 +229,7 @@ include_once("../includes/header.php");
             </p>
           </div>
         </section>
-        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4" id="course-work">
+        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
           <div class="section__title-container p-2">
             <h2 class="section-title">How does Skill Safari’s Full Stack Developer Program work?</h2>
             <hr>
@@ -252,7 +254,7 @@ include_once("../includes/header.php");
               alt="5 Principles of Outcome based learning" class="img-fluid">
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="curriculum">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 curriculum" id="curriculum">
           <div class="section__title-container p-2">
             <h2 class="section-title">Full Stack Developer Course Curriculum</h2>
             <hr>
@@ -472,7 +474,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="trainers">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 trainers" id="trainers">
           <div class="section__title-container p-2">
             <h2 class="section-title">Meet your Instructors
             </h2>
@@ -542,7 +544,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="fees">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 fees" id="fees">
           <div class="section__title-container p-2">
             <h2 class="section-title">Learn at ZERO Effective price</h2>
             <hr>
@@ -586,7 +588,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="certification">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 certification" id="certification">
           <div class="section__title-container p-2">
             <h2 class="section-title">Full Stack Developer Course Certification</h2>
             <hr>
@@ -603,7 +605,7 @@ include_once("../includes/header.php");
               alt="Skill Safari certificate" class="img-fluid">
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="placements">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 placements" id="placements">
           <div class="section__title-container p-2">
             <h2 class="section-title">Alchemyst Recruitment Essentials Program</h2>
             <hr>
@@ -706,7 +708,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="hiring-partners">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 hiring-partners" id="hiring-partners">
           <div class="section__title-container p-2">
             <h2 class="section-title">Hiring Partners</h2>
             <hr>
@@ -805,7 +807,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4" id="community">
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 community" id="community">
           <div class="section__title-container p-2">
             <h2 class="section-title">Alchemyst Community</h2>
             <hr>
@@ -838,7 +840,7 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4" id="faq">
+        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 faq" id="faq">
           <div class="section__title-container p-2">
             <h2 class="section-title">FAQ</h2>
             <hr>
@@ -1155,4 +1157,30 @@ $("a").on("click", function() {
   $("a").removeClass("active");
   $(this).addClass("active");
 });
+
+
+const sections = document.querySelectorAll('.main section')
+const sidebarNavLinks = document.querySelectorAll('.sidebar ul li a')
+
+
+window.addEventListener('scroll', () => {
+  let current = '';
+  sections.forEach(section => {
+    const sectionTop = (section.offsetTop + 200);
+    const sectionHeight = (section.clientHeight);
+
+    if (pageYOffset >= sectionTop) {
+      current = section.getAttribute('id');
+      console.log(current)
+    }
+  })
+
+  sidebarNavLinks.forEach(link => {
+    link.classList.remove('active');
+    if (link.classList.contains(current)) {
+      link.classList.add('active')
+    }
+  })
+
+})
 </script>
