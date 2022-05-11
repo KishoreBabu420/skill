@@ -18,7 +18,10 @@ include_once("../includes/header.php");
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
         <h1 class=" pt-3">Full Stack Developer Course</h1>
-        <p class="hero-para text-white pt-3">Enrol with a Zero effective fee, Get trained in skills that are essential to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details</p>
+        <p class="hero-para text-white pt-3">Enrol with a Zero effective fee, Get trained in skills that are essential
+          to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
+          leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
+        </p>
         <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> May 14<sup>th</sup> 2022</span></h3>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
@@ -200,7 +203,8 @@ include_once("../includes/header.php");
                   alt="Quality Training" width="48" height="48"></span>Get a Quality Training
             </h3>
             <p class="section__card-description">
-            Get best-in-class quality training from leading professionals working in India working with real-time projects.
+              Get best-in-class quality training from leading professionals working in India working with real-time
+              projects.
             </p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
@@ -210,7 +214,9 @@ include_once("../includes/header.php");
                   alt="ZERO Effective Cost " width="48" height="48"></span>ZERO Effective Cost Training
             </h3>
             <p class="section__card-description">
-            The entire course fee that you pay for the Alchemyst Full Stack Developer Course is fully refundable post-certification / The initial fee you pay will be completely refunded to you on the day of course completion.
+              The entire course fee that you pay for the Alchemyst Full Stack Developer Course is fully refundable
+              post-certification / The initial fee you pay will be completely refunded to you on the day of course
+              completion.
             </p>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
@@ -220,9 +226,16 @@ include_once("../includes/header.php");
                   alt="Full Stack Developer Course Benefit" width="48" height="48"></span>What's really in it for you?
             </h3>
             <p class="section__card-description">
-            We help students with determination and help them to acquire full-stack developer skills to secure their dream job. And most importantly, at ZERO Effective Cost.
-This means you get to pay your course fee with your salary.
+              We help students with determination and help them to acquire full-stack developer skills to secure their
+              dream job. And most importantly, at ZERO Effective Cost.
+              This means you get to pay your course fee with your salary.
             </p>
+          </div>
+          <div class="col-12 col-lg-6 mx-auto text-center py-3">
+            <h6>Only a Few Slots Lefts, Enroll Now to confirm your slot</h6>
+            <div class="callbackbtn">
+              <a href="./checkout" class="text-decoration-none">Enroll Now</a>
+            </div>
           </div>
         </section>
         <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
