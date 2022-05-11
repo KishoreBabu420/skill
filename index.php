@@ -323,7 +323,7 @@ include_once("./includes/testimony.php");
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
               <img loading="lazy"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/trends_gyrr82.webp"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1652244688/website/events/event_dkas78.jpg"
                 class="img-fluid" loading="lazy" alt="full stack workshop trends" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">150 seats left</h5>

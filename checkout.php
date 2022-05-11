@@ -12,7 +12,7 @@ include_once("includes/header.php");
 <section>
     <div class="container">
        <div class="row ">
-           <div class="col-lg-8">
+           <div class="col-lg-8 mb-5">
                <p class="h3"> What will you get?</p>
                <div class="row">
                     <div class="col-lg-5 d-flex mt-3">
@@ -54,7 +54,7 @@ include_once("includes/header.php");
             <div class="event-boxlay">
                 <div class="position-relative img-overblacklay">
                 <img loading="lazy"
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650871543/website/events/quizevent1_mrbc3y.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1652246797/website/event_ouburp.jpg"
                     class="img-fluid" loading="lazy" alt="full stack workshop build quiz app" title="">
                 <div class="top-small-strip">
                     <h5 class="mb-0">17 seats left</h5>
@@ -63,14 +63,15 @@ include_once("includes/header.php");
                 <div class="ps-3 pe-3 pt-2 text-center p-3">
                     <div class="row">
                         <div class="col-md-12 col-12 text-center">
-                            <h5 class="pt-3">Next batch starting from:</h5>
-                            <p class="school-para "><i class="fa-solid fa-calendar-day"></i> 16th May 2022,</p> </br>
+                            <div class="next_batch iconbox-small">
+                                <h5 class="pt-3">Next batch starting from:</h5>
+                                <p class="icontitle-head " style="color:#ef0a6 !important; "><i class="fa-solid fa-calendar-day"></i> 16th May 2022,</p> </br>
+                            </div>
                         </div>
                         </div>
                     </div>
 
                 <div class="row align-items-center pt-3 pb-4 p-3">
-                    <p>I agree to the terms of <a href="#">program fee refund policy</a></p>
                     <div class="col-12">
                         <div class="regbtn text-center" >
                         <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_JTT57VhNmVcnbx" async> </script> </form>
