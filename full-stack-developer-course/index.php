@@ -231,12 +231,7 @@ include_once("../includes/header.php");
               This means you get to pay your course fee with your salary.
             </p>
           </div>
-          <div class="col-12 col-lg-6 mx-auto text-center py-3">
-            <h6>Only a Few Slots Lefts, Enroll Now to confirm your slot</h6>
-            <div class="callbackbtn">
-              <a href="./checkout" class="text-decoration-none">Enroll Now</a>
-            </div>
-          </div>
+
         </section>
         <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
           <div class="section__title-container p-2">
@@ -594,6 +589,12 @@ include_once("../includes/header.php");
                     Get complete refund of the fee you paid for course
                 </div>
               </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6 mx-auto text-center py-3">
+            <h6>Only a Few Slots Lefts, Enroll Now to confirm your slot</h6>
+            <div class="callbackbtn">
+              <a href="./checkout" class="text-decoration-none">Enroll Now</a>
             </div>
           </div>
         </section>
