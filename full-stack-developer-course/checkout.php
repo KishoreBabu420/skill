@@ -1,7 +1,7 @@
 <?php 
 $title = "Learn the Modern Way with Skill Safari";
 $description = "Skill Safari is an e-learning platform where you can learn the latest technical skills. Become a Full Stack Developer and enroll in our job guarantee program";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = "1";
 include_once("../includes/header.php");
 ?>

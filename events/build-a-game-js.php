@@ -1,7 +1,7 @@
 <?php 
 $title = "Workshop – Build a Game  with Java Script";
 $description = "Join our LIVE webinar to learn how to become a Full Stack Web Developer and also learn to build a small Game  with Java Script.";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 9;
 include_once("../includes/header.php");
 ?>

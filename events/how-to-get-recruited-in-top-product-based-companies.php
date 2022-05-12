@@ -1,7 +1,7 @@
 <?php 
 $title = "Workshop - How to get recruited in Top Product Based Companies in 2022";
 $description = "Join our LIVE webinar and learn the practices to Learn how to prepare Data Structures and Algorithms in getting a job at Product Based Companies";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 9;
 include_once("../includes/header.php");
 ?>

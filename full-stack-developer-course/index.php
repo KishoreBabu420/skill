@@ -4,7 +4,7 @@ $title = "Full Stack Developer Course - 100% Job Guarantee Program";
 
 $description = "Full Stack Developer Course of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
 
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 
 $page = 1;
 

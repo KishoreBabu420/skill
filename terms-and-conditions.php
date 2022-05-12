@@ -3,7 +3,7 @@ $title = "Skill Safari - Terms and Conditions";
 $description = "Skill Safari is an E-Learning platform that focuses on providing
           various skill enhancement training modules by understanding the
           latest technology and industry requirements. ";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 0;
 include_once("includes/header.php");
 ?>

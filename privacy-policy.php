@@ -2,7 +2,7 @@
 $title = "Skill Safari - Privacy Policy";
 $description = " Skill Safari is serious about protecting your personal,
           transaction, and various other data and your online privacy.";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 0;
 include_once("includes/header.php");
 ?>

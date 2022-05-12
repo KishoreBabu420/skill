@@ -12,12 +12,14 @@
     ?>
 
 <head>
-  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="keywords" itemprop="keywords" content="<?php echo $keywords; ?>" />
   <meta name="description" itemprop="description" content="<?php echo $description; ?>">
   <meta name="robots" content="index, follow">
+  <meta name="revisit-after" content="10 days">
+  <meta name="author" content="Skill Safari">
   <title><?php echo $title; ?></title>
   <link rel="icon" type="image/png"
     href="https://res.cloudinary.com/skill-safari/image/upload/v1632810869/website/ssfavicon_vspiah.png">

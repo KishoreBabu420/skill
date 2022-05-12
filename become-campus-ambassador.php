@@ -1,7 +1,7 @@
 <?php 
 $title = "Campus Ambassador Program – Skill Safari";
 $description = "Skill Safari is looking for Campus Ambassadors who are motivated champs with excellent networking and amazing interpersonal skills.";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 0;
 include_once("includes/header.php");
 ?>

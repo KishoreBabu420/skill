@@ -1,7 +1,7 @@
 <?php 
 $title = "Join the Learn and Earn Discord Community - Skill Safari";
 $description = "Join the vibrant Discord community at Skill Safari and become part of the hundreds of activities, tasks and opportunities we have for you.";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 0;
 include_once("includes/header.php");
 ?>

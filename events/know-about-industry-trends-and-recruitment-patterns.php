@@ -1,7 +1,7 @@
 <?php 
 $title = "Workshop - Industry Trends and Recruitment Patterns in 2022 ";
 $description = "Join our LIVE webinar on how to stay with current emerging technologies to get the latest skills to get a secured job for tomorrow";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 9;
 include_once("../includes/header.php");
 ?>

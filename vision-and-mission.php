@@ -1,7 +1,7 @@
 <?php 
 $title = "Skill Safari - Mission and Vision";
 $description = "Skill Safari started with a paramount vision to contribute quality training and development in the market of skilling up and re-skilling. Know more about it here.";
-$keywords = "";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 0;
 include_once("includes/header.php");
 ?>
