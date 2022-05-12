@@ -5,8 +5,6 @@ $keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, 
 $page = "0";
 include_once("includes/header.php");
 ?>
-
-
 <!-- top-space -->
 <section class="top-pagespace"></section>
 <!-- banner section started -->

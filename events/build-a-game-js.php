@@ -13,7 +13,7 @@ include_once("../includes/header.php");
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
         <p class="date-sec"><span>4th MAY 2022</span></p>
-        <h1 class="top-head  pt-3">Build Rock Paper Sissors Game With JS </h1>
+        <h1 class="top-head  pt-3">Build Rock Paper Scissors Game With JS </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
         </div>
@@ -22,7 +22,8 @@ include_once("../includes/header.php");
           already have developed an application all by yourself, so there will be enough proof of whether you can code
           or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none" target="_blank">Register Now</a>
+          <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none"
+            target="_blank">Register Now</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -190,7 +191,7 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <p class="timeline-head">Try building your application</p>
-            <p class="school-para">Hands-On experience in building a Game  using Java Script. You’ll know how an
+            <p class="school-para">Hands-On experience in building a Game using Java Script. You’ll know how an
               application is developed and launched.</p>
           </div>
         </div>
@@ -220,7 +221,8 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none" target="_blank">Register Now</a>
+          <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none"
+            target="_blank">Register Now</a>
         </div>
       </div>
     </div>
@@ -281,7 +283,8 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none" target="_blank">Apply Now</a>
+          <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none"
+            target="_blank">Apply Now</a>
         </div>
       </div>
     </div>
@@ -390,7 +393,8 @@ include_once("../includes/header.php");
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
     <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none" target="_blank">Join the waiting
+        <a href="https://meeting.zoho.in/meeting/register?sessionId=1360381842" class="text-decoration-none"
+          target="_blank">Join the waiting
           list</a>
       </div>
     </div>
