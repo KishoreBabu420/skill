@@ -21,6 +21,20 @@
   <meta name="revisit-after" content="10 days">
   <meta name="author" content="Skill Safari">
   <title><?php echo $title; ?></title>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="<?php echo $webUrl; ?>">
+  <meta property="og:title" content="<?php echo $title; ?>">
+  <meta property="og:description" content="<?php echo $description; ?>">
+  <meta property="og:image" content="<?php echo $image; ?>">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="<?php echo $webUrl; ?>">
+  <meta property="twitter:title" content="<?php echo $title; ?>">
+  <meta property="twitter:description" content="<?php echo $description; ?>">
+  <meta property="twitter:image" content="<?php echo $image; ?>">
   <link rel="icon" type="image/png"
     href="https://res.cloudinary.com/skill-safari/image/upload/v1632810869/website/ssfavicon_vspiah.png">
   <link rel="stylesheet" type="text/css" href="<?php echo $customCSS; ?>">
