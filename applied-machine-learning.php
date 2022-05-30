@@ -12,8 +12,8 @@ include_once("includes/header.php");
   <div class=" container py-3 px-md-5 rounded">
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
-        <h1 class=" pt-3">India’s Best Beginner to Expert Course in Data Science</h1>
-        <p class="h5">Applied ML| Python | AI  [ certified by IABAC]</p>
+        <h1 class=" pt-3">India’s Best Beginner to Expert Course in Applied Machine Learning</h1>
+        <p class="h5">Applied Data Science| Python | AI  [ certified by IABAC]</p>
         <p class="hero-para text-white pt-3">Learn python from practical application. We combine theory with practical explanation to ensure you gain expertise in handling projects. Follow our instructors who have wide experience in explaining things clearly at a logical pace. Check out our huge catalogue of courses for more information</p>
         <p>These contents are Far more valuable than the price you paid for We really hope you decide to purchase this course and take your knowledge to the next level. Let's get started.</p>
         <p class="date-sec pt-3"><span><strong>Enroll now to join the Skill Safari community!<i class="fa-solid fa-circle-arrow-right m-2"></i></strong></span></h3>
@@ -262,6 +262,41 @@ include_once("includes/header.php");
         <a href="https://meet.zoho.in/ozbjCzEaQz" class="text-decoration-none" target="_blank">Register Now</a>
       </div>
     </div>
+  </div>
+</section>
+<section class="bg-certified mb-5">
+  <div class="container">
+        <div class="row pt-5 pb-5">
+            <div class="col-md-12 pt-md-5 pb-5">
+                <h2 class="top-head text-center">Skill Safari's[ IABAC certified program ]</h2>
+                <p class="top-para text-center ">Skill Safari offers this program in collbration with IABAC.
+                </p>
+            </div>
+            <div class="col-md-3 pt-4">
+                <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1653804272/website/certificate_ai_xindxv.jpg"
+                class="img-fluid" alt="full stack pay after placement" Loading="lazy" title="">
+            </div>
+
+            <div class="col-md-7 pt-4">
+            <div class="certified-content">
+            <div class="row  mb-4">
+                <div class="col-lg-1 col-2">
+                <div class="s-ov"><i class="fas fa-shield-alt"></i></div>
+                </div>
+                <div class="col-lg-10 col-10">
+                <p class="cer-head w-100">About IABAC </p>
+                <p class="school-para">The International Association for Business Analytics Certification (IABAC®) is a global association dedicated to developing the field of Data Science and Business Analytics</p>
+                <p class="school-para">Their founding principles are based on Edison Data Science Framework (EDSF), a European Commission initiative formed in the year of  2015, Their goal is to align data science skills to industry requirements.  IABAC was founded in 2017 as Netherlands B.V (the equivalent of English Private Limited), under the leadership of Mr. Hans Volkers.</p>
+                <p class="school-para"><span class="h6">Skill Safari is in collaboration</span> with the world’s first and largest registered body for global data science and business analytics certifications. </p>
+                
+                </div>
+            </div>
+           
+            
+        </div>
+        
+        </div>
   </div>
 </section>
 
