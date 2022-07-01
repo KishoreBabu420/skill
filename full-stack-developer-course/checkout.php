@@ -42,7 +42,7 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-          <div class="col-lg-6 my-4">
+          <!-- <div class="col-lg-6 my-4">
             <div class="row align-items-center justify-content-center">
               <div class="feature__img-container col-2">
                 <img
@@ -55,7 +55,7 @@ include_once("../includes/header.php");
                 </h5>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-lg-6 my-4">
             <div class="row align-items-center justify-content-center">
               <div class="feature__img-container col-2">
@@ -144,7 +144,7 @@ include_once("../includes/header.php");
                 <div class="col-12 text-center">
                   <div class="next_batch iconbox-small">
                     <h5 class="pt-3">Next batch starting from:</h5>
-                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 18<sup>th</sup> July 2022,</p>
+                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 11<sup>th</sup> July 2022,</p>
                     </br>
                   </div>
                 </div>
