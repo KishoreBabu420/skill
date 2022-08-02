@@ -144,7 +144,7 @@ include_once("../includes/header.php");
                 <div class="col-12 text-center">
                   <div class="next_batch iconbox-small">
                     <h5 class="pt-3">Next batch starting from:</h5>
-                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 1<sup>th</sup> August 2022,</p>
+                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 22<sup>th</sup> August 2022,</p>
                     </br>
                   </div>
                 </div>
