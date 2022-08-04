@@ -11,32 +11,32 @@ include_once("includes/header.php");
     <div class="container">
         <div class="shadow p-5 mb-5 bg-white rounded">
             <div class="row">
-                <div class="col-3">01- Aug - 2022 </div>
-                <div class="col-3"><p>Mon-Fri</p>
+                <div class="col-2">01- Aug - 2022 </div>
+                <div class="col-2"><p>Mon-Fri</p>
                                 <p>Weekdays Regular</p></div>
                 <div class="col-4"><p>08:00 AM & 10:00 AM Batches</p>
                                     <p>(Class 1Hr - 1:30Hrs) / Per Session</p></div>
-                <div class="col-3">        
+                <div class="col-2">        
                       <button><a href="full-stack-developer-course" class="text-decoration-none text-light">Learn More</a> </button>
                 </div>
             </div>
             <div class="row">
-                <div class="col-3">01- Aug - 2022 </div>
-                <div class="col-3"><p>Mon-Fri</p>
+                <div class="col-2">01- Aug - 2022 </div>
+                <div class="col-2"><p>Mon-Fri</p>
                                 <p>Weekdays Regular</p></div>
                 <div class="col-4"><p>08:00 AM & 10:00 AM Batches</p>
                                     <p>(Class 1Hr - 1:30Hrs) / Per Session</p></div>
-                <div class="col-3">        
+                <div class="col-2">        
                       <button><a href="full-stack-developer-course" class="text-decoration-none text-light">Learn More</a> </button>
                 </div>
             </div>
             <div class="row">
-                <div class="col-3">01- Aug - 2022 </div>
-                <div class="col-3"><p>Mon-Fri</p>
+                <div class="col-2">01- Aug - 2022 </div>
+                <div class="col-2"><p>Mon-Fri</p>
                                 <p>Weekdays Regular</p></div>
                 <div class="col-4"><p>08:00 AM & 10:00 AM Batches</p>
                                     <p>(Class 1Hr - 1:30Hrs) / Per Session</p></div>
-                <div class="col-3">        
+                <div class="col-2">        
                       <button><a href="full-stack-developer-course" class="text-decoration-none text-light">Learn More</a> </button>
                 </div>
             </div>
