@@ -17,7 +17,7 @@ include_once("includes/header.php");
                 <div class="col-4"><p>08:00 AM & 10:00 AM Batches</p>
                                     <p>(Class 1Hr - 1:30Hrs) / Per Session</p></div>
                 <div class="col-2">        
-                      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ModalCenter1">Learn Moder </button>
+                      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ModalCenter1">Learn More </button>
                 </div>
                 <!--modal  -->
                 <div class="modal fade" id="ModalCenter1" tabindex="-1" role="dialog" aria-labelledby="ModalCenter1Title" aria-hidden="true">
@@ -67,4 +67,4 @@ include_once("includes/header.php");
 
 <?php 
 include_once("../includes/footer.php");
-?>
+?>  
