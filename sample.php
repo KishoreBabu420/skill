@@ -17,13 +17,14 @@ include_once("includes/header.php");
                 <div class="col-4"><p>08:00 AM & 10:00 AM Batches</p>
                                     <p>(Class 1Hr - 1:30Hrs) / Per Session</p></div>
                 <div class="col-2">        
-                      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">Learn Moder </button>
+                      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ModalCenter1">Learn Moder </button>
                 </div>
-                <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <!--modal  -->
+                <div class="modal fade" id="ModalCenter1" tabindex="-1" role="dialog" aria-labelledby="ModalCenter1Title" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered" role="document">
                     <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalCenterTitle">Modal title</h5>
+                        <h5 class="modal-title" id="ModalCenter1Title">Modal title</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -38,6 +39,7 @@ include_once("includes/header.php");
                     </div>
                 </div>
                 </div>
+                <!-- end of modal -->
             </div>
             <div class="row">
                 <div class="col-2">01- Aug - 2022 </div>
