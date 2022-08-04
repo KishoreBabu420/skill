@@ -17,7 +17,7 @@ include_once("includes/header.php");
                 <div class="col-4"><p>08:00 AM & 10:00 AM Batches</p>
                                     <p>(Class 1Hr - 1:30Hrs) / Per Session</p></div>
                 <div class="col-2">        
-                      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter"><a href="" class="text-decoration-none text-light">Learn More</a> </button>
+                      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">Learn Moder </button>
                 </div>
                 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered" role="document">
