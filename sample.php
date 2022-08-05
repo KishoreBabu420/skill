@@ -29,67 +29,68 @@ include_once("includes/header.php");
         <div class="modal fade" id="learnMore" tabindex="-1" aria-labelledby="learnMoreLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="learnMoreLabel">Modal title</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
+              <div class="modal-body modalfsdbackground">
                 <div>
                 <section class="forms-section">
-                    <h1 class="section-title">Animated Forms</h1>
+                    <h1 class="section-title">Batches</h1>
                     <div class="forms">
                         <div class="form-wrapper is-active">
                         <button type="button" class="switcher switcher-login">
-                            Login
+                            Online Batch
                             <span class="underline"></span>
                         </button>
                         <form class="form form-login">
                             <fieldset>
                             <legend>Please, enter your email and password for login.</legend>
                             <div class="input-block">
-                                <label for="login-email">E-mail</label>
-                                <input id="login-email" type="email" required>
-                            </div>
+                                <label for="name">Name</label>
+                                <input id="name" type="text" required>
+                            </div>  
                             <div class="input-block">
-                                <label for="login-password">Password</label>
-                                <input id="login-password" type="password" required>
+                                <label for="email">E-mail</label>
+                                <input id="email" type="email" required>
+                            </div>  
+                            <div class="input-block">
+                                <label for="phone-number">Mobile number</label>
+                                <input id="phone-number" type="Number" required>
                             </div>
                             </fieldset>
-                            <button type="submit" class="btn-login">Login</button>
+                            <button type="submit" class="btn-login">Submit</button>
                         </form>
                         </div>
                         <div class="form-wrapper">
                         <button type="button" class="switcher switcher-signup">
-                            Sign Up
+                            Offline Batch
                             <span class="underline"></span>
                         </button>
                         <form class="form form-signup">
                             <fieldset>
                             <legend>Please, enter your email, password and password confirmation for sign up.</legend>
                             <div class="input-block">
-                                <label for="signup-email">E-mail</label>
-                                <input id="signup-email" type="email" required>
+                                <label for="name">Name</label>
+                                <input id="name" type="text" required>
+                            </div>  
+                            <div class="input-block">
+                                <label for="email">E-mail</label>
+                                <input id="email" type="email" required>
+                            </div>  
+                            <div class="input-block">
+                                <label for="phone-number">Mobile number</label>
+                                <input id="phone-number" type="Number" required>
                             </div>
                             <div class="input-block">
-                                <label for="signup-password">Password</label>
-                                <input id="signup-password" type="password" required>
-                            </div>
-                            <div class="input-block">
-                                <label for="signup-password-confirm">Confirm password</label>
-                                <input id="signup-password-confirm" type="password" required>
+                                <label for="offline-phone-number">Mobile number</label>
+                                <input id="offline-phone-number" type="Number" required>
                             </div>
                             </fieldset>
-                            <button type="submit" class="btn-signup">Continue</button>
+                            <button type="submit" class="btn-signup">Submit</button>
                         </form>
                         </div>
                     </div>
                     </section>
                 </div>
               </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-              </div>
+              
             </div>
           </div>
         </div>
@@ -177,6 +178,9 @@ include_once("includes/header.php");
 	}
 }
 
+.modalfsdbackground{
+    background-color:#ffff;
+}
 .switcher {
 	position: relative;
 	cursor: pointer;
@@ -407,7 +411,17 @@ include_once("includes/header.php");
 }
 
 </style>
+<script>
+    const switchers = [...document.querySelectorAll('.switcher')]
 
+switchers.forEach(item => {
+	item.addEventListener('click', function() {
+		switchers.forEach(item => item.parentElement.classList.remove('is-active'))
+		this.parentElement.classList.add('is-active')
+	})
+})
+
+</script>
 
 
 
