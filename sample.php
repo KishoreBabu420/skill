@@ -20,8 +20,8 @@ include_once("includes/header.php");
           <p>08:00 AM & 10:00 AM Batches</p>
           <p>(Class 1Hr - 1:30Hrs) / Per Session</p>
         </div>
-        <div class="col-2">
-          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#learnMore">
+        <div class="col-2 regbtn">
+          <button type="button" class="" data-bs-toggle="modal" data-bs-target="#learnMore">
             Learn More
           </button>
         </div>
