@@ -179,7 +179,7 @@ include_once("includes/header.php");
 }
 
 .modalfsdbackground{
-    background-color:#ffff;
+    background-color:#1c2042;
 }
 .switcher {
 	position: relative;
@@ -192,21 +192,22 @@ include_once("includes/header.php");
 	font-family: inherit;
 	font-size: 16px;
 	letter-spacing: .5px;
-	color: #999;
+	color: #f3274f;
 	background-color: transparent;
 	border: none;
 	outline: none;
 	transform: translateX(0);
 	transition: all .3s ease-out;
+
 }
 
 .form-wrapper.is-active .switcher-login {
-	color: #fff;
+	color: #fb9a34;
 	transform: translateX(90px);
 }
 
 .form-wrapper.is-active .switcher-signup {
-	color: #fff;
+	color: #fb9a34;
 	transform: translateX(-90px);
 }
 
@@ -362,7 +363,7 @@ include_once("includes/header.php");
 
 .input-block label {
 	font-size: 14px;
-  color: #a1b4b4;
+  	color: #222;
 }
 
 .input-block input {
@@ -398,15 +399,15 @@ include_once("includes/header.php");
 }
 
 .btn-login {
-	color: #fbfdff;
-	background: #a7e245;
+	color: #fff;
+	background: #f3274f;
 	transform: translateX(-30%);
 }
 
 .btn-signup {
-	color: #a7e245;
-	background: #fbfdff;
-	box-shadow: inset 0 0 0 2px #a7e245;
+	color: #fff;
+	background: #f3274f;
+	box-shadow: inset 0 0 0 2px #f3274f;
 	transform: translateX(30%);
 }
 
