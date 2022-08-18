@@ -10,17 +10,103 @@ include_once("includes/header.php");
 <section class="mt-3">
   <div class="container ">
     <div class="shadow p-5 mb-5 bg-white rounded">
-      <div class="row justify-content-center">
-        <div class="col-2">01- Aug - 2022 </div>
-        <div class="col-2">
+		<div class="row justify-content-center">
+			<div class="col-lg-2">01- Aug - 2022 </div>
+			<div class="col-lg-2">
+			<p>Mon-Fri</p>
+			<p>Weekdays Regular</p>
+			</div>
+			<div class="col-lg-4">
+			<p>08:00 AM & 10:00 AM Batches</p>
+			<p>(Class 1Hr - 1:30Hrs) / Per Session</p>
+			</div>
+			<div class="col-lg-2 regbtn">
+			<button type="button" class="" data-bs-toggle="modal" data-bs-target="#learnMore">
+				Learn More
+			</button>
+			</div>
+			<!-- Modal Start -->
+			<div class="modal fade" id="learnMore" tabindex="-1" aria-labelledby="learnMoreLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+				<div class="modal-body modalfsdbackground">
+					<div>
+					<section class="forms-section">
+						<h1 class="section-title">Batches</h1>
+						<div class="forms">
+							<div class="form-wrapper is-active">
+							<button type="button" class="switcher switcher-login">
+								Online Batch
+								<span class="underline"></span>
+							</button>
+							<form class="form form-login">
+								<fieldset>
+								<legend>Please, enter your email and password for login.</legend>
+								<div class="input-block">
+									<label for="name">Name</label>
+									<input id="name" type="text" required>
+								</div>  
+								<div class="input-block">
+									<label for="email">E-mail</label>
+									<input id="email" type="email" required>
+								</div>  
+								<div class="input-block">
+									<label for="phone-number">Mobile number</label>
+									<input id="phone-number" type="Number" required>
+								</div>
+								</fieldset>
+								<button type="submit" class="btn-login">Submit</button>
+							</form>
+							</div>
+							<div class="form-wrapper">
+							<button type="button" class="switcher switcher-signup">
+								Offline Batch
+								<span class="underline"></span>
+							</button>
+							<form class="form form-signup">
+								<fieldset>
+								<legend>Please, enter your email, password and password confirmation for sign up.</legend>
+								<div class="input-block">
+									<label for="name">Name</label>
+									<input id="name" type="text" required>
+								</div>  
+								<div class="input-block">
+									<label for="email">E-mail</label>
+									<input id="email" type="email" required>
+								</div>  
+								<div class="input-block">
+									<label for="phone-number">Mobile number</label>
+									<input id="phone-number" type="Number" required>
+								</div>
+								<div class="input-block">
+									<label for="offline-phone-number">Mobile number</label>
+									<input id="offline-phone-number" type="Number" required>
+								</div>
+								</fieldset>
+								<button type="submit" class="btn-signup">Submit</button>
+							</form>
+							</div>
+						</div>
+						</section>
+					</div>
+				</div>
+				
+				</div>
+			</div>
+			</div>
+			<!-- Modal End -->
+		</div>
+		<div class="row justify-content-center">
+        <div class="col-lg-2">01- Aug - 2022 </div>
+        <div class="col-lg-2">
           <p>Mon-Fri</p>
           <p>Weekdays Regular</p>
         </div>
-        <div class="col-4">
+        <div class="col-lg-4">
           <p>08:00 AM & 10:00 AM Batches</p>
           <p>(Class 1Hr - 1:30Hrs) / Per Session</p>
         </div>
-        <div class="col-2 regbtn">
+        <div class="col-lg-2 regbtn">
           <button type="button" class="" data-bs-toggle="modal" data-bs-target="#learnMore">
             Learn More
           </button>
@@ -95,36 +181,7 @@ include_once("includes/header.php");
           </div>
         </div>
         <!-- Modal End -->
-
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-2">01- Aug - 2022 </div>
-        <div class="col-2">
-          <p>Mon-Fri</p>
-          <p>Weekdays Regular</p>
-        </div>
-        <div class="col-4">
-          <p>08:00 AM & 10:00 AM Batches</p>
-          <p>(Class 1Hr - 1:30Hrs) / Per Session</p>
-        </div>
-        <div class="col-2">
-          <button><a href="full-stack-developer-course" class="text-decoration-none text-light">Learn More</a> </button>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-2">01- Aug - 2022 </div>
-        <div class="col-2">
-          <p>Mon-Fri</p>
-          <p>Weekdays Regular</p>
-        </div>
-        <div class="col-4">
-          <p>08:00 AM & 10:00 AM Batches</p>
-          <p>(Class 1Hr - 1:30Hrs) / Per Session</p>
-        </div>
-        <div class="col-2">
-          <button><a href="full-stack-developer-course" class="text-decoration-none text-light">Learn More</a> </button>
-        </div>
-      </div>
+      </div>	
     </div>
   </div>
 </section>
