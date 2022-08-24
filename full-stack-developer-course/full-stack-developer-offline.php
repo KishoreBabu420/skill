@@ -23,7 +23,9 @@ include_once("../includes/header.php");
                     <button><a href="#" class="text-decoration-none text-light">Check your eligibility</a> </button>
                 </div>
             </div>
-            <div class="col-lg-6"></div>
+            <div class="col-lg-6">
+                <img src="../images/cbe-img1.png" class="w-100 cbeimg" alt="reactjs in coimbatore">
+            </div>
         </div>
     
         <div class="row align-items-center pt-md-3 justify-content-center">
