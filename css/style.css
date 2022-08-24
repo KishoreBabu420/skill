@@ -2722,3 +2722,8 @@ width: unset!important;
 .cbeimg{
   width: 110%;
 }
+.super30{
+  color: #f3274f;
+  font-size: 2.5rem;
+  font-weight: 700;
+}

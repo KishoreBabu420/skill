@@ -16,15 +16,15 @@ include_once("../includes/header.php");
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-6">
-                <p class="h5">Join our</p> 
-                <p class="h5">Super 30 Squad </br>
+                <p class="h4 mt-5 pt-5">Join our</p> 
+                <p class="h2 mt-3 ">Super <span class="super30">30 Squad</span></br>
                 And become a software developer in 4 months</p>
-                <div class="regbtn mt-4 text-md-start text-center">
+                <div class="regbtn mt-5 text-md-start text-center">
                     <button><a href="#" class="text-decoration-none text-light">Check your eligibility</a> </button>
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="../images/cbe-img1.png" class="w-100 cbeimg" alt="reactjs in coimbatore">
+                <img src="../images/cbe-img1.png" class=" cbeimg" alt="reactjs in coimbatore">
             </div>
         </div>
     
@@ -100,7 +100,7 @@ include_once("../includes/header.php");
                 
             </div>
             <div class="col-lg-6">
-
+                <img src="../images/offline-img-2.png" class="w-100" alt="eligible">
             </div>
         </div>
     </div>
@@ -110,7 +110,7 @@ include_once("../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                
+            <img src="../images/offline-img-1.jpg" class="w-100" alt="eligible">
             </div>
             <div class="col-lg-6">
                 <h5>Who can Join?</h5>
