@@ -15,16 +15,16 @@ include_once("../includes/header.php");
 <section>
     <div class="container">
         <div class="row mb-5">
-            <div class="col-lg-6">
-                <p class="h4 mt-5 pt-5">Join our</p> 
-                <p class="h2 mt-3 ">Super <span class="super30">30 Squad</span></br>
-                And become a software developer in 4 months</p>
+            <div class="col-lg-5">
+                <p class="h3 mt-5 pt-5">Join our</p> 
+                <p class="h2 mt-3 "><span class="super30"> Super 30</span></br>
+                And become a software developer in 100 Days</p>
                 <div class="regbtn mt-5 text-md-start text-center">
                     <button><a href="#" class="text-decoration-none text-light">Check your eligibility</a> </button>
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="../images/cbe-img1.png" class=" cbeimg" alt="reactjs in coimbatore">
+                <img src="../images/cbe-offline.png" class=" cbeimg" alt="reactjs in coimbatore">
             </div>
         </div>
     
@@ -46,7 +46,7 @@ include_once("../includes/header.php");
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_2_leji5r.png"
                     alt="7 Months Live Course" class="img-fluid" width="64" height="64">
                 </div>
-                <p class="icontitle-head pt-3">7 Months Live Course</p>
+                <p class="icontitle-head pt-3">100 Days Interactive Course</p>
                 </div>
             </div>
             <div class="col-md-3 col-6 mb-4">
@@ -89,18 +89,18 @@ include_once("../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <h5>Who are eligible for Coimbatore’s Super 30 batch on Full Stack Developer Program?</h5>
+                <h4>Who are eligible for Coimbatore’s Super 30 batch on Full Stack Developer Program?</h4>
                 <ul>
-                    <li class="list-group-item">Step 1: Take up the challenge - SAST, get a score of 40% and above</li>
-                    <li class="list-group-item">Step 2: Attend a Counsel Interview with our expert counselors</li>
-                    <li class="list-group-item">Step 3: Submit your essential documents</li>
-                    <li class="list-group-item">Step 4: Get your Documents Verified</li>
-                    <li class="list-group-item">Step 5: You’re welcome to Coimbatore’s Super 30 Batch of Awesome Web Developers</li>
+                    <li class="list-group-item"><p>Step 1: Take up the challenge - SAST, get a score of 40% and above</p></li>
+                    <li class="list-group-item"><p>Step 2: Attend a Counsel Interview with our expert counselors</p></li>
+                    <li class="list-group-item"><p>Step 3: Submit your essential documents</p></li>
+                    <li class="list-group-item"><p>Step 4: Get your Documents Verified</p></li>
+                    <li class="list-group-item"><p>Step 5: You’re welcome to Coimbatore’s Super 30 Batch of Awesome Web Developers</p></li>
                 </ul>
                 
             </div>
             <div class="col-lg-6">
-                <img src="../images/offline-img-2.png" class="w-100" alt="eligible">
+                <img src="../images/cbe-offline-1-2.png" class="w-100" alt="eligible">
             </div>
         </div>
     </div>
@@ -110,17 +110,17 @@ include_once("../includes/header.php");
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-            <img src="../images/offline-img-1.jpg" class="w-100" alt="eligible">
+            <img src="../images/cbe-offline-1-1.png" class="w-100" alt="eligible">
             </div>
             <div class="col-lg-6">
-                <h5>Who can Join?</h5>
+                <h4>Who can Join?</h4>
                 <ul>
-                    <li>People who are looking for one-one training in Coimbatore</li>
-                    <li>Beginners – no prior experience or coding knowledge is required</li>
-                    <li>Those looking for a career change</li>
-                    <li>Anyone who wants to learn front-end or web development</li>
-                    <li>Students who wish to pursue a career in web development</li>
-                    <li>Job seekers</li>
+                    <li><p>People who are looking for one-one training in Coimbatore</p></li>
+                    <li><p>Beginners – no prior experience or coding knowledge is required</p></li>
+                    <li><p>Those looking for a career change</p></li>
+                    <li><p>Anyone who wants to learn front-end or web development</p></li>
+                    <li><p>Students who wish to pursue a career in web development</p></li>
+                    <li><p>Job seekers</p></li>
                 </ul>
             </div>
         </div>
