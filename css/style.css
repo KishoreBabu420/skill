@@ -415,7 +415,10 @@ body {
 #exampleModal-newtop-4,
 #exampleModal-newtop,
 #exampleModal-newtopsed,
-#curriculum-model {
+#curriculum-model,
+#popup-modal,
+#hero-modal,
+#partner-modal {
   z-index: 999999 !important;
 }
 
@@ -425,7 +428,10 @@ body {
 #exampleModal-newtop-4 .btn-close,
 #exampleModal-newtop .btn-close,
 #exampleModal-newtopsed .btn-close,
-#curriculum-model .btn-close {
+#curriculum-model .btn-close,
+#popup-modal .btn-close,
+#hero-modal .btn-close,
+#partner-modal .btn-close {
   float: right;
   background-color: #fff;
 }
@@ -436,7 +442,10 @@ body {
 #exampleModal-newtop-4 .modal-body,
 #exampleModal-newtop .modal-body,
 #exampleModal-newtopsed .modal-body,
-#curriculum-model .modal-body {
+#curriculum-model .modal-body,
+#popup-modal .modal-body,
+#hero-modal .modal-body,
+#partner-modal .modal-body {
   background: #1c2042;
 }
 
@@ -2719,10 +2728,10 @@ width: unset!important;
 }
 
 /* offline page */
-.cbeimg{
+.cbeimg {
   width: 110%;
 }
-.super30{
+.super30 {
   color: #f3274f;
   font-size: 2.5rem;
   font-weight: 700;
