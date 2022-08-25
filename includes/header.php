@@ -130,7 +130,7 @@
               class="img-fluid" alt="Skill Safari" title="Skill Safari">
           </a>
         </div>
-        <div class="col-lg-6 col-md-9">
+        <div class="col-md-9">
           <nav class="navbar navbar-expand-md navbar-light">
             <div class="container-fluid">
               <a class="navbar-brand d-block d-md-none" href="/">
@@ -156,7 +156,8 @@
                       Offline
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown-offline">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/events/build-a-nodejs-quiz-application">
+                      <li><a class="dropdown-item"
+                          href="https://skillsafari.in/full-stack-developer-course/full-stack-developer-course-in-coimbatore">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
@@ -165,12 +166,12 @@
                       </li>
                     </ul>
                   </li>
-                  <li class="nav-item">
+                  <li class="nav-item d-none d-lg-block">
                     <a class="nav-link <?php if($page==2) echo 'active';  ?>" aria-current="page"
                       href="https://www.skillsafari.in/hire-from-us">Hire from
                       us</a>
                   </li>
-                  <li class="nav-item">
+                  <li class="nav-item ">
                     <a class="nav-link" href="https://blog.skillsafari.in/" target="_blank">Blog</a>
                   </li>
                   <li class="nav-item dropdown">
