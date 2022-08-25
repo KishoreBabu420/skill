@@ -7,6 +7,7 @@ $description = "Full Stack Developer Course of Skill Safari with job guarantee k
 $keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 
 $page = 1;
+$image = 'https://res.cloudinary.com/skill-safari/image/upload/v1661421723/website/CBE_SPECIALS_with_logo_inwxn9.png';
 
 include_once("../includes/header.php");
 ?>
