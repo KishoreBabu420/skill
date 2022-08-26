@@ -136,7 +136,7 @@ include_once("../includes/header.php");
         This offline training in Coimbatore offers 100% placement assurance in leading tech companies in India. Join the
         program and get a job with a salary package not less than 5 LPA. Feel Free to get in touch with us.
       </p>
-      <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 22<sup>th</sup> 2022</span></h3>
+      <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> September 19<sup>th</sup> 2022</span></h3>
     </div>
   </div>
 </section>
@@ -166,7 +166,7 @@ include_once("../includes/header.php");
 
       </div>
       <div class="col-lg-6">
-        <img src="../images/cbe-offline-1-2.png" class="w-100 img-fluid" alt="eligible">
+        <img src="../images/cbe-offline-1-2.png" class="w-75 text-center img-fluid" alt="eligible">
       </div>
     </div>
   </div>
@@ -176,7 +176,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-6">
-        <img src="../images/cbe-offline-1-1.png" class="w-100" alt="eligible">
+        <img src="../images/cbe-offline-1-1.png" class="w-75 text-center" alt="eligible">
       </div>
       <div class="col-lg-6">
         <h4>Who can Join?</h4>
