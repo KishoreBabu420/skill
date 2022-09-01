@@ -550,7 +550,7 @@ include_once("../includes/header.php");
         </section>
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 fees" id="fees">
           <div class="section__title-container p-2">
-            <h2 class="section-title">Learn at ZERO Effective price</h2>
+            <h2 class="section-title">Full Stack Development Course Price</h2>
             <hr>
           </div>
           <div class="row align-items-center justify-content-center mb-3">
@@ -561,7 +561,7 @@ include_once("../includes/header.php");
                     Course Fee
                   </h3>
                   <p class="section__card-description text-start">
-                    Pay <strong>₹ 25000/-</strong> and get enrolled in the course
+                    Pay <strong>₹ 35000/-</strong> and get enrolled in the course
                   </p>
                 </div>
               </div>
