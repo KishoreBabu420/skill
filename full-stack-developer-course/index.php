@@ -18,7 +18,7 @@ include_once("../includes/header.php");
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
         <h1 class=" pt-3">Full Stack Developer Course</h1>
-        <p class="hero-para text-white pt-3">Enrol with a Zero effective fee, Get trained in skills that are essential
+        <p class="hero-para text-white pt-3">Enrol now & Get trained in skills that are essential
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
         </p>
@@ -207,7 +207,7 @@ include_once("../includes/header.php");
               projects.
             </p>
           </div>
-          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+        <!--  <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
               <span><img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/uniq_2_uvrwuv.png"
@@ -218,7 +218,7 @@ include_once("../includes/header.php");
               post-certification / The initial fee you pay will be completely refunded to you on the day of course
               completion.
             </p>
-          </div>
+          </div> -->
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
               <span><img
@@ -227,8 +227,7 @@ include_once("../includes/header.php");
             </h3>
             <p class="section__card-description">
               We help students with determination and help them to acquire full-stack developer skills to secure their
-              dream job. And most importantly, at ZERO Effective Cost.
-              This means you get to pay your course fee with your salary.
+              dream job.
             </p>
           </div>
 
@@ -937,7 +936,7 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-            <div class="accordion-item mb-3 p-4">
+            <!-- <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseNinteen1" aria-expanded=" true" aria-controls="collapseNinteen1">
@@ -959,7 +958,7 @@ include_once("../includes/header.php");
                   </p>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="accordion-item mb-3 p-4">
               <h3 class="accordion-header" id="headingSix">
                 <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
