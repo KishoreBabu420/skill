@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>27 May 2022</span></h4>
+        <h4 class="date-sec"><span>Coming Soon</span></h4>
         <h1 class="top-head  pt-3">Industry Trends and Recruitment Patterns in 2022 </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
@@ -41,7 +41,7 @@ include_once("../includes/header.php");
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
               <p class="small-highlight pt-2">Date</p>
-              <h3 class="mini-boxhead">27th May 2022</h3>
+              <h3 class="mini-boxhead">Coming Soon</h3>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
