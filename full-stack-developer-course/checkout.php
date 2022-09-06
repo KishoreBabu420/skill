@@ -136,7 +136,7 @@ include_once("../includes/header.php");
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1652246797/website/event_ouburp.jpg"
                 class="img-fluid" loading="lazy" alt="Alchemyst FSD Course" title="">
               <div class="top-small-strip">
-                <h5 class="mb-0">6 seats left</h5>
+                <h5 class="mb-0">15 seats left</h5>
               </div>
             </div>
             <div class="p-3 text-center ">
