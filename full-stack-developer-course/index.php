@@ -467,7 +467,7 @@ include_once("../includes/header.php");
                           value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
                         <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                         <div class="callbackbtn mt-3">
-                          <button class="text-decoration-none" type="submit">Know More</button>
+                          <button class="text-decoration-none" type="submit">Submit</button>
                         </div>
                       </form>
                     </div>
