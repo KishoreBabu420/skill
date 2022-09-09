@@ -22,7 +22,7 @@ include_once("../includes/header.php");
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
         </p>
-        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> October 18<sup>th</sup> 2022</span></h3>
+        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> October 1<sup>th</sup> 2022</span></h3>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
@@ -557,10 +557,11 @@ include_once("../includes/header.php");
               <div class="card rounded shadow p-2 border-0" style="background-color: #EEFFF7">
                 <div class="card-body text-center">
                   <h3 class="section__card-title pb-2">
-                    Course Fee
+                   Upfront Course Fee
                   </h3>
                   <p class="section__card-description text-start">
-                    Pay <strong>₹ 35000/-</strong> and get enrolled in the course
+                    Pay program fee of <strong>₹ 75000/-</strong> </br>
+                    <span class="text-primary">* Upto 50% Off - Closing soon</span>
                   </p>
                 </div>
               </div>
@@ -569,10 +570,10 @@ include_once("../includes/header.php");
               <div class="card rounded shadow p-2 border-0" style="background-color: #F7F7FF">
                 <div class="card-body text-center">
                   <h3 class="section__card-title pb-2">
-                    Training & Certification
+                    Pay After Placement
                   </h3>
                   <p class="section__card-description text-start">
-                    Complete the course and get the Alchemyst certification
+                  <strong>₹ 150000/-</strong> Pay 20% now & 80% after placement
                   </p>
                 </div>
               </div>
@@ -582,10 +583,10 @@ include_once("../includes/header.php");
               <div class="card rounded shadow p-2 border-0" style="background-color: #F6EDE7">
                 <div class="card-body text-center">
                   <h3 class="section__card-title pb-2">
-                    100% Refund
+                    EMI Options
                   </h3>
                   <p class="section__card-description text-start">
-                    Get complete refund of the fee you paid for course
+                    Pay your fee in flexible installment  
                 </div>
               </div>
             </div>
