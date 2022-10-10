@@ -532,8 +532,8 @@ include_once("./includes/partners.php");
           </div>
         </div>
       </div>
-      <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
-        <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+      <!--<div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
+         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
           <img loading="lazy"
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
             class="img-fluid" loading="lazy" alt="backend trainer" title="">
@@ -543,15 +543,15 @@ include_once("./includes/partners.php");
           </div>
           <p class="trained-head pt-md-3 pt-3">Kiran Sharma</p>
           <p class="trained-dest pb-3">Skill Safari</p>
-        </div>
+        </div> -->
         <!-- Modal -->
-        <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <!-- <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-body">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 <div class="row">
-                  <div class="col-md-4">
+                  <div class="col-md-4"></div>
                     <img
                       src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
                       class="img-fluid" loading="lazy" alt="full stack trainers" title="">
@@ -578,7 +578,7 @@ include_once("./includes/partners.php");
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal3">
           <img loading="lazy"

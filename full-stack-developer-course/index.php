@@ -519,7 +519,7 @@ include_once("../includes/header.php");
                 <h6 class="trained-dest pb-3">Skill Safari</h6>
               </div>
             </div>
-            <div class="col-md-3 col-6 mb-4">
+            <!-- <div class="col-md-3 col-6 mb-4">
               <div class="trained-box text-center">
                 <img loading="lazy"
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
@@ -531,7 +531,7 @@ include_once("../includes/header.php");
                 <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
                 <h6 class="trained-dest pb-3">Skill Safari</h6>
               </div>
-            </div>
+            </div> -->
             <div class="col-md-3 col-6 mb-4">
               <div class="trained-box text-center">
                 <img loading="lazy"
