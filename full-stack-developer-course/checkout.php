@@ -136,7 +136,7 @@ include_once("../includes/header.php");
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1652246797/website/event_ouburp.jpg"
                 class="img-fluid" loading="lazy" alt="Alchemyst FSD Course" title="">
               <div class="top-small-strip">
-                <h5 class="mb-0">15 seats left</h5>
+                <h5 class="mb-0">7 seats left</h5>
               </div>
             </div>
             <div class="p-3 text-center ">
@@ -144,7 +144,7 @@ include_once("../includes/header.php");
                 <div class="col-12 text-center">
                   <div class="next_batch iconbox-small">
                     <h5 class="pt-3">Next batch starting from:</h5>
-                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 10<sup>th</sup> October 2022,</p>
+                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 18<sup>th</sup> October 2022,</p>
                     </br>
                   </div>
                 </div>
