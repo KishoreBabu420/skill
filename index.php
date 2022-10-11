@@ -332,7 +332,7 @@ include_once("./includes/testimony.php");
                 <div class="col-md-8 col-8">
                   <p class="event-minisec pt-3">Next Session on Coming Soon</p>
                   <h5 class="event-boxhead pt-3">Industry Trends <br> Workshop</h5>
-                  <p class="school-para">Shalini Kannan<br>Corporate Relations, Skill Safari</p>
+                  <p class="school-para">Naveen Chandran <br>Co-Founder, Skill Safari</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
                   <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1290</span><br>₹ Free</div>
@@ -366,7 +366,7 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <p class="event-minisec pt-3">Next Session on 20/05/2022</p>
+                  <p class="event-minisec pt-3">Next Session on Coming Soon</p>
                   <h5 class="event-boxhead pt-3"> Web Developer Mentorship Program </h5>
                   <p class="school-para">Kishore Kammela<br> Head - Operations, Skill Safari</p>
                 </div>
@@ -402,7 +402,7 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <p class="event-minisec pt-3">Next Session on 06/05/2022</p>
+                  <p class="event-minisec pt-3">Next Session on Coming Soon</p>
                   <h5 class="event-boxhead pt-3"> Build a Rock Paper Sissors Game with JS</h5>
                   <p class="school-para">Kishore Kammela<br> Head - Operations, Skill Safari</p>
                 </div>
