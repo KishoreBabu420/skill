@@ -16,7 +16,7 @@ include_once("includes/header.php");
   <div class="container">
     <div class="row">
       <div class="col-md-6 text-center mx-auto">
-        <img src="images/404.jpg" class="img-fluid" alt="" title="">
+        <img src="images/404.jpg" class="img-fluid" alt="error page" title="">
         <div class="404-content pt-3 pb-3">
           <h3 class="404-para">The page you're looking for no longer exists.</h3>
           <h5 class="return-cont pt-3"><a href="https://www.skillsafari.in" class="pink-head">Return to the

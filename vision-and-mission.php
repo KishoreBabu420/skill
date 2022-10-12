@@ -37,7 +37,7 @@ include_once("includes/header.php");
     <div class="row mb-5">
       <div class="col-md-4 d-flex align-self-stretch">
         <div class="vm-border p-4">
-          <img src="images/eye.png" Loading = "lazy" class="img-fluid" alt="" title="">
+          <img src="images/eye.png" Loading = "lazy" class="img-fluid" alt="Vision" title="">
           <h1 class="top-head pt-3">Vision</h1>
           <p class="school-para pt-3">To build a large gig economy by providing world-class training to technology
             aspirants and build a learn and earn community with Skill Safari. </p>
@@ -45,7 +45,7 @@ include_once("includes/header.php");
       </div>
       <div class="col-md-8 d-flex align-self-stretch mt-4 mt-md-0">
         <div class="vm-border p-4">
-          <img src="images/target.png" Loading = "lazy" class="img-fluid" alt="" title="">
+          <img src="images/target.png" Loading = "lazy" class="img-fluid" alt="Mission" title="">
           <h1 class="top-head pt-3">Mission</h1>
           <ul class=" pt-3">
             <li class="school-para pb-2">

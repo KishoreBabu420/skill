@@ -194,7 +194,7 @@ include_once("includes/header.php");
         <h2 class="top-head text-white pt-4 pt-lg-0">Learning opportunities </h2>
         <img loading="lazy"
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650894854/website/community%20and%20campus%20ambassador/targetarrow_w8qhl3.png"
-          class="img-fluid d-none d-md-block" alt="" title="">
+          class="img-fluid d-none d-md-block" alt="event image" title="">
       </div>
       <div class="col-md-8 pt-4 pt-md-0">
         <div class="row">

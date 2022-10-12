@@ -125,7 +125,7 @@
         <div class="partner__logo-container p-2">
           <a href="#" target="_blank">
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/18_nfy93y.png"
-            alt="" class="img-fluid" loading="lazy">
+            alt="Dafiy" class="img-fluid" loading="lazy">
           </a>
         </div>
       </div>

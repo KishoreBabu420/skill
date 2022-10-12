@@ -23,7 +23,7 @@ include_once("includes/header.php");
       <div class="col-md-6 pb-5 d-md-none">
         <img loading="lazy"
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg"
-          class="img-fluid" alt="" title="">
+          class="img-fluid" alt="community page header" title="">
       </div>
       <div class="col-md-6 text-start">
         <p class="school-para pt-lg-5  pt-3">A vibrant community is a key to one’s overall development. Join the Discord
@@ -46,14 +46,14 @@ include_once("includes/header.php");
       <div class="col-md-6 pb-5 d-none d-md-block">
         <img loading="lazy"
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650882196/website/community%20and%20campus%20ambassador/ab6_i2dgwq.jpg"
-          class="img-fluid" alt="" title="">
+          class="img-fluid" alt="join community" title="">
       </div>
     </div>
     <div class="row  pb-md-5 mx-auto">
       <div class="col-md-6 pb-md-5">
         <img loading="lazy"
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650882197/website/community%20and%20campus%20ambassador/ab7_eqzmv7.jpg"
-          class="img-fluid" alt="" title="">
+          class="img-fluid" alt="community image " title="">
       </div>
       <div class="col-md-6 text-start">
         <!-- <h1 class="top-head pt-lg-5 pt-3">Lorem Ipsum <br> Dolor sit amet</h1> -->

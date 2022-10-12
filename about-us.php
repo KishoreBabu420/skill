@@ -187,8 +187,7 @@ include_once("includes/header.php");
               <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651136391/website/aboutus/cir1_uhtdxh.png" Loading = "lazy" class="img-fluid" alt="roadmap start" title="">
             </div>
             <div class="col d-flex align-self-stretch">
-              <!-- <div>
-                            <img src="images/cir1.png" Loading = "lazy" class="img-fluid" alt="" title=""> -->
+            
               <div class="bg-white shadow mb-3 p-4 rounded">
                 <p class="school-para text-start">
                   A group of three sharp-witted land suited individuals endeavoured on a journey to bring change and
@@ -338,23 +337,23 @@ include_once("includes/header.php");
         </p>
         <div class="row pt-5">
           <div class="col-md-4 mb-md-5 mb-2">
-            <img src="images/smilie1.png" Loading = "lazy" class="img-fluid" alt="" title="">
+            <img src="images/smilie1.png" Loading = "lazy" class="img-fluid" alt="emojis" title="">
             <p class="school-para pe-md-4 text-white pt-2">Droning lectures that No one motivates lull you to sleep</p>
           </div>
           <div class="col-md-4 mb-md-5 mb-2">
-            <img src="images/smilie2.png" Loading = "lazy" class="img-fluid" alt="" title="">
+            <img src="images/smilie2.png" Loading = "lazy" class="img-fluid" alt="emojis" title="">
             <p class="school-para pe-md-4 text-white pt-2">No one motivates you to learn</p>
           </div>
           <div class="col-md-4 mb-md-5 mb-2">
-            <img src="images/smilie3.png" Loading = "lazy" class="img-fluid" alt="" title="">
+            <img src="images/smilie3.png" Loading = "lazy" class="img-fluid" alt="emojis" title="">
             <p class="school-para pe-md-4 text-white pt-2">You can find what you are learning online for free </p>
           </div>
           <div class="col-md-4 mb-md-0 mb-2">
-            <img src="images/smilie4.png" Loading = "lazy" class="img-fluid" alt="" title="">
+            <img src="images/smilie4.png" Loading = "lazy" class="img-fluid" alt="emojis" title="">
             <p class="school-para pe-md-4 text-white pt-2">Content that is so outdated,its not even relevant today</p>
           </div>
           <div class="col-md-4 mb-md-0 mb-2">
-            <img src="images/smilie5.png" Loading = "lazy" class="img-fluid" alt="" title="">
+            <img src="images/smilie5.png" Loading = "lazy" class="img-fluid" alt="emojis" title="">
             <p class="school-para pe-md-4 text-white pt-2">You get no chance to develop alumni or industry network </p>
           </div>
         </div>

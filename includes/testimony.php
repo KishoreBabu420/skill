@@ -12,7 +12,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Selvakumar1_ee7za7.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="testimonial" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">"Now I have a good exposure on building a website and knowledge over full
@@ -39,7 +39,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Krishnakumar1_ansdoa.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="testimony" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">"I was amazed with the kinds of technology that is out there in the market
@@ -66,7 +66,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Aniket1_mlb3xx.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="testimonial image" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">"Skill Safari is an awesome skill development platform. I have learned
@@ -93,7 +93,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Dharshini_xfjule.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="students review" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">"The teaching from the beginning was carried out in the most professional
@@ -121,7 +121,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002581/website/testimonials/Meenaz_Farheen_s3nxim.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="students review" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">"The best live educational platform I have ever come across. Each and
@@ -148,7 +148,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002581/website/testimonials/Niharika_avgxr8.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="testimonial" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">
@@ -176,7 +176,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002581/website/testimonials/Krithi_Hemanth_jyher3.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="testimony" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">
@@ -205,7 +205,7 @@
                 <div class="col-xl-12">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Sumanth_oujh8q.jpg"
-                    class="img-fluid w-100" alt="" title="">
+                    class="img-fluid w-100" alt="testimonial image" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
                   <p class="school-para pt-4">
