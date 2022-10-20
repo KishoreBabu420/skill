@@ -154,9 +154,7 @@ include_once("../includes/header.php");
             <div class="row align-items-center pt-3 pb-4 p-3">
               <div class="col-12">
                 <div class="regbtn text-center">
-                <form>
-                  <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_K3sSndcYIIfrWQ" async> </script> 
-                  </form>
+                  <button><a href="https://rzp.io/l/cl3zIDMGh" class="text-decoration-none text-light">Book Now</a> </button>
                 </div>
               </div>
             </div>
