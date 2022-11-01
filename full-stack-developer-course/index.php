@@ -22,7 +22,7 @@ include_once("../includes/header.php");
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
         </p>
-        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> October 26<sup>th</sup> 2022</span></h3>
+        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> November 21<sup>th</sup> 2022</span></h3>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
