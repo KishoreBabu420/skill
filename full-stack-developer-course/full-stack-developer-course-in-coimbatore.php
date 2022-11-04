@@ -466,19 +466,6 @@ include_once("../includes/header.php");
       <div class="col-md-3 col-6 mb-4">
         <div class="trained-box text-center">
           <img loading="lazy"
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-            class="img-fluid" alt="backend trainer" title="">
-          <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
-                  class="fa fa-linkedin" aria-hidden="true"></i></a></div>
-          </div>
-          <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
-          <h6 class="trained-dest pb-3">Skill Safari</h6>
-        </div>
-      </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="trained-box text-center">
-          <img loading="lazy"
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650004303/website/trainers/dilip_nqthaw.png"
             class="img-fluid" alt="full stack trainer skillsafari" title="">
           <div class="middle">
