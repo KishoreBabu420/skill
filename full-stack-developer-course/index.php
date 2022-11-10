@@ -207,7 +207,7 @@ include_once("../includes/header.php");
               projects.
             </p>
           </div>
-        <!--  <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+          <!--  <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <h3 class="section__card-title">
               <span><img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/uniq_2_uvrwuv.png"
@@ -519,19 +519,6 @@ include_once("../includes/header.php");
                 <h6 class="trained-dest pb-3">Skill Safari</h6>
               </div>
             </div>
-            <!-- <div class="col-md-3 col-6 mb-4">
-              <div class="trained-box text-center">
-                <img loading="lazy"
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-                  class="img-fluid" alt="backend trainer" title="">
-                <div class="middle">
-                  <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
-                        class="fa fa-linkedin" aria-hidden="true"></i></a></div>
-                </div>
-                <h3 class="trained-head pt-md-3 pt-3">Kiran Sharma</h3>
-                <h6 class="trained-dest pb-3">Skill Safari</h6>
-              </div>
-            </div> -->
             <div class="col-md-3 col-6 mb-4">
               <div class="trained-box text-center">
                 <img loading="lazy"
@@ -557,7 +544,7 @@ include_once("../includes/header.php");
               <div class="card rounded shadow p-2 border-0" style="background-color: #EEFFF7">
                 <div class="card-body text-center">
                   <h3 class="section__card-title pb-2">
-                   Upfront Course Fee
+                    Upfront Course Fee
                   </h3>
                   <p class="section__card-description text-start">
                     Pay program fee of <strong>₹ 1,25,000/-</strong> </br>
@@ -573,7 +560,7 @@ include_once("../includes/header.php");
                     Pay After Placement
                   </h3>
                   <p class="section__card-description text-start">
-                  <strong>₹ 150000/-</strong> Pay 20% now & 80% after placement
+                    <strong>₹ 150000/-</strong> Pay 20% now & 80% after placement
                   </p>
                 </div>
               </div>
@@ -586,7 +573,7 @@ include_once("../includes/header.php");
                     EMI Options
                   </h3>
                   <p class="section__card-description text-start">
-                    Pay your fee in flexible installment  
+                    Pay your fee in flexible installment
                 </div>
               </div>
             </div>

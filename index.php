@@ -532,53 +532,6 @@ include_once("./includes/partners.php");
           </div>
         </div>
       </div>
-      <!--<div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
-         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal2">
-          <img loading="lazy"
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-            class="img-fluid" loading="lazy" alt="backend trainer" title="">
-          <div class="middle">
-            <div class="text"><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
-                  class="fa fa-linkedin"></i></a></div>
-          </div>
-          <p class="trained-head pt-md-3 pt-3">Kiran Sharma</p>
-          <p class="trained-dest pb-3">Skill Safari</p>
-        </div> -->
-        <!-- Modal -->
-        <!-- <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                <div class="row">
-                  <div class="col-md-4"></div>
-                    <img
-                      src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kiran_xuujkv.png"
-                      class="img-fluid" loading="lazy" alt="full stack trainers" title="">
-                  </div>
-                  <div class="col-md-8 text-center text-md-start">
-                    <p class="trained-head pt-md-3 pt-3">Kiran Sharma - <span class="trained-dest">Skill Safari</span>
-                    </p>
-                    <div><a href="https://www.linkedin.com/in/kiran-sharma-31195487/" target="_blank"><i
-                          class="fa fa-linkedin"></i></a>
-                    </div>
-
-                  </div>
-                  <div class="col-md-12 text-center text-md-start">
-                    <p class="pt-4">Kiran brings energy, passion and drive to a team, and works tirelessly to meet his
-                      own challenging own deadlines. Kiran's analytical background, desire to learn, ability to bring
-                      simplicity to complex issues and his determination to succeed means he's a great asset to any
-                      organization. He has always been a great sounding board and has a unique blend of running both
-                      sales teams and support organizations. Kiran has always conducted himself and the business with a
-                      high standard of integrity and I would have no hesitation in recommending Kiran for future
-                      endeavour.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
       <div class="col-md-2 col-sm-4 col-6 mb-4 mb-md-0">
         <div class="trained-box text-center" data-bs-toggle="modal" data-bs-target="#exampleModal3">
           <img loading="lazy"
