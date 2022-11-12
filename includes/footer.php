@@ -99,7 +99,7 @@
   <div class="row text-center text-white">
     <p class="my-2">
       <i class="fa-solid fa-address-book"></i>&nbsp; Need Help? Talk to us at <a
-        href="tell:+918111099100">8111099100</a> or email us at <a href="mailto:connect@skillsafari.in">Mail Us</a>
+        href="tell:+918807266670">8807266670</a> or email us at <a href="mailto:connect@skillsafari.in">Mail Us</a>
     </p>
   </div>
 </div>
