@@ -553,7 +553,7 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
               <div class="card rounded shadow p-2 border-0" style="background-color: #F7F7FF">
                 <div class="card-body text-center">
                   <h3 class="section__card-title pb-2">
@@ -564,8 +564,7 @@ include_once("../includes/header.php");
                   </p>
                 </div>
               </div>
-
-            </div>
+            </div> -->
             <div class="col-lg-4">
               <div class="card rounded shadow p-2 border-0" style="background-color: #F6EDE7">
                 <div class="card-body text-center">
