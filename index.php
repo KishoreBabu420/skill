@@ -249,7 +249,7 @@ include_once("./includes/testimony.php");
           <div class="event-boxlay">
             <div class="position-relative img-overblacklay">
               <img loading="lazy"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651312657/website/events/getplaced_qkd41p.jpg"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1669719675/website/events/webinar_website-min_cnq9ug.jpg"
                 class="img-fluid" loading="lazy" alt="full stack workshop - build application" title="">
               <div class="top-small-strip">
                 <h5 class="mb-0">30 seats left</h5>
@@ -258,20 +258,20 @@ include_once("./includes/testimony.php");
             <div class="ps-3 pe-3 pt-2">
               <div class="row">
                 <div class="col-md-8 col-8">
-                  <p class="event-minisec pt-3">Next Session on Coming Soon</p>
-                  <h5 class="event-boxhead pt-3">DSA <br> Workshop</h5>
-                  <p class="school-para">Anusha G<br>Data Scientist & ML/DL Expert</p>
+                  <p class="event-minisec pt-3">30th November 2022</p>
+                  <h5 class="event-boxhead pt-3">Roadmap to become<br>a Full stack developer</h5>
+                  <p class="school-para">Dharani<br>client Relationship</p>
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
 
-                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1000</span><br>₹ Free</div>
+                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ Free</span><br>₹ Free</div>
                 </div>
               </div>
 
               <div class="row align-items-center pt-3 pb-4 text-center text-md-start">
                 <div class="col-md-6 col-sm-6 col-12 mb-4 mb-md-0">
                   <div class="regbtn">
-                    <a href="./events/how-to-get-recruited-in-top-product-based-companies"
+                    <a href="./events/roadmap_to_become_a_full_stack_developer"
                       class="text-decoration-none">Know More</a>
                   </div>
                 </div>
