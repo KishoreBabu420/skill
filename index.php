@@ -264,7 +264,7 @@ include_once("./includes/testimony.php");
                 </div>
                 <div class="col-md-4 col-4 text-end pt-3">
 
-                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ Free</span><br>₹ Free</div>
+                  <div class="pricetag-strike pt-3"><span class="num-strke">₹ 1000</span><br>₹ Free</div>
                 </div>
               </div>
 

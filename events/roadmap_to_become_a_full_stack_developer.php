@@ -13,7 +13,7 @@ include_once("../includes/header.php");
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
         <p class="date-sec"><span>Coming Soon</span></p>
-        <h1 class="top-head  pt-3">Build a Quiz Application LIVE </h1>
+        <h1 class="top-head  pt-3">Roadmap to become a Full stack ddeveloper </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
         </div>
@@ -523,7 +523,7 @@ if (document.getElementById('days')) {
     hour = minute * 60,
     day = hour * 24;
 
-  let countDown = new Date('May 1, 2022 20:00:00').getTime(),
+  let countDown = new Date('November 30, 2022 18:00:00').getTime(),
     x = setInterval(function() {
       let now = new Date().getTime(),
         distance = countDown - now;
