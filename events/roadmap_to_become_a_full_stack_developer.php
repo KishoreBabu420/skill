@@ -22,8 +22,7 @@ include_once("../includes/header.php");
           already have developed an application all by yourself, so there will be enough proof of whether you can code
           or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
-            list</a>
+          <a href="https://meet.zoho.in/vBJrj1Ckg6" class="text-decoration-none" target="_blank">Join Now</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
@@ -221,8 +220,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
-            list</a>
+          <a href="https://meet.zoho.in/vBJrj1Ckg6" class="text-decoration-none" target="_blank">Join Now</a>
         </div>
       </div>
     </div>
@@ -283,8 +281,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
-            list</a>
+          <a href="https://meet.zoho.in/vBJrj1Ckg6" class="text-decoration-none" target="_blank">Join Now</a>
         </div>
       </div>
     </div>
@@ -393,8 +390,7 @@ include_once("../includes/header.php");
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
     <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
-          list</a>
+        <a href="https://meet.zoho.in/vBJrj1Ckg6" class="text-decoration-none" target="_blank">Join Now</a>
       </div>
     </div>
 
