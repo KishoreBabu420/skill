@@ -180,11 +180,11 @@
                       Events
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/events/build-a-nodejs-quiz-application">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/events/roadmap_to_become_a_full_stack_developer">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
-                          Quiz Application
+                          Roadmap to become afull stack developer
                         </a>
                       </li>
                       <li><a class="dropdown-item"
