@@ -292,7 +292,7 @@ include_once("../includes/header.php");
 </section>
 
 <!--  -->
-<section class="bg-trainerintro">
+<!-- <section class="bg-trainerintro">
   <div class="container">
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
@@ -339,7 +339,7 @@ include_once("../includes/header.php");
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!--  -->
 <section class="bg-certified">
