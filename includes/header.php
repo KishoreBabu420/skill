@@ -184,7 +184,7 @@
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
-                          Roadmap to become afull stack developer
+                          Roadmap to become <br> a full stack developer
                         </a>
                       </li>
                       <li><a class="dropdown-item"
