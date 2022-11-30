@@ -23,9 +23,7 @@ include_once("includes/header.php");
           Skill Safari is an E-Learning platform that focuses on providing
           various skill enhancement training modules by understanding the
           latest technology and industry requirements. It is registered as
-          Edukeys Services Private Limited which is headquartered in No:6/5,
-          Second Floor, Guruswamy Nagar, Thaneerpandal Rd, Peelamedu,
-          Coimbatore, Tamil Nadu 641004. Skill safari (hereafter referred to
+          Edukeys Services Private Limited which is headquartered in 18/19,Dr.Jaganathan nagar,Coimbatore medical college, opp. COIMBATORE, Tamil Nadu 641014. Skill safari (hereafter referred to
           as "we", "us", "our") provides online course, Live demo, online
           doubt clearing sessions who have or who will enrol in such
           course(s) we provide. Our services are accessible at
