@@ -13,7 +13,7 @@ include_once("../includes/header.php");
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
         <p class="date-sec"><span>Coming Soon</span></p>
-        <h1 class="top-head  pt-3">Roadmap to become a Full stack ddeveloper </h1>
+        <h1 class="top-head  pt-3">Roadmap to become a Full stack developer </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
         </div>
