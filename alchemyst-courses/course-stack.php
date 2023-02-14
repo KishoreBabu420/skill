@@ -22,7 +22,7 @@ include_once("../includes/header.php");
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
         </p>
-        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> March 6<sup>th</sup> 2023</span></h3>
+        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> February 13<sup>th</sup> 2023</span></h3>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
@@ -192,47 +192,11 @@ include_once("../includes/header.php");
       <main class="col-lg-9 main">
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 advantage" id="advantage">
           <div class="section__title-container p-2">
-            <h2 class="section-title"> What’s unique about our Full stack developer
-              Course?</h2>
-            <hr>
-          </div>
-          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-            <h3 class="section__card-title">
-              <span><img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/Uniq_1_bmezkp.png"
-                  alt="Quality Training" width="48" height="48"></span>Get a Quality Training
-            </h3>
-            <p class="section__card-description">
-              Get best-in-class quality training from leading professionals working in India working with real-time
-              projects.
-            </p>
-          </div>
-          <!--  <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-            <h3 class="section__card-title">
-              <span><img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/uniq_2_uvrwuv.png"
-                  alt="ZERO Effective Cost " width="48" height="48"></span>ZERO Effective Cost Training
-            </h3>
-            <p class="section__card-description">
-              The entire course fee that you pay for the Alchemyst Full Stack Developer Course is fully refundable
-              post-certification / The initial fee you pay will be completely refunded to you on the day of course
-              completion.
-            </p>
-          </div> -->
-          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-            <h3 class="section__card-title">
-              <span><img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1651854913/website/sales_icons/uniq_3_tjzulj.png"
-                  alt="Full Stack Developer Course Benefit" width="48" height="48"></span>What's really in it for you?
-            </h3>
-            <p class="section__card-description">
-              We help students with determination and help them to acquire full-stack developer skills to secure their
-              dream job.
-            </p>
+            
           </div>
 
         </section>
-        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
+        <!-- <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
           <div class="section__title-container p-2">
             <h2 class="section-title">How does Skill Safari’s Full Stack Developer Program work?</h2>
             <hr>
@@ -241,8 +205,8 @@ include_once("../includes/header.php");
             <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651854139/website/Infograph_2_obw0qm.png"
               alt="How full stack developer course works" class="img-fluid">
           </div>
-        </section>
-        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4">
+        </section> -->
+        <!-- <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4">
           <div class="section__title-container p-2">
             <h2 class="section-title">Outcome Based Learning</h2>
             <hr>
@@ -256,8 +220,8 @@ include_once("../includes/header.php");
             <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651929561/website/infograph_2_ynnmkj.png"
               alt="5 Principles of Outcome based learning" class="img-fluid">
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 curriculum" id="curriculum">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 curriculum" id="curriculum">
           <div class="section__title-container p-2">
             <h2 class="section-title">Full Stack Developer Course Curriculum</h2>
             <hr>
@@ -423,7 +387,7 @@ include_once("../includes/header.php");
               <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">View
                 Curriculum</a>
             </div>
-            <!-- Modal -->
+          
             <div class="modal fade" id="curriculum-model" tabindex="-1" aria-labelledby="exampleModalLabel"
               aria-hidden="true">
               <div class="modal-dialog">
@@ -476,8 +440,8 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 trainers" id="trainers">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 trainers" id="trainers">
           <div class="section__title-container p-2">
             <h2 class="section-title">Meet your Instructors
             </h2>
@@ -533,8 +497,8 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 fees" id="fees">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 fees" id="fees">
           <div class="section__title-container p-2">
             <h2 class="section-title">Full Stack Development Course Price</h2>
             <hr>
@@ -553,7 +517,7 @@ include_once("../includes/header.php");
                 </div>
               </div>
             </div>
-            <!-- <div class="col-lg-4">
+          <div class="col-lg-4">
               <div class="card rounded shadow p-2 border-0" style="background-color: #F7F7FF">
                 <div class="card-body text-center">
                   <h3 class="section__card-title pb-2">
@@ -564,7 +528,7 @@ include_once("../includes/header.php");
                   </p>
                 </div>
               </div>
-            </div> -->
+            </div> 
             <div class="col-lg-4">
               <div class="card rounded shadow p-2 border-0" style="background-color: #F6EDE7">
                 <div class="card-body text-center">
@@ -583,8 +547,8 @@ include_once("../includes/header.php");
               <a href="./checkout" class="text-decoration-none">Enroll Now</a>
             </div>
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 certification" id="certification">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 certification" id="certification">
           <div class="section__title-container p-2">
             <h2 class="section-title">Full Stack Developer Course Certification</h2>
             <hr>
@@ -600,8 +564,8 @@ include_once("../includes/header.php");
               src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
               alt="Skill Safari certificate" class="img-fluid">
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 placements" id="placements">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 placements" id="placements">
           <div class="section__title-container p-2">
             <h2 class="section-title">Alchemyst Recruitment Essentials Program</h2>
             <hr>
@@ -703,8 +667,8 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 hiring-partners" id="hiring-partners">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 hiring-partners" id="hiring-partners">
           <div class="section__title-container p-2">
             <h2 class="section-title">Hiring Partners</h2>
             <hr>
@@ -802,8 +766,8 @@ include_once("../includes/header.php");
                 More</a>
             </div>
           </div>
-        </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 community" id="community">
+        </section> -->
+        <!-- <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 community" id="community">
           <div class="section__title-container p-2">
             <h2 class="section-title">Alchemyst Community</h2>
             <hr>
@@ -835,270 +799,8 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </section>
-        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 faq" id="faq">
-          <div class="section__title-container p-2">
-            <h2 class="section-title">FAQ</h2>
-            <hr>
-          </div>
-          <div class="accordion" id="courseFAQExample">
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingOne">
-                <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <h4 class="top-head-faq mb-0">
-                    Who is a Full Stack Developer?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    A person who knows to develop both the frontend and backend portions of a web application alongside
-                    hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                  <h4 class="top-head-faq mb-0">
-                    Why do companies hire Full Stack Developers?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">Companies prefer developers who can be work-efficient and as well as
-                    cost-efficient. A Full Stack Developer can help with the whole design structure and he also knows to
-                    provide input on any level as need be.</p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingThree">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                  <h4 class="top-head-faq mb-0">
-                    What are the skill sets of a Full Stack Developer?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    A Full Stack Developer major with front-end technology development languages like HTML5, CSS3,
-                    JavaScript, Bootstrap and should know at least one server-side programming language, basic design
-                    ability, server management, Version Control System (VCS), and knowledge of web services or API.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                  <h4 class="top-head-faq mb-0">
-                    What is MERN Stack Web Development?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    The term MERN Stack is abbreviated as MongoDB, ExpressJS, ReactJS, NodeJS. MERN is a Full Stack, It
-                    follows a 3-tier architectural pattern, including the front-end display tier (React.js), application
-                    tier (Express.js and Node.js), and database tier (MongoDB)
-                  </p>
-                </div>
-              </div>
-            </div>
-            <!-- <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingSix">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseNinteen1" aria-expanded=" true" aria-controls="collapseNinteen1">
-                  <h4 class=" top-head-faq mb-0">
-                    How are you learning this course at effective ZERO upfront cost?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseNinteen1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    If you are someone who is seeking to get skilled in the domain of Full Stack Development, then our
-                    focus is to give you quality live and guided training program effective at no cost. The program fee
-                    will be refunded when you get the Skill Safari’s Alchemyst Full Stack Developer Certification post
-                    completion of the training program.
-
-                  </p>
-                </div>
-              </div>
-            </div> -->
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingSix">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
-                  <h4 class=" top-head-faq mb-0">
-                    Will you get a refund even if you don't need placements or don't sign ISA?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseTwenty1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    Yes, the course fee is fully refunded as soon as you complete the course and get your certificate.
-                    Opting for placement with us is a discrete decision that you take.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-                  <h4 class="top-head-faq mb-0">
-                    What are logistics required for this program?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    Minimum 1 Mbps download speed.
-                  </p>
-                  <ul>
-                    <li>Minimum Computer Hardware Specs - </li>
-                    <li>1 GHz Processor</li>
-                    <li>4 GB RAM</li>
-                    <li>128 GB Hard Drive</li>
-                    <li>Microphone</li>
-                    <li>Webcam</li>
-                    <li>Smart Mobile Phone for Skill Safari App Access</li>
-                  </ul>
-                  <p></p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
-                  <h4 class="top-head-faq mb-0">
-                    What is the duration of the program?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    The course duration takes on an average of 7 months. If you are not able to complete the program
-                    within the stipulated time, after the one-on-one review, we may consider batch shifting or program
-                    extensions based on the discussion.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
-                  <h4 class="top-head-faq mb-0">
-                    Will there be any possibility that the course might be extended beyond the given stipulated time?
-                  </h4>
-                </button>
-              </h3>
-
-              <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    The course will not be delayed from Skill Safari’s end. But Yes, based on the candidates' request or
-                    personal reasons, we may extend the dates. However, this would be done with a proper intimation to
-                    the
-                    batch and based on the custom plan the progress will be intimated to all the students. We do this to
-                    ensure that none of the candidates are missed out on the pace of the program.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
-                  <h4 class="top-head-faq mb-0">
-                    What does our Full Stack Developer Course teach you? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    The Full Stack Developer Course enables you to build an interactive and responsive application using
-                    both front-end and back-end technologies. It covers the fundamentals of JavaScript and Advanced
-                    JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS.
-                    Also,
-                    it provides knowledge to test and deploy code and store data using MongoDB. </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseSixteen" aria-expanded="true" aria-controls="collapseSixteen">
-                  <h4 class="top-head-faq mb-0">
-                    What will be the evaluation process in the program? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    You will have a set of deliverables throughout the program viz. Assignments, Monthly Assessments,
-                    Monthly One-One Review calls, Project reviews etc., you have to make sure you finish everything
-                    within a stipulated time </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item mb-3 p-4">
-              <h3 class="accordion-header" id="headingFive">
-                <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#collapseSeventeen" aria-expanded="true" aria-controls="collapseSeventeen">
-                  <h4 class="top-head-faq mb-0">
-                    What will happen if you fail the evaluation process? </h4>
-                </button>
-              </h3>
-
-              <div id="collapseSeventeen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                data-bs-parent="#courseFAQExample">
-                <div class="accordion-body">
-                  <p class="school-para mb-0">
-                    You will be given multiple attempts and you have to redo any particular deliverable. However, if you
-                    are still not able to complete the evaluation, you will be shifted to another batch. </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        </section> -->
+        
       </main>
     </div>
   </div>
