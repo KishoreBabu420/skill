@@ -100,6 +100,15 @@
   })(window, document, 'script', 'dataLayer', 'GTM-NQP7C8C');
   </script>
   <!-- End Google Tag Manager -->
+
+<!-- Google new Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5P87LGZ');</script>
+<!-- End Google Tag Manager -->
+
   <!-- Microsoft Clarity -->
   <script type="text/javascript">
   (function(c, l, a, r, i, t, y) {
@@ -120,6 +129,12 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQP7C8C" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+
+<!-- Google New Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P87LGZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
   <!-- Header section started -->
   <header class="bg-header nav-down shadow w-100 bg-white">
     <div class="container">
