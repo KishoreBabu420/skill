@@ -183,6 +183,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </li>
                   <li class="nav-item d-none d-lg-block">
                     <a class="nav-link <?php if($page==2) echo 'active';  ?>" aria-current="page"
+                      href="https://www.skillsafari.in/internship/internship2023.php">Internship Program us</a>
+                  </li>
+                  <li class="nav-item d-none d-lg-block">
+                    <a class="nav-link <?php if($page==2) echo 'active';  ?>" aria-current="page"
                       href="https://www.skillsafari.in/hire-from-us">Hire from
                       us</a>
                   </li>

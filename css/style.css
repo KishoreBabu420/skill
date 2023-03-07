@@ -2736,3 +2736,12 @@ width: unset!important;
   font-size: 2.5rem;
   font-weight: 700;
 }
+
+/* internship page */
+.internshipH1{
+  font-size: 62px !important; 
+}
+.internshipFAQ{
+  font-size: 26px;
+  font-weight: 600;
+}
