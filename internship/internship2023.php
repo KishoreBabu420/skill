@@ -18,7 +18,7 @@ include_once("../includes/header.php");
           You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills & Tools You Need To Get Your Dream Developer Job in (  ) Weeks with the Skill Safari’s Summer Internship  Program
           </p>
         <div class="regbtn mb-5">
-          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
+          <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
             list</a>
         </div>
       </div>
@@ -194,7 +194,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
+          <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
             list</a>
         </div>
       </div>
@@ -314,48 +314,35 @@ include_once("../includes/header.php");
     </div>
     <div class="row justify-content-center pt-3">
             <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 1-5</p>
-                <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development
-                  using
-                  HTML, CSS. Version Control using Git & GitHub</p>
+              <div class="row m-2 p-2">
+                <p class="syllabus__week-title h4">Week 1</p>
+                <p>Introduction to HTML & CSS</p>
               </div>
             </div>
             <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 6-10</p>
-                <p>JavaScript on the browser, Functions and OOP Programming, Data Structures and Algorithms with
-                  JavaScript
+              <div class="row m-2 p-2">
+                <p class="syllabus__week-title h4">Week 2</p>
+                <p>Responsive web development using Bootsrap 5 
                 </p>
 
               </div>
             </div>
             <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 11-15</p>
-                <p>Advanced JavaScript, Advanced CSS Working with DOM API & Local Storage, Introduction to React and
-                  React
-                  Ecosystem, UI Libraries, Deployment & Unit Testing</p>
+              <div class="row m-2 p-2">
+                <p class="syllabus__week-title h4">Week 3</p>
+                <p>Function programming with Javascript E56</p>
               </div>
             </div>
             <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 16-20</p>
-                <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
-                  Passport.js</p>
+              <div class="row m-2 p-2">
+                <p class="syllabus__week-title h4">Week 4</p>
+                <p>Advanced web development with React js  </p>
               </div>
             </div>
             <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 21-25</p>
-                <p>System Design Basics, OS and Networking Fundamentals, Cloud Services, Advanced DSA</p>
-              </div>
-            </div>
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 26-28</p>
-                <p>Projects and Peer Programming - Work on collaborative projects exploring all concepts and have pair
-                  programming sessions to improve the skills</p>
+              <div class="row m-2 p-2">
+                <p class="syllabus__week-title h4">Week 5</p>
+                <p>Build & Deploy scalable web applications</p>
               </div>
             </div>
           </div>
@@ -364,8 +351,9 @@ include_once("../includes/header.php");
 </section>
 <!-- curriculum end -->
 
-
-
+<?php 
+include_once("./includes/testimony.php");
+?>
 
 <!-- benefits section ended -->
 
@@ -419,7 +407,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
+          <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
             list</a>
         </div>
       </div>
@@ -529,7 +517,7 @@ include_once("../includes/header.php");
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
     <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://forms.gle/X7PawejiabAmW3xs7" class="text-decoration-none" target="_blank">Join the waiting
+        <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
           list</a>
       </div>
     </div>
