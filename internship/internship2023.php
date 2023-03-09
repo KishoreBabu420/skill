@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h1 class="internshipH1 pt-3">Summer Intership 2023</h1>
+        <h1 class="internshipH1 pt-3">Summer Internship 2023</h1>
         <p class="school-para pt-5">The best way to master React JS is by doing. That's why our internship program is designed to provide you with hands-on experience building real-world applications.
 
           You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills & Tools You Need To Get Your Dream Developer Job in (  ) Weeks with the Skill Safari’s Summer Internship  Program
