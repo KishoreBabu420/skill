@@ -352,7 +352,7 @@ include_once("../includes/header.php");
 <!-- curriculum end -->
 
 <?php 
-include_once("./includes/testimony.php");
+include_once("../includes/testimony.php");
 ?>
 
 <!-- benefits section ended -->
