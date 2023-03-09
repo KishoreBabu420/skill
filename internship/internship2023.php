@@ -15,7 +15,7 @@ include_once("../includes/header.php");
         <h1 class="internshipH1 pt-3">Summer Internship 2023</h1>
         <p class="school-para pt-5">The best way to master React JS is by doing. That's why our internship program is designed to provide you with hands-on experience building real-world applications.
 
-          You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills & Tools You Need To Get Your Dream Developer Job in (  ) Weeks with the Skill Safari’s Summer Internship  Program
+          You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills & Tools, And become a Skilled React Developer in 6 Weeks with the Skill Safari’s Summer Internship  Program
           </p>
         <div class="regbtn mb-5">
           <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
@@ -343,6 +343,12 @@ include_once("../includes/header.php");
               <div class="row m-2 p-2">
                 <p class="syllabus__week-title h4">Week 5</p>
                 <p>Build & Deploy scalable web applications</p>
+              </div>
+            </div>
+            <div class="col-12 card shadow col-md-5 m-2">
+              <div class="row m-2 p-2">
+                <p class="syllabus__week-title h4">Week 6</p>
+                <p>Projects</p>
               </div>
             </div>
           </div>
