@@ -211,7 +211,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Best pratice to become a frontend developer
+                          Best pratice to become<br>a frontend developer
                         </a>
                       </li>
                       <li><a class="dropdown-item"
