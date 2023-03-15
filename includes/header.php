@@ -181,7 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       </li>
                     </ul>
                   </li>
-                  <li class="nav-item d-none d-lg-block">
+                  <li class="nav-item ">
                     <a class="nav-link <?php if($page==10) echo 'active';  ?>" aria-current="page"
                       href="https://www.skillsafari.in/internship/internship2023.php">Internship Program</a>
                   </li>
