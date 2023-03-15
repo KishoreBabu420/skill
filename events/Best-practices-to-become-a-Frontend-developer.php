@@ -276,7 +276,7 @@ include_once("../includes/header.php");
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
               <img
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1678871158/website/events/nisha_ofmvmd.png"
                 class="img-fluid" alt="full stack trainer" Loading="lazy" title="">
               <p class="trainee-headtitle text-center pt-3 mb-0">Nisha Kumar</p>
               <p class="school-para text-center pt-2">Program Manager - Skill Safari </p>

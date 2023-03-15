@@ -199,19 +199,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       Events
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/events/roadmap_to_become_a_full_stack_developer">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/events/Become-a-Full-Stack-Developer-in-2023.php">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
-                          Roadmap to become <br> a full stack developer
+                          Become a full stack<br>developer in 2023
                         </a>
                       </li>
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/events/know-about-industry-trends-and-recruitment-patterns">
+                          href="https://skillsafari.in/events/Best-practices-to-become-a-Frontend-developer.php">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Recruitment Trends
+                          Best pratice to become a frontend developer
                         </a>
                       </li>
                       <li><a class="dropdown-item"
