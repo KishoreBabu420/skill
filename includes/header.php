@@ -199,7 +199,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       Events
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/events/Become-a-Full-Stack-Developer-in-2023.php">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/events/become-a-full-stack-developer-in-2023.php">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
@@ -207,7 +207,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                       </li>
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/events/Best-practices-to-become-a-Frontend-developer.php">
+                          href="https://skillsafari.in/events/best-practices-to-become-a-frontend-developer.php">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>

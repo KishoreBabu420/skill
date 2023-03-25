@@ -26,7 +26,7 @@ include_once("../includes/header.php");
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
           <img class="w-100"
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeadet3_uz3fuz.png"
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1678945981/website/events/banner_2_event_vqgx2d.png"
             Loading="lazy" alt="Fullstack Event">
         </div>
       </div>
@@ -195,6 +195,13 @@ include_once("../includes/header.php");
           </div>
         </div>
         <!--  -->
+        <div class="row">
+          <div class="col-md-2 col-2">
+            <div class="text-center pt-2 pb-2">
+              <img src="images/yellow-line.png" class="img-fluid" alt="mern stack " Loading="lazy" title="">
+            </div>
+          </div>
+        </div>
         <div class="row align-items-center">
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
@@ -355,7 +362,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-5 pt-4">
         <img
-          src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1678945981/website/events/banner_2_event_vqgx2d.png"
           class="img-fluid" Loading="lazy" alt="fullstack certificate" title="">
       </div>
     </div>

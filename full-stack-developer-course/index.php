@@ -265,47 +265,47 @@ include_once("../includes/header.php");
           <div class="row pt-3">
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 1-5</p>
-                <p>Basics of web Development, Introduction to Web, Developer Tools, Fundamentals of Web Development
-                  using
-                  HTML, CSS. Version Control using Git & GitHub</p>
+                <p class="syllabus__week-title h4">Week 1-5 - Web Fundamentals</p>
+                <p>Introduction to Web, Developer Tools, Fundamentals of Web
+                    Development using HTML, CSS. Version Control using Git & GitHub
+                  </p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 6-10</p>
-                <p>JavaScript on the browser, Functions and OOP Programming, Data Structures and Algorithms with
-                  JavaScript
+                <p class="syllabus__week-title h4">Week 6-10 - Programming with JavaScript </p>
+                <p>Introduction to Programming, Functions and OOP Programming,
+                  Data Structures and Algorithms with JavaScript
                 </p>
 
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 11-15</p>
-                <p>Advanced JavaScript, Advanced CSS Working with DOM API & Local Storage, Introduction to React and
-                  React
-                  Ecosystem, UI Libraries, Deployment & Unit Testing</p>
+                <p class="syllabus__week-title h4">Week 11-15 - JavaScript on the Browser</p>
+                <p>Advanced JavaScript, Advanced CSS Working with DOM API & Local Storage</p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 16-20</p>
-                <p>HTTP Protocols, Node.js & Node.js architecture, Express.js, MongoDB & Mongoose ORM, OAuth using
-                  Passport.js</p>
+                <p class="syllabus__week-title h4">Week 16-20 - Working with React</p>
+                <p>Introduction to React and React Ecosystem, UI Libraries, Deployment & Unit Testing</p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 21-25</p>
-                <p>System Design Basics, OS and Networking Fundamentals, Cloud Services, Advanced DSA</p>
+                <p class="syllabus__week-title h4">Week 21-25 - Sever Side Development</p>
+                <p>HTTP Protocols, Node.js & Node.js architecture,
+                    Express.js, MongoDB & Mongoose ORM, OAuth using Passport.js</p>
               </div>
             </div>
             <div class="col-12 col-md-6">
               <div class="row m-2">
-                <p class="syllabus__week-title h4">Week 26-28</p>
-                <p>Projects and Peer Programming - Work on collaborative projects exploring all concepts and have pair
-                  programming sessions to improve the skills</p>
+                <p class="syllabus__week-title h4">Week 26-28 - Interview Preparation</p>
+                <p>Projects and Peer Programming - Work on collaborative
+                  projects exploring all concepts and have pair programming sessions to improve
+                  the skills
+                  </p>
               </div>
             </div>
           </div>
