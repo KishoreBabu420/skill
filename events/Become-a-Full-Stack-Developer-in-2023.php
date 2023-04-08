@@ -1,7 +1,7 @@
 <?php 
 $title = "Workshop - Become a Full Stack Developer in 2023 ";
 $description = "Join our LIVE webinar on how to stay with current emerging technologies to get the latest skills to get a secured job for tomorrow";
-$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in,";
 $page = 9;
 include_once("../includes/header.php");
 ?>
@@ -18,7 +18,9 @@ include_once("../includes/header.php");
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
 
         </div>
-        <p class="school-para pt-3">Join the LIVE webinar and learn the practices and path to becoming a full-stack developer in 2023. Also, learn about the importance of Full Stack along with Ms. Priya Dharshini, Developer / Career Expert </p>
+        <p class="school-para pt-3">Join the LIVE webinar and learn the practices and path to becoming a full-stack
+          developer in 2023. Also, learn about the importance of Full Stack along with Ms. Priya Dharshini, Developer /
+          Career Expert </p>
         <div class="regbtn mb-5">
           <a href="https://meet.zoho.in/XYL1GTkpkE" target="_blank" class="text-decoration-none">Register</a>
         </div>
@@ -307,7 +309,10 @@ include_once("../includes/header.php");
               <p class="school-para text-center pt-2">Program Manager - Skill Safari </p>
             </div>
             <div class="col-md-8">
-              <p class="ft-16 text-justify">Priya Dharshini is a professional with experience in the software and online education sectors. She has previous experience working as a full-stack developer for renowned product-based companies. She is currently working as a career counsellor, helping the brightest minds in the nation become prosperous developers.</p>
+              <p class="ft-16 text-justify">Priya Dharshini is a professional with experience in the software and online
+                education sectors. She has previous experience working as a full-stack developer for renowned
+                product-based companies. She is currently working as a career counsellor, helping the brightest minds in
+                the nation become prosperous developers.</p>
             </div>
           </div>
         </div>

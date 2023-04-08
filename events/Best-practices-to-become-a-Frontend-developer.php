@@ -1,7 +1,7 @@
 <?php 
 $title = "Workshop - Best practices to become a Front end developer - A beginner’s guide ";
 $description = "Join our LIVE webinar on how to stay with current emerging technologies to get the latest skills to get a secured job for tomorrow";
-$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in,";
 $page = 9;
 include_once("../includes/header.php");
 ?>
@@ -18,7 +18,10 @@ include_once("../includes/header.php");
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
 
         </div>
-        <p class="school-para pt-3">Hello, are you prepared to advance your web development abilities? Check out our webinar on front-end development. Our knowledgeable career experts are committed to helping you build beautiful, mobile-friendly websites that stand out. To accommodate everyone, from novice developers to professionals, we provide a wide variety of courses, tutorials, and resources.</p>
+        <p class="school-para pt-3">Hello, are you prepared to advance your web development abilities? Check out our
+          webinar on front-end development. Our knowledgeable career experts are committed to helping you build
+          beautiful, mobile-friendly websites that stand out. To accommodate everyone, from novice developers to
+          professionals, we provide a wide variety of courses, tutorials, and resources.</p>
         <div class="regbtn mb-5">
           <a href="https://meet.zoho.in/XYL1GTkpkE" target="_blank" class="text-decoration-none">Register</a>
         </div>
@@ -282,7 +285,10 @@ include_once("../includes/header.php");
               <p class="school-para text-center pt-2">Program Manager - Skill Safari </p>
             </div>
             <div class="col-md-8">
-              <p class="ft-16 text-justify">Nisha has experience working in the software and e-learning industries. She has experience working for prestigious product-based companies as a full-stack developer. She is currently acting as a career expert, assisting in transforming the brightest minds in the nation into successful developers.</p>
+              <p class="ft-16 text-justify">Nisha has experience working in the software and e-learning industries. She
+                has experience working for prestigious product-based companies as a full-stack developer. She is
+                currently acting as a career expert, assisting in transforming the brightest minds in the nation into
+                successful developers.</p>
             </div>
           </div>
         </div>
