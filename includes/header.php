@@ -101,13 +101,24 @@
   </script>
   <!-- End Google Tag Manager -->
 
-<!-- Google new Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5P87LGZ');</script>
-<!-- End Google Tag Manager -->
+  <!-- Google new Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-5P87LGZ');
+  </script>
+  <!-- End Google Tag Manager -->
 
   <!-- Microsoft Clarity -->
   <script type="text/javascript">
@@ -130,10 +141,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-<!-- Google New Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P87LGZ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+  <!-- Google New Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P87LGZ" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <!-- Header section started -->
   <header class="bg-header nav-down shadow w-100 bg-white">
@@ -199,7 +210,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       Events
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/events/become-a-full-stack-developer-in-2023.php">
+                      <li><a class="dropdown-item"
+                          href="https://skillsafari.in/events/become-a-full-stack-developer-in-2023">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
@@ -207,7 +219,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                       </li>
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/events/best-practices-to-become-a-frontend-developer.php">
+                          href="https://skillsafari.in/events/best-practices-to-become-a-frontend-developer">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
