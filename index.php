@@ -50,8 +50,8 @@ include_once("includes/header.php");
   </div>
 </section>
 <!-- bg-lineball section  -->
-<section>
-<div class="container bg-accreditations">
+<section class="bg-accreditations">
+<div class="container ">
     <div class="row">
       <div class="col-md-12 pt-4 pb-2 text-center">
         <h2 class="text-center top-head">Our Accreditations</h2>
