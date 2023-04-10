@@ -92,7 +92,7 @@ include_once("includes/header.php");
   </div>
 </section>
 <!-- sucess story section started -->
-<section class="bg-successFull mt-4">
+<section class="bg-successFull ">
   <div class="container">
     <div class="row pt-4 pb-5">
       <div class="col-md-12 text-center pt-3 pb-3 pb-md-5">
