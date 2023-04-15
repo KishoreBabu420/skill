@@ -51,7 +51,7 @@ include_once("../includes/header.php");
                 data-parsley-minlength="10" data-parsley-maxlength="11" />
             </div>
             <input type="hidden" name="_webhook"
-              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
+              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
             <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
             <input type="hidden" name="utm_source" value="">
             <input type="hidden" name="utm_medium" value="">
@@ -267,8 +267,8 @@ include_once("../includes/header.php");
               <div class="row m-2">
                 <p class="syllabus__week-title h4">Week 1-5 - Web Fundamentals</p>
                 <p>Introduction to Web, Developer Tools, Fundamentals of Web
-                    Development using HTML, CSS. Version Control using Git & GitHub
-                  </p>
+                  Development using HTML, CSS. Version Control using Git & GitHub
+                </p>
               </div>
             </div>
             <div class="col-12 col-md-6">
@@ -296,7 +296,7 @@ include_once("../includes/header.php");
               <div class="row m-2">
                 <p class="syllabus__week-title h4">Week 21-25 - Sever Side Development</p>
                 <p>HTTP Protocols, Node.js & Node.js architecture,
-                    Express.js, MongoDB & Mongoose ORM, OAuth using Passport.js</p>
+                  Express.js, MongoDB & Mongoose ORM, OAuth using Passport.js</p>
               </div>
             </div>
             <div class="col-12 col-md-6">
@@ -305,7 +305,7 @@ include_once("../includes/header.php");
                 <p>Projects and Peer Programming - Work on collaborative
                   projects exploring all concepts and have pair programming sessions to improve
                   the skills
-                  </p>
+                </p>
               </div>
             </div>
           </div>
@@ -464,7 +464,7 @@ include_once("../includes/header.php");
                         <input type="hidden" name="utm_term" value="">
                         <input type="hidden" name="utm_content" value="">
                         <input type="hidden" name="_webhook"
-                          value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
+                          value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
                         <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                         <div class="callbackbtn mt-3">
                           <button class="text-decoration-none" type="submit">Submit</button>
