@@ -50,8 +50,49 @@ include_once("includes/header.php");
   </div>
 </section>
 <!-- bg-lineball section  -->
+<section class="bg-accreditations">
+<div class="container ">
+    <div class="row">
+      <div class="col-md-12 pt-4 pb-2 text-center">
+        <h2 class="text-center top-head">Our Accreditations</h2>
+      </div>
+    </div>
+    <div class="row align-items-center pt-md-3 justify-content-center">
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1681107850/google-partner_dzkdjs.webp"
+              alt="100% Placement Guarantee" class="img-fluid" width="250" height="64">
+          </div>
+          <!-- <p class="icontitle-head pt-3">100% Placement Guarantee</p> -->
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1681108003/Nasscom-logo_dxcozc.png"
+              alt="100% Placement Guarantee" class="img-fluid" width="250" height="64">
+          </div>
+          <!-- <p class="icontitle-head pt-3">100% Placement Guarantee</p> -->
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1681109694/website/IABAC_eeoqhw.png"
+              alt="100% Placement Guarantee" class="img-fluid" width="250" height="64">
+          </div>
+          <!-- <p class="icontitle-head pt-3">100% Placement Guarantee</p> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- sucess story section started -->
-<section class="bg-successFull mt-4">
+<section class="bg-successFull ">
   <div class="container">
     <div class="row pt-4 pb-5">
       <div class="col-md-12 text-center pt-3 pb-3 pb-md-5">
