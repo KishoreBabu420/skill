@@ -62,7 +62,7 @@ include_once("../includes/header.php");
                     <input type="hidden" name="utm_term" value="">
                     <input type="hidden" name="utm_content" value="">
                     <input type="hidden" name="_webhook"
-                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
+                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
                     <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                     <div class="callbackbtn mt-3">
                       <button class="text-decoration-none" type="submit">Submit</button>
@@ -407,7 +407,7 @@ include_once("../includes/header.php");
                   <input type="hidden" name="utm_term" value="">
                   <input type="hidden" name="utm_content" value="">
                   <input type="hidden" name="_webhook"
-                    value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
+                    value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
                   <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                   <div class="callbackbtn mt-3">
                     <button class="text-decoration-none" type="submit">Submit</button>
@@ -709,7 +709,7 @@ include_once("../includes/header.php");
                     <input type="hidden" name="utm_term" value="">
                     <input type="hidden" name="utm_content" value="">
                     <input type="hidden" name="_webhook"
-                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
+                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
                     <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
                     <div class="callbackbtn mt-3">
                       <button class="text-decoration-none" type="submit">Submit</button>
@@ -1029,7 +1029,7 @@ include_once("../includes/header.php");
             <input type="hidden" name="utm_term" value="">
             <input type="hidden" name="utm_content" value="">
             <input type="hidden" name="_webhook"
-              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjQ3MjkxMSI_3D">
+              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
             <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
             <div class="callbackbtn mt-3">
               <button class="text-decoration-none" type="submit">Submit</button>
