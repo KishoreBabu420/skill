@@ -136,7 +136,7 @@ include_once("../includes/header.php");
         This offline training in Coimbatore offers 100% placement assurance in leading tech companies in India. Join the
         program and get a job with a salary package not less than 5 LPA. Feel Free to get in touch with us.
       </p>
-      <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> April 3<sup>rd</sup> 2023</span></h3>
+      <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> May 15<sup>rd</sup> 2023</span></h3>
     </div>
   </div>
 </section>
