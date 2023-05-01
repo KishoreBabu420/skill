@@ -176,22 +176,11 @@
                       href="https://www.skillsafari.in/full-stack-developer-course/">Full
                       Stack Developer</a>
                   </li>
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle <?php if($page==12) echo 'active';  ?>" href=""
-                      id="navbarDropdown-offline" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Offline
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown-offline">
-                      <li><a class="dropdown-item"
-                          href="https://skillsafari.in/full-stack-developer-course/full-stack-developer-course-in-coimbatore">
-                          <span class="img-sec me-3">
-                            <i class="fas fa-code"></i>
-                          </span>
-                          Coimbatore
-                        </a>
-                      </li>
-                    </ul>
+                  <li class="nav-item">
+                    <a class="nav-link <?php if($page==12) echo 'active';  ?>" aria-current="page"
+                      href="https://www.skillsafari.in/full-stack-developer-course/">Learning Hub</a>
                   </li>
+
                   <li class="nav-item ">
                     <a class="nav-link <?php if($page==10) echo 'active';  ?>" aria-current="page"
                       href="https://www.skillsafari.in/internship/internship2023.php">Internship Program</a>

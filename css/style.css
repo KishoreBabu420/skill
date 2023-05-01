@@ -305,7 +305,7 @@ body {
   font-size: 18px;
   text-align: justify !important;
 }
-.bg-accreditations{
+.bg-accreditations {
   background-color: #f6f6f9;
 }
 
@@ -990,6 +990,21 @@ body {
 
 .iconbox-small {
   background: #fef4e5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  border-radius: 8px;
+  text-align: center;
+  height: 135px;
+  padding: 6px 0;
+  font-weight: 600;
+}
+
+.icon-box-small {
+  background: #fff;
+  color: #1c2042;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -2741,10 +2756,10 @@ width: unset!important;
 }
 
 /* internship page */
-.internshipH1{
-  font-size: 62px !important; 
+.internshipH1 {
+  font-size: 62px !important;
 }
-.internshipFAQ{
+.internshipFAQ {
   font-size: 26px;
   font-weight: 600;
 }
