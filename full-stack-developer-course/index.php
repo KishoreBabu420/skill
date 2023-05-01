@@ -17,12 +17,12 @@ include_once("../includes/header.php");
   <div class=" container py-3 px-md-5 rounded">
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
-        <h1 class=" pt-3">Full Stack Developer Course</h1>
+        <h1 class=" pt-3">Full Stack Developer Course</h1> 
         <p class="hero-para text-white pt-3">Enroll now & Get trained in skills that are essential
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
         </p>
-        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> April 18<sup>th</sup> 2023</span></h3>
+        <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> May 15<sup>th</sup> 2023</span></h3>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">

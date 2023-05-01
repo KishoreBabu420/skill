@@ -58,15 +58,14 @@ include_once("includes/header.php");
       </div>
     </div>
     <div class="row align-items-center pt-md-3 justify-content-center">
-      <div class="col-md-3 col-6 mb-4">
+      <!-- <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
           <div class="icon-container">
             <img src="https://res.cloudinary.com/skill-safari/image/upload/v1681107850/google-partner_dzkdjs.webp"
               alt="100% Placement Guarantee" class="img-fluid" width="250" height="64">
           </div>
-          <!-- <p class="icontitle-head pt-3">100% Placement Guarantee</p> -->
         </div>
-      </div>
+      </div> -->
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
           <div class="icon-container">
