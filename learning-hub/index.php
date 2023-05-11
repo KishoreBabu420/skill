@@ -10,18 +10,23 @@ $page = 1;
 
 include_once("../includes/header.php");
 ?>
+
 <section class="top-pagespace"></section>
 <!-- top-space -->
 <!-- features tab -->
 <section class="text-white bg-hero">
   <div class=" container py-3 px-md-5 rounded">
     <div class="row align-items-center">
-      <div class="col-md-7">
-        <h1 class="banner-sub-head text-md-start text-center my-2">
-          Join with us to become a
-        </h1>
-        <p class="banner-sub-head text-md-start text-center"><span class="intensive-courses change-text"></span></p>
-        <p class="banner-sub-head text-md-start text-center"> with Placement Assurance</p>
+      <div class="col-lg-7">
+        <div class="container">
+          <h1 class="hero-title text-lg-start text-center my-2">
+            Join with us to become a
+            <br />
+            <span class="intensive-courses change-text mb-3"></span>
+            <br />
+            <span class="mt-3"> with Placement Assurance</span>
+          </h1>
+        </div>
         <div class="accreditation-container container">
           <div class="row align-items-center">
             <div class="col-4">
@@ -43,20 +48,20 @@ include_once("../includes/header.php");
         <div class="training-form shadow mt-2 pt-md-2 pb-md-4 p-md-5 p-3">
           <h5 class="trainingform-head py-2 text-center text-white">Have any Questions?</h5>
           <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="lead-form">
-            <div class="mb-3">
+            <div class="mb-2">
               <label for="fullName" class="form-label">Full Name*</label>
               <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
                 data-parsley-required-message="We require your name" placeholder="Enter Your Full Name" required />
             </div>
 
-            <div class="mb-3">
+            <div class="mb-2">
               <label for="email" class="form-label">Email Address*</label>
               <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
                 placeholder="Enter Your Email ID" name="email" data-parsley-required-message="Email Address is required"
                 required />
             </div>
 
-            <div class="mb-3">
+            <div class="mb-2">
               <label for="mobile" class="form-label">Mobile Number*</label>
               <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
                 placeholder="Enter Your Mobile Number" name="phone"
@@ -81,42 +86,42 @@ include_once("../includes/header.php");
       </div>
     </div>
     <div class="row align-items-center mt-5 pt-md-3 justify-content-center">
-      <div class="col-md-3 col-6 mb-4">
-        <div class="icon-box-small text-center">
+      <div class="col-lg-3 col-6 mb-4">
+        <div class="icon-box-small text-center p-2">
           <div class="icon-container">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_2_leji5r.png"
-              alt="5 - 7 Months offline classes" class="img-fluid" width="64" height="64">
+              alt="5 - 7 Months offline classes" class="img-fluid" width="36" height="36">
           </div>
           <p class="icontitle-head pt-3">5 - 7 Months offline classes</p>
         </div>
       </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="icon-box-small text-center">
+      <div class="col-lg-3 col-6 mb-4">
+        <div class="icon-box-small text-center p-2">
           <div class="icon-container">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_3_k8akza.png"
-              alt="1 - 1 Mentorship support" class="img-fluid" width="64" height="64">
+              alt="1 - 1 Mentorship support" class="img-fluid" width="36" height="36">
           </div>
           <p class="icontitle-head pt-3">1 - 1 Mentorship support</p>
         </div>
       </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="icon-box-small text-center">
+      <div class="col-lg-3 col-6 mb-4">
+        <div class="icon-box-small text-center p-2">
           <div class="icon-container">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_5_p7o5wc.png"
-              alt="Outcome Based Learning" class="img-fluid" width="64" height="64">
+              alt="Outcome Based Learning" class="img-fluid" width="36" height="36">
           </div>
           <p class="icontitle-head pt-3">Outcome Based Learning</p>
         </div>
       </div>
-      <div class="col-md-3 col-6 mb-4">
-        <div class="icon-box-small text-center">
+      <div class="col-lg-3 col-6 mb-4">
+        <div class="icon-box-small text-center p-2">
           <div class="icon-container">
             <img
               src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_8_nxwlkc.png"
-              alt="Recruitment Training" class="img-fluid" width="64" height="64">
+              alt="Recruitment Training" class="img-fluid" width="36" height="36">
           </div>
           <p class="icontitle-head pt-3">Placement Training</p>
         </div>
@@ -129,10 +134,10 @@ include_once("../includes/header.php");
 <section class="career-tracks mt-0 mb-3 py-3 advantage-card">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title">Choose your Career Tracks</h2>
+      <h2 class="section-title section-title-two">Choose your Career Tracks</h2>
     </div>
     <div class="row align-items-center justify-between">
-      <div class="col-12 col-md-4">
+      <div class="col-12 col-lg-4">
         <div class="card-body bg-white p-3 px-4 my-2 border-0 rounded-3 shadow">
           <h3 class="section__card-title text-center my-4">
             Full Stack Web Developer
@@ -144,7 +149,7 @@ include_once("../includes/header.php");
           </p>
         </div>
       </div>
-      <div class="col-12 col-md-4">
+      <div class="col-12 col-lg-4">
         <div class="card-body bg-white p-3 my-2 border-0 rounded-3 shadow">
           <h3 class="section__card-title text-center my-4">
             Data Analyst
@@ -157,7 +162,7 @@ include_once("../includes/header.php");
           </p>
         </div>
       </div>
-      <div class="col-12 col-md-4">
+      <div class="col-12 col-lg-4">
         <div class="card-body bg-white p-3 my-2 border-0 rounded-3 shadow">
           <h3 class="section__card-title text-center my-4">
             Automation Tester
@@ -177,7 +182,7 @@ include_once("../includes/header.php");
 <section class="road-map my-3 py-3  ">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title">How does Alchemyst 2.0 Program work?</h2>
+      <h2 class="section-title section-title-two">How does Alchemyst 2.0 Program work?</h2>
     </div>
     <div class="map-img-container d-none d-lg-block">
       <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683626574/placement_roadmap_gqrihy.webp"
@@ -204,12 +209,10 @@ include_once("../includes/header.php");
         <span class="scpan me-2"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
         <span class="boxedtitle text-start">Build projects and develop your portfolio</span>
       </li>
-
       <li class="bg-white border-1 rounded-3 shadow">
         <span class="scpan me-2"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
         <span class="boxedtitle text-start">Placement Preparation and Mock Interviews</span>
       </li>
-
       <li class="bg-white border-1 rounded-3 shadow">
         <span class="scpan me-2"><i class="fa-solid fa-circle-user"></i></span>
         <span class="boxedtitle text-start">Attend Interviews and Get a Job</span>
@@ -222,7 +225,7 @@ include_once("../includes/header.php");
 <section class="obl-principles my-3 py-3 advantage-card">
   <div class="container mb-4">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title text-center">Outcome Based Learning</h2>
+      <h2 class="section-title section-title-two">Outcome Based Learning</h2>
     </div>
     <div class="obl-description mb-4">
       <p class="h4 text-center">
@@ -231,14 +234,13 @@ include_once("../includes/header.php");
     </div>
   </div>
   <div class="container d-none d-lg-block">
-
     <div class="work__image-container p-5 ">
       <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683617200/obl_1_ibjhff.png"
         alt="5 Principles of Outcome based learning" class="img-fluid px-5">
     </div>
   </div>
   <div class="container mt-4 pt-4 d-block d-lg-none">
-    <div class="card border-0 shadow rounded-2 p-4 my-3">
+    <div class="card border-0 shadow rounded-2 px-2 py-4 my-3">
       <div class=" obl-feature row align-items-center">
         <div class="col-2">
           <div class="stud-trainbox text-center bg-transparent">
@@ -254,7 +256,7 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
-    <div class="card border-0 shadow rounded-2 p-4 my-3">
+    <div class="card border-0 shadow rounded-2 px-2 py-4 my-3">
       <div class=" obl-feature row align-items-center">
         <div class="col-2">
           <div class="stud-trainbox text-center bg-transparent">
@@ -269,7 +271,7 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
-    <div class="card border-0 shadow rounded-2 p-4 my-3">
+    <div class="card border-0 shadow rounded-2 px-2 py-4 my-3">
       <div class=" obl-feature row align-items-center">
         <div class="col-2">
           <div class="stud-trainbox text-center bg-transparent">
@@ -284,7 +286,7 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
-    <div class="card border-0 shadow rounded-2 p-4 my-3">
+    <div class="card border-0 shadow rounded-2 px-2 py-4 my-3">
       <div class=" obl-feature row align-items-center">
         <div class="col-2">
           <div class="stud-trainbox text-center bg-transparent">
@@ -299,7 +301,7 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
-    <div class="card border-0 shadow rounded-2 p-4 my-3">
+    <div class="card border-0 shadow rounded-2 px-2 py-4 my-3">
       <div class=" obl-feature row align-items-center">
         <div class="col-2">
           <div class="stud-trainbox text-center bg-transparent">
@@ -326,19 +328,19 @@ include_once("../includes/header.php");
 <section class="certification my-3 py-3">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title">Get Dual Accreditation certificate from NASSCOM and Skill India </h2>
+      <h2 class="section-title section-title-two">Dual Accreditation certification</h2>
     </div>
     <div class="row align-items-center">
-      <div class="col-md-5 col-12">
+      <div class="col-md-6 col-12">
         <div class="certificate-description">
-          <h4 class="text-center text-lg-start">
+          <h4 class="text-center text-md-start">
             Complete all the assignments and projects to earn a certificate from
             Skill Safari with accreditation from NAASCOM and Skill India.
             module.
           </h4>
         </div>
       </div>
-      <div class="col-md-7 col-12">
+      <div class="col-md-6 col-12">
         <div class="certificate__img-container">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
@@ -353,7 +355,7 @@ include_once("../includes/header.php");
 <section class="placements my-3 py-3 advantage-card">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title">Alchemyst Recruitment Essentials Program</h2>
+      <h2 class="section-title section-title-two">Recruitment Essentials Program</h2>
     </div>
     <div class="row align-items-center justify-content-center">
       <div class="col-12 col-sm-6 col-lg-4">
@@ -459,7 +461,7 @@ include_once("../includes/header.php");
 <section class="hiring-partners my-3 py-3">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title">Hiring Partners</h2>
+      <h2 class="section-title section-title-two">Hiring Partners</h2>
     </div>
     <div class="row align-items-center justify-content-center align-items-center p-4">
       <div class="col-4 col-md-3">
@@ -549,7 +551,7 @@ include_once("../includes/header.php");
 <section class="bg-faq faq my-3 py-3" id="faq">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title">FAQ</h2>
+      <h2 class="section-title section-title-two">FAQ</h2>
     </div>
     <div class="accordion" id="courseFAQExample">
       <div class="accordion-item mb-3 p-4">

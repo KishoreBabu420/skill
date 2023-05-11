@@ -862,7 +862,7 @@ body {
   flex-basis: 20%;
   max-width: 20%;
   display: flex;
-  flex-wrap: row wrap;
+  flex-flow: row wrap;
   align-items: center;
   background: #fef4e5;
   border: 1px solid #fef4e5;
@@ -2762,4 +2762,42 @@ width: unset!important;
 .internshipFAQ {
   font-size: 26px;
   font-weight: 600;
+}
+
+/* Alchemyst 2.0 */
+
+.hero-title {
+  font-size: 1.75rem;
+  font-weight: 900;
+  line-height: 1.75;
+}
+
+.section-title-two {
+  color: var(--bs-dark);
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.75rem;
+  -webkit-text-decoration-color: var(--bs-gray-dark);
+  text-decoration-color: var(--bs-gray-dark);
+}
+
+@media screen and (min-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .section-title-two {
+    font-size: 1.75rem;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .hero-title {
+    font-size: 2.25rem;
+  }
+
+  .section-title-two {
+    font-size: 2rem;
+  }
 }
