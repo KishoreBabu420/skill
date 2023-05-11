@@ -30,15 +30,15 @@ include_once("../includes/header.php");
         <div class="accreditation-container container">
           <div class="row align-items-center">
             <div class="col-4">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683617198/nasscom_d2dfl8.png" alt=""
-                class="nasscom-logo img-fluid">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/nasscom_d2dfl8_hfbyq0.webp"
+                alt="" class="nasscom-logo img-fluid">
             </div>
             <div class="col-4">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683617199/iabac_upumfl.png" alt=""
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/IABAC_s6wllo.webp" alt=""
                 class="iabac-logo img-fluid">
             </div>
             <div class="col-4">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683617198/skill_india_qd3ksa.png" alt=""
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791597/skill_india_cenxif.webp" alt=""
                 class="skill-india-logo img-fluid">
             </div>
           </div>
@@ -235,7 +235,7 @@ include_once("../includes/header.php");
   </div>
   <div class="container d-none d-lg-block">
     <div class="work__image-container p-5 ">
-      <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683617200/obl_1_ibjhff.png"
+      <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/OBL_2_1_k04m36.webp"
         alt="5 Principles of Outcome based learning" class="img-fluid px-5">
     </div>
   </div>
@@ -342,8 +342,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 col-12">
         <div class="certificate__img-container">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/certificate_h5qv7l.webp"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
