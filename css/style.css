@@ -412,12 +412,6 @@ body {
   font-size: 3rem;
 }
 
-#exampleModal-newtop-1,
-#exampleModal-newtop-2,
-#exampleModal-newtop-3,
-#exampleModal-newtop-4,
-#exampleModal-newtop,
-#exampleModal-newtopsed,
 #curriculum-model,
 #popup-modal,
 #hero-modal,
@@ -425,26 +419,15 @@ body {
   z-index: 999999 !important;
 }
 
-#exampleModal-newtop-1 .btn-close,
-#exampleModal-newtop-2 .btn-close,
-#exampleModal-newtop-3 .btn-close,
-#exampleModal-newtop-4 .btn-close,
-#exampleModal-newtop .btn-close,
-#exampleModal-newtopsed .btn-close,
 #curriculum-model .btn-close,
 #popup-modal .btn-close,
 #hero-modal .btn-close,
 #partner-modal .btn-close {
   float: right;
   background-color: #fff;
+  width: 1em;
 }
 
-#exampleModal-newtop-1 .modal-body,
-#exampleModal-newtop-2 .modal-body,
-#exampleModal-newtop-3 .modal-body,
-#exampleModal-newtop-4 .modal-body,
-#exampleModal-newtop .modal-body,
-#exampleModal-newtopsed .modal-body,
 #curriculum-model .modal-body,
 #popup-modal .modal-body,
 #hero-modal .modal-body,
