@@ -177,8 +177,8 @@
                       Stack Developer</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link <?php if($page==12) echo 'active';  ?>" aria-current="page"
-                      href="https://www.skillsafari.in/full-stack-developer-course/">Learning Hub</a>
+                    <a class="nav-link <?php if($page==15) echo 'active';  ?>" aria-current="page"
+                      href="https://www.skillsafari.in/learning-hub/">Learning Hub</a>
                   </li>
 
                   <li class="nav-item ">

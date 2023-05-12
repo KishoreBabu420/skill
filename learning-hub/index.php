@@ -6,7 +6,7 @@ $description = "Full Stack Developer Course of Skill Safari with job guarantee k
 
 $keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 
-$page = 1;
+$page = 15;
 
 include_once("../includes/header.php");
 ?>
@@ -36,8 +36,6 @@ include_once("../includes/header.php");
   font-weight: 600;
   letter-spacing: 0.05rem;
 }
-
-.track-card-description {}
 </style>
 
 <section class="top-pagespace"></section>
