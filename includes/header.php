@@ -43,7 +43,7 @@
   <link rel="stylesheet" type="text/css" href="<?php echo $owlThemeCSS; ?>">
   <script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-MQSJSHQXP7"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
@@ -83,24 +83,6 @@
       src="https://www.facebook.com/tr?id=190087729661951&ev=PageView&noscript=1" /></noscript>
   <!-- End Meta Pixel Code -->
 
-  <!-- Google new Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-5P87LGZ');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Microsoft Clarity -->
   <script type="text/javascript">
@@ -115,15 +97,11 @@
     y.parentNode.insertBefore(t, y);
   })(window, document, "clarity", "script", "c5ws11dqxq");
   </script>
+  <!-- Microsoft Clarity -->
+
 </head>
 
 <body>
-
-  <!-- Google New Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P87LGZ" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-
   <!-- Header section started -->
   <header class="bg-header nav-down shadow w-100 bg-white">
     <div class="container">
