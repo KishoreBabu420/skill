@@ -11,33 +11,6 @@ $page = 15;
 include_once("../includes/header.php");
 ?>
 
-<style>
-.track-header-one {
-  background-color: hsla(0, 100%, 67%, 0.85);
-}
-
-.track-header-two {
-  background-color: hsla(39, 100%, 56%, 0.85);
-}
-
-
-.track-header-three {
-  background-color: hsla(166, 100%, 37%, 0.85);
-}
-
-.track-card-title {
-  font-size: 1.35rem;
-  color: var(--bs-dark);
-  font-weight: 800;
-}
-
-.track-technologies {
-  color: var(--bs-gray-dark);
-  font-weight: 600;
-  letter-spacing: 0.05rem;
-}
-</style>
-
 <section class="top-pagespace"></section>
 <!-- top-space -->
 <!-- features tab -->
@@ -271,6 +244,62 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
+    <div class="col-12 col-md-6 col-lg-4 m-auto">
+      <div class="callbackbtn mt-3">
+        <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
+          More</button>
+        <!-- Modal -->
+        <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
+                <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
+                  <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                  <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
+                    id="cbe-partner-btn">
+                    <div class="mb-3">
+                      <label for="fullName" class="form-label">Full Name*</label>
+                      <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
+                        data-parsley-required-message="We require your name" placeholder="Enter Your Full Name"
+                        required />
+                    </div>
+
+                    <div class="mb-3">
+                      <label for="email" class="form-label">Email Address*</label>
+                      <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                        placeholder="Enter Your Email ID" name="email"
+                        data-parsley-required-message="Email Address is required" required />
+                    </div>
+
+                    <div class="mb-3">
+                      <label for="mobile" class="form-label">Mobile Number*</label>
+                      <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                        placeholder="Enter Your Mobile Number" name="phone"
+                        data-parsley-required-message="Mobile Number is required"
+                        data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
+                        data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
+                        data-parsley-minlength="10" data-parsley-maxlength="11" />
+                    </div>
+                    <input type="hidden" name="utm_source" value="">
+                    <input type="hidden" name="utm_medium" value="">
+                    <input type="hidden" name="utm_campaign" value="">
+                    <input type="hidden" name="utm_term" value="">
+                    <input type="hidden" name="utm_content" value="">
+                    <input type="hidden" name="_webhook"
+                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
+                    <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                    <div class="callbackbtn mt-3">
+                      <button class="text-decoration-none" type="submit">Submit</button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <!-- Career Tracks -->
@@ -434,6 +463,64 @@ include_once("../includes/header.php");
             Skill Safari with accreditation from NAASCOM and Skill India.
             module.
           </h4>
+        </div>
+        <div class="col-8">
+          <div class="callbackbtn mt-3">
+            <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
+              More</button>
+            <!-- Modal -->
+            <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
+              aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
+                    <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
+                      <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                      <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
+                        id="cbe-partner-btn">
+                        <div class="mb-3">
+                          <label for="fullName" class="form-label">Full Name*</label>
+                          <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp"
+                            name="name" data-parsley-required-message="We require your name"
+                            placeholder="Enter Your Full Name" required />
+                        </div>
+
+                        <div class="mb-3">
+                          <label for="email" class="form-label">Email Address*</label>
+                          <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                            placeholder="Enter Your Email ID" name="email"
+                            data-parsley-required-message="Email Address is required" required />
+                        </div>
+
+                        <div class="mb-3">
+                          <label for="mobile" class="form-label">Mobile Number*</label>
+                          <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                            placeholder="Enter Your Mobile Number" name="phone"
+                            data-parsley-required-message="Mobile Number is required"
+                            data-parsley-error-message="Provide valid Mobile Number" required
+                            data-parsley-trigger="keyup" data-parsley-validation-threshold="1"
+                            data-parsley-debounce="500" data-parsley-type="digits" data-parsley-minlength="10"
+                            data-parsley-maxlength="11" />
+                        </div>
+                        <input type="hidden" name="utm_source" value="">
+                        <input type="hidden" name="utm_medium" value="">
+                        <input type="hidden" name="utm_campaign" value="">
+                        <input type="hidden" name="utm_term" value="">
+                        <input type="hidden" name="utm_content" value="">
+                        <input type="hidden" name="_webhook"
+                          value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
+                        <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                        <div class="callbackbtn mt-3">
+                          <button class="text-decoration-none" type="submit">Submit</button>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-md-6 col-12">
@@ -715,7 +802,7 @@ include_once("../includes/header.php");
           <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
             <h4 class="top-head-faq mb-0">
-              Who is a Full Stack Developer?
+              What is the duration of the program?
             </h4>
           </button>
         </h3>
@@ -724,8 +811,8 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              A person who knows to develop both the frontend and backend portions of a web application alongside
-              hosting it on a web server by connecting a database is called a “Full Stack Web Developer”.
+              The Fundamentals classes would take about two months to complete; after that, the duration would depend on
+              the career path you select.
             </p>
           </div>
         </div>
@@ -735,7 +822,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
             <h4 class="top-head-faq mb-0">
-              Why do companies hire Full Stack Developers?
+              How is the Alchemyst 2.0 program different from other courses?
             </h4>
           </button>
         </h3>
@@ -743,9 +830,8 @@ include_once("../includes/header.php");
         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
-            <p class="school-para mb-0">Companies prefer developers who can be work-efficient and as well as
-              cost-efficient. A Full Stack Developer can help with the whole design structure and he also knows to
-              provide input on any level as need be.</p>
+            <p class="school-para mb-0">In the Alchemyst 2.O program you can learn the basics of programming and also
+              decide which career path and skills to upskill yourself in order to bring out the best in you.</p>
           </div>
         </div>
       </div>
@@ -754,7 +840,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
             <h4 class="top-head-faq mb-0">
-              What are the skill sets of a Full Stack Developer?
+              Is this program meant for beginners?
             </h4>
           </button>
         </h3>
@@ -763,9 +849,8 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              A Full Stack Developer major with front-end technology development languages like HTML5, CSS3,
-              JavaScript, Bootstrap and should know at least one server-side programming language, basic design
-              ability, server management, Version Control System (VCS), and knowledge of web services or API.
+              Absolutely. The program is designed to help you understand fundamental concepts and build up to advanced
+              concepts.
             </p>
           </div>
         </div>
@@ -775,7 +860,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
             <h4 class="top-head-faq mb-0">
-              What is MERN Stack Web Development?
+              What if I can’t make it to the training sessions?
             </h4>
           </button>
         </h3>
@@ -784,9 +869,8 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              The term MERN Stack is abbreviated as MongoDB, ExpressJS, ReactJS, NodeJS. MERN is a Full Stack, It
-              follows a 3-tier architectural pattern, including the front-end display tier (React.js), application
-              tier (Express.js and Node.js), and database tier (MongoDB)
+              Can’t make it to the training session? No problem! All sessions are recorded, and you will have lifetime
+              access to the recordings.
             </p>
           </div>
         </div>
@@ -796,7 +880,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
             <h4 class=" top-head-faq mb-0">
-              Will you get a refund even if you don't need placements or don't sign ISA?
+              How many hours per day should I commit to this program?
             </h4>
           </button>
         </h3>
@@ -805,8 +889,7 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              Yes, the course fee is fully refunded as soon as you complete the course and get your certificate.
-              Opting for placement with us is a discrete decision that you take.
+              I would say you will need a minimum of 2 - 3 hours of commitment per day.
             </p>
           </div>
         </div>
@@ -845,7 +928,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
             <h4 class="top-head-faq mb-0">
-              What is the duration of the program?
+              Will I get a certificate?
             </h4>
           </button>
         </h3>
@@ -854,9 +937,8 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              The course duration takes on an average of 7 months. If you are not able to complete the program
-              within the stipulated time, after the one-on-one review, we may consider batch shifting or program
-              extensions based on the discussion.
+              Yes, absolutely. You will receive a course completion certificate only after 100% completion of the
+              program.
             </p>
           </div>
         </div>
@@ -889,7 +971,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
             <h4 class="top-head-faq mb-0">
-              What does our Full Stack Developer Course teach you? </h4>
+              What if I have doubts while learning?</h4>
           </button>
         </h3>
 
@@ -897,11 +979,8 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              The Full Stack Developer Course enables you to build an interactive and responsive application using
-              both front-end and back-end technologies. It covers the fundamentals of JavaScript and Advanced
-              JavaScript concepts and guides you to build a remarkable user interface via Angular or React JS.
-              Also,
-              it provides knowledge to test and deploy code and store data using MongoDB. </p>
+              You can clarify your doubts with the mentors directly and get them clarified, or you can post your
+              questions in the community, and experts will get back to you with solutions. </p>
           </div>
         </div>
       </div>
@@ -962,9 +1041,9 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row  pt-5 pb-5">
       <div class="col-lg-12 text-center">
-        <h2 class="text-white top-head">Want to know more about Full Stack Developer Course?</h2>
+        <h2 class="text-white top-head">Want to know more about Alchemyst 2.0?</h2>
         <p class="para-top text-white text-center">
-          Become a job-ready Full Stack Developer in 28 weeks with a minimum CTC from 5 LPA - 25 LPA. Want to know
+          Become job-ready Full Stack Developer in 20 - 28 weeks with a minimum CTC from 3.5 LPA - 15 LPA. Want to know
           how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
         </p>
         <div class="row align-items-center justify-content-center pt-4">

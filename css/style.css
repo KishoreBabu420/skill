@@ -2765,6 +2765,30 @@ width: unset!important;
   text-decoration-color: var(--bs-gray-dark);
 }
 
+.track-header-one {
+  background-color: hsla(0, 100%, 67%, 0.85);
+}
+
+.track-header-two {
+  background-color: hsla(39, 100%, 56%, 0.85);
+}
+
+.track-header-three {
+  background-color: hsla(166, 100%, 37%, 0.85);
+}
+
+.track-card-title {
+  font-size: 1.35rem;
+  color: var(--bs-dark);
+  font-weight: 800;
+}
+
+.track-technologies {
+  color: var(--bs-gray-dark);
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+}
+
 @media screen and (min-width: 768px) {
   .hero-title {
     font-size: 2rem;

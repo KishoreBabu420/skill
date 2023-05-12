@@ -23,7 +23,11 @@
         <ul class="list-group">
           <li class="list-group-item"><a class="text-decoration-none"
               href="https://www.skillsafari.in/full-stack-developer-course/">
-              <h3 class="footerhead">Full Stack Development course</h3>
+              <h3 class="footerhead">Full Stack Developer course</h3>
+            </a>
+          </li>
+          <li class="list-group-item"><a class="text-decoration-none" href="https://www.skillsafari.in/learning-hub/">
+              <h3 class="footerhead">Learning Hub</h3>
             </a>
           </li>
         </ul>
