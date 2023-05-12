@@ -2766,15 +2766,15 @@ width: unset!important;
 }
 
 .track-header-one {
-  background-color: rgba(255, 87, 87, 0.85);
+  background-color: rgba(255, 87, 87, 0.85) !important;
 }
 
 .track-header-two {
-  background-color: rgba(255, 176, 31, 0.85);
+  background-color: rgba(255, 176, 31, 0.85) !important;
 }
 
 .track-header-three {
-  background-color: rgba(0, 189, 145, 0.85);
+  background-color: rgba(0, 189, 145, 0.85) !important;
 }
 
 .track-card-title {
