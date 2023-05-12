@@ -11,6 +11,35 @@ $page = 1;
 include_once("../includes/header.php");
 ?>
 
+<style>
+.track-header-one {
+  background-color: hsla(0, 100%, 67%, 0.85);
+}
+
+.track-header-two {
+  background-color: hsla(39, 100%, 56%, 0.85);
+}
+
+
+.track-header-three {
+  background-color: hsla(166, 100%, 37%, 0.85);
+}
+
+.track-card-title {
+  font-size: 1.35rem;
+  color: var(--bs-dark);
+  font-weight: 800;
+}
+
+.track-technologies {
+  color: var(--bs-gray-dark);
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+}
+
+.track-card-description {}
+</style>
+
 <section class="top-pagespace"></section>
 <!-- top-space -->
 <!-- features tab -->
@@ -138,40 +167,109 @@ include_once("../includes/header.php");
     </div>
     <div class="row align-items-center justify-between">
       <div class="col-12 col-lg-4">
-        <div class="card-body bg-white p-3 px-4 my-2 border-0 rounded-3 shadow">
-          <h3 class="section__card-title text-center my-4">
-            Full Stack Web Developer
-          </h3>
-          <p class="section__card-description">
-            Become a Full Stack Developer with expertise on MERN Stack. Build a strong web development fundamentals
-            and problem solving skills. Develop web
-            applications using emerging frameworks and build a portfolio of projects
-          </p>
-        </div>
-      </div>
-      <div class="col-12 col-lg-4">
-        <div class="card-body bg-white p-3 my-2 border-0 rounded-3 shadow">
-          <h3 class="section__card-title text-center my-4">
-            Data Analyst
-          </h3>
-          <p class="section__card-description">
-            Build a strong understanding of data analysis techniques, tools and
-            methodologies. Become an expert in uncovering insights and patterns from
-            complex data sets. Create a portfolio of projects that describe your abilities.
+        <div class="card bg-white  my-2 border-0 rounded-3 shadow">
+          <div class="card-header px-4 pt-3 track-header track-header-one">
+            <h3 class="track-card-title my-0">
+              MERN Stack Web Developer
+            </h3>
+            <p class="track-technologies my-2">Learn technologies : React JS, Node JS, Express JS, MongoDb</p>
+          </div>
+          <div class="card-body p-4 my-2">
+            <p class="track-card-description">
+              Become a Full Stack Developer with expertise on MERN Stack. Build a strong web development fundamentals
+              and problem solving skills. Develop web
+              applications using emerging frameworks and build a portfolio of projects.
+            </p>
 
-          </p>
+            <h4 class="track-card-title my-0">
+              Curriculum
+            </h4>
+            <ul class=" pt-3">
+              <li class="school-para pb-2">
+                UI & Version Control using HTML & CSS
+              </li>
+              <li class="school-para pb-2">
+                Adding Interactions and Functionalities
+              </li>
+              <li class="school-para pb-2">
+                Creating Single Page Applications (SPA's)
+              </li>
+              <li class="school-para">
+                Develop and Deploy Backend API's using Express and MongoDb
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-12 col-lg-4">
-        <div class="card-body bg-white p-3 my-2 border-0 rounded-3 shadow">
-          <h3 class="section__card-title text-center my-4">
-            Automation Tester
-          </h3>
-          <p class="section__card-description">
-            Build your career as a Manual/Automation Test Engineer. Our industry-relevant
-            curriculum ensures you become an expert in identifying, tracking and reporting
-            defects. Create a portfolio of projects that describe your abilities.
-          </p>
+        <div class="card bg-white  my-2 border-0 rounded-3 shadow">
+          <div class="card-header px-4 pt-3 track-header track-header-two">
+            <h3 class="track-card-title my-0">
+              Data Analyst
+            </h3>
+            <p class="track-technologies my-2">Learn technologies : Microsoft Excel, Numpy, Pandas, MatplotLib PowerBI
+            </p>
+          </div>
+          <div class="card-body p-4 my-2">
+            <p class="track-card-description">
+              Build a strong understanding of data analysis techniques, tools and methodologies. Become an expert in
+              uncovering insights and patterns from complex data sets. Create a portfolio of projects that describe your
+              abilities.
+            </p>
+
+            <h4 class="track-card-title my-0">
+              Curriculum
+            </h4>
+            <ul class=" pt-3">
+              <li class="school-para pb-2">
+                Data Analytics using Microsoft Excel
+              </li>
+              <li class="school-para pb-2">
+                Data Querying with SQL
+              </li>
+              <li class="school-para pb-2">
+                Data Cleaning & Pre Processing with Python
+              </li>
+              <li class="school-para">
+                Data Visualization and Story telling using Power BI
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-4">
+        <div class="card bg-white  my-2 border-0 rounded-3 shadow">
+          <div class="card-header px-4 pt-3 track-header track-header-three">
+            <h3 class="track-card-title my-0">
+              QA/Automation Tester
+            </h3>
+            <p class="track-technologies my-2">Learn technologies : Core Java, Manual testing, Jenkins, Postman</p>
+          </div>
+          <div class="card-body p-4 my-2">
+            <p class="track-card-description">
+              Build your career as a Manual/Automation Test Engineer. Our industry-relevant curriculum ensures you
+              become an expert in identifying, tracking and reporting defects. Create a portfolio of projects that
+              describe your abilities.
+            </p>
+
+            <h4 class="track-card-title my-0">
+              Curriculum
+            </h4>
+            <ul class=" pt-3">
+              <li class="school-para pb-2">
+                Basics of Software testing & Manual Testing
+              </li>
+              <li class="school-para pb-2">
+                Programming & OOPS with Core Java
+              </li>
+              <li class="school-para pb-2">
+                Web and API Testing Postman
+              </li>
+              <li class="school-para">
+                Learn Continuous Integration with Jenkins and GIT
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -465,50 +563,58 @@ include_once("../includes/header.php");
     <div class="row align-items-center justify-content-center align-items-center p-4">
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/3_udsdou.png"
-            alt="Zomato logo" loading="lazy" class="img-fluid">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/partner-1_msmjyq.webp"
+            alt="fifty-five-technologies" loading="lazy" class="img-fluid">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/11_fagzql.png"
-            alt="Freshworks" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_14_zgcnk5.webp"
+            alt="Trippr" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/13_tvprkr.png"
-            alt="Red bus" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset_7_bwqbuf.webp"
+            alt="triwits" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/12_hoj4gr.png"
-            alt="Bookmyshow" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset_8_lbyf1f.webp"
+            alt="Vivoooo" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/10_qfmlvn.png"
-            alt="ZOHO" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_16_j2bscv.webp"
+            alt="GLobal Logic" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/5_wgt0xy.png"
-            alt="Global Logic" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_10_gj8qzf.webp"
+            alt="phicode" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549939/website/company-logo/9_oiozex.png"
-            alt="Citrix" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset-13_xzdeac.webp"
+            alt="engocorp" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/16_w1til3.png"
-            alt="Phicode" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_15_v6gnlq.webp"
+            alt="Draup" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
@@ -525,14 +631,16 @@ include_once("../includes/header.php");
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/21_j5k5qa.png"
-            alt="Draup" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_17_iamxxb.webp"
+            alt="citrix" class="img-fluid" loading="lazy">
         </div>
       </div>
       <div class="col-4 col-md-3">
         <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549941/website/company-logo/24_efmagh.png"
-            alt="Finacus Solutions" class="img-fluid" loading="lazy">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset-2_z05d3l.webp"
+            alt="Vaeso" class="img-fluid" loading="lazy">
         </div>
       </div>
     </div>
