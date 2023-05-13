@@ -1,10 +1,11 @@
 <?php 
 
-$title = "Full Stack Developer Course - 100% Job Guarantee Program";
+$title = "Alchemyst 2.0 | Learn Mern Stack, Data Analytics, Automation testing in Coimbatore |  Online & Offline Training in Coimbatore
+";
 
-$description = "Full Stack Developer Course of Skill Safari with job guarantee known as the Alchemyst Program. You will learn java Script, React, Redux etc. tech stacks.";
+$description = "Alchemyst 2.0 offers multiple career tracks, such as MERN Stack, Data Analytics, and QA/Automation Testing in Coimbatore and help you start your tech career in an effective way.";
 
-$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
+$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Analytics, Data Science, Automation Testing, Software Testing MERN Stack Developer, SOftware developer course in Coimbatore";
 
 $page = 15;
 
@@ -332,11 +333,11 @@ include_once("../includes/header.php");
       </li>
       <li class="bg-white border-1 rounded-3 shadow">
         <span class="scpan me-2"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
-        <span class="boxedtitle text-start">Build projects and develop your portfolio</span>
+        <span class="boxedtitle text-start">Develop your Portfolio of Projects</span>
       </li>
       <li class="bg-white border-1 rounded-3 shadow">
         <span class="scpan me-2"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
-        <span class="boxedtitle text-start">Placement Preparation and Mock Interviews</span>
+        <span class="boxedtitle text-start">Job Preparation and Assessments</span>
       </li>
       <li class="bg-white border-1 rounded-3 shadow">
         <span class="scpan me-2"><i class="fa-solid fa-circle-user"></i></span>
@@ -464,8 +465,8 @@ include_once("../includes/header.php");
             module.
           </h4>
         </div>
-        <div class="col-8">
-          <div class="callbackbtn mt-3">
+        <div class="col-8 mx-auto mx-lg-1 my-2">
+          <div class="callbackbtn mt-3 text-center">
             <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
               More</button>
             <!-- Modal -->
@@ -525,7 +526,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 col-12">
         <div class="certificate__img-container">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/certificate_h5qv7l.webp"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683953483/certificate_a9p8kr.webp"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
@@ -1021,6 +1022,24 @@ include_once("../includes/header.php");
           </div>
         </div>
       </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingEighteen">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseEighteen" aria-expanded="true" aria-controls="collapseEighteen">
+            <h4 class="top-head-faq mb-0">
+              Classes will be in online or offline mode?</h4>
+          </button>
+        </h3>
+
+        <div id="collapseEighteen" class="accordion-collapse collapse" aria-labelledby="headingEighteen"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Skill Safari is the best institute for Mern Stack, data analytics, and automation testing in Coimbatore.
+              Currently, we are conducting only offline mode classes.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -1044,7 +1063,7 @@ include_once("../includes/header.php");
         <h2 class="text-white top-head">Want to know more about Alchemyst 2.0?</h2>
         <p class="para-top text-white text-center">
           Become job-ready Full Stack Developer in 20 - 28 weeks with a minimum CTC from 3.5 LPA - 15 LPA. Want to know
-          how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
+          how you can join the cohort? or if you have any questions, feel free to connect with our career counsellors.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
           <div class="col-lg-3 col-sm-6 mb-4 mb-md-0 p-0">
@@ -1077,7 +1096,7 @@ let typed = new Typed('.intensive-courses', {
   strings: [
     'Full Stack Developer',
     'Data Analyst',
-    'Automation Testing'
+    'QA Automation Tester'
   ],
   typeSpeed: 50,
   backSpeed: 50,
