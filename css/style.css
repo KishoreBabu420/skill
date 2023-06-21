@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;900&display=swap");
 body {
-  font-family: 'Outfit', sans-serif !important;
+  font-family: "Outfit", sans-serif !important;
   font-size: 16px;
   font-weight: 500;
   overflow-x: hidden !important;
@@ -28,8 +28,8 @@ body {
 
 .dropdown-menu li a::after {
   position: absolute;
-  content: '\f061';
-  font-family: 'FontAwesome';
+  content: "\f061";
+  font-family: "FontAwesome";
   opacity: 0;
   right: 20px;
   font-size: 11px;
@@ -104,7 +104,7 @@ body {
 }
 
 .bg-lineball {
-  background: url('../images/lineball.png') no-repeat;
+  background: url("../images/lineball.png") no-repeat;
   background-position: bottom;
   overflow: hidden !important;
 }
@@ -268,6 +268,10 @@ body {
   font-size: 28px;
   font-weight: 600;
 }
+.top-head-event {
+  font-size: 58px;
+  font-weight: 600;
+}
 
 .top-head-new {
   font-size: 35px !important;
@@ -349,7 +353,7 @@ body {
   margin-bottom: 0px;
   margin-bottom: 10px;
   position: absolute;
-  content: '';
+  content: "";
   top: 10px;
   right: 10px;
 }
@@ -378,7 +382,7 @@ body {
 
 .img-overblacklay::before {
   position: absolute;
-  content: '';
+  content: "";
   /*background: rgba(34, 34, 34, 0.3);*/
   top: 0;
   left: 0;
@@ -622,8 +626,8 @@ body {
 
 .wrapper .nav-pills .nav-link.active::after {
   position: absolute;
-  content: '\f0dd';
-  font-family: 'FontAwesome';
+  content: "\f0dd";
+  font-family: "FontAwesome";
   bottom: -18px;
   margin: auto;
   font-size: 30px;
@@ -681,7 +685,7 @@ body {
 }
 
 .bg-coursesdisplay {
-  background: url('../images/up.png') no-repeat;
+  background: url("../images/up.png") no-repeat;
   background-position: top center;
   background-size: auto;
 }
@@ -754,7 +758,7 @@ body {
 }
 
 .bg-eventssec {
-  background: url('../images/down.png') no-repeat;
+  background: url("../images/down.png") no-repeat;
   background-position: bottom center;
   position: relative;
   background-size: auto;
@@ -904,7 +908,7 @@ body {
 
 .middle .text {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 0px;
   left: 0;
   right: 0;
@@ -1101,7 +1105,7 @@ body {
 }
 
 .bg-recurit {
-  background: url('../images/up.png') no-repeat;
+  background: url("../images/up.png") no-repeat;
   background-position: top center;
   background-size: auto;
 }
@@ -1152,9 +1156,9 @@ body {
   font-size: 16px !important;
 }
 
-.bg-faq [data-bs-toggle='collapse']:not(.collapsed)::after {
-  content: '\f068';
-  font-family: 'FontAwesome';
+.bg-faq [data-bs-toggle="collapse"]:not(.collapsed)::after {
+  content: "\f068";
+  font-family: "FontAwesome";
   color: #f7a600;
   background: #fff5e5;
   padding: 16px 10px;
@@ -1165,9 +1169,9 @@ body {
   transform: unset !important;
 }
 
-.bg-faq [data-bs-toggle='collapse'].collapsed::after {
-  content: '\f067';
-  font-family: 'FontAwesome';
+.bg-faq [data-bs-toggle="collapse"].collapsed::after {
+  content: "\f067";
+  font-family: "FontAwesome";
   color: #f7a600;
   background: #fff5e5;
   padding: 16px 10px;
@@ -1324,7 +1328,7 @@ body {
 }
 
 .bg-pay {
-  background: #1c2042 url('../images/right.png') no-repeat;
+  background: #1c2042 url("../images/right.png") no-repeat;
   background-position: top right;
   background-size: auto;
 }
@@ -1351,7 +1355,7 @@ body {
 }
 
 .bg-pricing-section {
-  background: #1c2042 url('../images/down.png') no-repeat;
+  background: #1c2042 url("../images/down.png") no-repeat;
   background-position: bottom center;
   background-size: auto;
 }
@@ -1371,7 +1375,7 @@ body {
 .bg-pricing-section .nav-pills .nav-link:nth-child(1)::before {
   position: absolute;
   content: 'url("../images/ic-1.png")';
-  background: url('../images/ic-1.png') no-repeat;
+  background: url("../images/ic-1.png") no-repeat;
   top: 24px;
   left: 12px;
   z-index: 999;
@@ -1381,7 +1385,7 @@ body {
 .bg-pricing-section .nav-pills .nav-link:nth-child(2)::before {
   position: absolute;
   content: 'url("../images/ic-1.png")';
-  background: url('../images/ic-2.png') no-repeat;
+  background: url("../images/ic-2.png") no-repeat;
   top: 24px;
   left: 12px;
   z-index: 999;
@@ -1391,7 +1395,7 @@ body {
 .bg-pricing-section .nav-pills .nav-link:nth-child(3)::before {
   position: absolute;
   content: 'url("../images/ic-1.png")';
-  background: url('../images/ic-3.png') no-repeat;
+  background: url("../images/ic-3.png") no-repeat;
   top: 24px;
   left: 12px;
   z-index: 999;
@@ -1401,7 +1405,7 @@ body {
 .bg-pricing-section .nav-pills .active:nth-child(1)::before {
   position: absolute;
   content: 'url("../images/ic-a1.png")';
-  background: url('../images/ic-a1.png') no-repeat;
+  background: url("../images/ic-a1.png") no-repeat;
   top: 24px;
   left: 12px;
   z-index: 999;
@@ -1411,7 +1415,7 @@ body {
 .bg-pricing-section .nav-pills .active:nth-child(2)::before {
   position: absolute;
   content: 'url("../images/ic-1.png")';
-  background: url('../images/ic-a2.png') no-repeat;
+  background: url("../images/ic-a2.png") no-repeat;
   top: 24px;
   left: 12px;
   z-index: 999;
@@ -1421,7 +1425,7 @@ body {
 .bg-pricing-section .nav-pills .active:nth-child(3)::before {
   position: absolute;
   content: 'url("../images/ic-1.png")';
-  background: url('../images/ic-a3.png') no-repeat;
+  background: url("../images/ic-a3.png") no-repeat;
   top: 24px;
   left: 12px;
   z-index: 999;
@@ -1430,8 +1434,8 @@ body {
 
 .bg-pricing-section .nav-pills .nav-link.active::after {
   position: absolute;
-  content: '\f0da';
-  font-family: 'FontAwesome';
+  content: "\f0da";
+  font-family: "FontAwesome";
   right: -10px;
   margin: auto;
   font-size: 35px;
@@ -1472,9 +1476,9 @@ body {
 
 .bg-willlearn .nav-tabs .nav-link.active::after {
   position: absolute;
-  content: '\f192';
+  content: "\f192";
   bottom: -25px;
-  font-family: 'FontAwesome';
+  font-family: "FontAwesome";
   left: 0;
   right: 0;
   color: #fb8700;
@@ -1502,8 +1506,8 @@ body {
 
 .bg-willlearn .nav-pills .nav-link.active::after {
   position: absolute;
-  content: '\f0da';
-  font-family: 'FontAwesome';
+  content: "\f0da";
+  font-family: "FontAwesome";
   right: -13px;
   margin: auto;
   font-size: 35px;
@@ -1565,7 +1569,7 @@ body {
 
 .bg-hire .cir-dot-blue {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 00px;
   left: 50px;
   width: auto;
@@ -1575,7 +1579,7 @@ body {
 
 .bg-hire .cir-dot-pink {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 60px;
   left: 550px;
   width: auto;
@@ -1585,7 +1589,7 @@ body {
 
 .bg-faq .cir-dot-yellow {
   position: absolute;
-  content: '';
+  content: "";
   top: 60px;
   right: 450px;
   width: auto;
@@ -1595,7 +1599,7 @@ body {
 
 .bg-faq .cir-dot-blue {
   position: absolute;
-  content: '';
+  content: "";
   top: 300px;
   right: 50px;
   width: auto;
@@ -1605,7 +1609,7 @@ body {
 
 .bg-footer .cir-dot-yellow {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 100px;
   right: 335px;
   width: auto;
@@ -1615,7 +1619,7 @@ body {
 
 .bg-footer .cir-dot-blue {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 183px;
   left: 500px;
   width: auto;
@@ -1625,7 +1629,7 @@ body {
 
 .bg-eventssection .cir-dot-yellow {
   position: absolute;
-  content: '';
+  content: "";
   top: 52px;
   left: 416px;
   width: auto;
@@ -1635,7 +1639,7 @@ body {
 
 .bg-eventssection .cir-dot-blue {
   position: absolute;
-  content: '';
+  content: "";
   top: 150px;
   left: 0px;
   width: auto;
@@ -1645,7 +1649,7 @@ body {
 
 .bg-eventssection .cir-dot-pink {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 00px;
   right: 0;
   width: auto;
@@ -1655,7 +1659,7 @@ body {
 
 .bg-coursepg .cir-dot-blue {
   position: absolute;
-  content: '';
+  content: "";
   top: 78px;
   left: 395px;
   width: auto;
@@ -1665,7 +1669,7 @@ body {
 
 .bg-coursepg .cir-dot-pink {
   position: absolute;
-  content: '';
+  content: "";
   top: 300px;
   left: 0;
   width: auto;
@@ -1675,7 +1679,7 @@ body {
 
 .bg-pay .cir-dot-pink {
   position: absolute;
-  content: '';
+  content: "";
   top: 300px;
   left: 500px;
   width: auto;
@@ -1685,7 +1689,7 @@ body {
 
 .bg-pay .cir-dot-yellow {
   position: absolute;
-  content: '';
+  content: "";
   top: 30px;
   left: 800px;
   width: auto;
@@ -1707,7 +1711,7 @@ body {
 
 .bg-pay .cir-dot-blue {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 30px;
   left: 1200px;
   width: auto;
@@ -1721,7 +1725,7 @@ body {
 
 .bg-eventssection .owl-dots {
   position: absolute;
-  content: '';
+  content: "";
   bottom: -60px;
   left: 0;
   right: 0;
@@ -1738,7 +1742,7 @@ body {
 
 .bg-schoolsec .owl-dots {
   position: absolute;
-  content: '';
+  content: "";
   bottom: 40px;
   left: 0;
   right: 0;
@@ -1750,7 +1754,7 @@ body {
 
 .bg-eventssec .owl-dots {
   position: absolute;
-  content: '';
+  content: "";
   bottom: -40px;
   left: 0;
   right: 0;
@@ -1793,7 +1797,7 @@ border-radius: 10px;
   margin: 0 auto;
   margin-bottom: 0px;
   overflow: auto;
-  background: url('../images/l1.png') no-repeat center center;
+  background: url("../images/l1.png") no-repeat center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
@@ -1808,12 +1812,12 @@ border-radius: 10px;
 }
 
 .story-2 {
-  background: url('../images/l2.png') no-repeat center center;
+  background: url("../images/l2.png") no-repeat center center;
 }
 
 .story-1::before,
 .story-2::before {
-  content: '';
+  content: "";
   top: 0;
   bottom: 0;
   left: 0;
@@ -1824,7 +1828,7 @@ border-radius: 10px;
 
 .up-content {
   position: absolute;
-  content: '';
+  content: "";
   top: 50vh;
   margin: auto 0;
 }
@@ -1871,13 +1875,13 @@ header {
 .nav-up {
   position: fixed;
   top: 0;
-  content: '';
+  content: "";
 }
 
 .new-navdown {
   z-index: 999999 !important;
   position: absolute;
-  content: '';
+  content: "";
   top: 0;
   opacity: 0;
 }
@@ -2501,7 +2505,7 @@ width: unset!important;
 /*  */
 
 .how-it-works.row .col-2::after {
-  content: '';
+  content: "";
   position: absolute;
   z-index: 1;
 }
@@ -2530,7 +2534,7 @@ width: unset!important;
 
 .timeline.position-absolute {
   position: absolute !important;
-  content: '';
+  content: "";
   top: 66%;
   left: 5%;
 }
@@ -2626,13 +2630,13 @@ width: unset!important;
 }
 
 .change-text::before {
-  content: '';
+  content: "";
   cursor: pointer;
 }
 
 .change-text::after {
   position: absolute;
-  content: '';
+  content: "";
   top: 100%;
   left: 0;
   height: 5px;
