@@ -159,7 +159,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" Loading="lazy" alt="full stack developer "
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png" class="img-fluid" Loading="lazy" alt="full stack developer "
                 Loading="lazy" title="">
             </div>
           </div>
@@ -179,7 +179,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" Loading="lazy" alt="fullstack event" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png" class="img-fluid" Loading="lazy" alt="fullstack event" title="">
             </div>
           </div>
         </div>
@@ -198,7 +198,7 @@ include_once("../includes/header.php");
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="images/yellow-line.png" class="img-fluid" Loading="lazy" alt="full stack developer" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png" class="img-fluid" Loading="lazy" alt="full stack developer" title="">
             </div>
           </div>
         </div>
