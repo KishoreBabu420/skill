@@ -156,27 +156,27 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/events/become-a-full-stack-developer-in-2023">
+                          href="https://skillsafari.in/events/build_a_web_developer_portfolio_to_get_hired_in_2023">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
-                          Become a full stack<br>developer in 2023
+                          Build a web developer portfolio
                         </a>
                       </li>
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/events/best-practices-to-become-a-frontend-developer">
+                          href="https://skillsafari.in/events/introduction_to_data_analytics_with_MS_Excel">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Best pratice to become<br>a frontend developer
+                          Introduction to Data Analytics <br> With MS Excel
                         </a>
                       </li>
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/events/how-to-get-recruited-in-top-product-based-companies">
+                          href="https://skillsafari.in/events/build_a_web_developer_portfolio_to_get_hired_in_2023_CBE_offline">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Product Companies
+                          Build a web developer portfolio<br> Offline
                         </a>
                       </li>
                     </ul>

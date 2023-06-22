@@ -1,6 +1,9 @@
 <?php 
-$title = "Roadmap to become a full stack developer";
-$description = "Join our LIVE webinar to learn how to become a Full Stack Web Developer and also learn to build a small Quiz Application with Node.js.";
+$title = "Build a web developer portfolio to get hired in 2023";
+$description = "JJoin us LIVE and learn the practices and preps to become a Full Stack Developer and
+          learn how “To build a Quiz Application” with Node.JS in this workshop. At the end of the workshop, you will
+          already have developed an application all by yourself, so there will be enough proof of whether you can code
+          or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.";
 $keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 9;
 include_once("../includes/header.php");
@@ -522,7 +525,7 @@ if (document.getElementById('days')) {
     hour = minute * 60,
     day = hour * 24;
 
-  let countDown = new Date('December 22, 2022 18:00:00').getTime(),
+  let countDown = new Date('June 23, 2023 19:00:00').getTime(),
     x = setInterval(function() {
       let now = new Date().getTime(),
         distance = countDown - now;
