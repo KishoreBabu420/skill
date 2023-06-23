@@ -12,12 +12,17 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h1 class="internshipH1 pt-3">Full Stack Internship Program </h1>
-        <p class="school-para pt-5">The best way to master React JS is by doing. That's why our internship program is
-          designed to provide you with hands-on experience building real-world applications.
+        <h1 class="internshipH1 pt-3"> Data Analytics Internship Program </h1>
+        <p class="school-para pt-5">SkillSafari's Data Analytics Internship Program offers an immersive and hands-on
+          experience in data analytics.
 
-          You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills
-          & Tools, And become a Skilled React Developer in 6 Weeks with the Skill Safari’s Internship Program
+          Participants will gain practical knowledge and skills in collecting, interpreting, and visualising data to
+          drive informed business decisions.
+
+          Under the guidance of industry professionals, interns will have the opportunity to work on real-world
+          projects, apply statistical techniques, and contribute to the growth of data-driven strategies.
+
+          This program is designed to provide valuable insights and foster a passion for data analytics.
         </p>
         <div class="regbtn mb-5">
           <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
@@ -570,8 +575,8 @@ include_once("../includes/testimony.php");
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">Learn the practices and preps to become a React Developer and learn how “To
-                  build a Web Application” with React.JS in this Internship Program.</p>
+                <p class="school-para mb-0">It helps to gain practical knowledge and skills in collecting, interpreting,
+                  and visualising data to drive informed business decisions.</p>
               </div>
             </div>
           </div>
@@ -650,7 +655,7 @@ include_once("../includes/testimony.php");
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">The program will last for 4 weeks.</p>
+                <p class="school-para mb-0">The program will last for 5 weeks.</p>
               </div>
             </div>
           </div>
