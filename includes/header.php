@@ -137,9 +137,31 @@
                       href="https://www.skillsafari.in/learning-hub/">Learning Hub</a>
                   </li>
 
-                  <li class="nav-item ">
+                  <!-- <li class="nav-item ">
                     <a class="nav-link <?php if($page==10) echo 'active';  ?>" aria-current="page"
                       href="https://www.skillsafari.in/internship/internship2023.php">Internship Program</a>
+                  </li> -->
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle <?php if($page==10) echo 'active';  ?>" href=""
+                      id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Internship Program
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/Intersnhip/internship2023">
+                          <span class="img-sec me-3">
+                            <i class="fas fa-code"></i>
+                          </span>
+                          Full Intership Program 2023
+                        </a>
+                      </li>
+                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/Data_Analytics_2023">
+                          <span class="img-sec me-3">
+                            <i class="fas fa-chart-line"></i>
+                          </span>
+                          Data Analytics Internship
+                        </a>
+                      </li>
+                    </ul>
                   </li>
                   <li class="nav-item d-none d-lg-block">
                     <a class="nav-link <?php if($page==2) echo 'active';  ?>" aria-current="page"
