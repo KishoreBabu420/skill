@@ -616,7 +616,7 @@ include_once("../includes/testimony.php");
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">Skill Safari’s Internship Program( SIP ) is a 100% practical training
+                <p class="school-para mb-0">Skill Safari’s Internship Program is a 100% practical training
                   program. Unlike other courses that teach you only the theory, you will learn by doing in this program
                   </br>
                   You will also be helped by experienced mentors who will solve any doubts you may have with dedicated
