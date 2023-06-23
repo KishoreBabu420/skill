@@ -147,7 +147,7 @@
                       Internship Program
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/intersnhip/internship2023">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/internship2023">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
