@@ -1,6 +1,9 @@
 <?php 
-$title = "Workshop - How to get recruited in Top Product Based Companies in 2022";
-$description = "Join our LIVE webinar and learn the practices to Learn how to prepare Data Structures and Algorithms in getting a job at Product Based Companies";
+$title = "Build a web developer portfolio to get hired in 2023";
+$description = "JJoin us LIVE and learn the practices and preps to become a Full Stack Developer and
+          learn how “To build a Quiz Application” with Node.JS in this workshop. At the end of the workshop, you will
+          already have developed an application all by yourself, so there will be enough proof of whether you can code
+          or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.";
 $keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Science Boot Camp, Full Stack Developer, skillsafari.in, ";
 $page = 9;
 include_once("../includes/header.php");
@@ -12,22 +15,24 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h4 class="date-sec"><span>Coming Soon</span></h4>
-        <h1 class="top-head  pt-3">How to get recruited in Top Product Based Companies in 2022</h1>
+        <p class="date-sec"><span>Coming Soon</span></p>
+        <h1 class="top-head-event pt-3">Build a web developer portfolio to get hired in 2023 </h1>
         <div class="pricetag-strike" style="font-size:40px!important; font-weight:700 !important;">
           <del style="color:#888;font-size:14px;">₹ 1000</del>₹ Free
-
         </div>
-        <p class="school-para pt-3">Join the LIVE webinar and learn the practices and preps to get recruited in TOP Product-based companies. Also Learn the importance of Machine Learning and Data Science in getting a job as an Data Analyst at top Companies along with Ms.Anusha G, DS Instructor and Expert Data Scientist and our Co-Founder Mr.Naveen Chandran.</p>
+        <p class="school-para pt-3">Join us LIVE and learn the practices and preps to become a Full Stack Developer and
+          learn how “To build a Quiz Application” with Node.JS in this workshop. At the end of the workshop, you will
+          already have developed an application all by yourself, so there will be enough proof of whether you can code
+          or not. Join this workshop with our Lead Instructor Mr. Kishore and our Co-Founder Mr.Naveen Chandran.</p>
         <div class="regbtn mb-5">
-          <a href="https://meet.zoho.in/ozbjCzEaQz" target="_blank" class="text-decoration-none">Register</a>
+          <a href="https://forms.gle/WbP73YbGKUBaq77Y6" class="text-decoration-none" target="_blank">Join Now</a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-5 pt-0">
         <div>
           <img class="w-100"
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader2_eedsha.png"
-            alt="Fullstack Event">
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1650542293/website/events/eventHeader1_wejqx8.png"
+            Loading="lazy" alt="Fullstack Event">
         </div>
       </div>
       <div class="col-lg-12">
@@ -35,29 +40,29 @@ include_once("../includes/header.php");
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clock"></i>
-              <h6 class="small-highlight pt-2">Date</h6>
-              <h3 class="mini-boxhead">Coming Soon</h3>
+              <p class="small-highlight pt-2">Date</p>
+              <p class="mini-boxhead">Coming Soon</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-tools"></i>
-              <h6 class="small-highlight pt-2">Total Duration</h6>
-              <h3 class="mini-boxhead">2 Hours Live</h3>
+              <p class="small-highlight pt-2">Total Duration</p>
+              <p class="mini-boxhead">2 Hours Live</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-video"></i>
-              <h6 class="small-highlight pt-2">Time</h6>
-              <h3 class="mini-boxhead">7PM to 9PM</h3>
+              <p class="small-highlight pt-2">Time</p>
+              <p class="mini-boxhead">8PM to 10PM</p>
             </div>
           </div>
           <div class="col-lg-2 col-sm-3 col-6 d-flex align-self-stretch mb-4">
             <div class="mini-boxevents w-100 shadow">
               <i class="fas fa-clipboard-list"></i>
-              <h6 class="small-highlight pt-2">Bonuses Worth</h6>
-              <h3 class="mini-boxhead">Free Certification</h3>
+              <p class="small-highlight pt-2">Bonuses Worth</p>
+              <p class="mini-boxhead">Free Certification</p>
             </div>
           </div>
         </div>
@@ -68,7 +73,7 @@ include_once("../includes/header.php");
       <div class="col-xl-8 col-md-12 col-11 bbs">
         <div class="row align-items-center">
           <div class="col-md-2 col-12 text-center text-md-start pt-3 pt-md-0">
-            <h4 class="closesin mb-0">Closes In</h4>
+            <p class="closesin mb-0">Closes In</p>
           </div>
           <div class="col-md-7 col-12 pt-4 pt-md-0">
             <div class="timecounter-new">
@@ -139,26 +144,24 @@ include_once("../includes/header.php");
           </ul>
         </div>
       </div>
-
       <div class="col-md-6 ps-5">
         <div class="row align-items-center">
-          <h2 class="top-head pb-3">Key Takeaways</h2>
-
           <div class="col-md-2 col-2 p-0">
             <div class="stud-trainbox shadow text-center">
               <i class="fa-solid fa-meteor"></i>
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Importance of Data Structures and Algorithms:</h6>
-            <p class="school-para">Why Data Structures & Algorithms tested in Recruitment? </p>
+            <p class="timeline-head">Who is a Full Stack Web Developer?</p>
+            <p class="school-para">Get to know who is a Full Stack Web Developer and what are the available stacks.
+            </p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png" class="img-fluid" Loading="lazy" alt="full stack developer "
-                Loading="lazy" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png"
+                class="img-fluid" alt="full stack event" Loading="lazy" title="">
             </div>
           </div>
         </div>
@@ -170,14 +173,16 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Learning Methodology for DSA</h6>
-            <p class="school-para">How to prepare & practice DSA?</p>
+            <p class="timeline-head">Roadmap to become a Full Stack Web Developer</p>
+            <p class="school-para">Know the complete roadmap to become a Full-Stack Developer. Guidance to learn
+              different technologies, frameworks, libraries and VCS</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png" class="img-fluid" Loading="lazy" alt="fullstack event" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png"
+                class="img-fluid" alt="full stack event 2" Loading="lazy" title="">
             </div>
           </div>
         </div>
@@ -189,14 +194,16 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Which topics to learn? (Learning Path)</h6>
-            <p class="school-para">How to learn concepts of Trees, graphs and algorithms in DSA?</p>
+            <p class="timeline-head">Try building your application</p>
+            <p class="school-para">Hands-On experience in building a quiz application using Node.js. You’ll know how an
+              application is developed and launched.</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png" class="img-fluid" Loading="lazy" alt="full stack developer" title="">
+              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687328541/website/yellow-line_s23tds.png"
+                class="img-fluid" alt="fullstack event" title="">
             </div>
           </div>
         </div>
@@ -208,20 +215,18 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <h6 class="timeline-head">Brief Introduction of courses offered by Skill Safari</h6>
-            <p class="school-para">Get to know our Job Guaranteed Skill-Up cohorts </p>
+            <p class="timeline-head">Brief Introduction of courses offered by Skill Safari</p>
+            <p class="school-para">Get to know our Job Guaranteed Skill-Up Cohorts</p>
           </div>
         </div>
-
-
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
         <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650940480/website/events/ab4_io0ral.jpg"
-          class="img-fluid w-100" Loading="lazy" alt="full stack development" title="">
+          class="img-fluid w-100" alt="fullstack event page" Loading="lazy" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://meet.zoho.in/ozbjCzEaQz" target="_blank" class="text-decoration-none">Register</a>
+          <a href="https://forms.gle/WbP73YbGKUBaq77Y6" class="text-decoration-none" target="_blank">Join Now</a>
         </div>
       </div>
     </div>
@@ -282,7 +287,7 @@ include_once("../includes/header.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://meet.zoho.in/ozbjCzEaQz" class="text-decoration-none" target="_blank">Apply Now</a>
+          <a href="https://forms.gle/WbP73YbGKUBaq77Y6" class="text-decoration-none" target="_blank">Join Now</a>
         </div>
       </div>
     </div>
@@ -290,7 +295,7 @@ include_once("../includes/header.php");
 </section>
 
 <!--  -->
-<section class="bg-trainerintro">
+<!-- <section class="bg-trainerintro">
   <div class="container">
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
@@ -301,29 +306,29 @@ include_once("../includes/header.php");
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
               <img
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004355/website/trainers/anusha_qq9vjn.png"
-                class="img-fluid" Loading="lazy" alt=" full stack trainer" title="">
-              <p class="trainee-headtitle text-center pt-3 mb-0">Anusha G</p>
-              <p class="school-para text-center pt-2">Data Scientist & ML/DL Expert </p>
-              <p class="school-para text-center">IIT Bombay Alumni </p>
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                class="img-fluid" alt="full stack trainer" Loading="lazy" title="">
+              <p class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</p>
+              <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
 
             </div>
             <div class="col-md-8">
-              <p class="ft-16 text-justify">Experienced Data Scientist and ML/DL Expert and an IIT Bombay Alumnus will
-                be sharing her rich experience in the field of Software development Industry trends and skills sought in
-                the year 2022. She is an experienced Software Developer and DSA Specialist in top product-based
-                companies and currently she working as a Data Scientist and Educator</p>
+              <p class="ft-16 text-justify">Kishore is a highly motivated and ambitious individual with over 6 years of
+                work experience. I have worked in the education and operation heavy industries and have taken up various
+                roles that required me to build and market innovative products, with the core objective of helping
+                businesses grow.</p>
             </div>
           </div>
         </div>
       </div>
+
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
-                class="img-fluid" alt="fullstack trainer 2" Loading="lazy" title="">
+                class="img-fluid" alt="fullstack mern trainer" Loading="lazy" title="">
               <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
@@ -337,7 +342,7 @@ include_once("../includes/header.php");
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!--  -->
 <section class="bg-certified">
@@ -385,15 +390,16 @@ include_once("../includes/header.php");
       <div class="col-md-5 pt-4">
         <img
           src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
-          class="img-fluid" alt="full stack pay after placement" Loading="lazy" title="">
+          class="img-fluid" alt="certificate" Loading="lazy" title="">
       </div>
     </div>
-    <div class="row text-center">
-      <p class="school-para text-center pt-2 pb-3">It this excites you? Register Now</p>
+    <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
+    <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://meet.zoho.in/ozbjCzEaQz" class="text-decoration-none" target="_blank">Register Now</a>
+        <a href="https://forms.gle/WbP73YbGKUBaq77Y6" class="text-decoration-none" target="_blank">Join Now</a>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -403,7 +409,6 @@ include_once("../includes/header.php");
     <div class="row pt-5">
       <div class="col-md-12 pt-md-5">
         <h2 class="top-head text-center pb-4">FAQ</h2>
-
         <div class="accordion" id="accordionExample">
           <div class="accordion-item mb-3 p-4">
             <h3 class="accordion-header" id="headingOne">
@@ -415,8 +420,8 @@ include_once("../includes/header.php");
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">You will learn the importance of DSA in getting a job at Product Based
-                  Companies. Also, you’ll get a fair insight into a Software Developer in a Corporate.</p>
+                <p class="school-para mb-0">Learn the practices and preps to become a Full Stack Developer and learn how
+                  “To build a Quiz Application” with Node.JS in this workshop.</p>
               </div>
             </div>
           </div>
@@ -520,7 +525,7 @@ if (document.getElementById('days')) {
     hour = minute * 60,
     day = hour * 24;
 
-  let countDown = new Date('May 13, 2022 19:00:00').getTime(),
+  let countDown = new Date('June 24, 2023 10:00:00').getTime(),
     x = setInterval(function() {
       let now = new Date().getTime(),
         distance = countDown - now;
