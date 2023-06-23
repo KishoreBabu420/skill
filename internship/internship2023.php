@@ -12,18 +12,20 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h1 class="internshipH1 pt-3">Summer Internship 2023</h1>
-        <p class="school-para pt-5">The best way to master React JS is by doing. That's why our internship program is designed to provide you with hands-on experience building real-world applications.
+        <h1 class="internshipH1 pt-3"> Internship Program 2023</h1>
+        <p class="school-para pt-5">The best way to master React JS is by doing. That's why our internship program is
+          designed to provide you with hands-on experience building real-world applications.
 
-          You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills & Tools, And become a Skilled React Developer in 6 Weeks with the Skill Safari’s Summer Internship  Program
-          </p>
+          You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills
+          & Tools, And become a Skilled React Developer in 6 Weeks with the Skill Safari’s Internship Program
+        </p>
         <div class="regbtn mb-5">
-          <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
-             </a>
+          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+          </a>
         </div>
       </div>
       <div class="col-xl-6 pb-5 pt-lg-2 pt-0">
-      <div class="text-center text-md-end">
+        <div class="text-center text-md-end">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1678446070/website/internship/Internship_banner_qswn1v.png"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
@@ -39,10 +41,10 @@ include_once("../includes/header.php");
           </div>
         </div>
       </div>
-      
-      </div>
+
     </div>
-    <!-- <div class="row justify-content-center pb-5">
+  </div>
+  <!-- <div class="row justify-content-center pb-5">
       <div class="col-xl-8 col-md-12 col-11 bbs">
         <div class="row align-items-center">
           <div class="col-md-2 col-12 text-center text-md-start pt-3 pt-md-0">
@@ -125,15 +127,18 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <p class="timeline-head">Step 1 -  Enrolling on the program</p>
-            <p class="school-para">You will be setting up your basic enrollment details and Getting access to our content.
+            <p class="timeline-head">Step 1 - Enrolling on the program</p>
+            <p class="school-para">You will be setting up your basic enrollment details and Getting access to our
+              content.
             </p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1678183544/website/web%20images/yellow-line_ma6p4f.png" class="img-fluid" alt="full stack event" Loading="lazy" title="">
+              <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1678183544/website/web%20images/yellow-line_ma6p4f.png"
+                class="img-fluid" alt="full stack event" Loading="lazy" title="">
             </div>
           </div>
         </div>
@@ -145,14 +150,17 @@ include_once("../includes/header.php");
             </div>
           </div>
           <div class="col-md-10 col-10">
-            <p class="timeline-head">Step 2 -  Attend sessions 👨‍🏫</p>
-            <p class="school-para">Every week, you will get access to the content and learn a new concept in React in a step-by-step structured manner. </p>
+            <p class="timeline-head">Step 2 - Attend sessions 👨‍🏫</p>
+            <p class="school-para">Every week, you will get access to the content and learn a new concept in React in a
+              step-by-step structured manner. </p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1678183544/website/web%20images/yellow-line_ma6p4f.png" class="img-fluid" alt="full stack event 2" Loading="lazy" title="">
+              <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1678183544/website/web%20images/yellow-line_ma6p4f.png"
+                class="img-fluid" alt="full stack event 2" Loading="lazy" title="">
             </div>
           </div>
         </div>
@@ -165,13 +173,16 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <p class="timeline-head">Step 3 - Finish Tasks 📝</p>
-            <p class="school-para"> After each session, you will be given a simple yet fun assignment to learn Fron End practically. Also, there will be a dedicated Q&A for tasks every DATE at TIME.</p>
+            <p class="school-para"> After each session, you will be given a simple yet fun assignment to learn Fron End
+              practically. Also, there will be a dedicated Q&A for tasks every DATE at TIME.</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2 col-2">
             <div class="text-center pt-2 pb-2">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1678183544/website/web%20images/yellow-line_ma6p4f.png" class="img-fluid" alt="fullstack event" title="">
+              <img
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1678183544/website/web%20images/yellow-line_ma6p4f.png"
+                class="img-fluid" alt="fullstack event" title="">
             </div>
           </div>
         </div>
@@ -184,18 +195,20 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <p class="timeline-head">Step 4 - Get feedback 🧑‍💻</p>
-            <p class="school-para"> Also, get personal feedback on your assignment so that you can improve and become a confident Developer in just 4 weeks.</p>
+            <p class="school-para"> Also, get personal feedback on your assignment so that you can improve and become a
+              confident Developer in just 4 weeks.</p>
           </div>
         </div>
       </div>
       <div class="col-md-6 pt-3 pt-md-0">
-        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1678446069/website/internship/Internship_image_1_fu3woi.png"
+        <img
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1678446069/website/internship/Internship_image_1_fu3woi.png"
           class="img-fluid w-100" alt="fullstack event page" Loading="lazy" title="">
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
-             </a>
+          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+          </a>
         </div>
       </div>
     </div>
@@ -206,152 +219,152 @@ include_once("../includes/header.php");
 <section class="internshipCurriculum">
   <div class="container">
     <div class="row">
-    <h2 class="top-head text-center pb-3">Summer Internship Curriculum</h2>
+      <h2 class="top-head text-center pb-3"> Internship Curriculum</h2>
     </div>
-    
+
     <div>
-    <div class="tech-slider row pt-3">
-      <div class="owl-carousel" id="tech-carousel">
-        <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="Python"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
-              loading="lazy" />
+      <div class="tech-slider row pt-3">
+        <div class="owl-carousel" id="tech-carousel">
+          <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="Python"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="Git"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/git_srlcgb.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="Git"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/git_srlcgb.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="GitHub"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/github_zkisle.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="GitHub"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/github_zkisle.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="html"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/html_orrq6q.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="html"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/html_orrq6q.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="css"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/css_knu9hc.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="css"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/css_knu9hc.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="JavaScript"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/js_pueijt.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="JavaScript"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/js_pueijt.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="BootStrap 5"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/bootstrap_rvxy3u.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="BootStrap 5"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/bootstrap_rvxy3u.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="React Js"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_s2rpnh.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="React Js"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_s2rpnh.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="React Router"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_router_odgjdw.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="React Router"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_router_odgjdw.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="Redux"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/redux_y5zdgw.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="Redux"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/redux_y5zdgw.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="Styled Components"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/style_qiwmnz.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="Styled Components"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/style_qiwmnz.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="FireBase"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/firebase_ki5deh.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="FireBase"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/firebase_ki5deh.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="Node Js"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/node_z0wrmk.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="Node Js"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/node_z0wrmk.png"
+                loading="lazy" />
+            </div>
           </div>
-        </div>
-        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-          <div class="tech-logo-container">
-            <img class="img-fluid" alt="Express Js"
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/express_zphtmd.png"
-              loading="lazy" />
+          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
+              <img class="img-fluid" alt="Express Js"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/express_zphtmd.png"
+                loading="lazy" />
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row justify-content-center pt-3">
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2 p-2">
-                <p class="syllabus__week-title h4">Week 1</p>
-                <p>Introduction to HTML & CSS</p>
-              </div>
-            </div>
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2 p-2">
-                <p class="syllabus__week-title h4">Week 2</p>
-                <p>Responsive web development using Bootsrap 5 
-                </p>
-
-              </div>
-            </div>
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2 p-2">
-                <p class="syllabus__week-title h4">Week 3</p>
-                <p>Function programming with Javascript E56</p>
-              </div>
-            </div>
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2 p-2">
-                <p class="syllabus__week-title h4">Week 4</p>
-                <p>Advanced web development with React js  </p>
-              </div>
-            </div>
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2 p-2">
-                <p class="syllabus__week-title h4">Week 5</p>
-                <p>Build & Deploy scalable web applications</p>
-              </div>
-            </div>
-            <div class="col-12 card shadow col-md-5 m-2">
-              <div class="row m-2 p-2">
-                <p class="syllabus__week-title h4">Week 6</p>
-                <p>Projects</p>
-              </div>
-            </div>
+      <div class="row justify-content-center pt-3">
+        <div class="col-12 card shadow col-md-5 m-2">
+          <div class="row m-2 p-2">
+            <p class="syllabus__week-title h4">Week 1</p>
+            <p>Introduction to HTML & CSS</p>
           </div>
+        </div>
+        <div class="col-12 card shadow col-md-5 m-2">
+          <div class="row m-2 p-2">
+            <p class="syllabus__week-title h4">Week 2</p>
+            <p>Responsive web development using Bootsrap 5
+            </p>
+
+          </div>
+        </div>
+        <div class="col-12 card shadow col-md-5 m-2">
+          <div class="row m-2 p-2">
+            <p class="syllabus__week-title h4">Week 3</p>
+            <p>Function programming with Javascript E56</p>
+          </div>
+        </div>
+        <div class="col-12 card shadow col-md-5 m-2">
+          <div class="row m-2 p-2">
+            <p class="syllabus__week-title h4">Week 4</p>
+            <p>Advanced web development with React js </p>
+          </div>
+        </div>
+        <div class="col-12 card shadow col-md-5 m-2">
+          <div class="row m-2 p-2">
+            <p class="syllabus__week-title h4">Week 5</p>
+            <p>Build & Deploy scalable web applications</p>
+          </div>
+        </div>
+        <div class="col-12 card shadow col-md-5 m-2">
+          <div class="row m-2 p-2">
+            <p class="syllabus__week-title h4">Week 6</p>
+            <p>Projects</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -413,8 +426,8 @@ include_once("../includes/testimony.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
-             </a>
+          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+          </a>
         </div>
       </div>
     </div>
@@ -523,8 +536,8 @@ include_once("../includes/testimony.php");
     <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
     <div class="row pb-5 text-center">
       <div class="regbtn">
-        <a href="https://connect.skillsafari.in/FSDI23A" class="text-decoration-none" target="_blank">Enroll Now
-           </a>
+        <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+        </a>
       </div>
     </div>
 
@@ -538,7 +551,9 @@ include_once("../includes/testimony.php");
     <div class="row pt-5">
       <div class="col-md-4">
         <p class="internshipFAQ">Can’t find the answer you’re looking for?</p>
-        <img class="internshipfaqimage img-fluid" src="https://res.cloudinary.com/skill-safari/image/upload/v1678446069/website/internship/Artboard_3_qo7zxu.png" alt="internship 2023">
+        <img class="internshipfaqimage img-fluid"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1678446069/website/internship/Artboard_3_qo7zxu.png"
+          alt="internship 2023">
         <div class="regbtn mb-5">
           <a href="mailto:connect@skillsafari.in" class="text-decoration-none" target="_blank"> Email Us</a>
         </div>
@@ -549,13 +564,14 @@ include_once("../includes/testimony.php");
             <h3 class="accordion-header" id="headingOne">
               <button class="accordion-button  pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                <h4 class="top-head-faq mb-0">What is this Summer Internship Program about?</h4>
+                <h4 class="top-head-faq mb-0">What is this Internship Program about?</h4>
               </button>
             </h3>
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">Learn the practices and preps to become a React Developer and learn how “To build a Web Application” with React.JS in this Summer Internship Program.</p>
+                <p class="school-para mb-0">Learn the practices and preps to become a React Developer and learn how “To
+                  build a Web Application” with React.JS in this Internship Program.</p>
               </div>
             </div>
           </div>
@@ -563,13 +579,15 @@ include_once("../includes/testimony.php");
             <h3 class="accordion-header" id="headingTwo">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                <h4 class="top-head-faq mb-0">What is the minimum system requirement needed? Do I need to install any extra software?</h4>
+                <h4 class="top-head-faq mb-0">What is the minimum system requirement needed? Do I need to install any
+                  extra software?</h4>
               </button>
             </h3>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">A Processor Speed of 1.6 GHz, a minimum of 4GB RAM is preferred, and a Microphone</p>
+                <p class="school-para mb-0">A Processor Speed of 1.6 GHz, a minimum of 4GB RAM is preferred, and a
+                  Microphone</p>
               </div>
             </div>
           </div>
@@ -583,7 +601,8 @@ include_once("../includes/testimony.php");
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">YYou should be between 15 to 28 years of age group and must have passed 12th grade.</p>
+                <p class="school-para mb-0">YYou should be between 15 to 28 years of age group and must have passed 12th
+                  grade.</p>
               </div>
             </div>
           </div>
@@ -597,10 +616,12 @@ include_once("../includes/testimony.php");
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">Skill Safari’s Summer Internship Program( SIP )  is a 100% practical training program. Unlike other courses that teach you only the theory, you will learn by doing in this program
+                <p class="school-para mb-0">Skill Safari’s Internship Program( SIP ) is a 100% practical training
+                  program. Unlike other courses that teach you only the theory, you will learn by doing in this program
                   </br>
-                  You will also be helped by experienced mentors who will solve any doubts you may have with dedicated Q&A sessions.
-                  </p>
+                  You will also be helped by experienced mentors who will solve any doubts you may have with dedicated
+                  Q&A sessions.
+                </p>
               </div>
             </div>
           </div>
@@ -614,7 +635,8 @@ include_once("../includes/testimony.php");
             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">Absolutely. The program is designed to help you understand from a fundamental level and build it up to advanced concepts.</p>
+                <p class="school-para mb-0">Absolutely. The program is designed to help you understand from a
+                  fundamental level and build it up to advanced concepts.</p>
               </div>
             </div>
           </div>
@@ -642,7 +664,8 @@ include_once("../includes/testimony.php");
             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">I would say you will need a minimum of 2 hours of commitment per week or 1 hour per day.</p>
+                <p class="school-para mb-0">I would say you will need a minimum of 2 hours of commitment per week or 1
+                  hour per day.</p>
               </div>
             </div>
           </div>
@@ -656,7 +679,9 @@ include_once("../includes/testimony.php");
             <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">Yes, you will receive an industry-recognised course completion certificate that you can proudly show to your friends and family. But you must complete assignments to receive the certificate.</p>
+                <p class="school-para mb-0">Yes, you will receive an industry-recognised course completion certificate
+                  that you can proudly show to your friends and family. But you must complete assignments to receive the
+                  certificate.</p>
               </div>
             </div>
           </div>
