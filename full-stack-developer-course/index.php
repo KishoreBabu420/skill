@@ -597,7 +597,7 @@ include_once("../includes/header.php");
           </div>
           <div class="certificate__img-container mb-2 p-3 mx-auto my-2 col-md-7">
             <img
-              src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1687587338/website/web%20images/MicrosoftTeams-image_rrbuxb.jpg"
               alt="Skill Safari certificate" class="img-fluid">
           </div>
         </section>

@@ -343,7 +343,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-5 pt-4">
         <img
-          src="https://res.cloudinary.com/skill-safari/image/upload/v1650940481/website/events/certificate_qhfdhy.png"
+          src="https://res.cloudinary.com/skill-safari/image/upload/v1687587338/website/web%20images/MicrosoftTeams-image_rrbuxb.jpg"
           class="img-fluid" Loading="lazy" alt="fullstack certificate" title="">
       </div>
     </div>
