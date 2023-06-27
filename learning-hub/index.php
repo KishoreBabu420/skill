@@ -27,6 +27,9 @@ include_once("../includes/header.php");
             <br />
             <span class="mt-3"> with Placement Assurance</span>
           </h1>
+          <div class="py-3">
+            <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 7<sup>th</sup> 2023</span></h3>
+          </div>
         </div>
         <div class="accreditation-container container">
           <div class="row align-items-center">
@@ -47,7 +50,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-lg-5 mt-3 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-2 pb-md-4 p-md-5 p-3">
-          <h5 class="trainingform-head py-2 text-center text-white">Have any Questions?</h5>
+          <h5 class="trainingform-head py-2 text-center text-white">Request A Callback</h5>
           <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="lead-form">
             <div class="mb-2">
               <label for="fullName" class="form-label">Full Name*</label>
@@ -80,7 +83,7 @@ include_once("../includes/header.php");
             <input type="hidden" name="utm_term" value="">
             <input type="hidden" name="utm_content" value="">
             <div class="callbackbtn mt-3">
-              <button class="text-decoration-none submit-tag" type="submit">Request A Callback</button>
+              <button class="text-decoration-none submit-tag" type="submit">Submit</button>
             </div>
           </form>
         </div>
@@ -247,16 +250,18 @@ include_once("../includes/header.php");
     </div>
     <div class="col-12 col-md-6 col-lg-4 m-auto">
       <div class="callbackbtn mt-3">
-        <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
-          More</button>
-        <!-- Modal -->
+        <a href="https://rzp.io/l/cl3zIDMGh" class="text-decoration-none">Enroll Now</a>
+
+        <!-- <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
+          More</button> -->
+        <!-- Modal 
         <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-body">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
                 <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
-                  <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                 
                   <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
                     id="cbe-partner-btn">
                     <div class="mb-3">
@@ -298,7 +303,7 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -462,14 +467,13 @@ include_once("../includes/header.php");
           <h4 class="text-center text-md-start">
             Complete all the assignments and projects to earn a certificate from
             Skill Safari with accreditation from NAASCOM and Skill India.
-            module.
           </h4>
         </div>
-        <div class="col-8 mx-auto mx-lg-1 my-2">
+        <!-- <div class="col-8 mx-auto mx-lg-1 my-2">
           <div class="callbackbtn mt-3 text-center">
             <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
               More</button>
-            <!-- Modal -->
+            
             <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
               aria-hidden="true">
               <div class="modal-dialog">
@@ -522,7 +526,7 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
-        </div>
+        </div>-->
       </div>
       <div class="col-md-6 col-12">
         <div class="certificate__img-container">
@@ -1035,7 +1039,7 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              Skill Safari is the best institute for Mern Stack, data analytics, and automation testing in Coimbatore.
+              Skill Safari is the best institute for Mern Stack, Data Analytics, and Automation testing in Coimbatore.
               Currently, we are conducting only offline mode classes.</p>
           </div>
         </div>
@@ -1061,8 +1065,7 @@ include_once("../includes/header.php");
     <div class="row  pt-5 pb-5">
       <div class="col-lg-12 text-center">
         <h2 class="text-white top-head">Want to know more about Alchemyst 2.0?</h2>
-        <p class="para-top text-white text-center">
-          Become job-ready Full Stack Developer in 20 - 28 weeks with a minimum CTC from 3.5 LPA - 15 LPA. Want to know
+        <p class="para-top text-white text-center"> Want to know
           how you can join the cohort? or if you have any questions, feel free to connect with our career counsellors.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
