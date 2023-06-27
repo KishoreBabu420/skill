@@ -468,8 +468,8 @@ include_once("../includes/testimony.php");
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/website_naveen_anna_1_ztnbrl.webp"
                 class="img-fluid" alt="fullstack mern trainer" Loading="lazy" title="">
-              <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
-              <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
+              <!-- <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
+              <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p> -->
             </div>
             <div class="col-md-7">
               <p class="ft-16 text-justify">Naveen has a demonstrative history of working in the e-learning and software

@@ -446,8 +446,8 @@ include_once("../includes/testimony.php");
               <img
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/website_KISHORE_BRO_n94zc0.webp"
                 class="img-fluid" alt="full stack trainer" Loading="lazy" title="">
-              <p class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</p>
-              <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
+              <!-- <p class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</p>
+              <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p> -->
 
             </div>
             <div class="col-md-7">
