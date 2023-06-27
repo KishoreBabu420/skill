@@ -154,7 +154,7 @@
                           Full Intership Program 2023
                         </a>
                       </li>
-                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/Data_Analytics_2023">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/data_analytics_2023">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>

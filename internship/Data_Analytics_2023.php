@@ -334,13 +334,13 @@ include_once("../includes/header.php");
         <div class="col-12 card shadow col-md-5 m-2">
           <div class="row m-2 p-2">
             <p class="syllabus__week-title h4">Week 1</p>
-            <p>Introduction to HTML & CSS</p>
+            <p>Introduction to DataAnalytics with Microsoft Excel</p>
           </div>
         </div>
         <div class="col-12 card shadow col-md-5 m-2">
           <div class="row m-2 p-2">
             <p class="syllabus__week-title h4">Week 2</p>
-            <p>Responsive web development using Bootsrap 5
+            <p>Importance of SQL in Data Analytics
             </p>
 
           </div>
@@ -348,25 +348,19 @@ include_once("../includes/header.php");
         <div class="col-12 card shadow col-md-5 m-2">
           <div class="row m-2 p-2">
             <p class="syllabus__week-title h4">Week 3</p>
-            <p>Function programming with Javascript E56</p>
+            <p>Exploratory Data Analysis using Python</p>
           </div>
         </div>
         <div class="col-12 card shadow col-md-5 m-2">
           <div class="row m-2 p-2">
             <p class="syllabus__week-title h4">Week 4</p>
-            <p>Advanced web development with React js </p>
+            <p>Data Visualisation with Seaborn </p>
           </div>
         </div>
         <div class="col-12 card shadow col-md-5 m-2">
           <div class="row m-2 p-2">
             <p class="syllabus__week-title h4">Week 5</p>
-            <p>Build & Deploy scalable web applications</p>
-          </div>
-        </div>
-        <div class="col-12 card shadow col-md-5 m-2">
-          <div class="row m-2 p-2">
-            <p class="syllabus__week-title h4">Week 6</p>
-            <p>Projects</p>
+            <p>Capstone Project</p>
           </div>
         </div>
       </div>
@@ -615,7 +609,7 @@ include_once("../includes/testimony.php");
             <h3 class="accordion-header" id="headingFour">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                <h4 class="top-head-faq mb-0">How is the SIP program different from other courses?</h4>
+                <h4 class="top-head-faq mb-0">How is the IP program different from other courses?</h4>
               </button>
             </h3>
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
