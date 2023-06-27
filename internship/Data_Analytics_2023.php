@@ -31,8 +31,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-xl-6 pb-5 pt-lg-2 pt-0">
         <div class="text-center text-md-end">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1678446070/website/internship/Internship_banner_qswn1v.png"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/2_1_yat1nu.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
         <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
@@ -434,7 +433,7 @@ include_once("../includes/testimony.php");
 </section>
 
 <!--  -->
-<!-- <section class="bg-trainerintro">
+<section class="bg-trainerintro">
   <div class="container">
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
@@ -443,15 +442,15 @@ include_once("../includes/testimony.php");
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
-            <div class="col-md-4 text-center timg">
+            <div class="col-md-5 text-center timg">
               <img
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004266/website/trainers/kishore_ruan1n.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/website_KISHORE_BRO_n94zc0.webp"
                 class="img-fluid" alt="full stack trainer" Loading="lazy" title="">
               <p class="trainee-headtitle text-center pt-3 mb-0">Kishore Kammela</p>
               <p class="school-para text-center pt-2">Principal Instructor & Head - Operations </p>
 
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7">
               <p class="ft-16 text-justify">Kishore is a highly motivated and ambitious individual with over 6 years of
                 work experience. I have worked in the education and operation heavy industries and have taken up various
                 roles that required me to build and market innovative products, with the core objective of helping
@@ -461,7 +460,7 @@ include_once("../includes/testimony.php");
         </div>
       </div>
 
-      <div class="col-lg-8 pb-md-5">
+      <!--  <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
@@ -478,10 +477,10 @@ include_once("../includes/testimony.php");
             </div>
           </div>
         </div>
-      </div>
+      </div>-->
     </div>
   </div>
-</section> -->
+</section>
 
 <!--  -->
 <section class="bg-certified">

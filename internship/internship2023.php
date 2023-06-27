@@ -26,8 +26,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-xl-6 pb-5 pt-lg-2 pt-0">
         <div class="text-center text-md-end">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1678446070/website/internship/Internship_banner_qswn1v.png"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/1_2_fulzbz.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
         <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
@@ -435,13 +434,13 @@ include_once("../includes/testimony.php");
 </section>
 
 <!--  -->
-<!-- <section class="bg-trainerintro">
+<section class="bg-trainerintro">
   <div class="container">
     <div class="row justify-content-center pb-5">
       <div class="col-md-12 text-center pt-5 pb-md-4">
         <h2 class="top-head  pt-md-3 pb-4">Meet Your Trainers</h2>
       </div>
-      <div class="col-lg-8 pb-md-5">
+      <!--<div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
             <div class="col-md-4 text-center timg">
@@ -460,19 +459,19 @@ include_once("../includes/testimony.php");
             </div>
           </div>
         </div>
-      </div>
+      </div>-->
 
       <div class="col-lg-8 pb-md-5">
         <div class="trainee-box bg-white shadow">
           <div class="row align-items-center">
-            <div class="col-md-4 text-center timg">
+            <div class="col-md-5 text-center timg">
               <img
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1650004270/website/trainers/naveen_xrhcie.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/website_naveen_anna_1_ztnbrl.webp"
                 class="img-fluid" alt="fullstack mern trainer" Loading="lazy" title="">
               <p class="trainee-headtitle text-center pt-3 mb-0">Naveen Chandran</p>
               <p class="school-para text-center pt-2">Co-Founder - Skill Safari </p>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7">
               <p class="ft-16 text-justify">Naveen has a demonstrative history of working in the e-learning and software
                 industry. Strategic thinker and resilient holding experience as an entrepreneur being a contriver at
                 Skill Safari & Keys Inc. Solidity in Training, Product Innovation, Sales & Operations and R&D.</p>
@@ -482,7 +481,7 @@ include_once("../includes/testimony.php");
       </div>
     </div>
   </div>
-</section> -->
+</section>
 
 <!--  -->
 <section class="bg-certified">
