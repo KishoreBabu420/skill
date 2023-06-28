@@ -232,101 +232,46 @@ include_once("../includes/header.php");
           <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="Python"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/python_1_vf01jy.png"
                 loading="lazy" />
             </div>
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="Git"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/git_srlcgb.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/numpy_is9rui.png"
                 loading="lazy" />
             </div>
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="GitHub"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/github_zkisle.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/seaborn_pmjxkf.png"
                 loading="lazy" />
             </div>
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="html"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/html_orrq6q.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/excel_fdsoxt.png"
                 loading="lazy" />
             </div>
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="css"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/css_knu9hc.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/pandas_itq5dj.png"
                 loading="lazy" />
             </div>
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="JavaScript"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/js_pueijt.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/pandas_itq5dj.png"
                 loading="lazy" />
             </div>
           </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="BootStrap 5"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/bootstrap_rvxy3u.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="React Js"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_s2rpnh.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="React Router"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/react_router_odgjdw.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="Redux"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/redux_y5zdgw.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="Styled Components"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/style_qiwmnz.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="FireBase"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/firebase_ki5deh.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="Node Js"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/node_z0wrmk.png"
-                loading="lazy" />
-            </div>
-          </div>
-          <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
-              <img class="img-fluid" alt="Express Js"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1651132931/website/tech_logos/express_zphtmd.png"
-                loading="lazy" />
-            </div>
-          </div>
+
         </div>
       </div>
       <div class="row justify-content-center pt-3">
