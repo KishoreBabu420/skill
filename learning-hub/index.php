@@ -15,7 +15,7 @@ include_once("../includes/header.php");
 <section class="top-pagespace"></section>
 <!-- top-space -->
 <!-- features tab -->
-<section class="text-white bg-hero">
+<section class="text-white bg-learning-hub">
   <div class=" container py-3 px-md-5 rounded">
     <div class="row align-items-center">
       <div class="col-lg-7">

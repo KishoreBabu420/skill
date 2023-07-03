@@ -108,6 +108,12 @@ body {
   background-position: bottom;
   overflow: hidden !important;
 }
+.bg-learning-hub {
+  background: url("https://res.cloudinary.com/skill-safari/image/upload/v1688377701/website/Banner/MicrosoftTeams-image_3_pzvckn.png")
+    no-repeat;
+  background-position: bottom;
+  overflow: hidden !important;
+}
 
 .regbtn a,
 .regbtn button {
