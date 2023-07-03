@@ -250,7 +250,7 @@ include_once("../includes/header.php");
     </div>
     <div class="col-12 col-md-6 col-lg-4 m-auto">
       <div class="callbackbtn mt-3">
-        <a href="https://rzp.io/l/cl3zIDMGh" class="text-decoration-none">Enroll Now</a>
+        <a href="https://rzp.io/l/Kg0kEmeR" class="text-decoration-none">Enroll Now</a>
 
         <!-- <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
           More</button> -->
