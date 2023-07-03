@@ -12,8 +12,8 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h1 class="internshipH1 pt-3"> Data Analytics Internship Program </h1>
-        <p class="school-para pt-5">SkillSafari's Data Analytics Internship Program offers an immersive and hands-on
+        <h1 class="internshipH1 pt-3"> Data Analyst Internship Program </h1>
+        <p class="school-para pt-5">SkillSafari's Data Analyst Internship Program offers an immersive and hands-on
           experience in data analytics.
 
           Participants will gain practical knowledge and skills in collecting, interpreting, and visualising data to
@@ -34,7 +34,8 @@ include_once("../includes/header.php");
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/2_1_yat1nu.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
-        <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
+        <div class="message-drop bg-white">"It was a great experience learning from them.Mentors were always there to
+          help me to clear my doubts.Thank you skill Safari." - Rakshitha D
           <div class="starrating pt-1">
             <span><i class="fas fa-star"></i></span>
             <span><i class="fas fa-star"></i></span>
@@ -200,7 +201,7 @@ include_once("../includes/header.php");
           <div class="col-md-10 col-10">
             <p class="timeline-head">Step 4 - Get feedback 🧑‍💻</p>
             <p class="school-para"> Also, get personal feedback on your assignment so that you can improve and become a
-              confident Developer in just 4 weeks.</p>
+              confident Developer in just 5 weeks.</p>
           </div>
         </div>
       </div>
@@ -260,7 +261,7 @@ include_once("../includes/header.php");
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="css"
-                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/pandas_itq5dj.png"
+                src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/mysql_xlcugt.png"
                 loading="lazy" />
             </div>
           </div>
@@ -454,7 +455,7 @@ include_once("../includes/testimony.php");
             </div>
             <div class="col-lg-10 col-10">
               <p class="cer-head w-100">Easily Shareable</p>
-              <p class="school-para">Add the certificate to your CV or your Resume or post it directly on LInkedin. You
+              <p class="school-para">Add the certificate to your CV or your Resume or post it directly on Linkedin. You
                 can even post it on instagram and twitter.</p>
             </div>
           </div>
@@ -544,7 +545,7 @@ include_once("../includes/testimony.php");
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">YYou should be between 15 to 28 years of age group and must have passed 12th
+                <p class="school-para mb-0">You should be between 15 to 28 years of age group and must have passed 12th
                   grade.</p>
               </div>
             </div>
@@ -553,7 +554,8 @@ include_once("../includes/testimony.php");
             <h3 class="accordion-header" id="headingFour">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                <h4 class="top-head-faq mb-0">How is the IP program different from other courses?</h4>
+                <h4 class="top-head-faq mb-0">How is the Skill Safari’s Internship program different from other courses?
+                </h4>
               </button>
             </h3>
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -607,7 +609,7 @@ include_once("../includes/testimony.php");
             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">I would say you will need a minimum of 2 hours of commitment per week or 1
+                <p class="school-para mb-0">I would say you will need a minimum of 6-7 hours of commitment per week or 1
                   hour per day.</p>
               </div>
             </div>

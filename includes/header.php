@@ -151,14 +151,14 @@
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
-                          Full Intership Program 2023
+                          Web Developer
                         </a>
                       </li>
                       <li><a class="dropdown-item" href="https://skillsafari.in/internship/Data_Analytics_2023">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Data Analytics Internship
+                          Data Analyst
                         </a>
                       </li>
                     </ul>

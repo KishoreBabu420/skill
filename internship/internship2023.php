@@ -12,15 +12,15 @@ include_once("../includes/header.php");
   <div class="container">
     <div class="row pt-5">
       <div class="col-xl-6 text-center text-md-start">
-        <h1 class="internshipH1 pt-3">Full Stack Internship Program </h1>
+        <h1 class="internshipH1 pt-3">Web Developer Internship Program </h1>
         <p class="school-para pt-5">The best way to master React JS is by doing. That's why our internship program is
           designed to provide you with hands-on experience building real-world applications.
 
           You'll learn how to write clean, efficient code that is easy to maintain and scales well and Learn The Skills
-          & Tools, And become a Skilled React Developer in 6 Weeks with the Skill Safari’s Internship Program
+          & Tools, And become a Skilled React Developer in 5 Weeks with the Skill Safari’s Internship Program
         </p>
         <div class="regbtn mb-5">
-          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decorat  ion-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
@@ -29,7 +29,9 @@ include_once("../includes/header.php");
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/1_2_fulzbz.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
-        <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
+        <div class="message-drop bg-white">"It was great to be a part of skill safari .They have skilled and
+          professional trainers ,it was a very good experience of online learning .Each and every doubts were clarified
+          and extra classes were taken for doubt clarifications." - Pallavi S
           <div class="starrating pt-1">
             <span><i class="fas fa-star"></i></span>
             <span><i class="fas fa-star"></i></span>
@@ -195,7 +197,7 @@ include_once("../includes/header.php");
           <div class="col-md-10 col-10">
             <p class="timeline-head">Step 4 - Get feedback 🧑‍💻</p>
             <p class="school-para"> Also, get personal feedback on your assignment so that you can improve and become a
-              confident Developer in just 4 weeks.</p>
+              confident Developer in just 5 weeks.</p>
           </div>
         </div>
       </div>
@@ -510,7 +512,7 @@ include_once("../includes/testimony.php");
             </div>
             <div class="col-lg-10 col-10">
               <p class="cer-head w-100">Easily Shareable</p>
-              <p class="school-para">Add the certificate to your CV or your Resume or post it directly on LInkedin. You
+              <p class="school-para">Add the certificate to your CV or your Resume or post it directly on Linkedin. You
                 can even post it on instagram and twitter.</p>
             </div>
           </div>
@@ -600,7 +602,7 @@ include_once("../includes/testimony.php");
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">YYou should be between 15 to 28 years of age group and must have passed 12th
+                <p class="school-para mb-0">You should be between 15 to 28 years of age group and must have passed 12th
                   grade.</p>
               </div>
             </div>
@@ -609,7 +611,7 @@ include_once("../includes/testimony.php");
             <h3 class="accordion-header" id="headingFour">
               <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                <h4 class="top-head-faq mb-0">How is the SIP program different from other courses?</h4>
+                <h4 class="top-head-faq mb-0">How is the Skill Safari program different from other courses?</h4>
               </button>
             </h3>
             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -649,7 +651,7 @@ include_once("../includes/testimony.php");
             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">The program will last for 4 weeks.</p>
+                <p class="school-para mb-0">The program will last for 5 weeks.</p>
               </div>
             </div>
           </div>
@@ -663,7 +665,7 @@ include_once("../includes/testimony.php");
             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSix"
               data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <p class="school-para mb-0">I would say you will need a minimum of 2 hours of commitment per week or 1
+                <p class="school-para mb-0">I would say you will need a minimum of 6-7 hours of commitment per week or 1
                   hour per day.</p>
               </div>
             </div>
