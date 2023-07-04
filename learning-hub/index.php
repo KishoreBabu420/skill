@@ -823,6 +823,28 @@ include_once("../includes/header.php");
         </div>
       </div>
       <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingSix">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
+            <h4 class=" top-head-faq mb-0">
+              How do I choose my career path?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseTwenty1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              In the Alchemyst 2. O program, you will be learning the fundamentals of programming for the first 2
+              months, and you can also decide which career path and skills to pursue.
+              To upskill yourself to bring out the best in you.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item mb-3 p-4">
         <h3 class="accordion-header" id="headingTwo">
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
@@ -856,6 +878,34 @@ include_once("../includes/header.php");
             <p class="school-para mb-0">
               Absolutely. The program is designed to help you understand fundamental concepts and build up to advanced
               concepts.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFour">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+            <h4 class="top-head-faq mb-0">
+              I do not have a technical background. Is it possible for me to learn programming?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Absolutely! You can still learn programming even if you come from a non-technical background.
+              Anyone can quickly become prepared for a tech job with the help of SkillSafari's Alchemyst 2. O program.
+              The programme is best suited for students in their final year, job seekers, and people who want to switch
+              to a tech career. Programming is a skill that can be learned with practice, commitment, and the right
+              direction. Nothing prevents you from joining the programme and landing a tech job, regardless of your
+              degree, branch, grades, or backlogs. You are not required to have any prior coding experience. You’ll
+              learn everything from scratch. Because of your prior experiences, you might be scared to code. However,
+              our enthusiastic instructors will make every concept simple and incorporate teaching strategies supported
+              by science.
+
             </p>
           </div>
         </div>
@@ -933,7 +983,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
             <h4 class="top-head-faq mb-0">
-              Will I get a certificate?
+              When Will I get a certificate?
             </h4>
           </button>
         </h3>
@@ -971,24 +1021,7 @@ include_once("../includes/header.php");
           </div>
         </div>
       </div>
-      <div class="accordion-item mb-3 p-4">
-        <h3 class="accordion-header" id="headingFive">
-          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
-            data-bs-target="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
-            <h4 class="top-head-faq mb-0">
-              What if I have doubts while learning?</h4>
-          </button>
-        </h3>
 
-        <div id="collapseFifteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
-          data-bs-parent="#courseFAQExample">
-          <div class="accordion-body">
-            <p class="school-para mb-0">
-              You can clarify your doubts with the mentors directly and get them clarified, or you can post your
-              questions in the community, and experts will get back to you with solutions. </p>
-          </div>
-        </div>
-      </div>
       <div class="accordion-item mb-3 p-4">
         <h3 class="accordion-header" id="headingFive">
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
