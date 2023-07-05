@@ -17,7 +17,7 @@ include_once("../includes/header.php");
   <div class=" container py-3 px-md-5 rounded">
     <div class="row align-items-center">
       <div class="col-lg-7 text-md-start text-center">
-        <h1 class=" pt-3">Full Stack Developer Course</h1> 
+        <h1 class=" pt-3">Full Stack Developer Course</h1>
         <p class="hero-para text-white pt-3">Enroll now & Get trained in skills that are essential
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
@@ -1120,7 +1120,7 @@ include_once("../includes/header.php");
       <div class="col-lg-12 text-center">
         <h2 class="text-white top-head">Want to know more about Full Stack Developer Course?</h2>
         <p class="para-top text-white text-center">
-          Become a job-ready Full Stack Developer in 28 weeks with a minimum CTC from 5 LPA - 25 LPA. Want to know
+          Become a job-ready Full Stack Developer in 28 weeks with a minimum CTC from 4 LPA - 25 LPA. Want to know
           how you can join the cohort? or if you have any questions, feel free to connect with our experts anytime.
         </p>
         <div class="row align-items-center justify-content-center pt-4">
