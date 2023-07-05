@@ -20,7 +20,7 @@ include_once("../includes/header.php");
         <h1 class=" pt-3">Full Stack Developer Course</h1>
         <p class="hero-para text-white pt-3">Enroll now & Get trained in skills that are essential
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
-          leading tech companies with a salary No less than 5 LPA. Feel free to get in touch with us for more details
+          leading tech companies with a salary No less than 4 LPA. Feel free to get in touch with us for more details
         </p>
         <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> July 15<sup>th</sup> 2023</span></h3>
       </div>

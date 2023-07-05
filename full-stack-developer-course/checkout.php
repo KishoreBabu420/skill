@@ -37,7 +37,7 @@ include_once("../includes/header.php");
               </div>
               <div class="feature__content-container col-10">
                 <h5>
-                  100% assured placement in jobs with 5LPA -20LPA
+                  100% assured placement in jobs with 4LPA -20LPA
                 </h5>
               </div>
             </div>
@@ -144,7 +144,7 @@ include_once("../includes/header.php");
                 <div class="col-12 text-center">
                   <div class="next_batch iconbox-small">
                     <h5 class="pt-3">Next batch starting from:</h5>
-                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 15<sup>th</sup>May  2023,</p>
+                    <p class="icontitle-head"><i class="fa-solid fa-calendar-day"></i> 15<sup>th</sup>May 2023,</p>
                     </br>
                   </div>
                 </div>
@@ -154,7 +154,8 @@ include_once("../includes/header.php");
             <div class="row align-items-center pt-3 pb-4 p-3">
               <div class="col-12">
                 <div class="regbtn text-center">
-                  <button><a href="https://rzp.io/l/cl3zIDMGh" class="text-decoration-none text-light">Book Now</a> </button>
+                  <button><a href="https://rzp.io/l/cl3zIDMGh" class="text-decoration-none text-light">Book Now</a>
+                  </button>
                 </div>
               </div>
             </div>
