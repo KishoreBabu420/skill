@@ -109,7 +109,7 @@ body {
   overflow: hidden !important;
 }
 .bg-learning-hub {
-  background: url("https://res.cloudinary.com/skill-safari/image/upload/v1688377701/website/Banner/MicrosoftTeams-image_3_pzvckn.png")
+  background: url("https://res.cloudinary.com/skill-safari/image/upload/v1688560644/website/Banner/MicrosoftTeams-image_4_r8azst.jpg")
     no-repeat;
   background-position: bottom;
   overflow: hidden !important;
@@ -594,6 +594,22 @@ body {
 
 .main {
   width: 58%;
+  /* height: 500vh; */
+  min-height: 1000px;
+  display: flex;
+  flex-direction: column;
+}
+.sidebar-2 {
+  width: 29%;
+  height: 97vh;
+  overflow: auto;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 18%;
+}
+
+.main-2 {
+  width: 68%;
   /* height: 500vh; */
   min-height: 1000px;
   display: flex;
