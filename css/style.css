@@ -2694,6 +2694,9 @@ width: unset!important;
 .course-content .section-title {
   font-size: 1.75rem;
 }
+.section-title-2o {
+  font-size: 1.5rem;
+}
 .section__card-title {
   font-size: 1.5rem;
 }
