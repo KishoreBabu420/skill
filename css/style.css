@@ -2695,10 +2695,14 @@ width: unset!important;
   font-size: 1.75rem;
 }
 .section-title-2o {
-  font-size: 1.25remrem;
+  font-size: 1.25rem;
 }
 .icon-2o {
   list-style: none;
+}
+.card-2o {
+  width: 18rem;
+  height: 25rem;
 }
 .section__card-title {
   font-size: 1.5rem;
