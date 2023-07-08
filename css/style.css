@@ -2697,6 +2697,9 @@ width: unset!important;
 .section-title-2o {
   font-size: 1.25remrem;
 }
+.icon-2o {
+  list-style: none;
+}
 .section__card-title {
   font-size: 1.5rem;
 }
