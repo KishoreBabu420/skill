@@ -363,13 +363,13 @@ include_once("../includes/header.php");
               </a>
             </li>
             <li class="my-3">
-              <a href="#curriculum" class="course__sidebar-link curriculum">
+              <a href="#placements" class="course__sidebar-link curriculum">
                 <div class="text-center pt-2 pb-2">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-3_gq1bnj.png"
                     class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
-                <div class="row justify-content-center">
+                <!-- <div class="row justify-content-center">
                   <div class="col-md-2 col-2">
                     <div class="text-center pt-2 pb-2">
                       <img
@@ -377,7 +377,7 @@ include_once("../includes/header.php");
                         class="img-fluid" alt="full stack event 2" Loading="lazy" title="">
                     </div>
                   </div>
-                </div>
+                </div> -->
               </a>
             </li>
             <li>
@@ -496,49 +496,125 @@ include_once("../includes/header.php");
               <p class="section-title-2o">Based on the fundamentals, you can choose a career path and skills to acquire.
                 to develop your abilities so that your best self can show.</p>
               <div class="col-lg-4">
-                <div class="card" style="width: 18rem;">
+                <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title">MERN Stack Web Developer</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Curriculum</h6>
+                    <h5 class="card-title mb-3">MERN Stack Web Developer</h5>
+                    <div class="row">
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Mongo_DB_ogukup.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Ex_teewen.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Node_cvvhuf.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/react_rnqzkm.png"
+                          alt="">
+                      </div>
+                    </div>
+                    <h6 class="card-subtitle mb-2 mt-3">Curriculum</h6>
                     <p class="card-text">
-                    <ul>
+                      <!-- <ul>
                       <li>UI & Version Control using HTML & CSS</li>
                       <li>Adding Interactions and Functionalities</li>
                       <li>Creating Single applications (SPA's)</li>
                       <li>Develop and Deploy Backend APIs using Express and MongoDB </li>
-                    </ul>
+                    </ul> -->
                     </p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-4">
-                <div class="card" style="width: 18rem;">
+                <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title">Data Analyst</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Curriculum</h6>
+                    <h5 class="card-title mb-3">Data Analyst</h5>
+                    <div class="row ">
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Excel_mtnnxi.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Python_iewp6w.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Scikit_Learn_qtbtxx.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Power_BI_qpifbg.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Tableau_kmdryn.png"
+                          alt="">
+                      </div>
+                    </div>
+                    <h6 class="card-subtitle mb-2 mt-5"><span><img src="../images/ic4.png" width="40" /> Duration : 5
+                        months</span>
+                    </h6>
+                    <h6 class="card-subtitle mb-2 mt-5"><span><img src="../images/ic4.png" width="40" /> Duration : 5
+                        months</span>
+                    </h6>
                     <p class="card-text">
-                    <ul>
+                      <!-- <ul>
                       <li>Data Analytics using Microsoft Excel </li>
                       <li>Data Querying with SQL </li>
                       <li>Data Cleaning and Pre Processing with Python </li>
                       <li>Data Visualization and Storytelling using Power BI </li>
-                    </ul>
+                    </ul> -->
                     </p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-4">
-                <div class="card" style="width: 18rem;">
+                <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title">QA/Automation Tester</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Curriculum</h6>
+                    <h5 class="card-title mb-3">QA/Automation Tester</h5>
+                    <div class="row">
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Java_odbpx3.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Selenium_n5ferp.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Cucumber_tazipp.png"
+                          alt="">
+                      </div>
+                      <div class="col-lg-2">
+                        <img
+                          src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Testng_esknk7.png"
+                          alt="">
+                      </div>
+                    </div>
+                    <h6 class="card-subtitle mb-3 mt-3">Curriculum</h6>
                     <p class="card-text">
-                    <ul>
+                      <!-- <ul>
                       <li>Basics of Software Testing & Manual Testing </li>
                       <li>Programming and OOPS with Core Java </li>
                       <li>Web and API Testing Postman </li>
                       <li>Learn Continuous Integration with Jenkins and GIT </li>
-                    </ul>
+                    </ul> -->
                     </p>
                   </div>
                 </div>
@@ -674,20 +750,12 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 community" id="community">
-
-        </section>
-
       </main>
     </div>
   </div>
 </div>
 
-<!-- OBL Principles -->
-<section class="obl-principles my-3 py-3 advantage-card">
 
-</section>
-<!-- OBL Principles -->
 <!-- Certification -->
 <section class="certification my-3 py-3">
   <div class="container">
