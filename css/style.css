@@ -2844,4 +2844,10 @@ width: unset!important;
     font-size: 2rem;
   }
 }
+
+/* career page */
+.job-post {
+  padding: 1.5rem;
+  border: 1px solid;
   border-radius: 20px;
+}
