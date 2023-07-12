@@ -20,15 +20,15 @@ include_once("../includes/header.php");
 
 <section class="job- posting-portal">
   <div class="container">
-    <div class="col-lg-10 job-post">
-      <div class="d-flex ">
-        <div class="">
-          <p>Department</p>
-          <h3>Graphic Designer</h3>
-          <p>location</p>
+    <div class="col-lg-10 my-3 job-post">
+      <div class="row ">
+        <div class="col-lg-10">
+          <p class="job-department">Department</p>
+          <h3 class="job-role">Graphic Designer</h3>
+          <p class="job-location">location</p>
         </div>
-        <div>
-          <p><i class="fa-light fa-circle-arrow-right"></i></p>
+        <div class="col-lg-2">
+          <p class="job-icon"><i class="fa-solid fa-circle-arrow-right job-icon"></i></p>
         </div>
       </div>
     </div>

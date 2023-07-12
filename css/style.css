@@ -2851,3 +2851,17 @@ width: unset!important;
   border: 1px solid;
   border-radius: 20px;
 }
+.job-department {
+  font-weight: 600;
+  font-size: 32px;
+}
+.job-role {
+  font-weight: 600;
+}
+.job-location {
+}
+
+.job-icon {
+  color: #ff9900;
+  font-size: 2.25rem;
+}
