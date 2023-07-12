@@ -143,181 +143,35 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- features tab -->
-<!-- Career Tracks -->
-<!--<section class="career-tracks mt-0 mb-3 py-3 advantage-card">
+<section class="certification my-3 py-3">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title section-title-two">Choose your Career Tracks</h2>
+      <h2 class="section-title section-title-two">Our Space</h2>
     </div>
-    <div class="row align-items-center justify-between">
-      <div class="col-12 col-lg-4">
-        <div class="card bg-white  my-2 border-0 rounded-3 shadow">
-          <div class="card-header px-4 pt-3 track-header track-header-one">
-            <h3 class="track-card-title my-0">
-              MERN Stack Web Developer
-            </h3>
-            <p class="track-technologies my-2">Learn technologies : React JS, Node JS, Express JS, MongoDb</p>
-          </div>
-          <div class="card-body p-4 my-2">
-            <p class="track-card-description">
-              Become a Full Stack Developer with expertise on MERN Stack. Build a strong web development fundamentals
-              and problem solving skills. Develop web
-              applications using emerging frameworks and build a portfolio of projects.
-            </p>
-
-            <h4 class="track-card-title my-0">
-              Curriculum
-            </h4>
-            <ul class=" pt-3">
-              <li class="school-para pb-2">
-                UI & Version Control using HTML & CSS
-              </li>
-              <li class="school-para pb-2">
-                Adding Interactions and Functionalities
-              </li>
-              <li class="school-para pb-2">
-                Creating Single Page Applications (SPA's)
-              </li>
-              <li class="school-para">
-                Develop and Deploy Backend API's using Express and MongoDb
-              </li>
-            </ul>
-          </div>
-        </div>
+    <div class="d-flex align-items-start">
+      <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        <button class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home"
+          type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</button>
+        <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile"
+          type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">why 2.0</button>
+        <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages"
+          type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Operation</button>
+        <button class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings"
+          type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Moke Interviews</button>
       </div>
-      <div class="col-12 col-lg-4">
-        <div class="card bg-white  my-2 border-0 rounded-3 shadow">
-          <div class="card-header px-4 pt-3 track-header track-header-two">
-            <h3 class="track-card-title my-0">
-              Data Analyst
-            </h3>
-            <p class="track-technologies my-2">Learn technologies : Microsoft Excel, Numpy, Pandas, MatplotLib PowerBI
-            </p>
-          </div>
-          <div class="card-body p-4 my-2">
-            <p class="track-card-description">
-              Build a strong understanding of data analysis techniques, tools and methodologies. Become an expert in
-              uncovering insights and patterns from complex data sets. Create a portfolio of projects that describe your
-              abilities.
-            </p>
-
-            <h4 class="track-card-title my-0">
-              Curriculum
-            </h4>
-            <ul class=" pt-3">
-              <li class="school-para pb-2">
-                Data Analytics using Microsoft Excel
-              </li>
-              <li class="school-para pb-2">
-                Data Querying with SQL
-              </li>
-              <li class="school-para pb-2">
-                Data Cleaning & Pre Processing with Python
-              </li>
-              <li class="school-para">
-                Data Visualization and Story telling using Power BI
-              </li>
-            </ul>
-          </div>
+      <div class="tab-content" id="v-pills-tabContent">
+        <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">..1
         </div>
-      </div>
-      <div class="col-12 col-lg-4">
-        <div class="card bg-white  my-2 border-0 rounded-3 shadow">
-          <div class="card-header px-4 pt-3 track-header track-header-three">
-            <h3 class="track-card-title my-0">
-              QA/Automation Tester
-            </h3>
-            <p class="track-technologies my-2">Learn technologies : Core Java, Manual testing, Jenkins, Postman</p>
-          </div>
-          <div class="card-body p-4 my-2">
-            <p class="track-card-description">
-              Build your career as a Manual/Automation Test Engineer. Our industry-relevant curriculum ensures you
-              become an expert in identifying, tracking and reporting defects. Create a portfolio of projects that
-              describe your abilities.
-            </p>
-
-            <h4 class="track-card-title my-0">
-              Curriculum
-            </h4>
-            <ul class=" pt-3">
-              <li class="school-para pb-2">
-                Basics of Software testing & Manual Testing
-              </li>
-              <li class="school-para pb-2">
-                Programming & OOPS with Core Java
-              </li>
-              <li class="school-para pb-2">
-                Web and API Testing Postman
-              </li>
-              <li class="school-para">
-                Learn Continuous Integration with Jenkins and GIT
-              </li>
-            </ul>
-          </div>
+        <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">..2</div>
+        <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">..3
         </div>
-      </div>
-    </div>
-    <div class="col-12 col-md-6 col-lg-4 m-auto">
-      <div class="callbackbtn mt-3">
-        <a href="https://rzp.io/l/Kg0kEmeR" class="text-decoration-none">Enroll Now</a>
-
-        <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
-          More</button>
-         Modal 
-        <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
-                <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
-                 
-                  <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
-                    id="cbe-partner-btn">
-                    <div class="mb-3">
-                      <label for="fullName" class="form-label">Full Name*</label>
-                      <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                        data-parsley-required-message="We require your name" placeholder="Enter Your Full Name"
-                        required />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="email" class="form-label">Email Address*</label>
-                      <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                        placeholder="Enter Your Email ID" name="email"
-                        data-parsley-required-message="Email Address is required" required />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="mobile" class="form-label">Mobile Number*</label>
-                      <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                        placeholder="Enter Your Mobile Number" name="phone"
-                        data-parsley-required-message="Mobile Number is required"
-                        data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
-                        data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
-                        data-parsley-minlength="10" data-parsley-maxlength="11" />
-                    </div>
-                    <input type="hidden" name="utm_source" value="">
-                    <input type="hidden" name="utm_medium" value="">
-                    <input type="hidden" name="utm_campaign" value="">
-                    <input type="hidden" name="utm_term" value="">
-                    <input type="hidden" name="utm_content" value="">
-                    <input type="hidden" name="_webhook"
-                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
-                    <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
-                    <div class="callbackbtn mt-3">
-                      <button class="text-decoration-none" type="submit">Submit</button>
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> 
+        <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">..4
+        </div>
       </div>
     </div>
   </div>
-</section>-->
-<!-- Career Tracks -->
+</section>
+
 <div class="course-content">
   <div class="container">
     <div class="row justify-content-between">
@@ -392,7 +246,7 @@ include_once("../includes/header.php");
       <main class="col-lg-9 main">
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 advantage" id="advantage">
           <div class="section__title-container p-2">
-            <h2 class="section-title"> Fundamentals</h2>
+            <h2 class="section-title">Stage 1: Fundamentals</h2>
             <hr>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
@@ -483,12 +337,10 @@ include_once("../includes/header.php");
             </div>
           </div>
 
-
-
         </section>
         <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
           <div class="section__title-container p-2">
-            <h2 class="section-title">Curriculum</h2>
+            <h2 class="section-title">Stage 2: Choose your career path</h2>
             <hr>
           </div>
           <div class="work__image-container mb-2">
@@ -500,22 +352,22 @@ include_once("../includes/header.php");
                   <div class="card-body">
                     <h5 class="card-title mb-3">MERN Stack Web Developer</h5>
                     <div class="row">
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Mongo_DB_ogukup.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Ex_teewen.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Node_cvvhuf.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/react_rnqzkm.png"
                           alt="">
@@ -538,27 +390,27 @@ include_once("../includes/header.php");
                   <div class="card-body">
                     <h5 class="card-title mb-3">Data Analyst</h5>
                     <div class="row ">
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Excel_mtnnxi.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Python_iewp6w.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Scikit_Learn_qtbtxx.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Power_BI_qpifbg.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Tableau_kmdryn.png"
                           alt="">
@@ -586,22 +438,22 @@ include_once("../includes/header.php");
                   <div class="card-body">
                     <h5 class="card-title mb-3">QA/Automation Tester</h5>
                     <div class="row">
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Java_odbpx3.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Selenium_n5ferp.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Cucumber_tazipp.png"
                           alt="">
                       </div>
-                      <div class="col-lg-2">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Testng_esknk7.png"
                           alt="">
@@ -756,89 +608,7 @@ include_once("../includes/header.php");
 </div>
 
 
-<!-- Certification -->
-<section class="certification my-3 py-3">
-  <div class="container">
-    <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title section-title-two">Dual Accreditation certification</h2>
-    </div>
-    <div class="row align-items-center">
-      <div class="col-md-6 col-12">
-        <div class="certificate-description">
-          <h4 class="text-center text-md-start">
-            Complete all the assignments and projects to earn a certificate from
-            Skill Safari with accreditation from NAASCOM and Skill India.
-          </h4>
-        </div>
-        <!-- <div class="col-8 mx-auto mx-lg-1 my-2">
-          <div class="callbackbtn mt-3 text-center">
-            <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
-              More</button>
-            
-            <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
-              aria-hidden="true">
-              <div class="modal-dialog">
-                <div class="modal-content">
-                  <div class="modal-body">
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
-                    <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
-                      <h5 class="trainingform-head pb-3">Want to know More?</h5>
-                      <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
-                        id="cbe-partner-btn">
-                        <div class="mb-3">
-                          <label for="fullName" class="form-label">Full Name*</label>
-                          <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp"
-                            name="name" data-parsley-required-message="We require your name"
-                            placeholder="Enter Your Full Name" required />
-                        </div>
 
-                        <div class="mb-3">
-                          <label for="email" class="form-label">Email Address*</label>
-                          <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                            placeholder="Enter Your Email ID" name="email"
-                            data-parsley-required-message="Email Address is required" required />
-                        </div>
-
-                        <div class="mb-3">
-                          <label for="mobile" class="form-label">Mobile Number*</label>
-                          <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                            placeholder="Enter Your Mobile Number" name="phone"
-                            data-parsley-required-message="Mobile Number is required"
-                            data-parsley-error-message="Provide valid Mobile Number" required
-                            data-parsley-trigger="keyup" data-parsley-validation-threshold="1"
-                            data-parsley-debounce="500" data-parsley-type="digits" data-parsley-minlength="10"
-                            data-parsley-maxlength="11" />
-                        </div>
-                        <input type="hidden" name="utm_source" value="">
-                        <input type="hidden" name="utm_medium" value="">
-                        <input type="hidden" name="utm_campaign" value="">
-                        <input type="hidden" name="utm_term" value="">
-                        <input type="hidden" name="utm_content" value="">
-                        <input type="hidden" name="_webhook"
-                          value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
-                        <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
-                        <div class="callbackbtn mt-3">
-                          <button class="text-decoration-none" type="submit">Submit</button>
-                        </div>
-                      </form>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>-->
-      </div>
-      <div class="col-md-6 col-12">
-        <div class="certificate__img-container">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683953483/certificate_a9p8kr.webp"
-            alt="Skill Safari certificate" class="img-fluid">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Certification -->
 <!-- Placement Program -->
 <section class="placements my-3 py-3 advantage-card">
   <div class="container">
@@ -1096,6 +866,89 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- Hiring Partners -->
+<!-- Certification -->
+<section class="certification my-3 py-3">
+  <div class="container">
+    <div class="section-title-container py-2 my-4 text-center ">
+      <h2 class="section-title section-title-two">Get Certified</h2>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-md-6 col-12">
+        <div class="certificate-description">
+          <h4 class="text-center text-md-start">
+            You will be given a certificate proving your industry readiness after submitting your projects and passing
+            the pre-placement test.
+          </h4>
+        </div>
+        <!-- <div class="col-8 mx-auto mx-lg-1 my-2">
+          <div class="callbackbtn mt-3 text-center">
+            <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
+              More</button>
+            
+            <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
+              aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
+                    <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
+                      <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                      <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
+                        id="cbe-partner-btn">
+                        <div class="mb-3">
+                          <label for="fullName" class="form-label">Full Name*</label>
+                          <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp"
+                            name="name" data-parsley-required-message="We require your name"
+                            placeholder="Enter Your Full Name" required />
+                        </div>
+
+                        <div class="mb-3">
+                          <label for="email" class="form-label">Email Address*</label>
+                          <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                            placeholder="Enter Your Email ID" name="email"
+                            data-parsley-required-message="Email Address is required" required />
+                        </div>
+
+                        <div class="mb-3">
+                          <label for="mobile" class="form-label">Mobile Number*</label>
+                          <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                            placeholder="Enter Your Mobile Number" name="phone"
+                            data-parsley-required-message="Mobile Number is required"
+                            data-parsley-error-message="Provide valid Mobile Number" required
+                            data-parsley-trigger="keyup" data-parsley-validation-threshold="1"
+                            data-parsley-debounce="500" data-parsley-type="digits" data-parsley-minlength="10"
+                            data-parsley-maxlength="11" />
+                        </div>
+                        <input type="hidden" name="utm_source" value="">
+                        <input type="hidden" name="utm_medium" value="">
+                        <input type="hidden" name="utm_campaign" value="">
+                        <input type="hidden" name="utm_term" value="">
+                        <input type="hidden" name="utm_content" value="">
+                        <input type="hidden" name="_webhook"
+                          value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
+                        <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                        <div class="callbackbtn mt-3">
+                          <button class="text-decoration-none" type="submit">Submit</button>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>-->
+      </div>
+      <div class="col-md-6 col-12">
+        <div class="certificate__img-container">
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683953483/certificate_a9p8kr.webp"
+            alt="Skill Safari certificate" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Certification -->
 <!-- FAQ SECTION -->
 <section class="bg-faq faq my-3 py-3" id="faq">
   <div class="container">
