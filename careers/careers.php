@@ -7,18 +7,24 @@ include_once("../includes/header.php");
 ?>
 <!-- top-space -->
 <section class="top-pagespace"></section>
-<section class="mt-5">
-  <div class="container ">
+
+<section class=" bg-hero mb-3">
+  <div class="container text-white">
     <div class="row text-center">
-      <p>Careers</p>
-      <h4>we're committed to bringing world-class, passionate professionals together to push new boundaries</h4>
-      <p>we believes in building teams where unique perspective and talents can thrive and everyone has what they need
+      <p class="mt-5">Careers</p>
+      <h4 class="mt-3 col-lg-7 h1 mx-auto">we're committed to bringing world-class, passionate professionals together to
+        push new boundaries
+      </h4>
+      <p class="col-lg-8 mx-auto p-5">we believes in building teams where unique perspective and talents can thrive and
+        everyone
+        has
+        what they need
         to excel in their role,career and at home.</p>
     </div>
   </div>
 </section>
 
-<section class="job- posting-portal">
+<section class="job-posting-portal mt-3">
   <div class="container">
     <div class="col-lg-9 my-3 job-post">
       <div class="row">
@@ -28,10 +34,23 @@ include_once("../includes/header.php");
           <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i> location</p>
         </div>
         <div class="col-lg-2 mt-3">
-          <p class="job-icon"><i class="fa-solid fa-circle-arrow-right job-icon"></i></p>
+          <a href="" class="job-icon"><i class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
     </div>
+    <div class="col-lg-9 my-3 job-post">
+      <div class="row">
+        <div class="col-lg-10">
+          <p class="job-department">Department</p>
+          <h3 class="job-role">Graphic Designer</h3>
+          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i> location</p>
+        </div>
+        <div class="col-lg-2 mt-3">
+          <a href="" class="job-icon"><i class="fa-solid fa-circle-arrow-right job-icon"></i></a>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 
