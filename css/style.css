@@ -2850,6 +2850,7 @@ width: unset!important;
   padding: 1.5rem;
   border: 1px solid;
   border-radius: 20px;
+  margin: auto !important;
 }
 .job-department {
   font-weight: 600;
@@ -2863,7 +2864,7 @@ width: unset!important;
 .job-location-icon {
   color: #ff9900;
   font-size: 1.25rem;
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 .job-icon {
