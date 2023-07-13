@@ -2853,7 +2853,7 @@ width: unset!important;
 }
 .job-department {
   font-weight: 600;
-  font-size: 32px;
+  font-size: 32px !important;
 }
 .job-role {
   font-weight: 600;
