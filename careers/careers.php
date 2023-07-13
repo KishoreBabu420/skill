@@ -25,7 +25,7 @@ include_once("../includes/header.php");
         <div class="col-lg-10">
           <p class="job-department">Department</p>
           <h3 class="job-role">Graphic Designer</h3>
-          <p class="job-location">location</p>
+          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i> location</p>
         </div>
         <div class="col-lg-2">
           <p class="job-icon"><i class="fa-solid fa-circle-arrow-right job-icon"></i></p>

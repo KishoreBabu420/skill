@@ -2853,12 +2853,17 @@ width: unset!important;
 }
 .job-department {
   font-weight: 600;
-  font-size: 32px !important;
+  font-size: 16px !important;
 }
 .job-role {
   font-weight: 600;
 }
 .job-location {
+}
+.job-location-icon {
+  color: #ff9900;
+  font-size: 1.25rem;
+  margin-right: 10px;
 }
 
 .job-icon {
