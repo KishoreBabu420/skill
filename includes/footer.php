@@ -45,6 +45,10 @@
               href="https://skillsafari.in/become-campus-ambassador">Become
               Campus Ambassador</a>
           </li>
+          <li class="list-group-item"><a class="text-decoration-none"
+              href="https://skillsafari.in/careers/careers">Become
+              Careers</a>
+          </li>
         </ul>
       </div>
       <div class="col-md col-sm-3 col-6 pt-md-0 pt-4">
