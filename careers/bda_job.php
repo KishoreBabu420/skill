@@ -12,7 +12,7 @@ include_once("../includes/header.php");
   <div class="container text-white">
     <div class="row ">
       <div class="col-lg-9">
-        <p class="h2">Graphic Designer</p>
+        <p class="h2">Business Development Associate</p>
         <p><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore | Full Time </p>
       </div>
       <div class="col-lg-3 mb-3">
@@ -34,27 +34,62 @@ include_once("../includes/header.php");
     <div class="col-lg-10">
       <p class="h3">Roles and Responsibilities:</p>
       <ul>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
+        <li>
+          <p>Prior Customer Support and/or Customer Success experience. </p>
+        </li>
+        <li>
+          <p> Strong verbal and written English communication. </p>
+        </li>
+        <li>
+          <p> Ability to organize, break down, and clearly articulate complex thoughts, Ideas, Skills and
+            instructions in written form.</p>
+        </li>
+        <li>
+          <p> Strong ability to take Initiative and confidently direct customer interactions. </p>
+        </li>
+        <li>
+          <p> Enjoys circumstances where the right answer isn't always obvious and gets points. satisfaction out
+            of helping others. </p>
+        </li>
+        <li>
+          <p> Able to separate themselves in frustrating situations and guide customers to efficient solutions.
+            Ability to work under pressure. </p>
+        </li>
+        <li>
+          <p> Strong organizational and time management skills. </p>
+        </li>
+        <li>
+          <p> Ability to work in a self-directed way. </p>
+        </li>
+        <li>
+          <p> Love of a fast-mov`ing environment</p>
+        </li>
       </ul>
     </div>
-    <div class="col-lg-10">
-      <p class="h3">Roles and Responsibilities:</p>
+    <div class="col-lg-10 mt-3">
+      <p class="h3">Details </p>
       <ul>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
-        <li>Identifying and contacting potential influencers from Instagram, YouTube, Facebook, Telegram etc who have
-          large followings and have relevant target audience.</li>
+        <li>
+          <p><strong> periods:</strong> 3 to 6 months</p>
+        </li>
+        <li>
+          <p><strong>Stipend:</strong> 12,000 </p>
+        </li>
+        <li>
+          <p><strong>After probation:</strong> Salary - 3 LPA </p>
+        </li>
+        <li>
+          <p><strong>Qualification:</strong> Any Degree </p>
+        </li>
+        <li>
+          <p><strong>Languages:</strong> Tamil, English </p>
+        </li>
+        <li>
+          <p><strong>Experience:</strong> Freshers </p>
+        </li>
+        <li>
+          <p><strong>Job Type:</strong> Work from office</p>
+        </li>
       </ul>
     </div>
   </div>

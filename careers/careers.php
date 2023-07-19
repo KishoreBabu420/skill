@@ -29,12 +29,13 @@ include_once("../includes/header.php");
     <div class="col-lg-9 my-3 job-post">
       <div class="row">
         <div class="col-lg-10">
-          <p class="job-department">Department</p>
-          <h3 class="job-role">Graphic Designer</h3>
+          <p class="job-department">Sales</p>
+          <h3 class="job-role">Business Development Associate</h3>
           <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore</p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="" class="job-icon"><i class="fa-solid fa-circle-arrow-right job-icon"></i></a>
+          <a href="https://skillsafari.in/careers/bda_job.php" class="job-icon"><i
+              class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
     </div>
