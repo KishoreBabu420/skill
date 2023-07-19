@@ -22,7 +22,7 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
-    <div class="col-lg-10 mt-5">
+    <div class="col-lg-10 mt-5 mb-5">
       <p>Skill Safari is a skill enhancement and training company that set out to nurture the skills of young students
         and Re-Skill professionals in web development and design. We are an E-Learning platform that offers some of the
         most engaging learning modules that meet the latest technology and industry requirements.</p>

@@ -31,10 +31,11 @@ include_once("../includes/header.php");
         <div class="col-lg-10">
           <p class="job-department">Sales</p>
           <h3 class="job-role">Business Development Associate</h3>
-          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore</p>
+          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore | Full Time
+          </p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="https://skillsafari.in/careers/bda_job.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/bda_role.php" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
@@ -42,12 +43,26 @@ include_once("../includes/header.php");
     <div class="col-lg-9 my-3 job-post">
       <div class="row">
         <div class="col-lg-10">
-          <p class="job-department">Department</p>
-          <h3 class="job-role">Graphic Designer</h3>
+          <p class="job-department">Operation</p>
+          <h3 class="job-role">Mern Stack Matter Expert</h3>
+          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore | Part-time or
+            Freelancer</p>
+        </div>
+        <div class="col-lg-2 mt-3">
+          <a href="https://skillsafari.in/careers/mernstack_me_role.php" class="job-icon"><i
+              class="fa-solid fa-circle-arrow-right job-icon"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-9 my-3 job-post">
+      <div class="row">
+        <div class="col-lg-10">
+          <p class="job-department">Operation</p>
+          <h3 class="job-role">Program Managers</h3>
           <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore</p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="/careers/graphic_designer_job.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/program_manager _role.php" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
