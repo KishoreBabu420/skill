@@ -32,37 +32,37 @@ include_once("../includes/header.php");
         training to technology aspirants and creating a learn and earn community at Skill Safari.</p>
     </div>
     <div class="col-lg-10">
-      <p class="h3">Roles and Responsibilities:</p>
+      <p class="h3">Job Description :</p>
+      <p>Responsible for creating communications content on behalf of an institution, like Developing content for a
+        variety of communication channels, including all social media platforms, newsletters, infographics, blogs,
+        Reports for donors, etc.</p>
       <ul>
         <li>
-          <p>Prior Customer Support and/or Customer Success experience. </p>
+          <p>Proven experience as a communications specialist</p>
         </li>
         <li>
-          <p> Strong verbal and written English communication. </p>
+          <p>Build a relationship with technology recruiters across the country</p>
         </li>
         <li>
-          <p> Ability to organize, break down, and clearly articulate complex thoughts, Ideas, Skills and
-            instructions in written form.</p>
+          <p>Experience in web design and content production is a plus</p>
         </li>
         <li>
-          <p> Strong ability to take Initiative and confidently direct customer interactions. </p>
+          <p>Experience in copywriting and editing</p>
         </li>
         <li>
-          <p> Enjoys circumstances where the right answer isn't always obvious and gets points. satisfaction out
-            of helping others. </p>
+          <p>Solid understanding of project management principles</p>
         </li>
         <li>
-          <p> Able to separate themselves in frustrating situations and guide customers to efficient solutions.
-            Ability to work under pressure. </p>
+          <p>Working knowledge of MS Office</p>
         </li>
         <li>
-          <p> Strong organizational and time management skills. </p>
+          <p>Excellent communication (oral and written) and presentation skills</p>
         </li>
         <li>
-          <p> Ability to work in a self-directed way. </p>
+          <p>Outstanding organizational and planning abilities</p>
         </li>
         <li>
-          <p> Love of a fast-mov`ing environment</p>
+          <p>Proficient command of English</p>
         </li>
       </ul>
     </div>
@@ -70,25 +70,25 @@ include_once("../includes/header.php");
       <p class="h3">Details </p>
       <ul>
         <li>
-          <p><strong> periods:</strong> 3 to 6 months</p>
+          <p><strong> Experience: </strong> 1-2 Year</p>
         </li>
         <li>
-          <p><strong>Stipend:</strong> 12,000 </p>
+          <p><strong>Qualification:</strong>
+          <ul>
+            <li>Proven communications skills in the resume or relevant field </li>
+            <li>Must have experience with word processing and data presentation. </li>
+          </ul>
+          </p>
         </li>
         <li>
-          <p><strong>After probation:</strong> Salary - 3 LPA </p>
+          <p><strong>Job Type:</strong> Full Time</p>
         </li>
         <li>
-          <p><strong>Qualification:</strong> Any Degree </p>
+          <p><strong>Salary: </strong>12,40,000 - 3,00,000 per year </p>
         </li>
         <li>
-          <p><strong>Languages:</strong> Tamil, English </p>
-        </li>
-        <li>
-          <p><strong>Experience:</strong> Freshers </p>
-        </li>
-        <li>
-          <p><strong>Job Type:</strong> Work from office</p>
+          <p><strong>Ability to commute/relocate:</strong> Coimbatore, Tamil Nadu. </br>
+            Reliably commute or planning to relocate before starting work (Required) </p>
         </li>
       </ul>
     </div>

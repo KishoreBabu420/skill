@@ -59,15 +59,29 @@ include_once("../includes/header.php");
         <div class="col-lg-10">
           <p class="job-department">Operation</p>
           <h3 class="job-role">Program Managers</h3>
-          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore</p>
+          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore | Full Time
+          </p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="https://skillsafari.in/careers/program_manager _role.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/program_manager_role.php" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
     </div>
-
+    <div class="col-lg-9 my-3 job-post">
+      <div class="row">
+        <div class="col-lg-10">
+          <p class="job-department">Operation</p>
+          <h3 class="job-role">Softskills Trainer</h3>
+          <p class="job-location h6"><i class="fa-solid fa-location-dot job-location-icon"></i>Coimbatore | Full Time
+          </p>
+        </div>
+        <div class="col-lg-2 mt-3">
+          <a href="https://skillsafari.in/careers/softskill_role.php" class="job-icon"><i
+              class="fa-solid fa-circle-arrow-right job-icon"></i></a>
+        </div>
+      </div>
+    </div>
 
   </div>
 </section>
