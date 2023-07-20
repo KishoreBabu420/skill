@@ -1,7 +1,8 @@
 <?php 
-$title = "";
-$description = "";
-$keywords = " ";
+$title = "Data Analyst Internship Program ";
+$description = "SkillSafari's Data Analyst Internship Program offers an immersive and hands-on
+          experience in data analytics.";
+$keywords = "internship program ";
 $page = 10;
 include_once("../includes/header.php");
 ?>

@@ -1,7 +1,8 @@
 <?php 
-$title = "";
-$description = "";
-$keywords = " ";
+$title = "Web Developer Internship Program";
+$description = "The best way to master React JS is by doing. That's why our internship program is
+          designed to provide you with hands-on experience building real-world applications.";
+$keywords = "internship program ";
 $page = 10;
 include_once("../includes/header.php");
 ?>
