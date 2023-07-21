@@ -2721,6 +2721,7 @@ width: unset!important;
 }
 .alchemyst-stage-img :hover {
   filter: drop-shadow(10px 10px #fef4e5);
+  background-color: #fef4e5;
 }
 .course-sidebar ul {
   padding-left: 0;
