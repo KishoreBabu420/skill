@@ -2701,8 +2701,9 @@ width: unset!important;
   list-style: none;
 }
 .card-2o {
-  width: 18rem;
-  height: 25rem;
+  width: 17rem;
+  height: 15rem;
+  background-color: #fef4e5 !important;
 }
 .section__card-title {
   font-size: 1.5rem;
