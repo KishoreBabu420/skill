@@ -175,7 +175,7 @@ include_once("../includes/header.php");
                 <div class="text-center pt-2 pb-2">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-1_qhc6pl.png"
-                    class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
+                    class="img-fluid alchemyst-stage-img" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
                 <p class="text-center bold">Stage - 1</p>
                 <div class="row justify-content-center">
@@ -194,7 +194,7 @@ include_once("../includes/header.php");
                 <div class="text-center pt-2 pb-2">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-2_taidhw.png"
-                    class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
+                    class="img-fluid alchemyst-stage-img" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
                 <p class="text-center bold">Stage - 2</p>
                 <div class="row justify-content-center">
@@ -213,7 +213,7 @@ include_once("../includes/header.php");
                 <div class="text-center pt-2 pb-2">
                   <img
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-3_gq1bnj.png"
-                    class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
+                    class="img-fluid alchemyst-stage-img" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
                 <p class="text-center bold">Stage - 3</p>
                 <!-- <div class="row justify-content-center">

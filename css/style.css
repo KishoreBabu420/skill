@@ -2719,7 +2719,9 @@ width: unset!important;
 .advantage-card {
   background: #fef4e5;
 }
-
+.alchemyst-stage-img :hover {
+  filter: drop-shadow(10px 10px #fef4e5);
+}
 .course-sidebar ul {
   padding-left: 0;
 }
