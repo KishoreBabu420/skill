@@ -23,7 +23,7 @@ include_once("includes/header.php");
           workshops Mr students and working-class people. </p>
       </div>
       <div class="col-md-6 pb-5 b-img">
-        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1651137353/website/aboutus/team-work_nza0u2.jpg" Loading = "lazy" class="img-fluid w-100" alt="vision mission" title="">
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1689932558/team-work_vs4bmc.jpg" Loading = "lazy" class="img-fluid w-100" alt="vision mission" title="">
       </div>
     </div>
   </div>

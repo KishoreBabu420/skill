@@ -164,7 +164,10 @@ include_once("../includes/header.php");
     <div class="row justify-content-between">
       <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
         <div class="card px-3 py-2 border-0 rounded-3 shadow">
-          <h3 class="p-2 text-center">How Alchemyst 2.0 works</h3>
+          <h3 class="p-2 text-center advantage-card shadow">How
+            <span><img src="https://res.cloudinary.com/skill-safari/image/upload/v1689931206/2.0-logo_rie3fo.webp"
+                alt="Alchemyst2.0 logo" width="200"></span> works
+          </h3>
           <hr />
           <ul class="px-3">
             <li class="my-3">
@@ -174,6 +177,7 @@ include_once("../includes/header.php");
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-1_qhc6pl.png"
                     class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
+                <p class="text-center bold">Stage - 1</p>
                 <div class="row justify-content-center">
                   <div class="col-md-2 col-2">
                     <div class="text-center pt-2 pb-2">
@@ -192,6 +196,7 @@ include_once("../includes/header.php");
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-2_taidhw.png"
                     class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
+                <p class="text-center bold">Stage - 2</p>
                 <div class="row justify-content-center">
                   <div class="col-md-2 col-2">
                     <div class="text-center pt-2 pb-2">
@@ -210,6 +215,7 @@ include_once("../includes/header.php");
                     src="https://res.cloudinary.com/skill-safari/image/upload/v1688640563/website/2.0/start-3_gq1bnj.png"
                     class="img-fluid" alt="full stack event 2" Loading="lazy" title="" width="120">
                 </div>
+                <p class="text-center bold">Stage - 3</p>
                 <!-- <div class="row justify-content-center">
                   <div class="col-md-2 col-2">
                     <div class="text-center pt-2 pb-2">
@@ -378,7 +384,7 @@ include_once("../includes/header.php");
               <div class="col-lg-4 ">
                 <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title mb-3 text-center">Data Analyst</h5>
+                    <h5 class="card-title course-title mb-3 text-center">Data Analyst</h5>
                     <div class="row justify-content-center">
                       <div class="col-lg-3">
                         <img
@@ -426,7 +432,7 @@ include_once("../includes/header.php");
               <div class="col-lg-4 ">
                 <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title mb-3 text-center">QA/Automation Tester</h5>
+                    <h5 class="card-title course-title mb-3 text-center">QA/Automation Tester</h5>
                     <div class="row justify-content-center">
                       <div class="col-lg-3">
                         <img
@@ -490,7 +496,7 @@ include_once("../includes/header.php");
               <h2 class="section-title section-title-two">Outcome Based Learning</h2>
             </div>
             <div class="obl-description mb-4">
-              <p class="h4 text-center">
+              <p class="h4 text-center p-3 my-2 border-0 rounded-3 advantage-card">
                 We at Skill Safari religiously believes in the principles of outcome based learning.
               </p>
             </div>
@@ -588,6 +594,272 @@ include_once("../includes/header.php");
             </div>
           </div>
         </section>
+        <!-- recruitment essentials program -->
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 hiring-partners" id="placements">
+          <div class="container">
+            <div class="section__title-container p-2">
+              <h2 class="section-title">Stage 3: Recruitment Essentials Program</h2>
+              <hr>
+            </div>
+            <div class="row align-items-center justify-content-center">
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-body advantage-card p-3 my-2 border-0 rounded-3 text-center shadow">
+                  <div class="section__logo-container">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Portfolio_t4uolq.png"
+                      alt="carrer icon" class="img-fluid" width="64" height="64">
+                  </div>
+                  <h4 class="section__card-title">
+                    Portfolio Building
+                  </h4>
+                  <p class="section__card-description school-para">
+                    Get our placement mentor’s help in building a beautiful Online Portfolio, LinkedIn profile and
+                    Resume.
+                  </p>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-body p-3 my-2 border-0 rounded-3 text-center advantage-card shadow ">
+                  <div class="section__logo-container">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/Skill_ctjsmo.png"
+                      alt="carrer icon" class="img-fluid" width="64" height="64">
+                  </div>
+                  <h4 class="section__card-title">
+                    Soft Skills Training
+                  </h4>
+                  <p class="section__card-description school-para">
+                    Get the best-in-class soft skills and placement readiness training with our invigorated soft skills
+                    and life skills training.
+                  </p>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-body p-3 my-2 border-0 rounded-3 text-center advantage-card shadow">
+                  <div class="section__logo-container">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/Experts_aicopk.png"
+                      alt="carrer icon" class="img-fluid" width="64" height="64">
+                  </div>
+                  <h4 class="section__card-title">
+                    Placement Series
+                  </h4>
+                  <p class="section__card-description school-para">
+                    Industry experts at your hand for the latest placement trends. Gain insights into what is
+                    happening in the tech industry.
+                  </p>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-body p-3 my-2 border-0 rounded-3 text-center advantage-card shadow">
+                  <div class="section__logo-container">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/interviewstraining_fpyfdx.png"
+                      alt="carrer icon" class="img-fluid" width="64" height="64">
+                  </div>
+                  <h4 class="section__card-title">
+                    Interview Training
+                  </h4>
+                  <p class="section__card-description school-para">
+                    Curated training to crack any technical & HR interviews. Mock Interviews are
+                    conducted to guard you against the interview fears.
+                  </p>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-body p-3 my-2 border-0 rounded-3 text-center advantage-card shadow">
+                  <div class="section__logo-container">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1651664399/website/fullstack%20/hirefromus_k3ada5.png"
+                      alt="carrer icon" class="img-fluid" width="64" height="64">
+                  </div>
+                  <h4 class="section__card-title">
+                    Hiring from us
+                  </h4>
+                  <p class="section__card-description school-para">
+                    500+ recruitment partners are actively hiring from us right now as you are reading through these
+                    lines. So be a part of it.
+                  </p>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-lg-4">
+                <div class="card-body p-3 my-2 border-0 rounded-3 text-center advantage-card shadow">
+                  <div class="section__logo-container">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1651664398/website/fullstack%20/placement-webinar_ygk4kj.png"
+                      alt="carrer icon" class="img-fluid" width="64" height="64">
+                  </div>
+                  <h4 class="section__card-title">
+                    Placement Webinars
+                  </h4>
+                  <p class="section__card-description school-para">
+                    Regular placement webinars are planned for you to get the most out of cracking any recruitment
+                    formats
+                    during this time.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- hiring partners -->
+        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 hiring-partners" id="hiring-partners">
+          <div class="container">
+            <div class="container">
+              <div class="section-title-container py-2 my-4 text-center ">
+                <h2 class="section-title section-title-two">Hiring Partners</h2>
+              </div>
+              <div class="row align-items-center justify-content-center align-items-center p-4">
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/partner-1_msmjyq.webp"
+                      alt="fifty-five-technologies" loading="lazy" class="img-fluid">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_14_zgcnk5.webp"
+                      alt="Trippr" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset_7_bwqbuf.webp"
+                      alt="triwits" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset_8_lbyf1f.webp"
+                      alt="Vivoooo" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_16_j2bscv.webp"
+                      alt="GLobal Logic" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_10_gj8qzf.webp"
+                      alt="phicode" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset-13_xzdeac.webp"
+                      alt="engocorp" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_15_v6gnlq.webp"
+                      alt="Draup" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
+                      alt="Elhaa Technologies" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
+                      alt="BewellDigital" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_17_iamxxb.webp"
+                      alt="citrix" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+                <div class="col-4 col-md-3">
+                  <div class="img-container mb-2">
+                    <img
+                      src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset-2_z05d3l.webp"
+                      alt="Vaeso" class="img-fluid" loading="lazy">
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-lg-6 mx-auto text-center py-3">
+                <h6>Follow here to know more about our hiring partners?</h6>
+                <div class="callbackbtn">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
+                    More</button>
+
+                  <!-- Modal -->
+                  <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-body">
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
+                          <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
+                            <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                            <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
+                              id="cbe-partner-btn">
+                              <div class="mb-3">
+                                <label for="fullName" class="form-label">Full Name*</label>
+                                <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp"
+                                  name="name" data-parsley-required-message="We require your name"
+                                  placeholder="Enter Your Full Name" required />
+                              </div>
+
+                              <div class="mb-3">
+                                <label for="email" class="form-label">Email Address*</label>
+                                <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                                  placeholder="Enter Your Email ID" name="email"
+                                  data-parsley-required-message="Email Address is required" required />
+                              </div>
+
+                              <div class="mb-3">
+                                <label for="mobile" class="form-label">Mobile Number*</label>
+                                <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                                  placeholder="Enter Your Mobile Number" name="phone"
+                                  data-parsley-required-message="Mobile Number is required"
+                                  data-parsley-error-message="Provide valid Mobile Number" required
+                                  data-parsley-trigger="keyup" data-parsley-validation-threshold="1"
+                                  data-parsley-debounce="500" data-parsley-type="digits" data-parsley-minlength="10"
+                                  data-parsley-maxlength="11" />
+                              </div>
+                              <input type="hidden" name="utm_source" value="">
+                              <input type="hidden" name="utm_medium" value="">
+                              <input type="hidden" name="utm_campaign" value="">
+                              <input type="hidden" name="utm_term" value="">
+                              <input type="hidden" name="utm_content" value="">
+                              <input type="hidden" name="_webhook"
+                                value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
+                              <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                              <div class="callbackbtn mt-3">
+                                <button class="text-decoration-none" type="submit">Submit</button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
       </main>
     </div>
   </div>
@@ -596,7 +868,7 @@ include_once("../includes/header.php");
 
 
 <!-- Placement Program -->
-<section class="placements my-3 py-3 advantage-card " id="placements">
+<!-- <section class="placements my-3 py-3 advantage-card " id="placements">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
       <h2 class="section-title section-title-two">Recruitment Essentials Program</h2>
@@ -699,7 +971,7 @@ include_once("../includes/header.php");
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- testimonials -->
 <section>
   <div class="container">
@@ -710,157 +982,7 @@ include_once("../includes/header.php");
 </section>
 
 <!-- Placement Program -->
-<!-- Hiring Partners -->
-<section class="hiring-partners my-3 py-3">
-  <div class="container">
-    <div class="section-title-container py-2 my-4 text-center ">
-      <h2 class="section-title section-title-two">Hiring Partners</h2>
-    </div>
-    <div class="row align-items-center justify-content-center align-items-center p-4">
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/partner-1_msmjyq.webp"
-            alt="fifty-five-technologies" loading="lazy" class="img-fluid">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_14_zgcnk5.webp"
-            alt="Trippr" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset_7_bwqbuf.webp"
-            alt="triwits" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset_8_lbyf1f.webp"
-            alt="Vivoooo" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_16_j2bscv.webp"
-            alt="GLobal Logic" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_10_gj8qzf.webp"
-            alt="phicode" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876564/two-hiring-partners/Asset-13_xzdeac.webp"
-            alt="engocorp" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_15_v6gnlq.webp"
-            alt="Draup" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/19_pwqziy.png"
-            alt="Elhaa Technologies" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1650549940/website/company-logo/15_forjek.png"
-            alt="BewellDigital" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset_17_iamxxb.webp"
-            alt="citrix" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-      <div class="col-4 col-md-3">
-        <div class="img-container mb-2">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1683876565/two-hiring-partners/Asset-2_z05d3l.webp"
-            alt="Vaeso" class="img-fluid" loading="lazy">
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-lg-6 mx-auto text-center py-3">
-      <h6>Follow here to know more about our hiring partners?</h6>
-      <div class="callbackbtn">
-        <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Know
-          More</button>
 
-        <!-- Modal -->
-        <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
-                <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
-                  <h5 class="trainingform-head pb-3">Want to know More?</h5>
-                  <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
-                    id="cbe-partner-btn">
-                    <div class="mb-3">
-                      <label for="fullName" class="form-label">Full Name*</label>
-                      <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
-                        data-parsley-required-message="We require your name" placeholder="Enter Your Full Name"
-                        required />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="email" class="form-label">Email Address*</label>
-                      <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
-                        placeholder="Enter Your Email ID" name="email"
-                        data-parsley-required-message="Email Address is required" required />
-                    </div>
-
-                    <div class="mb-3">
-                      <label for="mobile" class="form-label">Mobile Number*</label>
-                      <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
-                        placeholder="Enter Your Mobile Number" name="phone"
-                        data-parsley-required-message="Mobile Number is required"
-                        data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
-                        data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
-                        data-parsley-minlength="10" data-parsley-maxlength="11" />
-                    </div>
-                    <input type="hidden" name="utm_source" value="">
-                    <input type="hidden" name="utm_medium" value="">
-                    <input type="hidden" name="utm_campaign" value="">
-                    <input type="hidden" name="utm_term" value="">
-                    <input type="hidden" name="utm_content" value="">
-                    <input type="hidden" name="_webhook"
-                      value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
-                    <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
-                    <div class="callbackbtn mt-3">
-                      <button class="text-decoration-none" type="submit">Submit</button>
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Hiring Partners -->
 <!-- Certification -->
 <section class="certification my-3 py-3">
   <div class="container">
