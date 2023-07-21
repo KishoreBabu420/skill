@@ -25,28 +25,15 @@ include_once("../includes/header.php");
             <br />
             <span class="intensive-courses change-text mb-3"></span>
             <br />
-            <span class="mt-3"> with Placement Assurance</span>
+            <span class="mt-3"> with Assurance Placement</span>
           </h1>
           <div class="py-3">
-            <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 7<sup>th</sup> 2023</span></h3>
+            <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 21<sup>th</sup> 2023</span></h3>
+          </div>
+          <div class="py-3">
+            <p class=" pt-3"> Coimbatore</h3>
           </div>
         </div>
-        <!-- <div class="accreditation-container container">
-          <div class="row align-items-center">
-            <div class="col-4">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/nasscom_d2dfl8_hfbyq0.webp"
-                alt="" class="nasscom-logo img-fluid">
-            </div>
-            <div class="col-4">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/IABAC_s6wllo.webp" alt=""
-                class="iabac-logo img-fluid">
-            </div>
-            <div class="col-4">
-              <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791597/skill_india_cenxif.webp" alt=""
-                class="skill-india-logo img-fluid">
-            </div>
-          </div>
-        </div> -->
       </div>
       <div class="col-lg-5 mt-3 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-2 pb-md-4 p-md-5 p-3">
@@ -143,7 +130,7 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- features tab -->
-<section class="certification my-3 py-3">
+<!-- <section class="certification my-3 py-3">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
       <h2 class="section-title section-title-two">Our Space</h2>
@@ -170,14 +157,14 @@ include_once("../includes/header.php");
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <div class="course-content">
   <div class="container">
     <div class="row justify-content-between">
       <aside class="col-lg-3 sidebar course-sidebar d-none d-lg-block">
         <div class="card px-3 py-2 border-0 rounded-3 shadow">
-          <h3 class="p-2 text-center">How Does it works</h3>
+          <h3 class="p-2 text-center">How Alchemyst 2.0 works</h3>
           <hr />
           <ul class="px-3">
             <li class="my-3">
@@ -250,29 +237,6 @@ include_once("../includes/header.php");
             <hr>
           </div>
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
-            <p>Program Includes</p>
-            <div class="row justify-content-spacearound">
-              <div class="col-lg-3 ">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/HTML_pauq6n.jpg"
-                  class="" width="100" alt="" />
-              </div>
-              <div class="col-lg-3 ">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/CSS_rznr0r.jpg"
-                  class="" width="100" alt="" />
-              </div>
-              <div class="col-lg-3 ">
-                <img
-                  src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/PYTHON_mipngi.jpg"
-                  class="" width="100" alt="" />
-              </div>
-              <div class="col-lg-3 ">
-                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/SQL_tjjjon.jpg"
-                  class="" width="100" alt="" />
-              </div>
-            </div>
-
-          </div>
-          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <p class="section-title-2o">You will spend the first two months of the Alchemyst 2.0 program learning the
               basics of programming.</p>
             <div class="row pt-md-3 pt-3 toysec">
@@ -336,44 +300,70 @@ include_once("../includes/header.php");
               </div>
             </div>
           </div>
+          <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+            <p>Program Includes</p>
+            <div class="row justify-content-spacearound">
+              <div class="col-lg-3 ">
+                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/HTML_pauq6n.jpg"
+                  class="" width="100" alt="" />
+              </div>
+              <div class="col-lg-3 ">
+                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/CSS_rznr0r.jpg"
+                  class="" width="100" alt="" />
+              </div>
+              <div class="col-lg-3 ">
+                <img
+                  src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/PYTHON_mipngi.jpg"
+                  class="" width="100" alt="" />
+              </div>
+              <div class="col-lg-3 ">
+                <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/SQL_tjjjon.jpg"
+                  class="" width="100" alt="" />
+              </div>
+            </div>
 
+          </div>
         </section>
-        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work" id="course-work">
+        <section class="card p-3 my-2 bg-faq border-0 rounded-3 shadow my-4 course-work " id="course-work">
           <div class="section__title-container p-2">
             <h2 class="section-title">Stage 2: Choose your career path</h2>
             <hr>
           </div>
-          <div class="work__image-container mb-2">
-            <div class="row">
-              <p class="section-title-2o">Based on the fundamentals, you can choose a career path and skills to acquire.
-                to develop your abilities so that your best self can show.</p>
-              <div class="col-lg-4">
+          <div class="work__image-container mb-2 ">
+            <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
+              <p class="section-title-2o">With the help of our fundamentals Unleash your potential with our
+                comprehensive courses designed for aspiring
+                tech enthusiasts
+                and Kick Start your career in IT in any one of the 3 career paths.</p>
+            </div>
+            <div class="row mt-3">
+              <div class="col-lg-4 ">
                 <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title mb-3">MERN Stack Web Developer</h5>
-                    <div class="row">
-                      <div class="col-lg-3">
+                    <h5 class="card-title course-title mb-3 text-center">MERN Stack Web Developer</h5>
+                    <div class="row justify-content-center">
+                      <div class="col-lg-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Mongo_DB_ogukup.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col-lg-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Ex_teewen.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col-lg-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Node_cvvhuf.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col-lg-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/react_rnqzkm.png"
                           alt="">
                       </div>
                     </div>
-                    <h6 class="card-subtitle mb-2 mt-3">Curriculum</h6>
+                    <!-- <h6 class="card-subtitle mb-2 mt-3">Curriculum</h6> -->
                     <p class="card-text">
                       <!-- <ul>
                       <li>UI & Version Control using HTML & CSS</li>
@@ -385,11 +375,11 @@ include_once("../includes/header.php");
                   </div>
                 </div>
               </div>
-              <div class="col-lg-4">
+              <div class="col-lg-4 ">
                 <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title mb-3">Data Analyst</h5>
-                    <div class="row ">
+                    <h5 class="card-title mb-3 text-center">Data Analyst</h5>
+                    <div class="row justify-content-center">
                       <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Excel_mtnnxi.png"
@@ -416,12 +406,12 @@ include_once("../includes/header.php");
                           alt="">
                       </div>
                     </div>
-                    <h6 class="card-subtitle mb-2 mt-5"><span><img src="../images/ic4.png" width="40" /> Duration : 5
+                    <!-- <h6 class="card-subtitle mb-2 mt-5"><span><img src="../images/ic4.png" width="40" /> Duration : 5
                         months</span>
                     </h6>
                     <h6 class="card-subtitle mb-2 mt-5"><span><img src="../images/ic4.png" width="40" /> Duration : 5
                         months</span>
-                    </h6>
+                    </h6> -->
                     <p class="card-text">
                       <!-- <ul>
                       <li>Data Analytics using Microsoft Excel </li>
@@ -433,11 +423,11 @@ include_once("../includes/header.php");
                   </div>
                 </div>
               </div>
-              <div class="col-lg-4">
+              <div class="col-lg-4 ">
                 <div class="card card-2o">
                   <div class="card-body">
-                    <h5 class="card-title mb-3">QA/Automation Tester</h5>
-                    <div class="row">
+                    <h5 class="card-title mb-3 text-center">QA/Automation Tester</h5>
+                    <div class="row justify-content-center">
                       <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Java_odbpx3.png"
@@ -459,7 +449,7 @@ include_once("../includes/header.php");
                           alt="">
                       </div>
                     </div>
-                    <h6 class="card-subtitle mb-3 mt-3">Curriculum</h6>
+                    <!-- <h6 class="card-subtitle mb-3 mt-3">Curriculum</h6> -->
                     <p class="card-text">
                       <!-- <ul>
                       <li>Basics of Software Testing & Manual Testing </li>
@@ -493,11 +483,7 @@ include_once("../includes/header.php");
 
 
 
-        <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 placements" id="placements">
-          <?php 
-          include_once("../includes/testimony.php");
-          ?>
-        </section>
+
         <section class="card p-3 my-2 border-0 rounded-3 shadow my-4 hiring-partners" id="hiring-partners">
           <div class="container mb-4">
             <div class="section-title-container py-2 my-4 text-center ">
@@ -610,7 +596,7 @@ include_once("../includes/header.php");
 
 
 <!-- Placement Program -->
-<section class="placements my-3 py-3 advantage-card">
+<section class="placements my-3 py-3 advantage-card " id="placements">
   <div class="container">
     <div class="section-title-container py-2 my-4 text-center ">
       <h2 class="section-title section-title-two">Recruitment Essentials Program</h2>
@@ -714,6 +700,15 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
+<!-- testimonials -->
+<section>
+  <div class="container">
+    <?php 
+   include_once("../includes/testimony.php");
+ ?>
+  </div>
+</section>
+
 <!-- Placement Program -->
 <!-- Hiring Partners -->
 <section class="hiring-partners my-3 py-3">

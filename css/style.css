@@ -2705,6 +2705,13 @@ width: unset!important;
   height: 15rem;
   background-color: #fef4e5 !important;
 }
+.course-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  background: -webkit-linear-gradient(#2699fb, #f3274f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .section__card-title {
   font-size: 1.5rem;
 }
