@@ -941,7 +941,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 col-12">
         <div class="certificate__img-container">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683953483/certificate_a9p8kr.webp"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1689917271/internship-certificate_yvrmi3.jpg"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
