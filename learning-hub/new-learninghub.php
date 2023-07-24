@@ -31,7 +31,7 @@ include_once("../includes/header.php");
             <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 21<sup>th</sup> 2023</span></h3>
           </div>
           <div class="py-3">
-            <p class=" pt-3"> Coimbatore</h3>
+            <p class=" pt-3 h3"><i class="fa-solid fa-location-dot alchemyst-location-icon"></i> Coimbatore</h3>
           </div>
         </div>
       </div>
