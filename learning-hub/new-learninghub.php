@@ -25,7 +25,7 @@ include_once("../includes/header.php");
             <br />
             <span class="intensive-courses change-text mb-3"></span>
             <br />
-            <span class="mt-3"> with Assurance Placement</span>
+            <span class="mt-3"> with Assured Placement</span>
           </h1>
           <div class="py-3">
             <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 21<sup>th</sup> 2023</span></h3>
@@ -456,14 +456,71 @@ include_once("../includes/header.php");
                       </div>
                     </div>
                     <!-- <h6 class="card-subtitle mb-3 mt-3">Curriculum</h6> -->
-                    <p class="card-text">
-                      <!-- <ul>
+
+                    <!-- <ul>
                       <li>Basics of Software Testing & Manual Testing </li>
                       <li>Programming and OOPS with Core Java </li>
                       <li>Web and API Testing Postman </li>
                       <li>Learn Continuous Integration with Jenkins and GIT </li>
                     </ul> -->
-                    </p>
+
+                  </div>
+                </div>
+              </div>
+              <div class="callbackbtn col-lg-4 mx-auto mt-5">
+                <button type="button" data-bs-toggle="modal" data-bs-target="#partner-modal">Choose your career path
+                  now!</button>
+
+                <!-- Modal -->
+                <div class="modal fade" id="partner-modal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                  aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-body">
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
+                        <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3 text-start">
+                          <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                          <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST"
+                            id="cbe-partner-btn">
+                            <div class="mb-3">
+                              <label for="fullName" class="form-label">Full Name*</label>
+                              <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp"
+                                name="name" data-parsley-required-message="We require your name"
+                                placeholder="Enter Your Full Name" required />
+                            </div>
+
+                            <div class="mb-3">
+                              <label for="email" class="form-label">Email Address*</label>
+                              <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                                placeholder="Enter Your Email ID" name="email"
+                                data-parsley-required-message="Email Address is required" required />
+                            </div>
+
+                            <div class="mb-3">
+                              <label for="mobile" class="form-label">Mobile Number*</label>
+                              <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                                placeholder="Enter Your Mobile Number" name="phone"
+                                data-parsley-required-message="Mobile Number is required"
+                                data-parsley-error-message="Provide valid Mobile Number" required
+                                data-parsley-trigger="keyup" data-parsley-validation-threshold="1"
+                                data-parsley-debounce="500" data-parsley-type="digits" data-parsley-minlength="10"
+                                data-parsley-maxlength="11" />
+                            </div>
+                            <input type="hidden" name="utm_source" value="">
+                            <input type="hidden" name="utm_medium" value="">
+                            <input type="hidden" name="utm_campaign" value="">
+                            <input type="hidden" name="utm_term" value="">
+                            <input type="hidden" name="utm_content" value="">
+                            <input type="hidden" name="_webhook"
+                              value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
+                            <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                            <div class="callbackbtn mt-3">
+                              <button class="text-decoration-none" type="submit">Submit</button>
+                            </div>
+                          </form>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
