@@ -30,9 +30,8 @@ include_once("../includes/header.php");
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/1_2_fulzbz.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
-        <div class="message-drop bg-white">"It was great to be a part of skill safari .They have skilled and
-          professional trainers ,it was a very good experience of online learning .Each and every doubts were clarified
-          and extra classes were taken for doubt clarifications." - Pallavi S
+        <div class="message-drop bg-white">"Best and valuable Internship for fresher. Learn a lot of web development and
+          designing training - Priyank Patel" - Pallavi S
           <div class="starrating pt-1">
             <span><i class="fas fa-star"></i></span>
             <span><i class="fas fa-star"></i></span>
@@ -228,11 +227,11 @@ include_once("../includes/header.php");
       <div class="tech-slider row pt-3">
         <div class="owl-carousel" id="tech-carousel">
           <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
+            <!-- <div class="tech-logo-container">
               <img class="img-fluid" alt="Python"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
                 loading="lazy" />
-            </div>
+            </div> -->
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">

@@ -35,8 +35,8 @@ include_once("../includes/header.php");
           <img src="https://res.cloudinary.com/skill-safari/image/upload/v1687843369/website/internship/2_1_yat1nu.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
-        <div class="message-drop bg-white">"It was a great experience learning from them.Mentors were always there to
-          help me to clear my doubts.Thank you skill Safari." - Rakshitha D
+        <div class="message-drop bg-white">"All teachers are professionals and very cooperative and clear each and every
+          doubts too.-Yeeshu Saket"
           <div class="starrating pt-1">
             <span><i class="fas fa-star"></i></span>
             <span><i class="fas fa-star"></i></span>
@@ -232,11 +232,11 @@ include_once("../includes/header.php");
       <div class="tech-slider row pt-3">
         <div class="owl-carousel" id="tech-carousel">
           <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
-            <div class="tech-logo-container">
+            <!-- <div class="tech-logo-container">
               <img class="img-fluid" alt="Python"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/python_1_vf01jy.png"
                 loading="lazy" />
-            </div>
+            </div> -->
           </div>
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
@@ -473,8 +473,7 @@ include_once("../includes/testimony.php");
         </div>
       </div>
       <div class="col-md-5 pt-4">
-        <img
-          src="https://res.cloudinary.com/skill-safari/image/upload/v1689917271/internship-certificate_yvrmi3.jpg"
+        <img src="https://res.cloudinary.com/skill-safari/image/upload/v1689917271/internship-certificate_yvrmi3.jpg"
           class="img-fluid" alt="certificate" Loading="lazy" title="">
       </div>
     </div>
