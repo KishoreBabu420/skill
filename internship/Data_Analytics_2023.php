@@ -231,13 +231,13 @@ include_once("../includes/header.php");
     <div>
       <div class="tech-slider row pt-3">
         <div class="owl-carousel" id="tech-carousel">
-          <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
-            <!-- <div class="tech-logo-container">
+          <!-- <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
+            <div class="tech-logo-container">
               <img class="img-fluid" alt="Python"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/python_1_vf01jy.png"
                 loading="lazy" />
-            </div> -->
-          </div>
+            </div> 
+          </div> -->
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="Git"

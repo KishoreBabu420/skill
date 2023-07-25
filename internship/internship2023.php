@@ -31,7 +31,7 @@ include_once("../includes/header.php");
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
         <div class="message-drop bg-white">"Best and valuable Internship for fresher. Learn a lot of web development and
-          designing training - Priyank Patel" - Pallavi S
+          designing training - Priyank Patel"
           <div class="starrating pt-1">
             <span><i class="fas fa-star"></i></span>
             <span><i class="fas fa-star"></i></span>
@@ -226,13 +226,13 @@ include_once("../includes/header.php");
     <div>
       <div class="tech-slider row pt-3">
         <div class="owl-carousel" id="tech-carousel">
-          <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
-            <!-- <div class="tech-logo-container">
+          <!-- <div class="techCard shadow d-flex just2fy-content-center align-items-center p-3 rounded m-2">
+             <div class="tech-logo-container">
               <img class="img-fluid" alt="Python"
                 src="https://res.cloudinary.com/skill-safari/image/upload/v1651132930/website/tech_logos/python_gdq6qo.png"
                 loading="lazy" />
-            </div> -->
-          </div>
+            </div> 
+          </div> -->
           <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
             <div class="tech-logo-container">
               <img class="img-fluid" alt="Git"
