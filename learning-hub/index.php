@@ -853,7 +853,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 col-12 ">
         <div class="certificate__img-container mx-auto">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1689918176/certificate_2.0_a5j20y.webp"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1690278539/alchemyst-2.o-certificate_h1ayx1.jpg"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
