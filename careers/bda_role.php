@@ -17,7 +17,8 @@ include_once("../includes/header.php");
       </div>
       <div class="col-lg-3 mb-3">
         <div class="callbackbtn mt-3">
-          <a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#curriculum-model">Apply
+          <a href="https://forms.office.com/r/MBcBzxr3v0" class="text-decoration-none" data-bs-toggle="modal"
+            data-bs-target="#curriculum-model">Apply
             Now</a>
         </div>
       </div>

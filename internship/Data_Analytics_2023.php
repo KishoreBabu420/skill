@@ -26,7 +26,7 @@ include_once("../includes/header.php");
           This program is designed to provide valuable insights and foster a passion for data analytics.
         </p>
         <div class="regbtn mb-5">
-          <a href="https://connect.skillsafari.in/DSI23A" class="text-decoration-none" target="_blank">Enroll Now
+          <a href="https://forms.office.com/r/PzxdKbdpgQ" class="text-decoration-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
@@ -213,7 +213,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://connect.skillsafari.in/DSI23A" class="text-decoration-none" target="_blank">Enroll Now
+          <a href="https://forms.office.com/r/PzxdKbdpgQ" class="text-decoration-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
@@ -371,7 +371,7 @@ include_once("../includes/testimony.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://connect.skillsafari.in/DSI23A" class="text-decoration-none" target="_blank">Enroll Now
+          <a href="https://forms.office.com/r/PzxdKbdpgQ" class="text-decoration-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>

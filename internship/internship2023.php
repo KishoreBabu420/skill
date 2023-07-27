@@ -21,7 +21,7 @@ include_once("../includes/header.php");
           & Tools, And become a Skilled React Developer in 5 Weeks with the Skill Safari’s Internship Program
         </p>
         <div class="regbtn mb-5">
-          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decorat  ion-none" target="_blank">Enroll Now
+          <a href="https://forms.office.com/r/TmTLgRvjcE" class="text-decorat  ion-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
@@ -208,7 +208,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-12 mt-lg-5 pt-5 pb-md-5">
         <div class="regbtn text-center">
-          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+          <a href="https://forms.office.com/r/TmTLgRvjcE" class="text-decoration-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
@@ -427,7 +427,7 @@ include_once("../includes/testimony.php");
         </ul>
         <p class="school-para text-center pt-5 pb-3">Think it’s a match? Apply Now</p>
         <div class="regbtn">
-          <a href="https://connect.skillsafari.in/FSDI23B" class="text-decoration-none" target="_blank">Enroll Now
+          <a href="https://forms.office.com/r/TmTLgRvjcE" class="text-decoration-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
