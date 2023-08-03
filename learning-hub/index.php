@@ -119,6 +119,18 @@ include_once("../includes/header.php");
     </div>
   </div>
 </section>
+<section class="mb-5 mt-3">
+  <div class="container">
+    <p class="h2 text-center mb-3 mt-5 top-head">Excitingly Step into the World of IT with Skillsafari Alchemyst 2.0!
+    </p>
+    <div class="row">
+      <iframe width="700" height="400" src="https://www.youtube.com/embed/O61JDJ74kT0" title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
 
 <div class="course-content">
   <div class="container">
@@ -853,7 +865,8 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 col-12 ">
         <div class="certificate__img-container mx-auto">
-          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1690278539/alchemyst-2.o-certificate_h1ayx1.jpg"
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1690278539/alchemyst-2.o-certificate_h1ayx1.jpg"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
