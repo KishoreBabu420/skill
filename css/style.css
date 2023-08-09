@@ -2800,6 +2800,11 @@ width: unset!important;
   font-weight: 600;
 }
 
+.pricing-card-internship {
+  width: 20rem;
+  height: 30rem;
+}
+
 /* Alchemyst 2.0 */
 
 .hero-title {
