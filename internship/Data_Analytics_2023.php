@@ -326,7 +326,7 @@ include_once("../includes/testimony.php");
       <div class="col-lg-4 ">
         <div class="card pricing-card-internship bg-hero text-white">
           <div class="card-body">
-            <h5 class="card-title text-center h3 mb-5 ">Free</h5>
+            <h3 class="card-title text-center h2 mb-5 ">Free</h3>
             <ul>
               <li class=" mb-3">1 Week – 5 Classes</li>
               <hr>
@@ -334,9 +334,9 @@ include_once("../includes/testimony.php");
               <hr>
               <li class=" mb-3">Projects – Portfolio Website</li>
               <hr>
-              <li class=" mb-3">Course Completion Certificate</li>
+              <li class=" mb-5">Course Completion Certificate</li>
             </ul>
-            <div class="regbtn text-center">
+            <div class="regbtn text-center mt-5">
               <a href="#" class="btn">Go somewhere</a>
             </div>
           </div>
@@ -351,11 +351,11 @@ include_once("../includes/testimony.php");
               <hr>
               <li class="mb-3 p"><strong>Skills:</strong> HTML, CSS, Basic JavaScript</li>
               <hr>
-              <li class="mb-3 p"><strong>Projects:</strong> Portfolio Website, YouTube Clone, Calculator Application,
+              <li class="mb-5 p"><strong>Projects:</strong> Portfolio Website, YouTube Clone, Calculator Application,
                 Course Completion Certificate, Project Completion Certificate</li>
             </ul>
-            <div class="regbtn text-center">
-              <a href="#" class="btn">Go somewhere</a>
+            <div class="regbtn text-center mt-5">
+              <a href=" #" class="btn">Go somewhere</a>
             </div>
           </div>
         </div>
