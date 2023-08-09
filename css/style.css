@@ -2705,11 +2705,11 @@ width: unset!important;
   height: 15rem;
   background-color: #fef4e5 !important;
 }
-@media screen and (min-width: 576px) {
+/* @media screen and (min-width: 576px) {
   .card-2o {
     width: 20rem;
   }
-}
+} */
 
 .course-title {
   font-size: 1.5rem;

@@ -311,23 +311,23 @@ include_once("../includes/header.php");
                 <div class="card card-2o mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">MERN Stack Web Developer</h5>
-                    <div class="row justify-content-center">
-                      <div class="col-lg-4">
+                    <div class="row d-flex justify-content-center">
+                      <div class="col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Mongo_DB_ogukup.png"
                           alt="">
                       </div>
-                      <div class="col-lg-4">
+                      <div class="col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Ex_teewen.png"
                           alt="">
                       </div>
-                      <div class="col-lg-4">
+                      <div class="col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Node_cvvhuf.png"
                           alt="">
                       </div>
-                      <div class="col-lg-4">
+                      <div class="col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/react_rnqzkm.png"
                           alt="">
