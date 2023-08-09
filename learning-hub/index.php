@@ -121,7 +121,7 @@ include_once("../includes/header.php");
 </section>
 <section class="mb-5 mt-3">
   <div class="container">
-    <p class="h2 text-center mb-3 mt-5 top-head">Excitingly Step into the World of IT with Skillsafari Alchemyst 2.0!
+    <p class="h2 text-center mb-3 mt-5 top-head">Excitingly Step into the World of IT with Skill Safari Alchemyst 2.0!
     </p>
     <div class="row">
       <iframe width="700" height="400" src="https://www.youtube.com/embed/O61JDJ74kT0" title="YouTube video player"
@@ -308,7 +308,7 @@ include_once("../includes/header.php");
             </div>
             <div class="row mt-3">
               <div class="col-lg-4 ">
-                <div class="card card-2o">
+                <div class="card card-2o mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">MERN Stack Web Developer</h5>
                     <div class="row justify-content-center">
@@ -339,7 +339,7 @@ include_once("../includes/header.php");
                 </div>
               </div>
               <div class="col-lg-4 ">
-                <div class="card card-2o">
+                <div class="card card-2o  mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">Data Analyst</h5>
                     <div class="row justify-content-center">
@@ -358,7 +358,7 @@ include_once("../includes/header.php");
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Scikit_Learn_qtbtxx.png"
                           alt="">
                       </div>
-                      <div class="col-lg-4">
+                      <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Power_BI_qpifbg.png"
                           alt="">
@@ -373,11 +373,11 @@ include_once("../includes/header.php");
                   </div>
                 </div>
               </div>
-              <div class="col-lg-4 ">
-                <div class="card card-2o">
+              <div class="col-12 col-lg-4 ">
+                <div class="card card-2o  mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">QA/Automation Tester</h5>
-                    <div class="row justify-content-center">
+                    <div class="row d-sm-flex justify-content-center">
                       <div class="col-lg-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Java_odbpx3.png"
