@@ -273,20 +273,20 @@ include_once("../includes/header.php");
           <div class="card-body p-3 my-2 border-0 rounded-3 advantage-card">
             <p>Program Includes</p>
             <div class="row justify-content-spacearound">
-              <div class="col-lg-3 ">
+              <div class="col col-sm-12 col-lg-3 ">
                 <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/HTML_pauq6n.jpg"
                   class="" width="100" alt="" />
               </div>
-              <div class="col-lg-3 ">
+              <div class="col col-sm-12 col-lg-3 ">
                 <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/CSS_rznr0r.jpg"
                   class="" width="100" alt="" />
               </div>
-              <div class="col-lg-3 ">
+              <div class="col col-sm-12 col-lg-3 ">
                 <img
                   src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/PYTHON_mipngi.jpg"
                   class="" width="100" alt="" />
               </div>
-              <div class="col-lg-3 ">
+              <div class="col col-sm-12 col-lg-3 ">
                 <img src="https://res.cloudinary.com/skill-safari/image/upload/v1688640017/website/2.0/SQL_tjjjon.jpg"
                   class="" width="100" alt="" />
               </div>
@@ -306,28 +306,28 @@ include_once("../includes/header.php");
                 tech enthusiasts
                 and Kick Start your career in IT in any one of the 3 career paths.</p>
             </div>
-            <div class="row mt-3">
-              <div class="col-lg-4 ">
+            <div class="row mt-3 justify-sm-content-center">
+              <div class="col col-sm-12 col-lg-4 ">
                 <div class="card card-2o mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">MERN Stack Web Developer</h5>
                     <div class="row d-flex justify-content-center">
-                      <div class="col-md-4">
+                      <div class="col col-sm-2 col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Mongo_DB_ogukup.png"
                           alt="">
                       </div>
-                      <div class="col-md-4">
+                      <div class="col col-sm-2 col-md-4 ">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Ex_teewen.png"
                           alt="">
                       </div>
-                      <div class="col-md-4">
+                      <div class="col col-sm-2 col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Node_cvvhuf.png"
                           alt="">
                       </div>
-                      <div class="col-md-4">
+                      <div class="col col-sm-2 col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/react_rnqzkm.png"
                           alt="">
@@ -338,32 +338,32 @@ include_once("../includes/header.php");
                   </div>
                 </div>
               </div>
-              <div class="col-lg-4 ">
+              <div class="col col-sm-12 col-lg-4 ">
                 <div class="card card-2o  mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">Data Analyst</h5>
                     <div class="row justify-content-center">
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Excel_mtnnxi.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Python_iewp6w.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Scikit_Learn_qtbtxx.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Power_BI_qpifbg.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Tableau_kmdryn.png"
                           alt="">
@@ -373,27 +373,27 @@ include_once("../includes/header.php");
                   </div>
                 </div>
               </div>
-              <div class="col-12 col-lg-4 ">
+              <div class="col col-sm-12 col-lg-4 ">
                 <div class="card card-2o  mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">QA/Automation Tester</h5>
                     <div class="row d-sm-flex justify-content-center">
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Java_odbpx3.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Selenium_n5ferp.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Cucumber_tazipp.png"
                           alt="">
                       </div>
-                      <div class="col-lg-3">
+                      <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798288/website/web%20images/Testng_esknk7.png"
                           alt="">
