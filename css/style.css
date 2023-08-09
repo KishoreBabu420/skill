@@ -2805,6 +2805,10 @@ width: unset!important;
   height: 30rem;
 }
 
+.pricing-card-internship li {
+  list-style: none;
+}
+
 /* Alchemyst 2.0 */
 
 .hero-title {

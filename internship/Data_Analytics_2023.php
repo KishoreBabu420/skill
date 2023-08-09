@@ -324,11 +324,9 @@ include_once("../includes/testimony.php");
     <p class="top-head text-center pb-3">Pricing</p>
     <div class="row">
       <div class="col-lg-4">
-        <div class="card pricing-card-internship" style="width: 18rem;">
+        <div class="card pricing-card-internship">
           <div class="card-body">
-            <h5 class="card-title">Free</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.</p>
+            <h5 class="card-title text-center h3 mb-3 ">Free</h5>
             <ul>
               <li>1 Week – 5 Classes</li>
               <li>Skills: HTML, CSS</li>
@@ -342,11 +340,9 @@ include_once("../includes/testimony.php");
         </div>
       </div>
       <div class="col-lg-4">
-        <div class="card pricing-card-internship" style="width: 18rem;">
+        <div class="card pricing-card-internship">
           <div class="card-body">
-            <h5 class="card-title">Basic</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.</p>
+            <h5 class="card-title text-center h3 mb-3 ">Basic</h5>
             <ul>
               <li>3 Weeks - 15 Classes</li>
               <li>Skills: HTML, CSS, Basic JavaScript</li>
@@ -360,11 +356,9 @@ include_once("../includes/testimony.php");
         </div>
       </div>
       <div class="col-lg-4">
-        <div class="card pricing-card-internship" style="width: 18rem;">
+        <div class="card pricing-card-internship">
           <div class="card-body">
-            <h5 class="card-title">Advanced</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.</p>
+            <h5 class="card-title text-center h3 mb-3 ">Advanced</h5>
             <ul>
               <li>5 Weeks – 25 Classes</li>
               <li>Letter of Recommendation for good performers</li>
