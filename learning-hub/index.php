@@ -306,12 +306,12 @@ include_once("../includes/header.php");
                 tech enthusiasts
                 and Kick Start your career in IT in any one of the 3 career paths.</p>
             </div>
-            <div class="row mt-3 justify-sm-content-center">
-              <div class="col col-sm-12 col-lg-4 ">
+            <div class="row mt-3 ">
+              <div class="col-12 col-sm-12 col-lg-4 ">
                 <div class="card card-2o mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">MERN Stack Web Developer</h5>
-                    <div class="row d-flex justify-content-center">
+                    <div class="row  justify-content-center">
                       <div class="col col-sm-2 col-md-4">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Mongo_DB_ogukup.png"
@@ -333,12 +333,10 @@ include_once("../includes/header.php");
                           alt="">
                       </div>
                     </div>
-
-                    </p>
                   </div>
                 </div>
               </div>
-              <div class="col col-sm-12 col-lg-4 ">
+              <div class="col-12 col-sm-12 col-lg-4 ">
                 <div class="card card-2o  mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">Data Analyst</h5>
@@ -373,11 +371,11 @@ include_once("../includes/header.php");
                   </div>
                 </div>
               </div>
-              <div class="col col-sm-12 col-lg-4 ">
+              <div class="col-12 col-sm-12 col-lg-4 ">
                 <div class="card card-2o  mb-3">
                   <div class="card-body">
                     <h5 class="card-title course-title mb-3 text-center">QA/Automation Tester</h5>
-                    <div class="row d-sm-flex justify-content-center">
+                    <div class="row justify-content-center">
                       <div class="col col-sm-2 col-md-3">
                         <img
                           src="https://res.cloudinary.com/skill-safari/image/upload/v1688798287/website/web%20images/Java_odbpx3.png"
