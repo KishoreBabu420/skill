@@ -374,7 +374,74 @@ include_once("../includes/header.php");
 <?php 
 include_once("../includes/testimony.php");
 ?>
-
+<!-- pricing section -->
+<section>
+  <div class="container">
+    <p class="top-head text-center pb-3">Pricing</p>
+    <div class="row">
+      <div class="col-lg-4 ">
+        <div class="card pricing-card-internship bg-hero text-white">
+          <div class="card-body">
+            <h3 class="card-title text-center h2 mb-5 ">Free</h3>
+            <ul>
+              <li class=" mb-3">1 Week – 5 Classes</li>
+              <hr>
+              <li class=" mb-3">Skills: HTML, CSS</li>
+              <hr>
+              <li class=" mb-3">Projects – Portfolio Website</li>
+              <hr>
+              <li class=" mb-5">Course Completion Certificate</li>
+            </ul>
+            <div class="regbtn text-center mt-5">
+              <a href="#" class="btn">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 ">
+        <div class="card pricing-card-internship bg-hero text-white">
+          <div class="card-body">
+            <h5 class="card-title text-center h3 mb-5 ">Basic</h5>
+            <ul>
+              <li class="mb-3 p">3 Weeks - 15 Classes</li>
+              <hr>
+              <li class="mb-3 p"><strong>Skills:</strong> HTML, CSS, Basic JavaScript</li>
+              <hr>
+              <li class="mb-5 p"><strong>Projects:</strong> Portfolio Website, YouTube Clone, Calculator Application,
+                Course Completion Certificate, Project Completion Certificate</li>
+            </ul>
+            <div class="regbtn text-center mt-5">
+              <a href=" #" class="btn">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 ">
+        <div class="card pricing-card-internship bg-hero text-white">
+          <div class="card-body">
+            <h5 class="card-title text-center h3 mb-5 ">Advanced</h5>
+            <ul>
+              <li class=" mb-3">5 Weeks – 25 Classes</li>
+              <hr>
+              <li class=" mb-3">Letter of Recommendation for good performers</li>
+              <hr>
+              <li class="mb-3 p"><strong>Skills:</strong> HTML, CSS, Basic JavaScript, Advanced JavaScript, Basic React
+              </li>
+              <hr>
+              <li class="mb-3 p"><strong>Projects:</strong> Portfolio Website, YouTube Clone, Calculator Application,
+                Expense Tracker, React Cart
+                Course Completion Certificate, Project Completion Certificate, Internship Certificate</li>
+            </ul>
+            <div class="regbtn text-center">
+              <a href="#" class="btn">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end of pricing section -->
 <!-- benefits section ended -->
 
 <!--  -->
