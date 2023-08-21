@@ -44,7 +44,7 @@
   <script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MQSJSHQXP7"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CNX7TC6WRV"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
 
@@ -53,7 +53,7 @@
   }
   gtag('js', new Date());
 
-  gtag('config', 'G-MQSJSHQXP7');
+  gtag('config', 'G-CNX7TC6WRV');
   </script>
 
   <!-- Meta Pixel Code -->
