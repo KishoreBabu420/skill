@@ -382,8 +382,8 @@ include_once("../includes/testimony.php");
       <div class="col-lg-4 mb-3">
         <div class="card pricing-card-internship bg-hero text-white">
           <div class="card-body">
-            <h3 class="card-title text-center h2 mb-3 ">Free</h3>
-            <p class="h2 text-center mb-3">₹ Free</p>
+            <h3 class="card-title text-center h2 mb-3 ">Basic</h3>
+            <p class="h2 text-center mb-3">₹ 500</p>
             <ul>
               <li class=" mb-3">1 Week – 5 Classes</li>
               <hr>
