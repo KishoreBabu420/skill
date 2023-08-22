@@ -402,7 +402,7 @@ include_once("../includes/testimony.php");
       <div class="col-lg-4 mb-3">
         <div class="card pricing-card-internship bg-hero text-white">
           <div class="card-body">
-            <h5 class="card-title text-center h3 mb-3">Basic</h5>
+            <h5 class="card-title text-center h3 mb-3">Standard</h5>
             <p class="h2 text-center mb-3">₹2000/-</p>
             <ul>
               <li class="mb-3 p">3 Weeks - 15 Classes</li>
