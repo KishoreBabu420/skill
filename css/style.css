@@ -2811,7 +2811,15 @@ width: unset!important;
 .pricing-card-internship li {
   list-style: none;
 }
+/* Data Science & Machine Learning */
+.pricing-card-Dsml {
+  width: 20rem;
+  height: 35rem;
+}
 
+.pricing-card-Dsml li {
+  list-style: none;
+}
 /* Alchemyst 2.0 */
 
 .hero-title {
