@@ -157,69 +157,74 @@ include_once("../includes/header.php");
   </div>
 </section>
 
-<section>
+<section class="mt-5 mb-5">
   <div class="container">
-    <h3>How does Skill Safari’s Data Science & Machine Learning Program works:</h3>
-    <div class="container-fluid py-5">
+    <h3 class="text-center">How does Skill Safari’s Data Science & Machine Learning Program works:</h3>
+    <!-- Section: Timeline -->
+    <section class="py-5">
+      <ul class="timeline-with-icons">
+        <li class="timeline-item mb-5">
+          <span class="timeline-icon">
+            <i class="fas fa-rocket text-primary fa-sm fa-fw"></i>
+          </span>
 
-      <div class="row">
-        <div class="col-lg-12">
+          <h5 class="fw-bold">Our company starts its operations</h5>
+          <p class="text-muted mb-2 fw-bold">11 March 2020</p>
+          <p class="text-muted">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
+            necessitatibus adipisci, ad alias, voluptate pariatur officia
+            repellendus repellat inventore fugit perferendis totam dolor
+            voluptas et corrupti distinctio maxime corporis optio?
+          </p>
+        </li>
 
-          <div class="horizontal-timeline">
+        <li class="timeline-item mb-5">
 
-            <ul class="list-inline items">
-              <li class="list-inline-item items-list">
-                <div class="px-4">
-                  <div class="event-date badge bg-info">2 June</div>
-                  <h5 class="pt-2">Event One</h5>
-                  <p class="text-muted">It will be as simple as occidental in fact it will be Occidental Cambridge
-                    friend</p>
-                  <div>
-                    <a href="#" class="btn btn-primary btn-sm">Read more</a>
-                  </div>
-                </div>
-              </li>
-              <li class="list-inline-item items-list">
-                <div class="px-4">
-                  <div class="event-date badge bg-success">5 June</div>
-                  <h5 class="pt-2">Event Two</h5>
-                  <p class="text-muted">Everyone realizes why a new common language one could refuse translators.
-                  </p>
-                  <div>
-                    <a href="#" class="btn btn-primary btn-sm">Read more</a>
-                  </div>
-                </div>
-              </li>
-              <li class="list-inline-item items-list">
-                <div class="px-4">
-                  <div class="event-date badge bg-danger">7 June</div>
-                  <h5 class="pt-2">Event Three</h5>
-                  <p class="text-muted">If several languages coalesce the grammar of the resulting simple and
-                    regular</p>
-                  <div>
-                    <a href="#" class="btn btn-primary btn-sm">Read more</a>
-                  </div>
-                </div>
-              </li>
-              <li class="list-inline-item items-list">
-                <div class="px-4">
-                  <div class="event-date badge bg-warning">8 June</div>
-                  <h5 class="pt-2">Event Four</h5>
-                  <p class="text-muted">Languages only differ in their pronunciation and their most common words.
-                  </p>
-                  <div>
-                    <a href="#" class="btn btn-primary btn-sm">Read more</a>
-                  </div>
-                </div>
-              </li>
-            </ul>
+          <span class="timeline-icon">
+            <i class="fas fa-hand-holding-usd text-primary fa-sm fa-fw"></i>
+          </span>
+          <h5 class="fw-bold">First customer</h5>
+          <p class="text-muted mb-2 fw-bold">19 March 2020</p>
+          <p class="text-muted">
+            Quisque ornare dui nibh, sagittis egestas nisi luctus nec. Sed
+            aliquet laoreet sapien, eget pulvinar lectus maximus vel.
+            Phasellus suscipit porta mattis.
+          </p>
+        </li>
 
-          </div>
+        <li class="timeline-item mb-5">
 
-        </div>
-      </div>
+          <span class="timeline-icon">
+            <i class="fas fa-users text-primary fa-sm fa-fw"></i>
+          </span>
+          <h5 class="fw-bold">Our team exceeds 10 people</h5>
+          <p class="text-muted mb-2 fw-bold">24 June 2020</p>
+          <p class="text-muted">
+            Orci varius natoque penatibus et magnis dis parturient montes,
+            nascetur ridiculus mus. Nulla ullamcorper arcu lacus, maximus
+            facilisis erat pellentesque nec. Duis et dui maximus dui aliquam
+            convallis. Quisque consectetur purus erat, et ullamcorper sapien
+            tincidunt vitae.
+          </p>
+        </li>
 
-    </div>
+        <li class="timeline-item mb-5">
+
+          <span class="timeline-icon">
+            <i class="fas fa-money-bill-wave text-primary fa-sm fa-fw"></i>
+          </span>
+          <h5 class="fw-bold">Earned the first million $!</h5>
+          <p class="text-muted mb-2 fw-bold">15 October 2020</p>
+          <p class="text-muted">
+            Nulla ac tellus convallis, pulvinar nulla ac, fermentum diam. Sed
+            et urna sit amet massa dapibus tristique non finibus ligula. Nam
+            pharetra libero nibh, id feugiat tortor rhoncus vitae. Ut suscipit
+            vulputate mattis.
+          </p>
+        </li>
+      </ul>
+
+      <!-- Section: Timeline -->
   </div>
 </section>
 <!-- Footer CTA START -->
