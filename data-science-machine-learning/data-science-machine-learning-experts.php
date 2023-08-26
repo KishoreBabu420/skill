@@ -114,7 +114,101 @@ include_once("../includes/header.php");
   </div>
 </section>
 
-<section>
+<section class="bg-smallicon-sec active">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 pt-4 pb-2 text-center">
+        <h2 class="text-center top-head">Data Science & Machine Learning Course highlights</h2>
+      </div>
+    </div>
+    <div class="row align-items-center pt-md-3 justify-content-center">
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_1_aeldi0.png"
+              alt="100% Placement Guarantee" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">100% Placement Guarantee</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_2_leji5r.png"
+              alt="7 Months Live Course" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">7 Months Live Course</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_3_k8akza.png"
+              alt="1 - 1 Mentorship support" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">1 - 1 Mentorship support</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_4_xjdqf4.png"
+              alt="Learn & Earn Community access" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">Learn & Earn Community access</p>
+        </div>
+      </div>
+    </div>
+    <div class="row align-items-center pt-md-3 justify-content-center">
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_5_p7o5wc.png"
+              alt="Outcome Based Learning" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">Outcome Based Learning</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854406/website/sales_icons/icon_6_dntusg.png"
+              alt="Insights from Industry Expert" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">Insights from Industry Experts</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_7_wztmae.png"
+              alt="Project based learning" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">Project based learning</p>
+        </div>
+      </div>
+      <div class="col-md-3 col-6 mb-4">
+        <div class="iconbox-small text-center">
+          <div class="icon-container">
+            <img
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1651854405/website/sales_icons/icon_8_nxwlkc.png"
+              alt="Recruitment Training" class="img-fluid" width="64" height="64">
+          </div>
+          <p class="icontitle-head pt-3">Recruitment Training</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="mt-5 mb-5">
   <div class="container">
     <h2 class="text-center mt-5 mb-3">Data Science and Machine Learning Experts Course Fees</h2>
     <div class="row justify-content-around mt-5">
@@ -161,15 +255,15 @@ include_once("../includes/header.php");
   <div class="container">
     <h3 class="text-center">How does Skill Safari’s Data Science & Machine Learning Program works:</h3>
     <!-- Section: Timeline -->
-    <section class="py-5">
+    <div class="py-5 col- col-lg-7 mx-auto">
       <ul class="timeline-with-icons">
         <li class="timeline-item mb-5">
           <span class="timeline-icon">
             <i class="fas fa-rocket text-primary fa-sm fa-fw"></i>
           </span>
 
-          <h5 class="fw-bold">Our company starts its operations</h5>
-          <p class="text-muted mb-2 fw-bold">11 March 2020</p>
+          <h5 class="fw-bold">Admission</h5>
+          <!-- <p class="text-muted mb-2 fw-bold">11 March 2020</p> -->
           <p class="text-muted">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
             necessitatibus adipisci, ad alias, voluptate pariatur officia
@@ -183,8 +277,8 @@ include_once("../includes/header.php");
           <span class="timeline-icon">
             <i class="fas fa-hand-holding-usd text-primary fa-sm fa-fw"></i>
           </span>
-          <h5 class="fw-bold">First customer</h5>
-          <p class="text-muted mb-2 fw-bold">19 March 2020</p>
+          <h5 class="fw-bold">Get Training</h5>
+          <!-- <p class="text-muted mb-2 fw-bold">19 March 2020</p> -->
           <p class="text-muted">
             Quisque ornare dui nibh, sagittis egestas nisi luctus nec. Sed
             aliquet laoreet sapien, eget pulvinar lectus maximus vel.
@@ -197,8 +291,8 @@ include_once("../includes/header.php");
           <span class="timeline-icon">
             <i class="fas fa-users text-primary fa-sm fa-fw"></i>
           </span>
-          <h5 class="fw-bold">Our team exceeds 10 people</h5>
-          <p class="text-muted mb-2 fw-bold">24 June 2020</p>
+          <h5 class="fw-bold">Project Completion</h5>
+          <!-- <p class="text-muted mb-2 fw-bold">24 June 2020</p> -->
           <p class="text-muted">
             Orci varius natoque penatibus et magnis dis parturient montes,
             nascetur ridiculus mus. Nulla ullamcorper arcu lacus, maximus
@@ -213,8 +307,22 @@ include_once("../includes/header.php");
           <span class="timeline-icon">
             <i class="fas fa-money-bill-wave text-primary fa-sm fa-fw"></i>
           </span>
-          <h5 class="fw-bold">Earned the first million $!</h5>
-          <p class="text-muted mb-2 fw-bold">15 October 2020</p>
+          <h5 class="fw-bold">Certification</h5>
+          <!-- <p class="text-muted mb-2 fw-bold">15 October 2020</p> -->
+          <p class="text-muted">
+            Nulla ac tellus convallis, pulvinar nulla ac, fermentum diam. Sed
+            et urna sit amet massa dapibus tristique non finibus ligula. Nam
+            pharetra libero nibh, id feugiat tortor rhoncus vitae. Ut suscipit
+            vulputate mattis.
+          </p>
+        </li>
+        <li class="timeline-item mb-5">
+
+          <span class="timeline-icon">
+            <i class="fas fa-money-bill-wave text-primary fa-sm fa-fw"></i>
+          </span>
+          <h5 class="fw-bold">Placement</h5>
+          <!-- <p class="text-muted mb-2 fw-bold">15 October 2020</p> -->
           <p class="text-muted">
             Nulla ac tellus convallis, pulvinar nulla ac, fermentum diam. Sed
             et urna sit amet massa dapibus tristique non finibus ligula. Nam
@@ -223,10 +331,10 @@ include_once("../includes/header.php");
           </p>
         </li>
       </ul>
-
-      <!-- Section: Timeline -->
+    </div>
   </div>
 </section>
+<!-- Section: Timeline -->
 <!-- Footer CTA START -->
 <section class="bg-callback mt-md-4">
   <div class="container">

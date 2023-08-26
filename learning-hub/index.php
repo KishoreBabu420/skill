@@ -28,7 +28,8 @@ include_once("../includes/header.php");
             <span class="mt-3"> with Assured Placement</span>
           </h1>
           <div class="py-3">
-            <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> August 21<sup>th</sup> 2023</span></h3>
+            <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> September 04<sup>th</sup> 2023</span>
+              </h3>
           </div>
           <div class="py-3">
             <p class=" pt-3 h3"><i class="fa-solid fa-location-dot alchemyst-location-icon"></i> Coimbatore</h3>
