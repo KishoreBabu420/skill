@@ -387,6 +387,26 @@ include_once("../includes/header.php");
         </div>
       </div>
     </div>
+    <div class="section-title-container py-2 my-4 text-center ">
+      <h2 class="section-title section-title-two">Get IABAC Certified</h2>
+    </div>
+    <div class="row align-items-center justify-content-around">
+      <div class="col-md-6 col-12">
+        <div class="certificate__img-container mx-auto">
+          <img
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1690278539/alchemyst-2.o-certificate_h1ayx1.jpg"
+            alt="Skill Safari certificate" class="img-fluid">
+        </div>
+      </div>
+      <div class="col-md-6 col-12 ">
+        <div class="certificate-description">
+          <h4 class="text-center text-md-start">
+            You will be given a certificate proving your industry readiness after submitting your projects and passing
+            the pre-placement test.
+          </h4>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <!-- Certification -->
