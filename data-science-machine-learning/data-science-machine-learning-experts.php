@@ -221,9 +221,9 @@ include_once("../includes/header.php");
     </div>
   </div>
   <div class="container d-none d-lg-block">
-    <div class="work__image-container ">
+    <div class="work__image-container text-center">
       <img src="https://res.cloudinary.com/skill-safari/image/upload/v1683791598/OBL_2_1_k04m36.webp"
-        alt="5 Principles of Outcome based learning" class="img-fluid px-5">
+        alt="5 Principles of Outcome based learning" class="img-fluid px-5 w-75">
     </div>
   </div>
   <div class="container mt-4 pt-4 d-block d-lg-none">
@@ -397,11 +397,14 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- Section: Timeline -->
-<section>
+<section class="pt-5 mt-5">
+  <h2>Recruitment Essentials Program</h2>
   <div class="container">
-    <p>Usually,In this training you will be learning soft skills,interpersonal skills,communication enhancement.
-      So apart from this,We Skill Safari provide trainings like Analytcal approach,Thinking out of the box,
-      Decision making, Colloboration, Attention to detail an most mportantly Story Telling.</p>
+    <div class="">
+      <p>Usually,In this training you will be learning soft skills,interpersonal skills,communication enhancement.
+        So apart from this,We Skill Safari provide trainings like Analytcal approach,Thinking out of the box,
+        Decision making, Colloboration, Attention to detail an most mportantly Story Telling.</p>
+    </div>
   </div>
 </section>
 <!-- pricing -->
