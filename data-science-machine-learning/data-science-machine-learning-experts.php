@@ -20,9 +20,10 @@ include_once("../includes/header.php");
       <div class="col-lg-7">
         <div class="container">
           <h1 class="hero-title text-lg-start text-center my-2">
-            Data science & Machine Learning Course
+            Data science & Machine Learning Expert Program
             with Placement Assistance
           </h1>
+          <p class="ds-banner-p">Get Best-in-class quality training from our leading industrial experts </p>
           <div class="py-3">
             <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> September 25<sup>th</sup> 2023</span>
               </h3>
@@ -327,10 +328,7 @@ include_once("../includes/header.php");
           <h5 class="fw-bold">Admission</h5>
           <!-- <p class="text-muted mb-2 fw-bold">11 March 2020</p> -->
           <p class="text-muted">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-            necessitatibus adipisci, ad alias, voluptate pariatur officia
-            repellendus repellat inventore fugit perferendis totam dolor
-            voluptas et corrupti distinctio maxime corporis optio?
+            Get enrolled in our Data Science and Machine Learning experts program and start skilling up
           </p>
         </li>
 
@@ -342,9 +340,27 @@ include_once("../includes/header.php");
           <h5 class="fw-bold">Get Training</h5>
           <!-- <p class="text-muted mb-2 fw-bold">19 March 2020</p> -->
           <p class="text-muted">
-            Quisque ornare dui nibh, sagittis egestas nisi luctus nec. Sed
-            aliquet laoreet sapien, eget pulvinar lectus maximus vel.
-            Phasellus suscipit porta mattis.
+            Here, you will be having 2 phases
+          <ul>
+            <li>
+              <div>
+                <h6 class="fw-bold">Technical Training</h6>
+                <p>Get best-in-class quality training from our industrial experts. And also, you will be working on with
+                  real
+                  time project.</p>
+              </div>
+            </li>
+            <li>
+              <div>
+                <h6 class="fw-bold">Recruitment Essential Training</h6>
+                <p>Hearing this word, come toi our mind is communication enhancement, softskill training, interpersonal
+                  skill training.
+                  Apart from this we skill safari provide training like analytical approach, thinking out og the box,
+                  decision making, attention to detail and most importantly story telling.</p>
+              </div>
+            </li>
+
+          </ul>
           </p>
         </li>
 
@@ -356,11 +372,8 @@ include_once("../includes/header.php");
           <h5 class="fw-bold">Project Completion</h5>
           <!-- <p class="text-muted mb-2 fw-bold">24 June 2020</p> -->
           <p class="text-muted">
-            Orci varius natoque penatibus et magnis dis parturient montes,
-            nascetur ridiculus mus. Nulla ullamcorper arcu lacus, maximus
-            facilisis erat pellentesque nec. Duis et dui maximus dui aliquam
-            convallis. Quisque consectetur purus erat, et ullamcorper sapien
-            tincidunt vitae.
+            After completion of each modules,you will be assigned with some tasks,projects and assessments.So,It should
+            be completed then and there.It is very important to move your profile for further process.
           </p>
         </li>
 
@@ -372,10 +385,10 @@ include_once("../includes/header.php");
           <h5 class="fw-bold">Certification</h5>
           <!-- <p class="text-muted mb-2 fw-bold">15 October 2020</p> -->
           <p class="text-muted">
-            Nulla ac tellus convallis, pulvinar nulla ac, fermentum diam. Sed
-            et urna sit amet massa dapibus tristique non finibus ligula. Nam
-            pharetra libero nibh, id feugiat tortor rhoncus vitae. Ut suscipit
-            vulputate mattis.
+            After completion of your projects successfully,you will be eligible for our certification.As,Skill Safari is
+            a Authorised patner of IABAC,you will also be eligible for getting IABAC Certificate,after completion of the
+            exam.
+          </p>
           </p>
         </li>
         <li class="timeline-item mb-5">
@@ -386,10 +399,8 @@ include_once("../includes/header.php");
           <h5 class="fw-bold">Placement</h5>
           <!-- <p class="text-muted mb-2 fw-bold">15 October 2020</p> -->
           <p class="text-muted">
-            Nulla ac tellus convallis, pulvinar nulla ac, fermentum diam. Sed
-            et urna sit amet massa dapibus tristique non finibus ligula. Nam
-            pharetra libero nibh, id feugiat tortor rhoncus vitae. Ut suscipit
-            vulputate mattis.
+            Our corporate relation team will schedule the interviews in different companies. you can attend and crack
+            the interview with the minimum package of 4 LPA to 20 LPA.
           </p>
         </li>
       </ul>
@@ -397,7 +408,7 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- Section: Timeline -->
-<section class="pt-5 mt-5">
+<!-- <section class="pt-5 mt-5">
   <h2>Recruitment Essentials Program</h2>
   <div class="container">
     <div class="">
@@ -406,7 +417,7 @@ include_once("../includes/header.php");
         Decision making, Colloboration, Attention to detail an most mportantly Story Telling.</p>
     </div>
   </div>
-</section>
+</section> -->
 <!-- pricing -->
 <section class="mt-5 mb-5">
   <div class="container">
@@ -460,8 +471,8 @@ include_once("../includes/header.php");
       <div class="col-md-6 col-12">
         <div class="certificate-description">
           <h4 class="text-center text-md-start">
-            You will be given a certificate proving your industry readiness after submitting your projects and passing
-            the pre-placement test.
+            After completion of all projects & tasks, you will getting a certificate of Data Science and Machine
+            Learning
           </h4>
         </div>
       </div>
@@ -487,8 +498,8 @@ include_once("../includes/header.php");
       <div class="col-md-6 col-12 ">
         <div class="certificate-description">
           <h4 class="text-center text-md-start">
-            You will be given a certificate proving your industry readiness after submitting your projects and passing
-            the pre-placement test.
+            And the interesting thing over here is :
+            After completion of this course successfully, you will be eligible for the exam which is conducted by IABAC.
           </h4>
         </div>
       </div>
@@ -679,6 +690,227 @@ include_once("../includes/header.php");
             </div>
           </div>
 
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- FAQ -->
+<section class="bg-faq faq my-3 py-3" id="faq">
+  <div class="container">
+    <div class="section-title-container py-2 my-4 text-center ">
+      <h2 class="section-title section-title-two">FAQ</h2>
+    </div>
+    <div class="accordion" id="courseFAQExample">
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingOne">
+          <button class="accordion-button pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <h4 class="top-head-faq mb-0">
+              Who can enroll in this course?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              People who are passionate and motivated and want to finish a rigorous 6-month Data Science Course are
+              eligible.
+              This includes MBA/MCA graduates as well as graduates with backgrounds in engineering or the arts.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingSix">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
+            <h4 class=" top-head-faq mb-0">
+              Who is a Data Scientist?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseTwenty1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Data scientists are skilled analysts who combine their knowledge of social science and technology to spot
+              trends and manage data efficiently.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingTwo">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+            <h4 class="top-head-faq mb-0">
+              Why do companies recruit full-stack developers?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">Data Scientists/Analysts empower business leaders/executives to make informed
+              decisions based on data, a critical component of business operation and growth. </p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFive">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+            <h4 class="top-head-faq mb-0">
+              What qualifications should a data scientist have?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingFive"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Data scientists need the following essential skills:
+            </p>
+            <ul>
+              <li>Statistics knowledge</li>
+              <li>R/Python programming language proficiency in at least one area.</li>
+              <li>Possessing Knowledge of Data Extraction, Transformation, and Loading.</li>
+              <li>Data exploration and wrangling expertise.</li>
+              <li>Expertise with machine learning algorithms. </li>
+              <li>Expertise in Deep Learning, an advanced machine learning technique.</li>
+              <li>A working knowledge of big data processing frameworks.</li>
+              <li>Data visualisation skills.</li>
+            </ul>
+            <p></p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFive">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+            <h4 class="top-head-faq mb-0">
+              How does Data Science differ from Big Data and Data Analytics?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Big Data refers to large amounts of structured or unstructured data, whereas analytics is concerned with
+              turning knowledge into strategies that can be put into practise.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingSix">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwenty1" aria-expanded=" true" aria-controls="collapseTwenty1">
+            <h4 class=" top-head-faq mb-0">
+              Is a strong math background mandatory?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseTwenty1" class=" accordion-collapse collapse" aria-labelledby="headingSix"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              The toolkit comes with all the necessary programs and libraries to complete tasks. Even for those who are
+              unfamiliar with mathematics,
+              understanding concepts and applying algorithms are crucial. .
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFive">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+            <h4 class="top-head-faq mb-0">
+              Which language is preferable for text analysis, R or Python?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingFive"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Python provides efficient results for high-quality data analysis thanks to its enriched libraries like
+              Pandas.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFive">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
+            <h4 class="top-head-faq mb-0">
+              Is Data Science a sought-after profession?
+            </h4>
+          </button>
+        </h3>
+
+        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              Data scientists are included in the broader category of computer and information research scientists,
+              according to the US Bureau of Labour Statistics.
+              Between 2018 and 2028, employment in this field is expected to increase by 16%.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFive">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseSixteen" aria-expanded="true" aria-controls="collapseSixteen">
+            <h4 class="top-head-faq mb-0">
+              Is an advanced Data Science degree necessary for employment? </h4>
+          </button>
+        </h3>
+
+        <div id="collapseSixteen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              While having a degree gives you more credibility, having a solid portfolio of well-done projects is
+              frequently regarded as a viable alternative. </p>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item mb-3 p-4">
+        <h3 class="accordion-header" id="headingFive">
+          <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseSeventeen" aria-expanded="true" aria-controls="collapseSeventeen">
+            <h4 class="top-head-faq mb-0">
+              What is the average salary of a data scientist in India? </h4>
+          </button>
+        </h3>
+
+        <div id="collapseSeventeen" class="accordion-collapse collapse" aria-labelledby="headingFive"
+          data-bs-parent="#courseFAQExample">
+          <div class="accordion-body">
+            <p class="school-para mb-0">
+              The average annual salary for data scientists in India is 9.2 lakhs, with salaries ranging from 3.7 lakhs
+              to 25.0 lakhs </p>
+          </div>
         </div>
       </div>
 

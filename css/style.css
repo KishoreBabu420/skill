@@ -2849,6 +2849,10 @@ width: unset!important;
   justify-content: center;
 }
 /* dsml */
+.ds-banner-p {
+  font-size: 1.25rem;
+  color: #f3274f;
+}
 /* Alchemyst 2.0 */
 
 .hero-title {

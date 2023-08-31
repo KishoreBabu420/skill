@@ -31,7 +31,7 @@ include_once("includes/header.php");
             </p>
           </div>
           <div class="text-center text-md-start regbtn ">
-            <a href="https://forms.gle/s2XQCvr6nqn6c1DS6" class="text-decoration-none buttoncc" target="_blank">Get in
+            <a href="https://forms.office.com/r/tsiNUNwEb5" class="text-decoration-none buttoncc" target="_blank">Get in
               touch with us</a>
           </div>
         </div>
