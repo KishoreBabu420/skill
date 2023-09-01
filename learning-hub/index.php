@@ -914,7 +914,7 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              In the Alchemyst 2. O program, you will be learning the fundamentals of programming for the first 2
+              In the Alchemyst 2.O program, you will be learning the fundamentals of programming for the first 2
               months, and you can also decide which career path and skills to pursue.
               To upskill yourself to bring out the best in you.
             </p>
@@ -1022,7 +1022,7 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              I would say you will need a minimum of 2 - 3 hours of commitment per day.
+              We would say you will need a minimum of 2 - 3 hours of commitment per day.
             </p>
           </div>
         </div>
@@ -1070,7 +1070,7 @@ include_once("../includes/header.php");
           data-bs-parent="#courseFAQExample">
           <div class="accordion-body">
             <p class="school-para mb-0">
-              Yes, absolutely. You will receive a course completion certificate only after 100% completion of the
+              You will receive a course completion certificate only after 100% completion of the
               program.
             </p>
           </div>

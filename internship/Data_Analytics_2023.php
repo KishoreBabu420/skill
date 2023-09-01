@@ -179,7 +179,7 @@ include_once("../includes/header.php");
           </div>
           <div class="col-md-10 col-10">
             <p class="timeline-head">Step 3 - Finish Tasks 📝</p>
-            <p class="school-para"> After each session, you will be given a simple yet fun assignment to learn Fron End
+            <p class="school-para"> After each session, you will be given a simple yet fun assignment to learn front End
               practically. Also, there will be a dedicated Q&A for tasks every DATE at TIME.</p>
           </div>
         </div>
