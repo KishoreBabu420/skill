@@ -1,13 +1,13 @@
 <?php 
 
-$title = "Alchemyst 2.0 | Learn Mern Stack, Data Analytics, Automation testing in Coimbatore |  Online & Offline Training in Coimbatore
+$title = "Data Science & Machine Learning Experts Program | Learn Data Science & Machine Learning Experts Program in Coimbatore |  Online & Offline Training in Coimbatore
 ";
 
-$description = "Alchemyst 2.0 offers multiple career tracks, such as MERN Stack, Data Analytics, and QA/Automation Testing in Coimbatore and help you start your tech career in an effective way.";
+$description = "Data Science & Machine Learning Experts Program offers ";
 
-$keywords = "Skill Safari, SkillSafari, skill safari, skillsafari, Skillsafari, skillSafari, Full Stack Developer Course, Data Analytics, Data Science, Automation Testing, Software Testing MERN Stack Developer, SOftware developer course in Coimbatore";
+$keywords = "Data Science & Machine Learning Experts Program offers, Data Science,  Machine Learning, Data Science course course in Coimbatore,Data Science and Machine learning course in coimbatore";
 
-$page = 15;
+$page = 16;
 
 include_once("../includes/header.php");
 ?>
@@ -380,7 +380,8 @@ include_once("../includes/header.php");
         <li class="timeline-item mb-5">
 
           <span class="timeline-icon">
-            <i class="fas fa-money-bill-wave text-primary fa-sm fa-fw"></i>
+            <i class="fas fa-certificate text-primary fa-sm fa-fw"></i>
+            <i class=""></i>
           </span>
           <h5 class="fw-bold">Certification</h5>
           <!-- <p class="text-muted mb-2 fw-bold">15 October 2020</p> -->
@@ -408,16 +409,176 @@ include_once("../includes/header.php");
   </div>
 </section>
 <!-- Section: Timeline -->
-<!-- <section class="pt-5 mt-5">
-  <h2>Recruitment Essentials Program</h2>
+<section class="pt-5 mt-5 text-white bg-hero">
   <div class="container">
-    <div class="">
-      <p>Usually,In this training you will be learning soft skills,interpersonal skills,communication enhancement.
-        So apart from this,We Skill Safari provide trainings like Analytcal approach,Thinking out of the box,
-        Decision making, Colloboration, Attention to detail an most mportantly Story Telling.</p>
+    <h2 class="text-center">Data Science & Machine Learning Curriculum</h2>
+    <div class="row pt-3 justify-content-around">
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 1 - 4 - Introduction to Data Analysis</p>
+          <p>Who is a Data Scientist, Opportunities in the industry of Data, Business analysis with Excel, Basics and
+            Advanced Excel Functions, Pivots and Charts in Excel
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 5 - 7 - SQL for Data Analysis</p>
+          <p>Introduction to Structured Query Language, SQL lite installation, Data Definition Commands, Data
+            manipulation command, Basics of Database Rules
+          </p>
+
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 8 - 10 - Statistics and Probability</p>
+          <p>Central tendency, Variability, Hypothesis testing, ANOVA, Correlation, Regression, Probability definitions
+            and notations, Joint probabilities, The sum rule, Conditional probability</p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 11 - 20 - Python for Data Analysis</p>
+          <p>Python variables, data types, and keywords, Mathematical Computing using Nympy, Data Manipulation using
+            Pandas, Data Visualisation using Matplotlib, Exploratory Data Analysis using Python and Python Libraries</p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 21 - 23 - Data Visualisation using Power BI</p>
+          <p>Why Power BI?, Introduction to Power BI and its Products, Data Loading process (Extract v/s Live), Basic
+            Functions (Aggregate, String, Date etc.) and Charts (Bar, Pie, Line, Combo etc.)</p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 24 - 26 - Machine Learning with Python</p>
+          <p>Supervised Learning, Unsupervised Learning, Reinforcement Learning, Logistic regression, Decision tree,
+            Confusion Matrix, Random Forest, SVM, XGBoost, Dimensionality Reduction
+          </p>
+        </div>
+      </div>
+      <div class="col-12 col-md-6">
+        <div class="row m-2">
+          <p class="syllabus__week-title h4">Week 27-28 - Project and Placement Preparation</p>
+          <p>Analyzing the Trends of COVID-19 with Python, Analyzing the Naming Trends Using Python, Netflix
+            Recommendation System, Visualizing and Analyzing the Customer Churn Dataset Using Python
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="tech-slider row pt-3">
+      <div class="owl-carousel" id="tech-carousel">
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Python"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1693825444/website/python_yg0tlm.jpg"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Power Bi"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1693825443/website/powerbi_lgsyen.jpg"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Scikit"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1693825443/website/scikit_tnnceo.jpg"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="pandas"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/pandas_itq5dj.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="JavaScript"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/mysql_xlcugt.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="Numphy"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1687943617/website/internship/numpy_is9rui.png"
+              loading="lazy" />
+          </div>
+        </div>
+        <div class="techCard d-flex justify-content-center align-items-center p-3 rounded m-2">
+          <div class="tech-logo-container">
+            <img class="img-fluid" alt="matplotlib"
+              src="https://res.cloudinary.com/skill-safari/image/upload/v1693825444/website/matplotlib_jchl9c.jpg"
+              loading="lazy" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6  mx-auto">
+      <div class="callbackbtn ">
+        <a href="#" class="text-decoration-none mb-5" data-bs-toggle="modal" data-bs-target="#curriculum-model">View
+          Curriculum</a>
+      </div>
+      <!-- Modal -->
+      <div class="modal fade" id="curriculum-model" tabindex="-1" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              <div class="training-form bg-white shadow  pt-md-4 pb-md-4 p-md-5 p-3">
+                <h5 class="trainingform-head pb-3">Want to know More?</h5>
+                <form action="https://formsubmit.co/99a7386ade92b752097e7774d17f24fc" method="POST" id="popup-form">
+                  <div class="mb-3">
+                    <label for="fullName" class="form-label">Full Name*</label>
+                    <input type="name" class="form-control" id="fullName" aria-describedby="fullNameHelp" name="name"
+                      data-parsley-required-message="We require your name" placeholder="Enter Your Full Name"
+                      required />
+                  </div>
+
+                  <div class="mb-3">
+                    <label for="email" class="form-label">Email Address*</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                      placeholder="Enter Your Email ID" name="email"
+                      data-parsley-required-message="Email Address is required" required />
+                  </div>
+
+                  <div class="mb-3">
+                    <label for="mobile" class="form-label">Mobile Number*</label>
+                    <input type="tel" class="form-control" id="mobile" aria-describedby="mobileHelp"
+                      placeholder="Enter Your Mobile Number" name="phone"
+                      data-parsley-required-message="Mobile Number is required"
+                      data-parsley-error-message="Provide valid Mobile Number" required data-parsley-trigger="keyup"
+                      data-parsley-validation-threshold="1" data-parsley-debounce="500" data-parsley-type="digits"
+                      data-parsley-minlength="10" data-parsley-maxlength="11" />
+                  </div>
+                  <input type="hidden" name="utm_source" value="">
+                  <input type="hidden" name="utm_medium" value="">
+                  <input type="hidden" name="utm_campaign" value="">
+                  <input type="hidden" name="utm_term" value="">
+                  <input type="hidden" name="utm_content" value="">
+                  <input type="hidden" name="_webhook"
+                    value="https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NmQwNTZmMDYzZjA0MzU1MjY0NTUzMCI_3D_pc">
+                  <input type="hidden" name="_next" value="https://connect.skillsafari.in/dr7">
+                  <div class="callbackbtn mt-3">
+                    <button class="text-decoration-none" type="submit">Submit</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</section> -->
+</section>
 <!-- pricing -->
 <section class="mt-5 mb-5">
   <div class="container">
@@ -488,14 +649,13 @@ include_once("../includes/header.php");
       <h2 class="section-title section-title-two">Get IABAC Certified</h2>
     </div>
     <div class="row align-items-center justify-content-around">
-      <div class="col-md-6 col-12">`
+      <div class="col-md-4 col-12">`
         <div class="certificate__img-container mx-auto">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1690278539/alchemyst-2.o-certificate_h1ayx1.jpg"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1693822285/IABAC_certificate_havoad.jpg"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
-      <div class="col-md-6 col-12 ">
+      <div class="col-md-7 col-12 ">
         <div class="certificate-description">
           <h4 class="text-center text-md-start">
             And the interesting thing over here is :

@@ -136,10 +136,33 @@
               </button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav  mb-lg-0 m-auto">
-                  <li class="nav-item">
+                  <!-- <li class="nav-item">
                     <a class="nav-link <?php if($page==1) echo 'active';  ?>" aria-current="page"
                       href="https://www.skillsafari.in/full-stack-developer-course/">Full
                       Stack Developer</a>
+                  </li> -->
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle <?php if($page==16) echo 'active';  ?>" href=""
+                      id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Job Ready Program
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="https://www.skillsafari.in/full-stack-developer-course/">
+                          <span class="img-sec me-3">
+                            <i class="fas fa-code"></i>
+                          </span>
+                          Full Stack Developer Program
+                        </a>
+                      </li>
+                      <li><a class="dropdown-item"
+                          href="https://skillsafari.in/data-science-machine-learning/data-science-machine-learning-experts.php">
+                          <span class="img-sec me-3">
+                            <i class="fas fa-chart-line"></i>
+                          </span>
+                          Data Science &<br> Machine Learning Experts
+                        </a>
+                      </li>
+                    </ul>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link <?php if($page==15) echo 'active';  ?>" aria-current="page"

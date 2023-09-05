@@ -21,7 +21,7 @@ include_once("../includes/header.php");
           & Tools, And become a Skilled React Developer in 5 Weeks with the Skill Safari’s Internship Program
         </p>
         <div class="regbtn mb-5">
-          <a href="https://forms.office.com/r/TmTLgRvjcE" class="text-decorat  ion-none" target="_blank">Enroll Now
+          <a href="#da-pricing" class="text-decorat  ion-none" target="_blank">Enroll Now
           </a>
         </div>
       </div>
@@ -375,7 +375,7 @@ include_once("../includes/header.php");
 include_once("../includes/testimony.php");
 ?>
 <!-- pricing section -->
-<section>
+<section id="da-pricing">
   <div class="container">
     <p class="top-head text-center pb-3">Pricing</p>
     <div class="row">
