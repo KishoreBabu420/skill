@@ -159,7 +159,7 @@
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
-                          Data Science &<br> Machine Learning Experts
+                          Data Science and <br> Machine Learning Experts
                         </a>
                       </li>
                     </ul>
