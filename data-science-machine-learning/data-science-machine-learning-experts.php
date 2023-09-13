@@ -3,7 +3,7 @@
 $title = "Data Science & Machine Learning Experts Program | Learn Data Science & Machine Learning Experts Program in Coimbatore |  Online & Offline Training in Coimbatore
 ";
 
-$description = "Data Science & Machine Learning Experts Program offers ";
+$description = "Data Science & Machine Learning Experts Program  ";
 
 $keywords = "Data Science & Machine Learning Experts Program offers, Data Science,  Machine Learning, Data Science course course in Coimbatore,Data Science and Machine learning course in coimbatore";
 
@@ -353,7 +353,7 @@ include_once("../includes/header.php");
             <li>
               <div>
                 <h6 class="fw-bold">Recruitment Essential Training</h6>
-                <p>Hearing this word, come toi our mind is communication enhancement, softskill training, interpersonal
+                <p>Hearing this word, come toi our mind is communication enhancement, soft skill training, interpersonal
                   skill training.
                   Apart from this we skill safari provide training like analytical approach, thinking out og the box,
                   decision making, attention to detail and most importantly story telling.</p>
@@ -387,7 +387,8 @@ include_once("../includes/header.php");
           <!-- <p class="text-muted mb-2 fw-bold">15 October 2020</p> -->
           <p class="text-muted">
             After completion of your projects successfully,you will be eligible for our certification.As,Skill Safari is
-            a Authorised patner of IABAC,you will also be eligible for getting IABAC Certificate,after completion of the
+            a Authorised partner of IABAC,you will also be eligible for getting IABAC Certificate,after completion of
+            the
             exam.
           </p>
           </p>
@@ -639,8 +640,7 @@ include_once("../includes/header.php");
       </div>
       <div class="col-md-6 col-12 ">
         <div class="certificate__img-container mx-auto">
-          <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1690278539/alchemyst-2.o-certificate_h1ayx1.jpg"
+          <img src="https://res.cloudinary.com/skill-safari/image/upload/v1689917271/internship-certificate_yvrmi3.jpg"
             alt="Skill Safari certificate" class="img-fluid">
         </div>
       </div>
@@ -910,7 +910,7 @@ include_once("../includes/header.php");
           <button class="accordion-button collapsed pt-0 pb-0" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
             <h4 class="top-head-faq mb-0">
-              Why do companies recruit full-stack developers?
+              Why do companies recruit Data scientist?
             </h4>
           </button>
         </h3>
@@ -968,7 +968,7 @@ include_once("../includes/header.php");
           <div class="accordion-body">
             <p class="school-para mb-0">
               Big Data refers to large amounts of structured or unstructured data, whereas analytics is concerned with
-              turning knowledge into strategies that can be put into practise.
+              turning knowledge into strategies that can be put into practice.
             </p>
           </div>
         </div>
