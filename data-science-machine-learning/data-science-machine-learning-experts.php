@@ -25,8 +25,8 @@ include_once("../includes/header.php");
           </h1>
           <p class="ds-banner-p">Get Best-in-class quality training from our leading industrial experts </p>
           <div class="py-3">
-            <p class="date-sec pt-3"><span><strong>Next Batch Starts:</strong> September 25<sup>th</sup> 2023</span>
-              </h3>
+            <p class="date-sec pt-3"><span class="p-1"><strong>Next Batch Starts:</strong> September 25<sup>th</sup>
+                2023</span>
           </div>
 
         </div>
