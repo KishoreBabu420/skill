@@ -2943,7 +2943,7 @@ width: unset!important;
 }
 
 /* sample curriculum code*/
-/* li.active > a.hidden-xs {
+li.active > a.hidden-xs {
   display: block !important;
 }
 li.active > a.visible-xs {
@@ -3012,7 +3012,7 @@ li.active > a.visible-xs {
 }
 .nav-pills.nav-wizard > li.active a {
   background-color: #428bca;
-} */
+}
 
 /* Just looks nicer */
 .credit-card-box .panel-heading img {
