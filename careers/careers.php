@@ -35,7 +35,7 @@ include_once("../includes/header.php");
           </p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="https://skillsafari.in/careers/bda_role.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/bda_role" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
@@ -49,7 +49,7 @@ include_once("../includes/header.php");
             Freelancer</p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="https://skillsafari.in/careers/mernstack_me_role.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/mernstack_me_role" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
@@ -63,7 +63,7 @@ include_once("../includes/header.php");
           </p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="https://skillsafari.in/careers/program_manager_role.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/program_manager_role" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
@@ -77,7 +77,7 @@ include_once("../includes/header.php");
           </p>
         </div>
         <div class="col-lg-2 mt-3">
-          <a href="https://skillsafari.in/careers/softskill_role.php" class="job-icon"><i
+          <a href="https://skillsafari.in/careers/softskill_role" class="job-icon"><i
               class="fa-solid fa-circle-arrow-right job-icon"></i></a>
         </div>
       </div>
