@@ -142,7 +142,7 @@ include_once("includes/header.php");
           </div>
           <div class="col-md-12 text-center mt-4">
             <div class="discordbtn text-center">
-              <a href="community.php" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
+              <a href="community" class="text-decoration-none"><img loading="lazy" src="images/baba.png"
                   class="img-fluid me-1">
                 Join Our Discord</a>
             </div>

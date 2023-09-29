@@ -155,7 +155,7 @@
                         </a>
                       </li>
                       <li><a class="dropdown-item"
-                          href="https://skillsafari.in/data-science-machine-learning/data-science-machine-learning-experts.php">
+                          href="https://skillsafari.in/data-science-machine-learning/data-science-machine-learning-experts">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
@@ -169,10 +169,6 @@
                       href="https://www.skillsafari.in/learning-hub/">Learning Hub</a>
                   </li>
 
-                  <!-- <li class="nav-item ">
-                    <a class="nav-link <?php if($page==10) echo 'active';  ?>" aria-current="page"
-                      href="https://www.skillsafari.in/internship/internship2023.php">Internship Program</a>
-                  </li> -->
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle <?php if($page==10) echo 'active';  ?>" href=""
                       id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
