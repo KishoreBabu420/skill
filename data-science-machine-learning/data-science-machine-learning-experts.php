@@ -25,7 +25,7 @@ include_once("../includes/header.php");
           </h1>
           <p class="ds-banner-p">Get Best-in-class quality training from our leading industrial experts </p>
           <div class="py-3">
-            <p class="date-sec pt-3"><span class="p-1"><strong>Next Batch Starts:</strong> September 25<sup>th</sup>
+            <p class="date-sec pt-3"><span class="p-1"><strong>Next Batch Starts:</strong> October 23<sup>rd</sup>
                 2023</span>
           </div>
 
@@ -264,7 +264,7 @@ include_once("../includes/header.php");
     <div class="card border-0 shadow rounded-2 px-2 py-4 my-3">
       <div class=" obl-feature row align-items-center">
         <div class="col-2">
-          <div class="stud-trainbox text-center bg-transparent">
+          <div class="stud-trainbox text-center bg-transp arent">
             <i class="fa-solid fa-meteor"></i>
           </div>
         </div>

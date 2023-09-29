@@ -22,7 +22,7 @@ include_once("../includes/header.php");
           to secure your dream job in our full-stack developer course. The course offers 100% Assured Placement, In
           leading tech companies with a salary No less than 4 LPA. Feel free to get in touch with us for more details
         </p>
-        <p class="date-sec pt-3"><span class="p-1"><strong>Next Batch Starts:</strong> <sup></sup> Coming Soon</span>
+        <p class="date-sec pt-3"><span class="p-1"><strong>Next Batch Starts:</strong>November 14<sup>th</sup> </span>
       </div>
       <div class="col-lg-5 mt-4 mt-md-0">
         <div class="training-form shadow mt-2 pt-md-4 pb-md-4 p-md-5 p-3">
@@ -547,7 +547,7 @@ include_once("../includes/header.php");
                     Upfront Course Fee
                   </h3>
                   <p class="section__card-description text-start">
-                    Pay program fee of <strong>₹ 125000/-</strong> </br>
+                    Pay program fee of <strong>₹ 35000/-</strong> </br>
                     <span class="text-primary">* Upto 50% Off - Closing soon</span>
                   </p>
                 </div>
