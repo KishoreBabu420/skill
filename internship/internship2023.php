@@ -413,7 +413,8 @@ include_once("../includes/testimony.php");
                 Course Completion Certificate, Project Completion Certificate</li>
             </ul>
             <div class="regbtn text-center mt-5">
-              <a href="https://rzp.io/l/E2FveAY4" class="btn">Enroll Now</a>
+              <a href="https://rzp.io/l/v7p2pBNLN" class="btn" target="_blank">Enroll Now</a>
+
             </div>
           </div>
         </div>
@@ -436,7 +437,7 @@ include_once("../includes/testimony.php");
                 Course Completion Certificate, Project Completion Certificate, Internship Certificate</li>
             </ul>
             <div class="regbtn text-center">
-              <a href="https://rzp.io/l/v7p2pBNLN" class="btn">Enroll Now</a>
+              <a href="https://rzp.io/l/E2FveAY4" class="btn" target="_blank">Enroll Now</a>
             </div>
           </div>
         </div>
