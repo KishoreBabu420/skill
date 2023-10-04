@@ -394,7 +394,7 @@ include_once("../includes/testimony.php");
               <li class=" mb-5">Course Completion Certificate</li>
             </ul>
             <div class="regbtn text-center mt-5">
-              <a href="https://forms.office.com/r/PzxdKbdpgQ" class="btn">Enroll Now</a>
+              <a href="https://rzp.io/l/a1imUzM" class="btn">Enroll Now</a>
             </div>
           </div>
         </div>
@@ -413,7 +413,7 @@ include_once("../includes/testimony.php");
                 Course Completion Certificate, Project Completion Certificate</li>
             </ul>
             <div class="regbtn text-center mt-5">
-              <a href="https://forms.office.com/r/Kjcv0qJCEu" class="btn">Enroll Now</a>
+              <a href="https://rzp.io/l/E2FveAY4" class="btn">Enroll Now</a>
             </div>
           </div>
         </div>
@@ -436,7 +436,7 @@ include_once("../includes/testimony.php");
                 Course Completion Certificate, Project Completion Certificate, Internship Certificate</li>
             </ul>
             <div class="regbtn text-center">
-              <a href="https://forms.office.com/r/yuwgLjnYUK" class="btn">Enroll Now</a>
+              <a href="https://rzp.io/l/v7p2pBNLN" class="btn">Enroll Now</a>
             </div>
           </div>
         </div>
