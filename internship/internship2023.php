@@ -433,7 +433,7 @@ include_once("../includes/testimony.php");
               </li>
               <hr>
               <li class="mb-3 p"><strong>Projects:</strong> Portfolio Website, YouTube Clone, Calculator Application,
-                Expense Tracker, React Cart
+                Expense Tracker, React Cart,
                 Course Completion Certificate, Project Completion Certificate, Internship Certificate</li>
             </ul>
             <div class="regbtn text-center">
