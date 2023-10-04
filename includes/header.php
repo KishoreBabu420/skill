@@ -175,14 +175,14 @@
                       Internship Program
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/internship2023">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/web_internship">
                           <span class="img-sec me-3">
                             <i class="fas fa-code"></i>
                           </span>
                           Web Developer
                         </a>
                       </li>
-                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/Data_Analytics_2023">
+                      <li><a class="dropdown-item" href="https://skillsafari.in/internship/data_analytics_internship">
                           <span class="img-sec me-3">
                             <i class="fas fa-chart-line"></i>
                           </span>
