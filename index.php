@@ -23,7 +23,7 @@ include_once("includes/header.php");
       <div class="col-md-6  pt-5">
         <div class="text-center text-md-end">
           <img
-            src="https://res.cloudinary.com/skill-safari/image/upload/v1650691483/website/web%20images/web_front_s3o3is.png"
+            src="https://res.cloudinary.com/skill-safari/image/upload/v1701060001/website/web%20images/homebannerimg_ejonnw.webp"
             class="img-fluid" loading="lazy" alt="full stack developer course " title="">
         </div>
         <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
@@ -69,7 +69,7 @@ include_once("includes/header.php");
       <div class="col-md-3 col-6 mb-4">
         <div class="iconbox-small text-center">
           <div class="icon-container">
-            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1681108003/Nasscom-logo_dxcozc.png"
+            <img src="https://res.cloudinary.com/skill-safari/image/upload/v1701061906/Nasscom-logo_z4oe2l.webp"
               alt="100% Placement Guarantee" class="img-fluid" width="250" height="64">
           </div>
           <!-- <p class="icontitle-head pt-3">100% Placement Guarantee</p> -->

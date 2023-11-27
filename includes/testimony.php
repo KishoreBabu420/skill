@@ -11,7 +11,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Selvakumar1_ee7za7.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061224/website/testimonials/Selvakumar_wuqaxn.webp"
                     class="img-fluid w-100" alt="testimonial" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -38,7 +38,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Krishnakumar1_ansdoa.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061234/website/testimonials/Krishnakumar_dismrh.webp"
                     class="img-fluid w-100" alt="testimony" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -65,7 +65,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Aniket1_mlb3xx.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061226/website/testimonials/Aniket_ourmxh.webp"
                     class="img-fluid w-100" alt="testimonial image" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -92,7 +92,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Dharshini_xfjule.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061227/website/testimonials/Dharshini_hykrvd.webp"
                     class="img-fluid w-100" alt="students review" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -120,7 +120,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002581/website/testimonials/Meenaz_Farheen_s3nxim.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061233/website/testimonials/Meenaz_Farheen_rnzx1m.webp"
                     class="img-fluid w-100" alt="students review" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -147,7 +147,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002581/website/testimonials/Niharika_avgxr8.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061230/website/testimonials/Niharika_f6rynf.webp"
                     class="img-fluid w-100" alt="testimonial" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -175,7 +175,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002581/website/testimonials/Krithi_Hemanth_jyher3.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061232/website/testimonials/Krithi_Hemanth_hyfarr.webp"
                     class="img-fluid w-100" alt="testimony" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
@@ -204,7 +204,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <img
-                    src="https://res.cloudinary.com/skill-safari/image/upload/v1650002582/website/testimonials/Sumanth_oujh8q.jpg"
+                    src="https://res.cloudinary.com/skill-safari/image/upload/v1701061224/website/testimonials/Sumanth_tr3sh5.webp"
                     class="img-fluid w-100" alt="testimonial image" title="">
                 </div>
                 <div class="col-xl-12 ps-4 pe-4">
