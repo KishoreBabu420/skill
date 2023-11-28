@@ -117,7 +117,7 @@
 <!-- bootstrap -->
 <script src="<?php echo $bootstrapJS; ?>"></script>
 <!-- carousel -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="<?php echo $owlCarouselJS; ?>" type="text/javascript"></script>
 <script src="<?php echo $parsleyJS; ?>"></script>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
