@@ -35,12 +35,12 @@
   <meta property="twitter:title" content="<?php echo $title; ?>">
   <meta property="twitter:description" content="<?php echo $description; ?>">
   <meta property="twitter:image" content="<?php echo $image; ?>">
-  <link rel="icon" type="image/png"
+  <link async rel="icon" type="image/png"
     href="https://res.cloudinary.com/skill-safari/image/upload/v1632810869/website/ssfavicon_vspiah.png">
-  <link rel="stylesheet" type="text/css" href="<?php echo $customCSS; ?>">
-  <link rel="stylesheet" type="text/css" href="<?php echo $bootstrapCSS; ?>">
-  <link rel="stylesheet" type="text/css" href="<?php echo $owlCarouselCSS; ?>">
-  <link rel="stylesheet" type="text/css" href="<?php echo $owlThemeCSS; ?>">
+  <link async rel="stylesheet" type="text/css" href="<?php echo $customCSS; ?>">
+  <link async rel="stylesheet" type="text/css" href="<?php echo $bootstrapCSS; ?>">
+  <link async rel="stylesheet" type="text/css" href="<?php echo $owlCarouselCSS; ?>">
+  <link async rel="stylesheet" type="text/css" href="<?php echo $owlThemeCSS; ?>">
   <script async src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 
   <!-- Google tag (gtag.js) -->
