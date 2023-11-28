@@ -24,7 +24,7 @@ include_once("includes/header.php");
         <div class="text-center text-md-end">
           <img
             src="https://res.cloudinary.com/skill-safari/image/upload/v1701060001/website/web%20images/homebannerimg_ejonnw.webp"
-            class="img-fluid" loading="lazy" alt="full stack developer course " title="">
+            class="img-fluid" alt="full stack developer course " title="index img">
         </div>
         <div class="message-drop bg-white">"Skill Safari is the best online learning platform" - Kishore Kumar
           <div class="starrating pt-1">
