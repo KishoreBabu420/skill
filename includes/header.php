@@ -41,7 +41,7 @@
   <link rel="stylesheet" type="text/css" href="<?php echo $bootstrapCSS; ?>">
   <link rel="stylesheet" type="text/css" href="<?php echo $owlCarouselCSS; ?>">
   <link rel="stylesheet" type="text/css" href="<?php echo $owlThemeCSS; ?>">
-  <script src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
+  <script async src="https://kit.fontawesome.com/7096014502.js" crossorigin="anonymous"></script>
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9EBWY3K6QT"></script>
