@@ -547,7 +547,7 @@ include_once("../includes/header.php");
                     Upfront Course Fee
                   </h3>
                   <p class="section__card-description text-start">
-                    Pay program fee of <strong>₹ 35000/-</strong> </br>
+                    Pay program fee of <strong>₹ 75000/-</strong> </br>
                     <span class="text-primary">* Upto 50% Off - Closing soon</span>
                   </p>
                 </div>
